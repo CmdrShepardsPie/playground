@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "umd",
+    "moduleResolution": "Node",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "preserveConstEnums": true,
+    "pretty": true,
+    "strict": true,
+    "strictFunctionTypes": false,
+    "strictPropertyInitialization": false
+  }
+}

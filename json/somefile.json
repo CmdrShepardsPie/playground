@@ -1,0 +1,16 @@
+{
+  "O": "Options",
+  "P": "Player",
+  "G": "Guide",
+  "M": "Menu",
+  "Enter": "Select",
+  "Backspace": "Back",
+  "LeftArrow": "Left",
+  "RightArrow": "Right",
+  "UpArrow": "Up",
+  "DownArrow": "Down",
+  "DrawnArrow": "Down",
+  "A": "Drown",
+  "9,1,2": "Reset",
+  "Comma": "Grid"
+}
