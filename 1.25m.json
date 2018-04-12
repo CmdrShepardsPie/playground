@@ -5,19 +5,7 @@
   { "Frequency": 223.4600 },
   { "Frequency": 223.5000, "Name": "Call" },
   { "Frequency": 223.5200 },
-  { "Frequency": 223.4800 },
-  { "Frequency": 222.160 },
-  { "Frequency": 222.180 },
-  { "Frequency": 222.200 },
-  { "Frequency": 222.220 },
-  { "Frequency": 222.240 },
-
-  { "Frequency": 223.720 },
-  { "Frequency": 223.740 },
-  { "Frequency": 223.780 },
-  { "Frequency": 223.800 },
-  { "Frequency": 223.820 },
-  { "Frequency": 223.840 }
+  { "Frequency": 223.4800 }
 ]
 
 

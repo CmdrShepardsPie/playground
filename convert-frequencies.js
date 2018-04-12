@@ -26,7 +26,7 @@ function leadingZeroes(number, count) {
 }
 
 const allData = [];
-const names = ['2m', '1.25m', '70cm', '33cm'];
+const names = ['2m', '1.25m', '70cm'];
 
 names.forEach(name => {
   console.log('Starting', name);
