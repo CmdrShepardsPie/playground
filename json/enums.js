@@ -4,12 +4,11 @@
         if (v !== undefined) module.exports = v;
     }
     else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "rxjs/Subject", "./keycodes.json", "rxjs/add/operator/share"], factory);
+        define(["require", "exports", "./keycodes.json"], factory);
     }
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    const Subject_1 = require("rxjs/Subject");
     var Commands;
     (function (Commands) {
         Commands[Commands["Question"] = 0] = "Question";
@@ -37,7 +36,6 @@
         Commands[Commands["Reset"] = 22] = "Reset";
     })(Commands = exports.Commands || (exports.Commands = {}));
     const Keys = require("./keycodes.json");
-    exports.Keys = Keys;
     // "Invert" the key/val pair so we can do a reverse lookup
     Object.entries(Keys).forEach(entry => {
         const key = entry[0].toString();
@@ -46,38 +44,5 @@
             Keys[val] = key;
         }
     });
-    require("rxjs/add/operator/share");
-    class CommandChain {
-        constructor() {
-            this.subscribers = [];
-            this.subject = new Subject_1.Subject();
-            this.observable = this.subject.share();
-        }
-        get output() {
-            return this.observable;
-        }
-        use(input) {
-            const subscriber = input.output.subscribe(this.listen && this.listen.bind(this));
-            this.subscribers.push(subscriber);
-            return subscriber;
-        }
-        clear() {
-            while (this.subscribers.length) {
-                const sub = this.subscribers.pop();
-                sub && sub.unsubscribe();
-            }
-        }
-        remove(subscriber) {
-            const index = this.subscribers.indexOf(subscriber);
-            if (index > -1) {
-                subscriber.unsubscribe();
-                this.subscribers.splice(index, 1);
-            }
-        }
-        emit(value) {
-            this.subject.next(value);
-        }
-    }
-    exports.CommandChain = CommandChain;
 });
 //# sourceMappingURL=enums.js.map

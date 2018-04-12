@@ -4,7 +4,7 @@
         if (v !== undefined) module.exports = v;
     }
     else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "axios", "passport", "passport-meetup", "express", "cookie-parser", "body-parser", "express-session"], factory);
+        define(["require", "exports", "passport-meetup", "express", "cookie-parser", "body-parser", "express-session", "passport"], factory);
     }
 })(function (require, exports) {
     "use strict";
@@ -13,8 +13,7 @@
     // const fs = {
     //   writeFile: promisify(_fs.writeFile)
     // };
-    const axios_1 = require("axios");
-    const passport = require("passport");
+    // import axios from 'axios';
     const passport_meetup_1 = require("passport-meetup");
     // import * as path from 'path';
     const express = require("express");
@@ -22,6 +21,7 @@
     const cookieParser = require("cookie-parser");
     const bodyParser = require("body-parser");
     const expressSession = require("express-session");
+    const passport = require("passport");
     const app = express();
     // app.use(serveStatic(path.resolve(__dirname, 'static'));
     app.use(cookieParser());
@@ -64,7 +64,7 @@
         const pars = Object.entries(params).map(param => `${param[0]}=${param[1]}`).join('&');
         const url = `https://api.meetup.com/members/self?${pars}`;
         console.log('url', url);
-        const events = await axios_1.default.get(url);
+        const events = await axios.get(url);
         // const events = await axios.get<IMeetupEvent[]>(`https://api.meetup.com/${urlname}/events?status=${statuses.join(',')}&photo-host=secure&sign=true&key=5d6735595632314794b567935615f74`);
         const eventid = 247253189;
         // const fields = ['comment_sample'];

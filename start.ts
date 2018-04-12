@@ -3,6 +3,7 @@ import CapsService from './services/caps.service';
 import OutputService from './services/output.service';
 import NumberService from './services/number.service';
 import StringService from './services/string.service';
+import { Commands, Keys } from './json/enums';
 
 const keys = new KeyService();
 const outputs = new OutputService();
@@ -19,6 +20,7 @@ numbers.use(keys);
 strings.use(numbers);
 outputs.use(strings);
 
+const map = new Map<Keys, Commands>();
 // import { Commands, Keys } from './json/enums';
 // import * as config  from './json/somefile.json';
 //

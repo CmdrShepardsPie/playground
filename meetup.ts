@@ -7,8 +7,7 @@ import { promisify } from 'util';
 //   writeFile: promisify(_fs.writeFile)
 // };
 
-import axios from 'axios';
-import * as passport from 'passport';
+// import axios from 'axios';
 import { IUserProfile, Strategy as MeetupStrategy } from 'passport-meetup';
 
 // import * as path from 'path';
@@ -17,6 +16,7 @@ import * as express from 'express';
 import * as cookieParser from 'cookie-parser';
 import * as bodyParser from 'body-parser';
 import * as expressSession from 'express-session';
+import * as passport from 'passport';
 import { IMeetupEvent } from './models/meetup.events';
 
 const app = express();

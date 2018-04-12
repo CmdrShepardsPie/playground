@@ -26,6 +26,7 @@
     numbers.use(keys);
     strings.use(numbers);
     outputs.use(strings);
+    const map = new Map();
 });
 // import { Commands, Keys } from './json/enums';
 // import * as config  from './json/somefile.json';
