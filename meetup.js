@@ -42,11 +42,7 @@
     });
     app.listen(3000);
     let _profile;
-    passport.use(new passport_meetup_1.Strategy({
-        consumerKey: 'genf0u522trnl34ed5qjomu6sb',
-        consumerSecret: 'm410glrsa6b7fc1ueo5h3a6qu6',
-        callbackURL: 'http://localhost:3000/auth/meetup/callback'
-    }, (token, tokenSecret, profile, done) => {
+    passport.use(new passport_meetup_1.Strategy({}, (token, tokenSecret, profile, done) => {
         console.log('verify', token, tokenSecret, profile, done);
         _profile = profile;
         done(null, profile);

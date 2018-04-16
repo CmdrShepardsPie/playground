@@ -45,9 +45,6 @@ app.listen(3000);
 let _profile: IUserProfile;
 
 passport.use(new MeetupStrategy({
-    consumerKey: 'genf0u522trnl34ed5qjomu6sb',
-    consumerSecret: 'm410glrsa6b7fc1ueo5h3a6qu6',
-    callbackURL: 'http://localhost:3000/auth/meetup/callback'
   },
   (token, tokenSecret, profile, done) => {
     console.log('verify', token, tokenSecret, profile, done);

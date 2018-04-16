@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2017",
+    "target": "ESNext",
     "module": "umd",
     "moduleResolution": "Node",
     "sourceMap": true,
@@ -9,9 +9,9 @@
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
     "preserveConstEnums": true,
+    "noEmitHelpers": true,
+    "importHelpers": true,
     "pretty": true,
-    "strict": true,
-    "strictFunctionTypes": false,
-    "strictPropertyInitialization": false
+    "strict": true
   }
 }

@@ -6,3 +6,17 @@ declare module '*.json' {
   export = _;
 }
 
+declare module 'htmlparser' {
+  const _: any;
+  export = _;
+}
+
+declare module 'csv-parse/lib/sync' {
+  const _: any;
+  export = _;
+}
+
+declare module 'csv-stringify/lib/sync' {
+  const _: any;
+  export = _;
+}

@@ -1,0 +1,54 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtscRxCode,DtcsPolarity,Mode,TStep,Comment,Distance
+0,KE0SJ,145.475,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Intermountain Repeater Group | CCARC,0.6
+1,N0JXN,146.715,-,0.6,TSQL,123,123,23,23,NN,FM,5,Denver | OPEN | On-Air | EARS | CCARC,0.6
+2,W0KIZ,448.55,-,5,Tone,82.5,88.5,23,23,NN,FM,5,Denver | OPEN | Off-Air | HPRA | CCARC,0.6
+3,N5EHP,448.075,-,5,Tone,123,88.5,23,23,NN,FM,5,Denver | OPEN | On-Air | W0IG | CCARC,0.6
+4,KB0UDD,448.5,-,5,Tone,100,88.5,23,23,NN,FM,5,Denver | OPEN | On-Air | Castle Rock Repeater Group | CCARC,8.1
+5,W0TX,147.33,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC,9.2
+6,W0TX,53.09,-,1.7,Tone,107.2,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC,10.6
+7,W0GV,448.975,-,5,Tone,123,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | FRG | CCARC,12.8
+8,W0LMA,448.925,-,5,Tone,131.8,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | W0LMA | CCARC,14.2
+9,KB0UDD,145.4,-,0.8,Tone,100,88.5,23,23,NN,FM,5,Arapahoe | OPEN | On-Air | Castle Rock Repeater Group | CCARC,15.4
+10,WB0TUB,146.88,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio League | CCARC,17.5
+11,WT0C,145.22,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Rocky Mtn Radio League | CCARC,18.6
+12,N0POH,224.74,-,1.6,TSQL,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Assoc | CCARC,18.6
+13,W0CBI,147.15,+,0.6,TSQL,100,100,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Assoc (ARA) | CCARC,18.7
+14,K0IBM,448.85,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Assoc | CCARC,18.7
+15,N0MHU,224,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Rocky Mountain Radio League | CCARC,18.7
+16,KE4GUQ,145.34,-,0.6,TSQL,103.5,127.3,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Rocky Mtn Radio League | CCARC,19
+17,K0FEZ,146.985,-,0.6,TSQL,100,100,23,23,NN,FM,5,Denver | OPEN | On-Air | El Jebel RADOPS | CCARC,20
+18,W0TX,448.625,-,5,TSQL,100,100,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC,20
+19,WB0TUB,146.64,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio League | CCARC,20
+20,N0OWY,447.5,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Association | CCARC,21.4
+21,W0CRA,1287.9,-,20,,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | Off-Air | Colorado Repeater Association (CRA) | CCARC,22.5
+22,W0CRA,224.98,-,1.6,TSQL,107.2,107.2,23,23,NN,FM,5,Jefferson | OPEN | Off-Air | Colorado Repeater Association | CCARC,22.5
+23,W0CRA,447.15,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Jefferson | OPEN | Off-Air | Colorado Repeater Association (CRA) | CCARC,22.5
+24,W0DK,448.9,-,5,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Boulder ARC | CCARC,23
+25,W0DK,146.61,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | Off-Air | Boulder Amateur Radio Club | CCARC,23.1
+26,W0DK,146.7,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Boulder Co ARC | CCARC,23.2
+27,W0IA,146.76,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Rocky Mtn VHF Soc | CCARC,24.2
+28,N0ARA,147.12,+,0.6,TSQL,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Association | CCARC,24.7
+29,W0CRA,53.05,-,1.7,TSQL,107.2,107.2,23,23,NN,FM,5,Jefferson | OPEN | Off-Air | Colorado Repeater Association (CRA) | CCARC,24.8
+30,K0DK,449.4,-,5,Tone,91.5,88.5,23,23,NN,FM,5,Boulder | OPEN | Off-Air | BARC | CCARC,24.8
+31,W0IA,449.55,-,5,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Rocky Mtn VHF Soc | CCARC,24.8
+32,N0SZ,449.225,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Gilpin | OPEN | On-Air | Rocky Mountain Ham Radio (RMHR) | CCARC,25.9
+33,KB0VJJ,145.31,-,0.6,TSQL,88.5,123,23,23,NN,FM,5,Gilpin | OPEN | On-Air | Colorado Connection | CCARC,25.9
+34,K0DK,146.73,-,0.6,TSQL,91.5,91.5,23,23,NN,FM,5,Boulder | OPEN | Off-Air | BARC | CCARC,26.4
+35,N0PYY,147.3,+,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Denver PD EEB | CCARC,27.1
+36,W0CFI,448.675,-,5,TSQL,100,100,23,23,NN,FM,5,Denver | OPEN | On-Air | W0CFI | CCARC,27.1
+37,KB0UDD,146.67,-,0.6,TSQL,100,100,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Castle Rock Repeater Group | CCARC,27.3
+38,W0TX,145.49,-,0.6,TSQL,100,100,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC,27.3
+39,W0CRA,145.145,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Colorado Repeater Assoc | CCARC,27.3
+40,W0TX,449.35,-,5,TSQL,100,100,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Denver Radio Club | CCARC,27.3
+41,W0WYX,146.94,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Rocky Mtn Radio League | CCARC,27.4
+42,K1DUN,449.45,-,5,TSQL,103.5,127.3,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Rocky Mountain Radio League | CCARC,27.4
+43,WG0N,449.05,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Denver | OPEN | On-Air | WG0N | CCARC,28.2
+44,W0IA,224.02,-,1.6,,88.5,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Rocky Mtn VHF Soc | CCARC,30.7
+45,N0SZ,447.75,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Boulder | OPEN | Off-Air | Rocky Mountain Ham Radio | CCARC,30.7
+46,W0CRA,145.46,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Boulder | OPEN | On-Air | Colorado Repeater Association (CRA) | CCARC,30.7
+47,W0CRA,447.975,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Boulder | OPEN | On-Air | Colorado Repeater Association (CRA) | CCARC,30.7
+48,AB0PC,146.895,-,0.6,TSQL,100,100,23,23,NN,FM,5,Park | OPEN | On-Air | AB0RR | CCARC,34.5
+49,W0CRA,147.225,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Douglas | OPEN | On-Air | Colorado Repeater Association (CRA) | CCARC,38.5
+50,N0FH,146.685,-,0.6,Tone,123,88.5,23,23,NN,FM,5,Larimer | OPEN | On-Air | Estes Valley ARC | CCARC,50
+51,N0FH,449.8,-,5,Tone,123,88.5,23,23,NN,FM,5,Larimer | OPEN | On-Air | Estes Valley ARC | CCARC,52.9
+52,KB0VJJ,147.39,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,Summit | OPEN | On-Air | Colorado Connection | CCARC,56.1
