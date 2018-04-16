@@ -19,7 +19,7 @@
     "express-session": "^1.15.6",
     "htmlparser": "^1.7.7",
     "htmlparser2": "^3.9.2",
-    "jsdom": "^11.7.0",
+    "jsdom": "^11.8.0",
     "node": "^9.11.0",
     "node-csv": "^0.1.2",
     "passport": "^0.4.0",

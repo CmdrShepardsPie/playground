@@ -33,7 +33,7 @@
         return '';
     }
     function wait(ms, fn) {
-        console.log('wait', ms);
+        // console.log('wait', ms);
         return new Promise((resolve, reject) => {
             window.setTimeout(async () => {
                 try {
@@ -50,13 +50,13 @@
         header: true
     };
     async function getit() {
-        console.log('getit');
+        // console.log('getit');
         const page = await axios_1.default.get(`https://www.repeaterbook.com/repeaters/prox_result.php?city=80920&distance=100&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`);
         const dom = new jsdom_1.JSDOM(page.data);
         await getListTables(dom);
     }
     async function getListTables(dom) {
-        console.log('getListTables', dom);
+        // console.log('getListTables', dom);
         const tables = dom.window.document.querySelectorAll('table.w3-table.w3-striped.w3-responsive');
         for (let i = 0; i < tables.length; i++) {
             const table = tables[i];
@@ -64,7 +64,7 @@
         }
     }
     async function getTableRows(table) {
-        console.log('getTableRows', table);
+        // console.log('getTableRows', table);
         const rows = [...table.querySelectorAll('tbody > tr')];
         for (let i = 0; i < rows.length; i++) {
             const row = rows[i];
@@ -74,7 +74,7 @@
     async function getRowCells(row) {
         if (!row)
             return;
-        console.log('getRowCells', row);
+        // console.log('getRowCells', row);
         const cells = row.querySelectorAll('td');
         const first = cells[0];
         const miles = cells[8];
@@ -91,7 +91,7 @@
         }
     }
     async function getNewPage(href, distance) {
-        console.log('getNewPage', href);
+        // console.log('getNewPage', href);
         const page = await axios_1.default.get(`https://www.repeaterbook.com/repeaters/${href}`);
         const dom = new jsdom_1.JSDOM(page.data);
         const data = {
@@ -136,30 +136,43 @@
         else {
             data.DtscRxCode = 23;
         }
-        const find = false;
-        /*
-        allData.find(item =>
-        item.Name === data.Name &&
+        console.log();
+        let find = 
+        // false;
+        // /*
+        allData.find(item => 
+        // item.Name === data.Name &&
         item.Frequency === data.Frequency &&
-        item.Duplex === data.Duplex &&
-        item.Offset === data.Offset &&
-        item.Tone === data.Tone &&
-        item.rToneFreq === data.rToneFreq &&
-        item.cToneFreq === data.cToneFreq &&
-        item.DtcsCode === data.DtcsCode &&
-        item.DtscRxCode === data.DtscRxCode
-      );
-      // */
+            item.Duplex === data.Duplex &&
+            item.Offset === data.Offset &&
+            item.Tone === data.Tone &&
+            item.rToneFreq === data.rToneFreq &&
+            item.cToneFreq === data.cToneFreq &&
+            item.DtcsCode === data.DtcsCode &&
+            item.DtscRxCode === data.DtscRxCode);
+        if (find) {
+            console.log('Dupe found');
+            console.log(JSON.stringify(find));
+        }
+        if (find && data.Distance < find.Distance) {
+            const index = allData.indexOf(find);
+            console.log(`Dupe is further away (${data.Distance}/${find.Distance}) (${index}/${allData.length})`);
+            allData.splice(index, 1);
+            find = undefined;
+        }
+        // */
         if (!find) {
             allData.push(data);
             allData.sort((a, b) => a.Distance - b.Distance);
             allData.forEach((d, i) => d.Location = i);
-            console.log('write');
+            console.log(`Adding (${allData.length})`);
+            console.log(JSON.stringify(data));
+            // console.log('write');
             fs.writeFileSync(`./allData.csv`, stringify(allData, options));
         }
     }
     async function getInnerTables(dom, data) {
-        console.log('getInnerTables', dom);
+        // console.log('getInnerTables', dom);
         const tables = dom.window.document.querySelectorAll('table.w3-table.w3-responsive');
         // const data: IRepeater = {} as IRepeater;
         for (let i = 0; i < tables.length; i++) {
@@ -169,7 +182,7 @@
         return data;
     }
     async function getInnerRows(table, data) {
-        console.log('getInnerRows', table);
+        // console.log('getInnerRows', table);
         const rows = table.querySelectorAll('tbody > tr');
         // const data: IRepeater = {} as IRepeater;
         for (let i = 0; i < rows.length; i++) {
@@ -179,13 +192,13 @@
         return data;
     }
     async function getInnerCells(row, data) {
-        console.log('getInnerCells', row);
+        // console.log('getInnerCells', row);
         const cells = row.querySelectorAll('td');
         // const data: IRepeater = {} as IRepeater;
         if (cells[0] && cells[1]) {
             const name = getText(cells[0]);
             const value = getText(cells[1]);
-            console.log(name, value);
+            // console.log(name, value);
             switch (name) {
                 case 'Downlink:':
                     data.Frequency = getNumber(Frequency, value);
