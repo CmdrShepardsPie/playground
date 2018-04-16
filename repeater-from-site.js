@@ -51,7 +51,7 @@
     };
     async function getit() {
         console.log('getit');
-        const page = await axios_1.default.get(`https://www.repeaterbook.com/repeaters/prox_result.php?city=80203&distance=50&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`);
+        const page = await axios_1.default.get(`https://www.repeaterbook.com/repeaters/prox_result.php?city=80920&distance=100&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`);
         const dom = new jsdom_1.JSDOM(page.data);
         await getListTables(dom);
     }
@@ -201,12 +201,30 @@
                         data.Offset = Math.abs(num);
                     }
                     break;
-                case 'Uplink Tone:':
-                    data.rToneFreq = (getNumber(Tone, value) || getNumber(DTSC, value));
+                case 'Uplink Tone:': {
+                    const t = getNumber(Tone, value);
+                    const d = getNumber(DTSC, value);
+                    const c = getNumber(CC, value);
+                    if (!d && !c) {
+                        data.rToneFreq = t;
+                    }
+                    else if (d && !c) {
+                        data.DtcsCode = d;
+                    }
                     break;
-                case 'Downlink Tone:':
-                    data.cToneFreq = (getNumber(Tone, value) || getNumber(DTSC, value));
+                }
+                case 'Downlink Tone:': {
+                    const t = getNumber(Tone, value);
+                    const d = getNumber(DTSC, value);
+                    const c = getNumber(CC, value);
+                    if (!d && !c) {
+                        data.cToneFreq = t;
+                    }
+                    else if (d && !c) {
+                        data.DtscRxCode = d;
+                    }
                     break;
+                }
                 case 'Call:': {
                     const cell = cells[1];
                     const anchor = cell.querySelector('a');
@@ -223,7 +241,6 @@
                 case 'Op Status:':
                 // case 'Coverage':
                 case 'Sponsor:':
-                case 'Last update:':
                 case 'Coordination:': {
                     const cell = cells[1];
                     let anchor = cell.lastElementChild;
@@ -250,6 +267,35 @@
                     }
                     break;
                 }
+            }
+        }
+        if (cells[0] && /Last update:/.test(getText(cells[0]))) {
+            const cell = cells[0];
+            let anchor = cell.lastElementChild;
+            if (anchor && anchor.childElementCount) {
+                anchor = anchor.lastElementChild;
+            }
+            if (anchor && anchor.childElementCount) {
+                anchor = anchor.lastElementChild;
+            }
+            if (anchor && anchor.childElementCount) {
+                anchor = anchor.lastElementChild;
+            }
+            if (!data.Comment) {
+                data.Comment = '';
+            }
+            else {
+                data.Comment = data.Comment + ' | ';
+            }
+            if (anchor && getText(anchor)) {
+                let text = getText(anchor);
+                text = text.replace(/Last update:/, '');
+                data.Comment = data.Comment + text.trim();
+            }
+            else if (getText(cell)) {
+                let text = getText(cell);
+                text = text.replace(/Last update:/, '');
+                data.Comment = data.Comment + text.trim();
             }
         }
         return data;
