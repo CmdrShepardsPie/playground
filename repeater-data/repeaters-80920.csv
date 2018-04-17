@@ -1,0 +1,326 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtscRxCode,DtcsPolarity,Mode,TStep,Comment,Distance
+0,W0MOG,224.72,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,El Paso | OPEN | On-Air | w0mog | 2017-04-07,4.2
+1,AA0L,147.135,+,0.6,Tone,100,88.5,23,23,NN,FM,5,El Paso | OPEN | On-Air | AA0L | CCARC | 2016-04-08,8.3
+2,W0MOG,147.39,+,0.6,Tone,103.5,88.5,23,23,NN,FM,5,El Paso | OPEN | On-Air | W0MOG | CCARC | 2016-08-10,8.6
+3,K0IRP,146.91,-,0.6,TSQL,151.4,151.4,23,23,NN,FM,5,El Paso | OPEN | On-Air | GGARC | CCARC | 2016-08-10,8.6
+4,,147.27,+,0.6,,88.5,88.5,23,23,NN,FM,5,El Paso | OPEN | On-Air | TRA | 2016-08-10,8.6
+5,W0RSH,146.85,-,0.6,Tone,103.5,88.5,23,23,NN,FM,5,"El Paso | OPEN | On-Air | W0RSH | CCARC | 2012-11-12
+    Please help us confirm this repeater!",8.6
+6,K0IRP,447.35,-,5,Tone,151.4,88.5,23,23,NN,FM,5,"El Paso | OPEN | On-Air | GGARC | CCARC | 2015-03-04
+    Please help us confirm this repeater!",8.9
+7,AA0L,448.3,-,5,Tone,100,88.5,23,23,NN,FM,5,El Paso | OPEN | On-Air | AA0L | CCARC | 2016-08-10,8.9
+8,W0MOG,448.6,-,5,Tone,114.8,88.5,23,23,NN,FM,5,"El Paso | OPEN | W0MOG | CCARC | 2012-11-10
+    Please help us confirm this repeater!",8.9
+9,WA6IFI,447.55,-,5,Tone,123,88.5,23,23,NN,FM,5,El Paso | OPEN | On-Air | WA6IFI | CCARC | 2015-11-13,8.9
+10,KF0WF,447.025,-,5,Tone,123,88.5,23,23,NN,FM,5,El Paso | OPEN | Off-Air | Colorado Springs ARA | CCARC | 2016-08-10,8.9
+11,,449.575,-,5,,88.5,88.5,23,23,NN,FM,5,El Paso | CLOSED | On-Air | RMHARC | CCARC | 2016-08-10,8.9
+12,N0KG,448.25,-,5,Tone,123,88.5,23,23,NN,FM,5,"El Paso | OPEN | On-Air | CCARC | 2013-08-06
+    Please help us confirm this repeater!",8.9
+13,NX0G,447.475,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"El Paso | OPEN | Mountain ARC (MARC) | CCARC | 2012-11-10
+    Please help us confirm this repeater!",8.9
+14,KB0SRJ,224.06,-,1.6,,88.5,88.5,23,23,NN,FM,5,"El Paso | CLOSED | Pikes Peak FM Association (PPFMA) | CCARC | 2012-11-12
+    Please help us confirm this repeater!",8.9
+15,W0MOG,927.8,-,25,DTCS,88.5,88.5,116,116,NN,FM,5,"Teller | OPEN | On-Air | CCARC | 2012-11-10
+    Please help us confirm this repeater!",8.9
+16,,447.2,-,5,,88.5,88.5,23,23,NN,FM,5,El Paso | OPEN | Testing | GGARC | 2015-11-11,9.4
+17,K0NR,447.725,-,5,TSQL,100,100,23,23,NN,FM,5,El Paso | OPEN | On-Air | K0NR | CCARC | 2016-12-10,10.4
+18,KD0MDP,447.625,-,5,TSQL,100,100,23,23,NN,FM,5,El Paso | OPEN | On-Air | KD0MDP | 2015-06-02,11
+19,KA0TTF,448.725,-,5,Tone,123,88.5,23,23,NN,FM,5,El Paso | OPEN | On-Air | KA0TTF | CCARC | 2016-04-19,12.9
+20,N0XLF,145.19,-,0.6,TSQL,131.8,131.8,23,23,NN,FM,5,Douglas | OPEN | On-Air | N0OBA Owner | 2018-02-18,14.6
+21,KA4EPS,449.325,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,Teller | OPEN | On-Air | KA4EPS | CCARC | 2015-06-29,15
+22,NX0G,448.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Teller | OPEN | On-Air | Mountain ARC (MARC) | CCARC | 2016-11-17,15
+23,KA0WUC,449.025,-,5,Tone,141.3,88.5,23,23,NN,FM,5,"Teller | OPEN | Mountain Amateur Radio Club (MARC) | CCARC | 2012-11-10
+    Please help us confirm this repeater!",15
+24,KA0WUC,927.9,-,25,DTCS,88.5,88.5,205,205,NN,FM,5,"Teller | OPEN | On-Air | MARC | CCARC | 2012-11-10
+    Please help us confirm this repeater!",15
+25,NX0G,146.82,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Teller | OPEN | On-Air | Mountain ARC | CCARC | 2016-11-17,15
+26,KA0WUC,145.415,-,0.6,Tone,179.9,88.5,23,23,NN,FM,5,"Teller | OPEN | MARC | CCARC | 2012-11-12
+    Please help us confirm this repeater!",15
+27,KA0WUC,447.675,-,5,TSQL,179.9,179.9,23,23,NN,FM,5,"Teller | OPEN | On-Air | Mountain Amateur Radio Club (MARC) | CCARC | 2014-05-22
+    Please help us confirm this repeater!",15
+28,WA6IFI,53.13,-,1.7,TSQL,107.2,107.2,23,23,NN,FM,5,El Paso | OPEN | On-Air | Cheyenne Mountain Repeater Group (CMRG) | CCARC | 2017-03-09,15.4
+29,KC0CVU,446.9125,-,5,,88.5,88.5,23,23,NN,DIG,5,"El Paso | OPEN | On-Air | Cheyenne Mountain Repeater Group (CMRG) | 2012-10-17
+    Please help us confirm this repeater!",15.4
+30,KC0CVU,145.375,-,0.6,,88.5,88.5,23,23,NN,DIG,5,El Paso | OPEN | On-Air | Cheyenne Mountain Repeater Group (CMRG) | CCARC | 2017-03-09,15.4
+31,N0SZ,445.0625,-,5,,88.5,88.5,23,23,NN,DIG,5,El Paso | OPEN | Off-Air | Rocky Mountain Ham Radio | CCARC | 2017-03-11,15.4
+32,KC0CVU,927.85,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,Teller | OPEN | On-Air | CMRG | CCARC | 2017-03-09,15.4
+33,KB0VJJ,145.13,-,0.6,TSQL,88.5,123,23,23,NN,FM,5,El Paso | OPEN | On-Air | Colorado Connection | CCARC | 2016-04-03,15.4
+34,KC0CVU,147.345,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,El Paso | OPEN | On-Air | CCARC | 2018-01-15,16.2
+35,KC0CVU,448,-,5,Tone,107.2,88.5,23,23,NN,FM,5,El Paso | OPEN | On-Air | CCARC | 2018-01-15,16.2
+36,KC0CVU,146.76,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,El Paso | OPEN | On-Air | Cheyenne Mountain Repeater Group | CCARC | 2018-01-15,16.2
+37,W0CRA,145.16,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,El Paso | OPEN | On-Air | Colorado Repeater Association | CCARC | 2017-11-13,16.2
+38,KC0CVU,448.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,El Paso | OPEN | On-Air | CCARC | 2018-01-15,16.2
+39,KB0SRJ,146.97,-,0.6,TSQL,100,123,23,23,NN,FM,5,El Paso | OPEN | On-Air | Pikes Peak FM Assoc | CCARC | 2017-08-28,16.3
+40,KB0SRJ,448.45,-,5,Tone,100,88.5,23,23,NN,FM,5,"El Paso | OPEN | On-Air | Pikes Pk FM Assoc | CCARC | 2015-03-14
+    Please help us confirm this repeater!",16.3
+41,AA0SP,147.18,+,0.6,Tone,100,88.5,23,23,NN,FM,5,El Paso | PRIVATE | On-Air | AA0SP | CCARC | 2017-03-09,17.2
+42,K7PFJ,446.95,-,5,,88.5,88.5,23,23,NN,DIG,5,Teller | OPEN | On-Air | Rocky Mountain Ham Radio | 2017-03-11,17.2
+43,WA6IFI,927.725,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,Teller | OPEN | On-Air | WA6IFI | CCARC | 2017-03-11,17.2
+44,KB0SRJ,448.8,-,5,TSQL,100,100,23,23,NN,FM,5,El Paso | OPEN | Off-Air | Pikes Peak FM Assoc | CCARC | 2016-11-23,19
+45,KB0SRJ,145.265,-,0.6,TSQL,100,100,23,23,NN,FM,5,El Paso | OPEN | Off-Air | Pikes Peak FM Association | CCARC | 2016-11-23,19
+46,K0JSC,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,Douglas | OPEN | On-Air | K0JSC | CCARC | 2017-04-21,20.2
+47,W0CRA,147.225,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Douglas | OPEN | On-Air | Colorado Repeater Association (CRA) | CCARC | 2017-11-13,20.2
+48,W0CRA,448.425,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Douglas | OPEN | On-Air | Colorado Repeater Association (CRA) | 2017-11-14,20.2
+49,N0SZ,446.875,-,5,,88.5,88.5,23,23,NN,DIG,5,Douglas | OPEN | On-Air | W0VG | CCARC | 2018-01-27,24.5
+50,WB0WDF,447.4,-,5,Tone,67,88.5,23,23,NN,FM,5,"Teller | OPEN | On-Air | WB0WDF | CCARC | 2012-06-15
+    Please help us confirm this repeater!",25.9
+51,WB0WDF,1287.7,-,20,Tone,67,88.5,23,23,NN,FM,5,"Teller | OPEN | Testing | WB0WDF | CCARC | 2012-06-18
+    Please help us confirm this repeater!",25.9
+52,WB0WDF,145.46,-,0.6,Tone,67,88.5,23,23,NN,FM,5,"Teller | OPEN | On-Air | WB0WDF | CCARC | 2012-06-15
+    Please help us confirm this repeater!",25.9
+53,NX0G,147.015,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Teller | OPEN | On-Air | Mountain ARC | CCARC | 2016-11-17,25.9
+54,WB0WDF,224.94,-,1.6,Tone,67,88.5,23,23,NN,FM,5,"Teller | OPEN | Testing | CCARC | 2012-06-18
+    Please help us confirm this repeater!",25.9
+55,N0ESQ,447.525,-,5,TSQL,146.2,146.2,23,23,NN,FM,5,Douglas | OPEN | On-Air | EmComm Colorado | CCARC | 2015-06-17,27.7
+56,N0ESQ,446.925,-,5,,88.5,88.5,23,23,NN,DIG,5,"Douglas | OPEN | On-Air | CCARC | 2012-06-14
+    Please help us confirm this repeater!",27.7
+57,K0PRA,446.85,-,5,,88.5,88.5,23,23,NN,DIG,5,Douglas | OPEN | On-Air | Parker Radio Association | CCARC | 2018-03-18,30.6
+58,,449.7,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Park | OPEN | CMRG | CCARC | 2012-11-12
+    Please help us confirm this repeater!",31
+59,W9SL,449.95,-,5,TSQL,77,77,23,23,NN,FM,5,Douglas | OPEN | On-Air | W9SL Owner | CCARC | 2017-01-22,36
+60,N0ESQ,447.525,-,5,TSQL,203.5,146.2,23,23,NN,FM,5,Douglas | OPEN | On-Air | EmComm Colorado | CCARC | 2017-03-11,37.1
+61,KC0CVU,147.36,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Park | OPEN | On-Air | CCARC | 2018-01-15,39.7
+62,NX0G,146.685,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Park | OPEN | On-Air | Mountain ARC (MARC) | CCARC | 2016-11-17,39.8
+63,ND0Q,224.26,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"Pueblo | OPEN | Off-Air | Pueblo Ham Club | CCARC | 2013-05-07
+    Please help us confirm this repeater!",41
+64,ND0Q,146.79,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Pueblo | OPEN | On-Air | Pueblo HC | CCARC | 2015-04-15
+    Please help us confirm this repeater!",41
+65,ND0Q,447.95,-,5,Tone,88.5,88.5,23,23,NN,FM,5,Pueblo | OPEN | On-Air | Pueblo Ham Club | CCARC | 2015-08-06,41
+66,WQ8M,448.7,-,5,Tone,146.2,88.5,23,23,NN,FM,5,Douglas | OPEN | On-Air | 2016-11-25,41.4
+67,WA0DE,147.105,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Elbert | OPEN | On-Air | ARES of Douglas and Elbert Counties | CCARC | 2017-07-19,41.4
+68,KI0HC,927.8375,-,25.8,,88.5,88.5,23,23,NN,FM,5,Douglas | OPEN | On-Air | CCARC | 2018-02-21,41.7
+69,N0OWY,447.5,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,"Jefferson | OPEN | On-Air | Aurora Repeater Association | CCARC | 2014-04-28
+    Please help us confirm this repeater!",41.8
+70,WB0TUB,449.6,-,5,Tone,100,88.5,23,23,NN,FM,5,"Jefferson | OPEN | On-Air | Denver Radio League | CCARC | 2014-03-04
+    Please help us confirm this repeater!",42
+71,WB0TUB,146.88,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Jefferson | OPEN | On-Air | Denver Radio League | CCARC | 2014-03-04
+    Please help us confirm this repeater!",42
+72,WB0WDF,449,-,5,TSQL,67,67,23,23,NN,FM,5,"Fremont | OPEN | On-Air | WB0WDF | CCARC | 2012-06-14
+    Please help us confirm this repeater!",42.2
+73,AB0BX,447.225,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Douglas | OPEN | Off-Air | CCARC | 2016-11-26,42.9
+74,K0JSC,447.975,-,5,TSQL,100,100,23,23,NN,FM,5,Fremont | OPEN | On-Air | K0JSC | CCARC | 2017-03-11,43.8
+75,KB0TUC,927.7,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,Fremont | OPEN | On-Air | Royal Gorge ARC | CCARC | 2017-03-11,44.2
+76,WD0EKR,223.96,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,Fremont | OPEN | On-Air | RGARC | CCARC | 2017-10-04,44.3
+77,K0JSC,447.25,-,5,TSQL,100,100,23,23,NN,FM,5,"Fremont | OPEN | On-Air | CCARC | 2013-01-27
+    Please help us confirm this repeater!",44.3
+78,K0JSC,446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,Fremont | OPEN | On-Air | CCARC | 2017-03-11,44.3
+79,WD0EKR,145.49,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,Fremont | OPEN | On-Air | Royal Gorge Amateur Radio Club | CCARC | 2017-03-11,44.3
+80,WD0EKR,447.75,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,Fremont | OPEN | On-Air | RGARC | CCARC | 2017-03-11,44.3
+81,WB0WDF,53.03,-,1.7,TSQL,88.5,88.5,23,23,NN,FM,5,"Fremont | OPEN | On-Air | WB0WDF | CCARC | 2012-07-10
+    Please help us confirm this repeater!",44.3
+82,KB0UDD,145.4,-,0.8,Tone,100,88.5,23,23,NN,FM,5,Arapahoe | OPEN | On-Air | Castle Rock Repeater Group | CCARC | 2015-07-30,44.9
+83,K0JSC,448.975,-,5,TSQL,100,100,23,23,NN,FM,5,Pueblo | OPEN | On-Air | CCARC | 2017-03-11,45.3
+84,K0PWO,449.425,-,5,DTCS,88.5,88.5,23,23,NN,FM,5,Arapahoe | OPEN | Off-Air | K0PWO | 2017-05-28,45.8
+85,NE0Z,147,+,0.6,,88.5,88.5,23,23,NN,FM,5,"Pueblo | PRIVATE | On-Air | Carl Higbee | CCARC | 2014-02-26
+    Please help us confirm this repeater!",45.8
+86,N0OBA,145.19,-,0.6,TSQL,151.4,131.8,23,23,NN,FM,5,Arapahoe | OPEN | On-Air | N0OBA | 2018-02-01,46.3
+87,W0CRA,447.15,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Jefferson | OPEN | Off-Air | Colorado Repeater Association (CRA) | CCARC | 2017-10-07,47.9
+88,W0CRA,224.98,-,1.6,TSQL,107.2,107.2,23,23,NN,FM,5,Jefferson | OPEN | Off-Air | Colorado Repeater Association | CCARC | 2017-03-11,47.9
+89,W0CRA,1287.9,-,20,,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | Off-Air | Colorado Repeater Association (CRA) | CCARC | 2017-10-07,47.9
+90,AB0PC,146.895,-,0.6,TSQL,100,100,23,23,NN,FM,5,Park | OPEN | On-Air | AB0RR | CCARC | 2017-07-05,48.2
+91,N0ARA,147.12,+,0.6,TSQL,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Association | CCARC | 2016-01-17,49.1
+92,K0ST,146.655,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Pueblo | OPEN | On-Air | K0ST | CCARC | 2013-05-07
+    Please help us confirm this repeater!",49.5
+93,N0PWZ,449.725,-,5,Tone,100,88.5,23,23,NN,FM,5,"El Paso | OPEN | On-Air | N0PWZ | CCARC | 2012-11-10
+    Please help us confirm this repeater!",49.5
+94,W0CRA,53.05,-,1.7,TSQL,107.2,107.2,23,23,NN,FM,5,Jefferson | OPEN | Off-Air | Colorado Repeater Association (CRA) | CCARC | 2017-10-07,49.5
+95,ND0Q,146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Pueblo | OPEN | On-Air | Pueblo HC | CCARC | 2017-10-24,49.5
+96,ND0Q,145.115,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Pueblo | OPEN | Off-Air | Pueblo Ham Club | CCARC | 2012-11-12
+    Please help us confirm this repeater!",49.5
+97,KF0KR,447.7,-,5,TSQL,210.7,210.7,23,23,NN,DIG,5,Pueblo | PRIVATE | Off-Air | CCARC | 2017-01-02,49.5
+98,WR0AEN,449.15,-,5,,88.5,88.5,23,23,NN,DIG,5,"Arapahoe | OPEN | On-Air | Colorado Amateur Repeater Network (CARN) | CCARC | 2012-11-12
+    Please help us confirm this repeater!",51
+99,K0JSC,446.9875,-,5,,88.5,88.5,23,23,NN,DIG,5,Pueblo | OPEN | Off-Air | CCARC | 2017-01-02,51.1
+100,K0JSC,447.275,-,5,TSQL,100,100,23,23,NN,FM,5,Pueblo | OPEN | On-Air | CCARC | 2017-01-06,51.1
+101,KJ0T,147.24,+,0.6,Tone,103.5,88.5,23,23,NN,FM,5,"Pueblo | OPEN | Off-Air | TARA | CCARC | 2012-06-13
+    Please help us confirm this repeater!",51.1
+102,W0BG,448.275,-,5,Tone,156.7,88.5,23,23,NN,FM,5,"Arapahoe | OPEN | On-Air | W0BG | CCARC | 2013-01-05
+    Please help us confirm this repeater!",53.3
+103,WN7ANT,448.825,-,5,,88.5,88.5,23,23,NN,FM,5,Arapahoe | OPEN | On-Air | 2017-12-13,53.3
+104,N0ZUQ,448.4,-,5,Tone,94.8,88.5,23,23,NN,FM,5,"Arapahoe | OPEN | On-Air | CCARC | 2012-11-12
+    Please help us confirm this repeater!",53.3
+105,KB0UDD,448.5,-,5,Tone,100,88.5,23,23,NN,FM,5,Denver | OPEN | On-Air | Castle Rock Repeater Group | CCARC | 2017-03-11,53.3
+106,W0TX,449.775,-,5,TSQL,100,100,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC | 2015-06-02,53.6
+107,W0TX,147.33,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC | 2017-03-31,53.6
+108,W0TX,224.38,-,1.6,TSQL,100,100,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC | 2017-03-11,53.6
+109,N6LXX,53.17,-,1.7,Tone,107.2,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | N6LXX | CCARC | 2017-03-09,54.6
+110,N6LXX,447.875,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Jefferson | OPEN | On-Air | N6LXX | CCARC | 2017-03-09,54.6
+111,N0SZ,145.175,-,0.6,DTCS,88.5,88.5,73,73,NN,DIG,5,Clear Creek | OPEN | Off-Air | Rocky Mountain Ham Radio | CCARC | 2017-10-07,54.7
+112,KE4GUQ,145.34,-,0.6,TSQL,103.5,127.3,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Rocky Mtn Radio League | CCARC | 2016-12-23,54.7
+113,N0ELY,448.75,-,5,TSQL,100,100,23,23,NN,FM,5,"Jefferson | OPEN | On-Air | CCARC | 2012-11-16
+    Please help us confirm this repeater!",54.7
+114,WB0TPT,447.9,-,5,,88.5,88.5,23,23,NN,FM,5,Denver | OPEN | Off-Air | WB0TPT | CCARC | 2017-03-11,54.9
+115,WR0AEN,449.65,-,5,,88.5,88.5,23,23,NN,DIG,5,"Denver | OPEN | On-Air | Colorado Amateur Repeater Network (CARN) | CCARC | 2012-11-16
+    Please help us confirm this repeater!",54.9
+116,K0FEZ,447.925,-,5,TSQL,100,100,23,23,NN,FM,5,"Denver | OPEN | On-Air | RADOPS El Jebel Shriners | CCARC | 2014-07-03
+    Please help us confirm this repeater!",54.9
+117,WR0AEN,449.675,-,5,,88.5,88.5,23,23,NN,DIG,5,"Denver | OPEN | On-Air | Colorado Amateur Repeater Network (CARN) | CCARC | 2012-11-16
+    Please help us confirm this repeater!",54.9
+118,KE0SJ,145.475,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Intermountain Repeater Group | CCARC | 2015-05-22,55
+119,N5EHP,448.075,-,5,Tone,123,88.5,23,23,NN,FM,5,Denver | OPEN | On-Air | W0IG | CCARC | 2017-03-11,55
+120,N0JXN,146.715,-,0.6,TSQL,123,123,23,23,NN,FM,5,Denver | OPEN | On-Air | EARS | CCARC | 2017-04-09,55
+121,W0KIZ,448.55,-,5,Tone,82.5,88.5,23,23,NN,FM,5,Denver | OPEN | Off-Air | HPRA | CCARC | 2017-03-11,55
+122,W0TX,53.09,-,1.7,Tone,107.2,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC | 2017-03-11,55.5
+123,W0TX,447.825,-,5,DTCS,88.5,88.5,73,73,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC | 2017-03-11,55.6
+124,W0JRL,447.175,-,5,TSQL,100,100,23,23,NN,FM,5,Denver | OPEN | On-Air | W0JRL | CCARC | 2015-05-15,56.1
+125,KD0SSP,147.21,+,0.6,TSQL,100,100,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Water Amateur Radio Club | 2017-05-08,57.7
+126,K0GUR,448.15,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Denver | OPEN | On-Air | K0GUR | CCARC | 2017-01-13,58
+127,WA2YZT,446.8375,-,5,,88.5,88.5,23,23,NN,DIG,5,Jefferson | OPEN | On-Air | WA2YZT | CCARC | 2017-02-23,58.5
+128,W0CDS,1283.9625,-,20,,88.5,88.5,23,23,NN,DIG,5,"Jefferson | OPEN | On-Air | Colorado D-Star | CCARC | 2014-01-03
+    Please help us confirm this repeater!",58.6
+129,W0CDS,446.9625,-,5,,88.5,88.5,23,23,NN,DIG,5,Jefferson | OPEN | On-Air | Colorado D-Star | CCARC | 2017-03-11,58.6
+130,W0CDS,145.25,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"Jefferson | OPEN | On-Air | Colorado D-Star | CCARC | 2014-01-03
+    Please help us confirm this repeater!",58.6
+131,N1FSX,449.9,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Lincoln | OPEN | On-Air | CCARC | 2012-07-20
+    Please help us confirm this repeater!",58.6
+132,W0CDS,1299.9,,0,,88.5,88.5,23,23,NN,DIG,5,"Jefferson | OPEN | On-Air | Colorado D-Star | 2014-01-03
+    Please help us confirm this repeater!",58.6
+133,N0SZ,145.37,-,0.6,,88.5,88.5,23,23,NN,DIG,5,Jefferson | OPEN | On-Air | Rocky Mountain Ham Radio | CCARC | 2017-03-11,58.6
+134,N0SZ,446.7625,-,5,,88.5,88.5,23,23,NN,DIG,5,Park | OPEN | On-Air | K7PFJ | 2017-03-11,58.8
+135,W0KU,449.625,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Rocky Mountain Ham Radio | CCARC | 2017-03-11,58.8
+136,K0UPS,449.25,-,5,TSQL,123,123,23,23,NN,FM,5,"Elbert | OPEN | On-Air | K0UPS Club c/o N1UPS | CCARC | 2014-09-02
+    Please help us confirm this repeater!",59.7
+137,W0GV,448.975,-,5,Tone,123,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | FRG | CCARC | 2016-08-12,59.9
+138,N0PYY,927.7875,-,25,Tone,156.7,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | N0PYY | 2017-12-24,59.9
+139,N0PYY,448.125,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Jefferson | OPEN | On-Air | Denver PD EEB | CCARC | 2014-04-28
+    Please help us confirm this repeater!",59.9
+140,KB0VGD,446.975,-,5,,88.5,88.5,23,23,NN,DIG,5,Jefferson | OPEN | On-Air | W0DMR | 2016-01-25,61.6
+141,WR0AEN,449,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | CARN | CCARC | 2017-03-11,61.9
+142,WZ0N,448.575,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,Park | OPEN | Off-Air | CCARC | 2017-11-22,62.1
+143,N1UPS,449.3,-,5,Tone,100,88.5,23,23,NN,FM,5,Adams | OPEN | On-Air | N1UPS | CCARC | 2017-04-24,62.2
+144,W0CFI,448.675,-,5,TSQL,100,100,23,23,NN,FM,5,"Denver | OPEN | On-Air | W0CFI | CCARC | 2015-04-03
+    Please help us confirm this repeater!",62.4
+145,N0PYY,147.3,+,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Denver PD EEB | CCARC | 2017-03-11,62.4
+146,W0CRA,145.145,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Colorado Repeater Assoc | CCARC | 2017-10-10,62.7
+147,N0SZ,448.225,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Rocky Mountain Ham Radio | CCARC | 2016-05-24,62.7
+148,W0TX,449.35,-,5,TSQL,100,100,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Denver Radio Club | CCARC | 2017-03-11,62.7
+149,W0CRA,447.575,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Colorado Repeater Association (CRA) | CCARC | 2017-11-13,62.7
+150,W0TX,145.49,-,0.6,TSQL,100,100,23,23,NN,FM,5,"Jefferson | OPEN | On-Air | KB0VIU, Denver Radio Club | CCARC | 2017-03-11",62.7
+151,N0SZ,446.9375,-,5,,88.5,88.5,23,23,NN,DIG,5,Clear Creek | OPEN | On-Air | Rocky Mountain Ham Radio | CCARC | 2017-01-13,62.7
+152,KB0UDD,146.67,-,0.6,TSQL,100,100,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Castle Rock Repeater Group | CCARC | 2016-09-08,62.7
+153,W0WYX,146.94,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Rocky Mtn Radio League | CCARC | 2017-03-11,62.7
+154,K1DUN,449.45,-,5,TSQL,103.5,127.3,23,23,NN,FM,5,Clear Creek | OPEN | On-Air | Rocky Mountain Radio League | CCARC | 2016-12-23,62.7
+155,W0TX,448.625,-,5,TSQL,100,100,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC | 2017-03-11,62.9
+156,KE0SJ,145.28,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | CCARC | 2015-05-22,63
+157,K0FEZ,146.985,-,0.6,TSQL,100,100,23,23,NN,FM,5,Denver | OPEN | On-Air | El Jebel RADOPS | CCARC | 2016-09-05,63
+158,KE0SJ,449.525,-,5,,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | KE0SJ | CCARC | 2015-05-23,63
+159,WB0TUB,146.64,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Denver Radio League | CCARC | 2017-03-11,63
+160,AC0KQ,447.85,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,"Clear Creek | OPEN | On-Air | AC0KQ | CCARC | 2014-09-21
+    Please help us confirm this repeater!",63.3
+161,N0POH,224.74,-,1.6,TSQL,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Assoc | CCARC | 2016-01-17,63.7
+162,WT0C,145.22,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Rocky Mtn Radio League | CCARC | 2016-12-23,63.7
+163,KI0GO,449.75,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Rocky Mtn Radio League | CCARC | 2016-12-23,63.7
+164,K0IBM,448.85,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Assoc | CCARC | 2016-01-17,63.7
+165,N0MHU,224,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Rocky Mountain Radio League | CCARC | 2017-03-11,63.7
+166,W0CBI,147.15,+,0.6,TSQL,100,100,23,23,NN,FM,5,Jefferson | OPEN | On-Air | Aurora Repeater Assoc (ARA) | CCARC | 2016-01-17,63.7
+167,W0TX,446.7875,-,5,,88.5,88.5,23,23,NN,DIG,5,Jefferson | OPEN | On-Air | Denver Radio Club | CCARC | 2017-12-09,63.9
+168,K0ML,147.045,+,0.6,Tone,123,88.5,23,23,NN,FM,5,Adams | OPEN | On-Air | Northglenn RA | CCARC | 2017-04-10,65
+169,WG0N,449.05,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Denver | OPEN | On-Air | WG0N | CCARC | 2012-11-20
+    Please help us confirm this repeater!",66.8
+170,ND0Q,447.175,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"Pueblo | OPEN | Off-Air | Pueblo HC | CCARC | 2015-04-15
+    Please help us confirm this repeater!",67
+171,KC0CVU,449.625,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Custer | OPEN | On-Air | CCARC | 2018-01-15,67
+172,ND0Q,224.32,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,Custer | OPEN | Off-Air | Pueblo Ham Club | CCARC | 2016-07-14,67
+173,KB0TUC,448.15,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,Custer | OPEN | On-Air | Royal George ARC | CCARC | 2017-03-11,67.8
+174,KB0TUC,927.775,-,25,DTCS,88.5,88.5,116,116,NN,FM,5,"Custer | OPEN | On-Air | Royal Gorge Amateur Radio Club | CCARC | 2012-06-14
+    Please help us confirm this repeater!",67.8
+175,KB0TUC,147.06,+,0.6,TSQL,77,77,23,23,NN,FM,5,"Custer | OPEN | On-Air | http://www.qsl.net/rghc | CCARC | 2012-06-14
+    Please help us confirm this repeater!",67.8
+176,ND0Q,919.1,-,25,Tone,88.5,88.5,23,23,NN,FM,5,Pueblo | OPEN | Off-Air | Pueblo HC | CCARC | 2016-07-14,67.9
+177,K0JSC,448.325,-,5,TSQL,100,100,23,23,NN,FM,5,Custer | OPEN | On-Air | 2017-01-06,67.9
+178,WZ0N,447.125,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Park | OPEN | On-Air | WZ0N | CCARC | 2013-07-05
+    Please help us confirm this repeater!",68
+179,W0LMA,448.925,-,5,Tone,131.8,88.5,23,23,NN,FM,5,"Boulder | OPEN | On-Air | W0LMA | CCARC | 2012-11-10
+    Please help us confirm this repeater!",68.4
+180,W0WYX,449.825,-,5,Tone,103.5,88.5,23,23,NN,FM,5,"Boulder | OPEN | On-Air | Rocky Mountain Radio League | CCARC | 2012-11-16
+    Please help us confirm this repeater!",68.4
+181,KD0RG,449.925,-,5,TSQL,114.8,114.8,23,23,NN,FM,5,Adams | OPEN | On-Air | KD0RG | CCARC | 2016-07-17,71
+182,KB0VJJ,147.39,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,"Summit | OPEN | On-Air | Colorado Connection | CCARC | 2015-01-30
+    Please help us confirm this repeater!",71.9
+183,N0SZ,446.8125,-,5,,88.5,88.5,23,23,NN,DIG,5,"Chaffee | OPEN | On-Air | RMHAM | 2015-01-13
+    Please help us confirm this repeater!",71.9
+184,KE0AE,147.06,+,0.6,Tone,103.5,88.5,23,23,NN,FM,5,Lincoln | OPEN | On-Air | BSARC | CCARC | 2018-04-04,72.6
+185,KE0SJ,447.625,-,5,Tone,100,88.5,23,23,NN,FM,5,Adams | OPEN | On-Air | Intermountain Repeater Group | 2015-05-23,72.6
+186,KB0VJJ,145.31,-,0.6,TSQL,88.5,123,23,23,NN,FM,5,Gilpin | OPEN | On-Air | Colorado Connection | CCARC | 2015-12-06,72.8
+187,N0SZ,449.225,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Gilpin | OPEN | On-Air | Rocky Mountain Ham Radio (RMHR) | CCARC | 2015-11-03,72.8
+188,N0SZ,445.0875,-,5,,88.5,88.5,23,23,NN,DIG,5,Fremont | OPEN | On-Air | K2AD | 2018-02-01,72.9
+189,AC0KC,447.3,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Weld | OPEN | On-Air | CCARC | 2013-01-07
+    Please help us confirm this repeater!",73.9
+190,KC0CVU,145.295,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Chaffee | OPEN | On-Air | Cheyenne Mtn Repeater Group | CCARC | 2015-01-30
+    Please help us confirm this repeater!",74.7
+191,KB0VJJ,147.285,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,Chaffee | OPEN | On-Air | Colorado Connection | CCARC | 2016-05-23,74.7
+192,W0DK,146.61,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | Off-Air | Boulder Amateur Radio Club | CCARC | 2017-05-02,75.2
+193,W0DK,448.9,-,5,Tone,100,88.5,23,23,NN,FM,5,"Boulder | OPEN | On-Air | Boulder ARC | CCARC | 2013-03-17
+    Please help us confirm this repeater!",75.2
+194,WZ0N,449.925,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Chaffee | OPEN | On-Air | CCARC | 2013-07-05
+    Please help us confirm this repeater!",75.3
+195,W0DK,146.7,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Boulder | OPEN | On-Air | Boulder Co ARC | CCARC | 2013-03-17
+    Please help us confirm this repeater!",75.3
+196,KC0CVU,449.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Chaffee | OPEN | On-Air | CCARC | 2018-01-15,75.3
+197,WB0QMR,146.7,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Summit | OPEN | On-Air | GRARC | CCARC | 2013-01-07
+    Please help us confirm this repeater!",76.4
+198,W0RM,224.6,-,1.6,Tone,100,88.5,23,23,NN,FM,5,"Gilpin | OPEN | W0RM | CCARC | 2012-11-10
+    Please help us confirm this repeater!",76.6
+199,W0IA,449.55,-,5,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Rocky Mtn VHF Soc | CCARC | 2017-03-11,77.5
+200,W0DK,1299.5,-,20,,88.5,88.5,23,23,NN,DIG,5,"Boulder | OPEN | On-Air | Boulder County ARES | CCARC | 2012-11-12
+    Please help us confirm this repeater!",77.5
+201,KC0DS,446.8625,-,5,,88.5,88.5,23,23,NN,DIG,5,Boulder | OPEN | On-Air | Boulder County ARES | CCARC | 2017-03-11,77.5
+202,N0SZ,446.8,-,5,,88.5,88.5,23,23,NN,DIG,5,Boulder | OPEN | On-Air | Rocky Mountain Ham Radio | CCARC | 2017-03-11,77.5
+203,K0DK,449.4,-,5,Tone,91.5,88.5,23,23,NN,FM,5,"Boulder | OPEN | Off-Air | BARC | CCARC | 2013-01-08
+    Please help us confirm this repeater!",77.5
+204,AC0KC,224.96,-,1.6,,88.5,88.5,23,23,NN,FM,5,"Weld | OPEN | On-Air | AC0KC | CCARC | 2012-11-12
+    Please help us confirm this repeater!",77.8
+205,N0SZ,445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,Adams | OPEN | On-Air | K2AD | CCARC | 2018-02-01,78
+206,W0LSD,146.745,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Chaffee | OPEN | Off-Air | CLARA | CCARC | 2018-03-12,78.2
+207,KC0DS,145.3875,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"Boulder | OPEN | On-Air | Boulder County ARES | CCARC | 2012-11-12
+    Please help us confirm this repeater!",78.3
+208,KC0DS,1283.8625,-,20,,88.5,88.5,23,23,NN,DIG,5,"Boulder | OPEN | On-Air | Boulder County ARES | CCARC | 2013-12-21
+    Please help us confirm this repeater!",78.3
+209,W0IA,146.76,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Rocky Mtn VHF Soc | CCARC | 2017-03-11,78.4
+210,KB0VJJ,145.445,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Lake | OPEN | On-Air | Colorado Connection | CCARC | 2013-06-14
+    Please help us confirm this repeater!",78.5
+211,K0DK,146.73,-,0.6,TSQL,91.5,91.5,23,23,NN,FM,5,Boulder | OPEN | Off-Air | BARC | CCARC | 2017-05-02,79.8
+212,W0CRA,145.46,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Boulder | OPEN | On-Air | Colorado Repeater Association (CRA) | CCARC | 2017-11-13,82.8
+213,W0CRA,447.975,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Boulder | OPEN | On-Air | Colorado Repeater Association (CRA) | CCARC | 2016-09-08,82.8
+214,N0SZ,447.75,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Boulder | OPEN | Off-Air | Rocky Mountain Ham Radio | CCARC | 2017-03-11,82.8
+215,W0IA,224.02,-,1.6,,88.5,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Rocky Mtn VHF Soc | CCARC | 2017-03-11,82.8
+216,W0JZ,146.91,+,0.6,TSQL,123,127.3,23,23,NN,FM,5,Boulder | OPEN | On-Air | 2017-04-09,83.4
+217,N0ZSN,147.24,+,0.6,TSQL,156.7,156.7,23,23,NN,FM,5,Lake | OPEN | Off-Air | CCARC | 2016-06-30,83.5
+218,ND0Q,146.73,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Huerfano | OPEN | On-Air | Pueblo Ham Club | CCARC | 2015-04-15
+    Please help us confirm this repeater!",83.8
+219,W0ENO,147.27,+,0.6,TSQL,100,100,23,23,NN,FM,5,Boulder | OPEN | On-Air | Longmont ARC (LARC) | CCARC | 2017-03-11,85.2
+220,W0ENO,448.8,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | Longmont ARC | CCARC | 2017-03-11,85.2
+221,N0EPA,448.525,-,5,Tone,151.4,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | N0EPA | CCARC | 2017-03-11,85.2
+222,WA4CCC,447.45,-,5,Tone,103.5,88.5,23,23,NN,FM,5,"Grand | OPEN | On-Air | W0IG | CCARC | 2013-10-26
+    Please help us confirm this repeater!",87.1
+223,KD0MRC,145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Chaffee | OPEN | On-Air | Chaffee Lake Amateur Repeater Association | 2018-01-14,89.9
+224,KI0HG,147.03,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Boulder | OPEN | On-Air | KI0HG | CCARC | 2017-01-20,91.5
+225,KC0ITF,147.36,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,Otero | PRIVATE | On-Air | 2017-02-01,94.7
+226,KC0ITF,446.75,-,5,,88.5,88.5,23,23,NN,DIG,5,Otero | PRIVATE | On-Air | 2017-02-01,94.7
+227,K0RV,146.61,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Eagle | OPEN | On-Air | ECHO | CCARC | 2012-11-10
+    Please help us confirm this repeater!",95.4
+228,N0AFO,224.8,-,1.6,,88.5,88.5,23,23,NN,FM,5,"Eagle | OPEN | ECHO | CCARC | 2012-11-10
+    Please help us confirm this repeater!",97.3
+229,N0AFO,449.9,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Eagle | OPEN | Off-Air | ECHO | CCARC | unverified.
+  
+   Please help us confirm this repeater!",97.3
+230,KB0YNA,447.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,Gunnison | OPEN | On-Air | KB0YNA | CCARC | 2016-10-28,97.8
+231,KA0YDW,146.82,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Grand | OPEN | GCARA | CCARC | 2014-09-06
+    Please help us confirm this repeater!",99.4
+232,W0UPS,146.85,-,0.6,TSQL,100,100,23,23,NN,FM,5,Weld | OPEN | On-Air | Northern Colorado ARC | CCARC | 2017-05-08,100
+233,K0OJ,449.725,-,5,Tone,127.3,88.5,23,23,NN,FM,5,"Weld | OPEN | On-Air | K0OJ | CCARC | 2014-08-21
+    Please help us confirm this repeater!",100
+234,N0SZ,445.075,-,5,,88.5,88.5,23,23,NN,DIG,5,Eagle | OPEN | On-Air | K2AD | CCARC | 2018-02-01,100.6
+235,W0LRA,449.575,-,5,Tone,100,88.5,23,23,NN,FM,5,Larimer | OPEN | On-Air | Loveland Rptr Assoc | CCARC | 2018-02-24,100.7
+236,KN6VV,224.32,-,1.6,TSQL,100,100,23,23,NN,FM,5,"Larimer | OPEN | Off-Air | KN6VV | CCARC | 2014-03-03
+    Please help us confirm this repeater!",100.7
+237,W0LRA,147.195,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Larimer | OPEN | On-Air | Loveland Repeater Assoc | CCARC | 2016-08-18,101.2
+238,KB0VJJ,147.345,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,Eagle | OPEN | On-Air | Colorado Connection | CCARC | 2017-01-06,101.7
+239,N0FH,146.685,-,0.6,Tone,123,88.5,23,23,NN,FM,5,Larimer | OPEN | On-Air | Estes Valley ARC | CCARC | 2017-08-05,103.2
+240,W0FT,448.2,-,5,,88.5,88.5,23,23,NN,DIG,5,Morgan | OPEN | On-Air | CCARC | 2017-03-11,103.4
+241,N0FH,449.8,-,5,Tone,123,88.5,23,23,NN,FM,5,Larimer | OPEN | On-Air | Estes Valley ARC | CCARC | 2017-08-05,105.6
+242,N0KM,146.64,-,0.6,TSQL,77,77,23,23,NN,FM,5,Rio Grande | OPEN | On-Air | 2016-12-25,110
+243,N0KM,447.1,-,5,Tone,77,88.5,23,23,NN,FM,5,Saguache | OPEN | On-Air | 2017-12-13,110.4
+244,KB0VJJ,147.075,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,Grand | OPEN | On-Air | Colorado Connection | CCARC | 2016-05-23,114.5
+245,KB0VJJ,145.4,-,0.8,TSQL,88.5,123,23,23,NN,FM,5,Washington | OPEN | On-Air | Colorado Connection | CCARC | 2015-11-19,117.8
+246,W0FT,448.175,-,5,,88.5,88.5,23,23,NN,DIG,5,Morgan | OPEN | On-Air | W0FT | CCARC | 2018-02-01,117.8

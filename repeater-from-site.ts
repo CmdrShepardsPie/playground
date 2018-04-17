@@ -281,9 +281,11 @@ async function getInnerCells(row: Element, data: IRepeater) {
 const totalRepeaters: IRepeater[] = [];
 
 export default [
-  getit(`Colorado Springs, CO`, 100),
-  getit(`Denver, CO`, 100),
-  getit(`Woodland Park, CO`, 100),
-  getit(`Ouray, CO`, 100),
-  getit(`Moab, UT`, 100),
+  getit(80203, 100),
+  getit(80920, 100),
+  // getit(`Colorado Springs, CO`, 100),
+  // getit(`Denver, CO`, 100),
+  // getit(`Woodland Park, CO`, 100),
+  // getit(`Ouray, CO`, 100),
+  // getit(`Moab, UT`, 100),
 ];
