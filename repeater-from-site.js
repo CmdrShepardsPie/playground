@@ -25,7 +25,7 @@
         return 0;
     }
     function getText(el) {
-        let text = el.innerText || el.innerHTML;
+        let text = el.innerHTML;
         if (text) {
             text = text.replace(/<[^>]*>/g, '');
             return text.trim();
@@ -45,35 +45,30 @@
             }, ms);
         });
     }
-    const allData = [];
-    const options = {
-        header: true
-    };
-    async function getit() {
+    async function getit(cityOrZip, distance, allData = [], fileName) {
         // console.log('getit');
-        const page = await axios_1.default.get(`https://www.repeaterbook.com/repeaters/prox_result.php?city=80920&distance=100&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`);
+        const page = await axios_1.default.get(`https://www.repeaterbook.com/repeaters/prox_result.php?city=${encodeURIComponent(cityOrZip.toString())}&distance=${distance}&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`);
         const dom = new jsdom_1.JSDOM(page.data);
-        await getListTables(dom);
+        await getListTables(dom, cityOrZip, allData, fileName);
     }
-    async function getListTables(dom) {
+    async function getListTables(dom, cityOrZip, allData, fileName) {
         // console.log('getListTables', dom);
         const tables = dom.window.document.querySelectorAll('table.w3-table.w3-striped.w3-responsive');
-        for (let i = 0; i < tables.length; i++) {
-            const table = tables[i];
-            await getTableRows(table);
+        for (const table of tables) {
+            await getTableRows(table, cityOrZip, allData, fileName);
         }
     }
-    async function getTableRows(table) {
+    async function getTableRows(table, cityOrZip, allData, fileName) {
         // console.log('getTableRows', table);
         const rows = [...table.querySelectorAll('tbody > tr')];
-        for (let i = 0; i < rows.length; i++) {
-            const row = rows[i];
-            await getRowCells(row);
+        for (const row of rows) {
+            await getRowCells(row, cityOrZip, allData, fileName);
         }
     }
-    async function getRowCells(row) {
-        if (!row)
+    async function getRowCells(row, cityOrZip, allData, fileName) {
+        if (!row) {
             return;
+        }
         // console.log('getRowCells', row);
         const cells = row.querySelectorAll('td');
         const first = cells[0];
@@ -86,11 +81,11 @@
             const anchor = first.querySelector('a');
             if (anchor) {
                 const href = anchor.href;
-                await getNewPage(href, distance);
+                await getNewPage(href, distance, cityOrZip, allData, fileName);
             }
         }
     }
-    async function getNewPage(href, distance) {
+    async function getNewPage(href, distance, cityOrZip, allData, fileName) {
         // console.log('getNewPage', href);
         const page = await axios_1.default.get(`https://www.repeaterbook.com/repeaters/${href}`);
         const dom = new jsdom_1.JSDOM(page.data);
@@ -134,7 +129,7 @@
             data.Tone = 'DTCS';
         }
         else {
-            data.DtscRxCode = 23;
+            data.DtscRxCode = data.DtcsCode;
         }
         console.log();
         let find = 
@@ -149,14 +144,15 @@
             item.rToneFreq === data.rToneFreq &&
             item.cToneFreq === data.cToneFreq &&
             item.DtcsCode === data.DtcsCode &&
-            item.DtscRxCode === data.DtscRxCode);
+            item.DtscRxCode === data.DtscRxCode &&
+            item.Mode === data.Mode);
         if (find) {
-            console.log('Dupe found');
+            console.log('Dupe found', cityOrZip);
             console.log(JSON.stringify(find));
         }
         if (find && data.Distance < find.Distance) {
             const index = allData.indexOf(find);
-            console.log(`Dupe is further away (${data.Distance}/${find.Distance}) (${index}/${allData.length})`);
+            console.log(`Dupe is further away (${data.Distance}/${find.Distance}) (${index}/${allData.length})`, cityOrZip);
             allData.splice(index, 1);
             find = undefined;
         }
@@ -165,18 +161,19 @@
             allData.push(data);
             allData.sort((a, b) => a.Distance - b.Distance);
             allData.forEach((d, i) => d.Location = i);
-            console.log(`Adding (${allData.length})`);
+            console.log(`Adding (${allData.length})`, cityOrZip);
             console.log(JSON.stringify(data));
-            // console.log('write');
-            fs.writeFileSync(`./allData.csv`, stringify(allData, options));
+            const options = {
+                header: true
+            };
+            fs.writeFileSync(`./repeater-data/repeaters-${fileName || cityOrZip}.csv`, stringify(allData, options));
         }
     }
     async function getInnerTables(dom, data) {
         // console.log('getInnerTables', dom);
         const tables = dom.window.document.querySelectorAll('table.w3-table.w3-responsive');
         // const data: IRepeater = {} as IRepeater;
-        for (let i = 0; i < tables.length; i++) {
-            const table = tables[i];
+        for (const table of tables) {
             Object.assign(data, await getInnerRows(table, data));
         }
         return data;
@@ -185,8 +182,7 @@
         // console.log('getInnerRows', table);
         const rows = table.querySelectorAll('tbody > tr');
         // const data: IRepeater = {} as IRepeater;
-        for (let i = 0; i < rows.length; i++) {
-            const row = rows[i];
+        for (const row of rows) {
             Object.assign(data, await getInnerCells(row, data));
         }
         return data;
@@ -241,12 +237,7 @@
                 case 'Call:': {
                     const cell = cells[1];
                     const anchor = cell.querySelector('a');
-                    if (anchor) {
-                        data.Name = getText(anchor);
-                    }
-                    else {
-                        data.Name = getText(cell);
-                    }
+                    data.Name = anchor ? getText(anchor) : getText(cell);
                     break;
                 }
                 case 'County:':
@@ -256,63 +247,31 @@
                 case 'Sponsor:':
                 case 'Coordination:': {
                     const cell = cells[1];
-                    let anchor = cell.lastElementChild;
-                    if (anchor && anchor.childElementCount) {
-                        anchor = anchor.lastElementChild;
-                    }
-                    if (anchor && anchor.childElementCount) {
-                        anchor = anchor.lastElementChild;
-                    }
-                    if (anchor && anchor.childElementCount) {
-                        anchor = anchor.lastElementChild;
-                    }
-                    if (!data.Comment) {
-                        data.Comment = '';
-                    }
-                    else {
-                        data.Comment = data.Comment + ' | ';
-                    }
-                    if (anchor && getText(anchor)) {
-                        data.Comment = data.Comment + getText(anchor);
-                    }
-                    else if (getText(cell)) {
-                        data.Comment = data.Comment + getText(cell);
-                    }
+                    data.Comment = !data.Comment ? '' : data.Comment + ' | ';
+                    data.Comment = data.Comment + getText(cell);
                     break;
                 }
+                case 'D-STAR Enabled':
+                case 'DMR Enabled':
+                    data.Mode = 'DIG';
             }
         }
         if (cells[0] && /Last update:/.test(getText(cells[0]))) {
             const cell = cells[0];
-            let anchor = cell.lastElementChild;
-            if (anchor && anchor.childElementCount) {
-                anchor = anchor.lastElementChild;
-            }
-            if (anchor && anchor.childElementCount) {
-                anchor = anchor.lastElementChild;
-            }
-            if (anchor && anchor.childElementCount) {
-                anchor = anchor.lastElementChild;
-            }
-            if (!data.Comment) {
-                data.Comment = '';
-            }
-            else {
-                data.Comment = data.Comment + ' | ';
-            }
-            if (anchor && getText(anchor)) {
-                let text = getText(anchor);
-                text = text.replace(/Last update:/, '');
-                data.Comment = data.Comment + text.trim();
-            }
-            else if (getText(cell)) {
-                let text = getText(cell);
-                text = text.replace(/Last update:/, '');
-                data.Comment = data.Comment + text.trim();
-            }
+            data.Comment = !data.Comment ? '' : data.Comment + ' | ';
+            let text = getText(cell);
+            text = text.replace(/Last update:/, '');
+            data.Comment = data.Comment + text.trim();
         }
         return data;
     }
-    exports.default = getit();
+    const totalRepeaters = [];
+    exports.default = [
+        getit(`Colorado Springs, CO`, 100),
+        getit(`Denver, CO`, 100),
+        getit(`Woodland Park, CO`, 100),
+        getit(`Ouray, CO`, 100),
+        getit(`Moab, UT`, 100),
+    ];
 });
 //# sourceMappingURL=repeater-from-site.js.map

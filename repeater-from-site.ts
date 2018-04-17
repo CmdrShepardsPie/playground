@@ -33,8 +33,8 @@ function getNumber(reg: RegExp, text: string) {
   return 0;
 }
 
-function getText(el: any) {
-  let text: string = el.innerText || el.innerHTML;
+function getText(el: Element) {
+  let text: string = el.innerHTML;
   if (text) {
     text = text.replace(/<[^>]*>/g, '');
     return text.trim();
@@ -55,39 +55,33 @@ function wait(ms: number, fn: any) {
   });
 }
 
-const allData: IRepeater[] = [];
-const options = {
-  header: true
-};
-
-async function getit() {
+async function getit(cityOrZip: string | number, distance: number, allData: IRepeater[] = [], fileName?: string) {
   // console.log('getit');
-  const page = await axios.get(`https://www.repeaterbook.com/repeaters/prox_result.php?city=80920&distance=100&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`);
+  const page = await axios.get(`https://www.repeaterbook.com/repeaters/prox_result.php?city=${encodeURIComponent(cityOrZip.toString())}&distance=${distance}&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`);
   const dom = new JSDOM(page.data);
-  await getListTables(dom);
+  await getListTables(dom, cityOrZip, allData, fileName);
 }
 
-async function getListTables(dom: JSDOM) {
+async function getListTables(dom: JSDOM, cityOrZip: string | number, allData: IRepeater[], fileName?: string) {
   // console.log('getListTables', dom);
   const tables = dom.window.document.querySelectorAll('table.w3-table.w3-striped.w3-responsive');
-  for (let i = 0; i < tables.length; i++) {
-    const table = tables[i];
-    await getTableRows(table);
+  for (const table of tables) {
+    await getTableRows(table, cityOrZip, allData, fileName);
   }
 }
 
-async function getTableRows(table: Element) {
+async function getTableRows(table: Element, cityOrZip: string | number, allData: IRepeater[], fileName?: string) {
   // console.log('getTableRows', table);
   const rows = [...table.querySelectorAll('tbody > tr')];
-  for (let i = 0; i < rows.length; i++) {
-    const row = rows[i];
-    await getRowCells(row);
+  for (const row of rows) {
+    await getRowCells(row, cityOrZip, allData, fileName);
   }
 }
 
-async function getRowCells(row: Element) {
-  if (!row)
+async function getRowCells(row: Element, cityOrZip: string | number, allData: IRepeater[], fileName?: string) {
+  if (!row) {
     return;
+  }
   // console.log('getRowCells', row);
   const cells = row.querySelectorAll('td');
   const first = cells[0];
@@ -100,12 +94,12 @@ async function getRowCells(row: Element) {
     const anchor = first.querySelector('a');
     if (anchor) {
       const href = anchor.href;
-      await getNewPage(href, distance);
+      await getNewPage(href, distance, cityOrZip, allData, fileName);
     }
   }
 }
 
-async function getNewPage(href: string, distance: number) {
+async function getNewPage(href: string, distance: number, cityOrZip: string | number, allData: IRepeater[], fileName?: string) {
   // console.log('getNewPage', href);
   const page = await axios.get(`https://www.repeaterbook.com/repeaters/${href}`);
   const dom = new JSDOM(page.data);
@@ -145,7 +139,7 @@ async function getNewPage(href: string, distance: number) {
   if (data.DtscRxCode) {
     data.Tone = 'DTCS';
   } else {
-    data.DtscRxCode = 23;
+    data.DtscRxCode = data.DtcsCode;
   }
   console.log();
   let find =
@@ -160,15 +154,16 @@ async function getNewPage(href: string, distance: number) {
       item.rToneFreq === data.rToneFreq &&
       item.cToneFreq === data.cToneFreq &&
       item.DtcsCode === data.DtcsCode &&
-      item.DtscRxCode === data.DtscRxCode
+      item.DtscRxCode === data.DtscRxCode &&
+      item.Mode === data.Mode
     );
   if (find) {
-    console.log('Dupe found');
+    console.log('Dupe found', cityOrZip);
     console.log(JSON.stringify(find));
   }
   if (find && data.Distance < find.Distance) {
     const index = allData.indexOf(find);
-    console.log(`Dupe is further away (${data.Distance}/${find.Distance}) (${index}/${allData.length})`);
+    console.log(`Dupe is further away (${data.Distance}/${find.Distance}) (${index}/${allData.length})`, cityOrZip);
     allData.splice(index, 1);
     find = undefined;
   }
@@ -177,10 +172,12 @@ async function getNewPage(href: string, distance: number) {
     allData.push(data);
     allData.sort((a, b) => a.Distance - b.Distance);
     allData.forEach((d, i) => d.Location = i);
-    console.log(`Adding (${allData.length})`);
+    console.log(`Adding (${allData.length})`, cityOrZip);
     console.log(JSON.stringify(data));
-    // console.log('write');
-    fs.writeFileSync(`./allData.csv`, stringify(allData, options));
+    const options = {
+      header: true
+    };
+    fs.writeFileSync(`./repeater-data/repeaters-${fileName || cityOrZip}.csv`, stringify(allData, options));
   }
 }
 
@@ -188,8 +185,7 @@ async function getInnerTables(dom: JSDOM, data: IRepeater) {
   // console.log('getInnerTables', dom);
   const tables = dom.window.document.querySelectorAll('table.w3-table.w3-responsive');
   // const data: IRepeater = {} as IRepeater;
-  for (let i = 0; i < tables.length; i++) {
-    const table = tables[i];
+  for (const table of tables) {
     Object.assign(data, await getInnerRows(table, data));
   }
   return data;
@@ -199,8 +195,7 @@ async function getInnerRows(table: Element, data: IRepeater) {
   // console.log('getInnerRows', table);
   const rows = table.querySelectorAll('tbody > tr');
   // const data: IRepeater = {} as IRepeater;
-  for (let i = 0; i < rows.length; i++) {
-    const row = rows[i];
+  for (const row of rows) {
     Object.assign(data, await getInnerCells(row, data));
   }
   return data;
@@ -253,11 +248,7 @@ async function getInnerCells(row: Element, data: IRepeater) {
       case 'Call:': {
         const cell = cells[1];
         const anchor = cell.querySelector('a');
-        if (anchor) {
-          data.Name = getText(anchor);
-        } else {
-          data.Name = getText(cell);
-        }
+        data.Name = anchor ? getText(anchor) : getText(cell);
         break;
       }
       case 'County:':
@@ -267,59 +258,32 @@ async function getInnerCells(row: Element, data: IRepeater) {
       case 'Sponsor:':
       case 'Coordination:': {
         const cell = cells[1];
-        let anchor = cell.lastElementChild;
-        if (anchor && anchor.childElementCount) {
-          anchor = anchor.lastElementChild;
-        }
-        if (anchor && anchor.childElementCount) {
-          anchor = anchor.lastElementChild;
-        }
-        if (anchor && anchor.childElementCount) {
-          anchor = anchor.lastElementChild;
-        }
-        if (!data.Comment) {
-          data.Comment = '';
-        } else {
-          data.Comment = data.Comment + ' | ';
-        }
-        if (anchor && getText(anchor)) {
-          data.Comment = data.Comment + getText(anchor);
-        } else if (getText(cell)) {
-          data.Comment = data.Comment + getText(cell);
-        }
+        data.Comment = !data.Comment ? '' : data.Comment + ' | ';
+        data.Comment = data.Comment + getText(cell);
         break;
       }
+      case 'D-STAR Enabled':
+      case 'DMR Enabled':
+        data.Mode = 'DIG';
     }
   }
   if (cells[0] && /Last update:/.test(getText(cells[0]))) {
     const cell = cells[0];
-    let anchor = cell.lastElementChild;
-    if (anchor && anchor.childElementCount) {
-      anchor = anchor.lastElementChild;
-    }
-    if (anchor && anchor.childElementCount) {
-      anchor = anchor.lastElementChild;
-    }
-    if (anchor && anchor.childElementCount) {
-      anchor = anchor.lastElementChild;
-    }
-    if (!data.Comment) {
-      data.Comment = '';
-    } else {
-      data.Comment = data.Comment + ' | ';
-    }
-    if (anchor && getText(anchor)) {
-      let text = getText(anchor);
-      text = text.replace(/Last update:/, '');
-      data.Comment = data.Comment + text.trim();
-    } else if (getText(cell)) {
-      let text = getText(cell);
-      text = text.replace(/Last update:/, '');
-      data.Comment = data.Comment + text.trim();
-    }
+    data.Comment = !data.Comment ? '' : data.Comment + ' | ';
+    let text = getText(cell);
+    text = text.replace(/Last update:/, '');
+    data.Comment = data.Comment + text.trim();
   }
   return data;
 
 }
 
-export default getit();
+const totalRepeaters: IRepeater[] = [];
+
+export default [
+  getit(`Colorado Springs, CO`, 100),
+  getit(`Denver, CO`, 100),
+  getit(`Woodland Park, CO`, 100),
+  getit(`Ouray, CO`, 100),
+  getit(`Moab, UT`, 100),
+];

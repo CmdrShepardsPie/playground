@@ -1,0 +1,154 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtscRxCode,DtcsPolarity,Mode,TStep,Comment,Distance
+0,KB5ITS,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,Ouray | OPEN | On-Air | CCARC | 2018-01-15,0
+1,KB5ITS,444,+,5,Tone,67,88.5,23,23,NN,FM,5,Huerfano | OPEN | On-Air | 2017-12-07,14.6
+2,KB5ITS,447.525,-,5,Tone,127.3,88.5,23,23,NN,FM,5,"San Juan | OPEN | On-Air | KB5ITS | CCARC | 2014-06-30
+    Please help us confirm this repeater!",14.6
+3,KB5ITS,145.325,-,0.6,Tone,127.3,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | CCARC | 2018-01-15,14.6
+4,KB5ITS,147.375,+,0.6,Tone,156.7,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | CCARC | 2018-01-15,16
+5,KB0YNA,449.7,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,San Miguel | OPEN | On-Air | Grand Mesa Repeater Association ( GMRA ) | CCARC | 2017-12-07,16.5
+6,KB5ITS,147.135,-,0.6,Tone,123,88.5,23,23,NN,FM,5,Hinsdale | OPEN | On-Air | CCARC | 2018-01-15,19.4
+7,WA4HND,447.2,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Montrose | OPEN | On-Air | CCARC | 2018-01-15,25.2
+8,KB0YNA,448.65,-,5,TSQL,88.5,151.4,23,23,NN,FM,5,Montrose | OPEN | On-Air | KB0YNA | 2016-10-11,25.2
+9,KC0UUX,146.91,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Montrose | OPEN | On-Air | CCARC | 2014-12-13
+    Please help us confirm this repeater!",33.4
+10,KD5OPD,146.79,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Montrose | OPEN | On-Air | KC0UXX | CCARC | 2012-09-06
+    Please help us confirm this repeater!",33.4
+11,N0PKT,449.525,-,5,TSQL,100,100,23,23,NN,FM,5,Mineral | OPEN | On-Air | N0PKT | 2017-01-06,37.2
+12,WA0JS,146.925,-,0.6,,88.5,88.5,23,23,NN,FM,5,"Mineral | OPEN | Off-Air | Creede ARC | CCARC | 2012-11-12
+    Please help us confirm this repeater!",42.4
+13,K0EP,146.7,-,0.6,TSQL,100,100,23,23,NN,FM,5,La Plata | OPEN | On-Air | Durango ARC | CCARC | 2018-01-16,44.6
+14,N0SZ,445.1375,-,5,,88.5,88.5,23,23,NN,DIG,5,La Plata | OPEN | On-Air | K2AD | CCARC | 2018-02-01,45.7
+15,K0EP,146.67,-,0.6,Tone,100,88.5,23,23,NN,FM,5,La Plata | OPEN | On-Air | Durango ARC | CCARC | 2017-11-30,45.9
+16,KB0VJJ,147.345,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,La Plata | OPEN | On-Air | Colorado Connection | CCARC | 2016-06-20,46.8
+17,KB5ITS,442.375,+,5,Tone,100,88.5,23,23,NN,FM,5,Montezuma | OPEN | On-Air | San Juan Connection | 2017-11-30,52.7
+18,K0EP,449.85,-,5,TSQL,100,100,23,23,NN,FM,5,"La Plata | OPEN | On-Air | DARC | CCARC | 2014-06-04
+    Please help us confirm this repeater!",52.9
+19,KC5EVE,448.625,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,La Plata | OPEN | KC5EVE | CCARC | 2016-01-12,52.9
+20,KB0VIU,145.37,-,0.6,TSQL,100,100,23,23,NN,FM,5,La Plata | OPEN | On-Air | CCARC | 2018-01-15,53.6
+21,KB5ITS,147.135,+,0.6,TSQL,100,100,23,23,NN,FM,5,La Plata | OPEN | On-Air | CCARC | 2018-01-15,54.1
+22,W0VTL,147.12,+,0.6,,88.5,88.5,23,23,NN,FM,5,"Gunnison | OPEN | On-Air | W0VTL | CCARC | 2014-09-01
+    Please help us confirm this repeater!",54.3
+23,K5GF,449.95,-,5,,88.5,88.5,23,23,NN,FM,5,"Gunnison | OPEN | K5GF | CCARC | 2012-11-10
+    Please help us confirm this repeater!",54.3
+24,KB5ITS,145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Montezuma | OPEN | On-Air | CCARC | 2018-01-15,57.5
+25,N5UBJ,446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,Montezuma | OPEN | On-Air | RMHAM | CCARC | 2017-03-17,57.7
+26,KI0MR,147.33,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Delta | OPEN | On-Air | North Fork Repeater Assoc. | CCARC | 2016-05-16,58.6
+27,KB5ITS,145.19,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Montezuma | OPEN | On-Air | CCARC | 2018-01-15,59.3
+28,KB5ITS,447.275,-,5,Tone,100,88.5,23,23,NN,FM,5,Montezuma | OPEN | On-Air | 2017-12-07,59.3
+29,KC0QXX,147.195,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Delta | OPEN | 2018-04-04,62.3
+30,W0ALC,449.825,-,5,Tone,100,88.5,23,23,NN,FM,5,Delta | OPEN | W0ALC | CCARC | 2018-04-04,62.3
+31,W0ALC,147.36,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"Delta | OPEN | W0ALC | CCARC | 2012-11-10
+    Please help us confirm this repeater!",62.3
+32,KB5ITS,147.15,+,0.6,Tone,100,88.5,23,23,NN,FM,5,La Plata | OPEN | On-Air | CCARC | 2018-01-16,62.8
+33,KB0YNA,449.4,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"Mesa | OPEN | On-Air | WA4HND, Grand Mesa Repeater Association | CCARC | 2016-08-19",65.3
+34,N0JSP,146.61,-,0.6,Tone,123,88.5,23,23,NN,FM,5,Archuleta | OPEN | On-Air | CCARC | 2018-01-15,65.3
+35,KD5LWU,146.79,-,0.6,TSQL,127.3,127.3,23,23,NN,FM,5,Montezuma | OPEN | On-Air | KD5LWU | CCARC | 2015-04-30,68.3
+36,KD5LWU,449.175,-,5,Tone,127.3,88.5,23,23,NN,FM,5,"Montezuma | OPEN | Off-Air | KD5LWU | CCARC | 2014-06-30
+    Please help us confirm this repeater!",68.3
+37,,447.35,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Delta | OPEN | Grand Mesa Repeater Assoc (GMRA) | CCARC | 2012-11-10
+    Please help us confirm this repeater!",69.1
+38,KB0YNA,447.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,Gunnison | OPEN | On-Air | KB0YNA | CCARC | 2016-10-28,73.5
+39,KB0VJJ,145.355,-,0.6,TSQL,88.5,123,23,23,NN,FM,5,Mesa | OPEN | On-Air | Colorado Connection | CCARC | 2017-01-06,73.5
+40,KB0YNA,449.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,Mesa | OPEN | On-Air | Keri Washburn | CCARC | 2016-10-28,73.5
+41,NM5SJ,147.06,+,0.6,Tone,100,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | NMFCC | 2018-01-07,74.8
+42,W0GJT,448.15,-,5,Tone,100,88.5,23,23,NN,FM,5,Mesa | OPEN | On-Air | CCARC | 2016-04-22,75.2
+43,WA4HND,449.3,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Mesa | OPEN | On-Air | CCARC | 2018-01-16,77.9
+44,W0BX,446.9125,-,5,,88.5,88.5,23,23,NN,DIG,5,Mesa | OPEN | On-Air | Bill Frost | 2018-01-09,79.5
+45,NM5SJ,145.43,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,Rio Arriba | OPEN | On-Air | SJC EMCOMM | NMFCC | 2017-08-25,83.8
+46,N5UBJ,442.25,+,5,,88.5,88.5,23,23,NN,DIG,5,San Juan | OPEN | On-Air | NMFCC | 2018-01-21,84.8
+47,KB5ITS,146.88,-,0.6,Tone,100,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | NMFCC | 2018-01-15,84.8
+48,KB5ITS,447.45,-,5,Tone,107.2,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | KB5ITS | NMFCC | 2017-07-19,84.8
+49,NM5SJ,146.74,-,0.6,Tone,100,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | Totah ARC | NMFCC | 2017-07-19,84.8
+50,KB0SW,449.5,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Mesa | OPEN | Off-Air | Grand Mesa Repeater Association (GMRA) | CCARC | 2016-07-01,85.6
+51,KB0VJJ,147.355,-,0.6,TSQL,88.5,123,23,23,NN,FM,5,Mesa | OPEN | On-Air | Colorado Connection | CCARC | 2017-01-06,86
+52,KE0TY,145.22,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Mesa | OPEN | KE0TY | CCARC | 2012-11-12
+    Please help us confirm this repeater!",86.2
+53,KD0RED,446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,"Mesa | OPEN | On-Air | 2014-08-16
+    Please help us confirm this repeater!",86.2
+54,KC0ARV,447.5,-,5,Tone,114.8,88.5,23,23,NN,FM,5,"Mesa | OPEN | KC0ARV | CCARC | 2012-11-10
+    Please help us confirm this repeater!",86.2
+55,K0SSI,147.105,+,0.6,,88.5,88.5,23,23,NN,FM,5,"Mesa | OPEN | On-Air | K0SSI | CCARC | 2013-04-20
+    Please help us confirm this repeater!",86.2
+56,KB0SW,449,-,5,TSQL,88.5,107.2,23,23,NN,FM,5,Mesa | CLOSED | On-Air | KB0SW | CCARC | 2015-08-03,86.2
+57,KE0TY,147.39,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Mesa | OPEN | KE0TY | CCARC | 2012-11-10
+    Please help us confirm this repeater!",86.2
+58,KD0SMZ,449.775,-,5,TSQL,173.8,88.5,23,23,NN,FM,5,Mesa | OPEN | On-Air | CCARC | 2015-10-25,86.2
+59,W0GJT,146.82,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Mesa | OPEN | On-Air | CCARC | 2016-04-22,86.2
+60,N0KM,447.1,-,5,Tone,77,88.5,23,23,NN,FM,5,Saguache | OPEN | On-Air | 2017-12-13,86.9
+61,N0KM,146.64,-,0.6,TSQL,77,77,23,23,NN,FM,5,Rio Grande | OPEN | On-Air | 2016-12-25,87.2
+62,KF5VBE,145.115,-,0.6,,88.5,88.5,23,23,NN,DIG,5,San Juan | OPEN | On-Air | 2018-01-29,87.5
+63,KF5VBE,1291.1,-,20,,88.5,88.5,23,23,NN,DIG,5,Bernalillo | CLOSED | On-Air | San Juan County | NMFCC | 2018-02-02,87.5
+64,W0RRZ,145.175,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Mesa | OPEN | On-Air | CCARC | 2016-05-11,88.5
+65,K0CL,146.67,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Pitkin | OPEN | On-Air | Ski Country ARC | CCARC | 2012-11-10
+    Please help us confirm this repeater!",91.3
+66,K0VQ,447.05,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,"Pitkin | OPEN | On-Air | Roaring Fork Amateur Repeater Cooperative | CCARC | 2012-11-10
+    Please help us confirm this repeater!",91.8
+67,K5WXI,146.92,-,0.6,Tone,100,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | San Juan County OEM | NMFCC | 2017-08-25,92.2
+68,KB5ITS,448.65,-,5,Tone,127.3,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | NMFCC | 2018-01-07,92.2
+69,WA4HND,449.575,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,Mesa | OPEN | On-Air | CCARC | 2018-01-15,92.6
+70,W0RRZ,146.94,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Mesa | OPEN | On-Air | Western Colorado Amateur Radio Club | CCARC | 2016-05-11,92.6
+71,W0LSD,146.745,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Chaffee | OPEN | Off-Air | CLARA | CCARC | 2018-03-12,92.9
+72,N5UBJ,442.325,+,5,,88.5,88.5,23,23,NN,DIG,5,San Juan | OPEN | On-Air | NMFCC | 2018-01-19,94.4
+73,K5WXI,146.85,-,0.6,TSQL,100,100,23,23,NN,FM,5,"San Juan | OPEN | On-Air | Totah ARC | NMFCC | unverified.
+  
+   Please help us confirm this repeater!",94.4
+74,KB5ITS,147,+,0.6,Tone,100,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | NMFCC | 2017-11-30,94.4
+75,KB5ITS,146.76,-,0.6,TSQL,100,100,23,23,NN,FM,5,San Juan | OPEN | On-Air | NMFCC | 2018-01-15,94.4
+76,KB5ITS,53.01,-,1,Tone,131.8,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | KB5ITS | NMFCC | 2017-07-02,94.4
+77,KF5VBF,444.15,+,5,,88.5,88.5,23,23,NN,DIG,5,San Juan | OPEN | On-Air | San Juan County | 2018-02-02,94.4
+78,K5WY,449,-,5,Tone,100,88.5,23,23,NN,FM,5,"San Juan | OPEN | K5WY | NMFCC | unverified.
+  
+   Please help us confirm this repeater!",94.4
+79,WZ0N,449.925,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Chaffee | OPEN | On-Air | CCARC | 2013-07-05
+    Please help us confirm this repeater!",94.5
+80,KC0CVU,449.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Chaffee | OPEN | On-Air | CCARC | 2018-01-15,94.5
+81,K0JSC,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,Chaffee | OPEN | On-Air | CCARC | 2017-03-11,94.7
+82,KB0VJJ,147.285,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,Chaffee | OPEN | On-Air | Colorado Connection | CCARC | 2016-05-23,95
+83,KC0CVU,145.295,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Chaffee | OPEN | On-Air | Cheyenne Mtn Repeater Group | CCARC | 2015-01-30
+    Please help us confirm this repeater!",95
+84,KF5VBD,1292.3,-,20,,88.5,88.5,23,23,NN,DIG,5,San Juan | CLOSED | On-Air | San Juan County | NMFCC | 2018-02-02,95.1
+85,KF5VBF,1291.7,-,20,,88.5,88.5,23,23,NN,DIG,5,San Juan | CLOSED | On-Air | San Juan County | NMFCC | 2018-02-02,95.8
+86,K7QEQ,146.76,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Grand | OPEN | On-Air | Sinbad Desert ARC | UVHFS | 2017-11-04,96.1
+87,K7QEQ,449.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Grand | OPEN | On-Air | Grand Mesa Repeater Association (GMRA) | UVHFS | 2017-11-04,96.3
+88,K0ELK,449.725,-,5,Tone,179.9,88.5,23,23,NN,FM,5,"Garfield | OPEN | On-Air | Roaring Fork Amateur Repeater Cooperative (RFARC) | CCARC | 2012-11-10
+    Please help us confirm this repeater!",97.1
+89,N0SZ,446.8125,-,5,,88.5,88.5,23,23,NN,DIG,5,"Chaffee | OPEN | On-Air | RMHAM | 2015-01-13
+    Please help us confirm this repeater!",97.4
+90,KD0QPG,446.975,-,5,,88.5,88.5,23,23,NN,DIG,5,"Chaffee | OPEN | On-Air | Crestone Amateur Radio Emergency Services | CCARC | 2013-07-06
+    Please help us confirm this repeater!",97.4
+91,W5SF,147.08,+,0.6,Tone,162.2,88.5,23,23,NN,FM,5,Rio Arriba | OPEN | On-Air | SFARC | NMFCC | 2017-04-05,97.4
+92,KB5ITS,147.1,+,0.6,Tone,100,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | San Juan connection | NMFCC | 2018-01-15,97.9
+93,NM5ML,147.28,+,0.6,Tone,67,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air |  | NMFCC | 2018-01-07,98.1
+94,KI0G,447.1,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Garfield | OPEN | On-Air | Ski Country ARC | CCARC | 2012-11-10
+    Please help us confirm this repeater!",98.2
+95,N0XLI,449.6,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Garfield | OPEN | On-Air | CCARC | 2018-01-15,98.2
+96,KB0VJJ,146.85,-,0.6,TSQL,88.5,123,23,23,NN,FM,5,Garfield | OPEN | On-Air | Colorado Connection | CCARC | 2016-05-23,98.2
+97,KI0G,146.88,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Garfield | OPEN | On-Air | Ski Country ARC | CCARC | 2012-11-10
+    Please help us confirm this repeater!",98.2
+98,K7SDC,146.61,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,San Juan | OPEN | On-Air | Sinbad Desert ARC | UVHFS | 2017-04-07,98.4
+99,K7QEQ,223.94,-,1.6,,88.5,88.5,23,23,NN,FM,5,"San Juan | CLOSED | Grand Mesa Rptr Assoc | UVHFS | unverified.
+  
+   Please help us confirm this repeater!",98.4
+100,K7QEQ,447.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,San Juan | OPEN | On-Air | Grand Mesa Repeater Association (GMRA) | UVHFS | 2017-04-07,98.4
+101,K7QEQ,447.4,-,5,,88.5,88.5,23,23,NN,FM,5,"San Juan | CLOSED | UVHFS | unverified.
+  
+   Please help us confirm this repeater!",98.4
+102,WA4HND,449.8,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Garfield | OPEN | On-Air | CCARC | 2018-01-15,100.9
+103,K0VQ,447.15,-,5,Tone,136.5,88.5,23,23,NN,FM,5,"Garfield | OPEN | On-Air | 2011-08-01
+    Please help us confirm this repeater!",101.7
+104,K7QEQ,146.9,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Grand | OPEN | On-Air | Sinbad Desert ARC | UVHFS | 2015-03-29
+    Please help us confirm this repeater!",108.7
+105,WZ0N,448.575,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,Park | OPEN | Off-Air | CCARC | 2017-11-22,111.3
+106,N0ZSN,147.24,+,0.6,TSQL,156.7,156.7,23,23,NN,FM,5,Lake | OPEN | Off-Air | CCARC | 2016-06-30,112.8
+107,N0SZ,445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,Adams | OPEN | On-Air | K2AD | CCARC | 2018-02-01,117.6
+108,KB0VJJ,145.445,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Lake | OPEN | On-Air | Colorado Connection | CCARC | 2013-06-14
+    Please help us confirm this repeater!",118.3
+109,N0SZ,446.7625,-,5,,88.5,88.5,23,23,NN,DIG,5,Park | OPEN | On-Air | K7PFJ | 2017-03-11,120.4
+110,KF5PFO,146.76,-,0.6,Tone,67,88.5,23,23,NN,FM,5,Rio Arriba | OPEN | On-Air | Taos ARC | 2016-04-30,121.2
+111,NM5ML,147.22,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Rio Arriba | OPEN | On-Air | New Mexico Mega Link Assoc | NMFCC | 2017-01-23,121.2
+112,WZ0N,447.125,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Park | OPEN | On-Air | WZ0N | CCARC | 2013-07-05
+    Please help us confirm this repeater!",122.5
+113,NM5EM,145.175,-,0.6,Tone,141.3,88.5,23,23,NN,FM,5,Taos | OPEN | Off-Air | NMEMA ARC | NMFCC | 2017-01-16,133.4
+114,KB0VJJ,147.39,+,0.6,TSQL,88.5,123,23,23,NN,FM,5,"Summit | OPEN | On-Air | Colorado Connection | CCARC | 2015-01-30
+    Please help us confirm this repeater!",134.4
+115,N0SZ,445.0875,-,5,,88.5,88.5,23,23,NN,DIG,5,Fremont | OPEN | On-Air | K2AD | 2018-02-01,134.8
