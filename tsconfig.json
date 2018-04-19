@@ -9,8 +9,6 @@
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
     "preserveConstEnums": true,
-    "noEmitHelpers": true,
-    "importHelpers": true,
     "pretty": true,
     "strict": true
   }

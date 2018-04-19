@@ -267,8 +267,12 @@
     }
     const totalRepeaters = [];
     exports.default = [
-        getit(80203, 100),
-        getit(80920, 100),
+        getit('Colorado Springs, CO', 50, totalRepeaters, 'i-25'),
+        getit('Monument, CO', 50, totalRepeaters, 'i-25'),
+        getit('Larkspur, CO', 50, totalRepeaters, 'i-25'),
+        getit('Castle Rock, CO', 50, totalRepeaters, 'i-25'),
+        getit('Centennial, CO', 50, totalRepeaters, 'i-25'),
+        getit('Denver, CO', 50, totalRepeaters, 'i-25'),
     ];
 });
 //# sourceMappingURL=repeater-from-site.js.map
