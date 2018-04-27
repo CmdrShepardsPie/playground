@@ -108,7 +108,7 @@
                 return cache;
             }
             else {
-                const request = (await helper_1.wait(Math.random() * 60000, () => axios_1.default.get(url)));
+                const request = (await helper_1.wait(Math.random() * 1000, () => axios_1.default.get(url)));
                 // console.log('request', request);
                 const data = request.data;
                 await this.setCache(cacheKey || url, data);

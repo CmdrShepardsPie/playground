@@ -104,7 +104,7 @@ export default class Scraper {
       console.log('Cached', cacheKey || url);
       return cache;
     } else {
-      const request: any = (await wait(Math.random() * 60000, () => axios.get(url)));
+      const request: any = (await wait(Math.random() * 1000, () => axios.get(url)));
       // console.log('request', request);
       const data = request.data;
       await this.setCache(cacheKey || url, data);
