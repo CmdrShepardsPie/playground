@@ -34,7 +34,7 @@
     "tslint": "^5.9.1",
     "tslint-config-standard": "^7.0.0",
     "tslint-eslint-rules": "^5.1.0",
-    "typescript": "^2.8.1"
+    "typescript": "^2.8.3"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
@@ -44,8 +44,8 @@
     "@types/express-session": "^1.15.8",
     "@types/htmlparser2": "^3.7.31",
     "@types/jsdom": "^11.0.4",
-    "@types/node": "^9.6.5",
-    "@types/passport": "^0.4.4",
+    "@types/node": "^9.6.6",
+    "@types/passport": "^0.4.5",
     "@types/passport-local": "^1.0.33",
     "@types/passport-strategy": "^0.2.33",
     "@types/request": "^2.47.0",

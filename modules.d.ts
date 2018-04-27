@@ -16,7 +16,7 @@ declare module 'csv-parse/lib/sync' {
   export = _;
 }
 
-declare module 'csv-stringify/lib/sync' {
+declare module 'csv' {
   const _: any;
   export = _;
 }
