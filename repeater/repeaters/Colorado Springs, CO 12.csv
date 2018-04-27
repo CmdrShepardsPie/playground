@@ -1,0 +1,177 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Coverage,Coordination,Last update,Downlink Tone,Sponsor,Features,Links,Notes,Nets,Feed,Affiliate,EchoLink,IRLP,Web links,YSF Digital Enabled,DG-ID,Mixed-Mode,On-air,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Colorado,Southern Colorado,D-STAR Enabled,Node,Sources,AllStar,Worldwide,North America,Local/Cluster
+448.25,-5,123,N0KG,"Colorado Springs, Broadmoor Area",CO,OPEN,,0,ESE,,448.25,443.25,123,El Paso,On-Air,Colorado Springs,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.025,-5,123,KF0WF,Colorado Springs,CO,OPEN,,0,ESE,,447.025,442.025,123,El Paso,Off-Air,,CCARC,,,Colorado Springs ARA,"Closed autopatch, e-power, linked, remote base.",,,,,,,,,,,,,,,,,,,,,,,,,,
+449.575,-5,,,Colorado Springs,CO,CLOSED,,0,ESE,,449.575,444.575,,El Paso,On-Air,,CCARC,,,RMHARC,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.06,-1.6,,KB0SRJ,Colorado Springs,CO,CLOSED,,0,ESE,,224.06,222.46,,El Paso,,Wide area.,CCARC,,,Pikes Peak FM Association (PPFMA),"E-power, linked.",,,,,,,,,,,,Unknown,,,,,,,,,,,,,,
+448.6,-5,114.8,W0MOG,Colorado Springs,CO,OPEN,,0,ESE,,448.6,443.6,114.8,El Paso,,,CCARC,,,W0MOG,,"Full-time to  
+        927.80000 (W0MOG) at Colorado Springs, CO .",,,,,,,,,,,Unknown,,,,,,,,,,,,,,
+448.3,-5,100,AA0L,Colorado Springs,CO,OPEN,,0,ESE,,448.3,443.3,100,El Paso,On-Air,,CCARC,,,AA0L,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.475,-5,107.2,NX0G,Colorado Springs,CO,OPEN,,0,ESE,,447.475,442.475,107.2,El Paso,,,CCARC,,,Mountain ARC (MARC),"Closed autopatch, e-power.","Full-time to  
+        146.68500 (NX0G) at Lake George, Badger Mountain, CO .
+ 
+
+
+Full-time to  
+        146.82000 (NX0G) at Woodland Park, CO .
+ 
+
+
+Full-time to  
+        448.65000 (NX0G) at Woodland Park, CO .
+ 
+
+
+Full-time to  
+        147.01500 (NX0G) at Cripple Creek, CO .",,MARC/PCRC: Tue at 1930.,,,,,,,,,Unknown,,,,,,,,,,,,,,
+447.55,-5,123,WA6IFI,Colorado Springs,CO,OPEN,,0,ESE,,447.55,442.55,123,El Paso,On-Air,,CCARC,,,WA6IFI,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.8,-25,D116,W0MOG,Colorado Springs,CO,OPEN,,0,ESE,,927.8,902.8,D116,Teller,On-Air,,CCARC,,,,6,"Full-time to  
+        448.60000 (W0MOG) at Colorado Springs, CO .",,,,,,,,,,,,,,,,,,,,,,,,,
+447.35,-5,151.4,K0IRP,Colorado Springs,CO,OPEN,,0,ESE,,447.35,442.35,151.4,El Paso,On-Air,,CCARC,,,GGARC,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.91,-0.6,151.4,K0IRP,Colorado Springs,CO,OPEN,,0.3,N,,146.91,146.31,151.4,El Paso,On-Air,,CCARC,,151.4,GGARC,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.27,0.6,,,Colorado Springs,CO,OPEN,,0.3,N,,147.27,147.87,,El Paso,On-Air,,,,,TRA,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.85,-0.6,103.5,W0RSH,Colorado Springs,CO,OPEN,,0.3,N,,146.85,146.25,103.5,El Paso,On-Air,,CCARC,,,W0RSH,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.39,0.6,103.5,W0MOG,Colorado Springs,CO,OPEN,,0.3,N,,147.39,147.99,103.5,El Paso,On-Air,,CCARC,,,W0MOG,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.135,0.6,100,AA0L,Colorado Springs,CO,OPEN,,1.2,E,,147.135,147.735,100,El Paso,On-Air,,CCARC,,,AA0L,6,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.725,-5,123,KA0TTF,"Colorado Springs, Fillmore Hill",CO,OPEN,,4,SSW,,448.725,443.725,123,El Paso,On-Air,,CCARC,,,KA0TTF,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.72,-1.6,103.5,W0MOG,Colorado springs,CO,OPEN,,4.7,NNE,,224.72,223.12,103.5,El Paso,On-Air,Local,,,103.5,w0mog,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.13,-1.7,107.2,WA6IFI,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,6.5,SSW,,53.13,51.43,107.2,El Paso,On-Air,,CCARC,,107.2,Cheyenne Mountain Repeater Group (CMRG),,,,,,,,,http://www.cmrg.org,,,,,,,,,,,,,,,,,,
+445.0625,-5,CC1,N0SZ,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,6.5,SSW,,445.0625,440.0625,,El Paso,Off-Air,,CCARC,,,Rocky Mountain Ham Radio,The DMR-MARC Worldwide Network,,,,,,,,,,,,,,1,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1      North America  1  3      Local/Cluster  2  2    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,,,,,1,1,2
+446.9125,-5,,KC0CVU,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,6.5,SSW,,446.9125,441.9125,,El Paso,On-Air,,,,,Cheyenne Mountain Repeater Group (CMRG),,,,,,,,,,,,,,,,,,,,,,KC0CVU (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,
+927.85,-25,D114,KC0CVU,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,6.5,SSW,,927.85,902.85,D114,Teller,On-Air,,CCARC,,,CMRG,9,"Full-time to  
+        147.34500 (KC0CVU) at Colorado Springs, Cheyenne Mountain, CO .
+ 
+
+
+Full-time to  
+        448.10000 (KC0CVU) at Colorado Springs, Cheyenne Mountain, CO .",,,,,,,http://www.cmrg.org,,,,,,,,,,,,,,,,,,
+145.13,-0.6,88.5,KB0VJJ,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,6.5,SSW,,145.13,144.53,88.5,El Paso,On-Air,Wide area: South toward Pueblo and north to Monument. Decent coverage to the east. Little coverage to the west.,CCARC,,123,Colorado Connection,9,Full-time to the  Colorado Connection System .,Linked into the Colorado Connection System,"Colorado Traffic Net: Daily at 19:00. 
+Colorado Connection Net (all welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00. 
+Colorado Preparedness Net: Sat at 09:30",Listen Live,,,,,,,,,,,,,,,,,,,,,,
+145.375,-0.6,,KC0CVU,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,6.6,SSW,,145.375,144.77,,El Paso,On-Air,wide area,CCARC,,,Cheyenne Mountain Repeater Group (CMRG),,,,,,,,,http://www.cmrg.org,,,,,,,,,,,,,KC0CVU (C) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,
+146.76,-0.6,107.2,KC0CVU,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,7.4,SSW,,146.76,146.16,107.2,El Paso,On-Air,,CCARC,,107.2,Cheyenne Mountain Repeater Group,"Closed autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,
+145.16,-0.6,107.2,W0CRA,"Colorado Springs, Cheyenne Mountain",CO,OPEN,EI,7.4,SSW,,145.16,144.56,107.2,El Paso,On-Air,"Wide area: Colorado Springs, Pueblo, and other areas of southeast and south central Colorado.",CCARC,,107.2,Colorado Repeater Association,"Closed autopatch, e-power.","Full-time to  
+        145.46000 (W0CRA) at Boulder, Eldorado Mountain, CO .
+ 
+
+
+Full-time to  
+        147.22500 (W0CRA) at Larkspur, Westcreek, CO .",Switch to this repeater at mile marker 170 on I-25.,,,CRA VHF Link System,347086,3990,http://www.w0cra.org/info/cosprgs.html#145160,,,,,,,,,,,,,,,,,,
+448,-5,107.2,KC0CVU,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,7.4,SSW,,448,443,107.2,El Paso,On-Air,,CCARC,,,,,,,,,,,,CMRG Repeaters,,,,,,,,,,,,,,,,,,
+448.1,-5,107.2,KC0CVU,"Colorado Springs, Cheyenne Mountain",CO,OPEN,,7.4,SSW,,448.1,443.1,107.2,El Paso,On-Air,Wide area.,CCARC,,107.2,,"Closed autopatch, e-power.","Full-time to  
+        927.85000 (KC0CVU) at Colorado Springs, Cheyenne Mountain, CO .",,,,,,,CMRG Repeaters,,,,,,,,,,,,,,,,,,
+147.345,0.6,107.2,KC0CVU,"Colorado Springs, Cheyenne Mountain",CO,OPEN,I,7.4,SSW,,147.345,147.945,107.2,El Paso,On-Air,Wide area.,CCARC,,107.2,,"Closed autopatch, e-power.","Full-time to  
+        927.85000 (KC0CVU) at Colorado Springs, Cheyenne Mountain, CO .
+ 
+
+
+Full-time to the  Cheyenne Mtn Repeater Group System .",,,,,,3854,http://www.cmrg.org/,,,,,,,,,,,,,,,,,,
+147.18,0.6,100,AA0SP,"Colorado Springs, Almagre Mountain",CO,PRIVATE,,10.2,WSW,,147.18,147.78,100,El Paso,On-Air,"Located on South Almagre Mountain at 12,367 feet, it provides excellent coverage of nearly all of El Paso County and points east, along with coverage extending south past Pueblo. Locations very close in to the Front Range, or in the shadow of Cheyenne Mountain are not covered well. Since this peak is shorter than Pikes Peak its coverage to the north is not as good as Pikes Peak, although there are points northeast of Colorado Springs where there is coverage.",CCARC,,,AA0SP,E-power (solar).,,This repeater is available for public service oriented communications with prior coordination. Contact Mike Proctor KB0IAP to coordinate its use.,,,,,,,,,,,,,,,,,,,,,,,,
+145.265,-0.6,100,KB0SRJ,Colorado Springs,CO,OPEN,,10.2,SSW,,145.265,144.665,100,El Paso,Off-Air,Local. Good coverage of I25 in Colorado Springs.,CCARC,,100,Pikes Peak FM Association,"Closed autopatch, e-power.",,Repeater has been moved.,,,,,,PPFMA Repeaters,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,,,,,,
+448.8,-5,100,KB0SRJ,"Colorado Springs, UCCS",CO,OPEN,,10.2,SSW,,448.8,443.8,100,El Paso,Off-Air,,CCARC,,100,Pikes Peak FM Assoc,,,,,,,,,PPFMA Repeaters,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,,,,,,
+446.95,-5,CC7,K7PFJ,"Colorado Springs, Almagre Mountain",CO,OPEN,,10.2,WSW,,446.95,441.95,,Teller,On-Air,Monument Hill through Pueblo.,,,,Rocky Mountain Ham Radio,,"Full-time to  
+        446.98750 (N0SZ) at Boulder, Lee Hill, CO .",,,,RMHAM,,,,,,,,,7,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700      Southern Colorado  2  719    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,,,,,,,
+927.725,-25,D114,WA6IFI,"Colorado Springs, Almagre Mountain",CO,OPEN,,10.2,WSW,,927.725,902.725,D114,Teller,On-Air,"Wide area: Along I-25 from Raton Pass to Pueblo, really solid from Pueblo through Colorado Springs, to Castle Rock, and spotty from Castle Rock north through Denver.  50 mi radius.",CCARC,,D114,WA6IFI,12,"Full-time to  
+        449.42500 (N0ZUQ) at Fort Collins, Christ Mountain, CO .
+ 
+
+
+Full-time to  
+        927.87500 (N0ZUQ) at Fort Collins, Christ Mountain, CO .",,,,,,,Yahoo Group,,,,,,,,,,,,,,,,,,
+448.45,-5,100,KB0SRJ,"Colorado Springs, Pikes Peak",CO,OPEN,,11.9,W,,448.45,443.45,100,El Paso,On-Air,Wide area.,CCARC,,,Pikes Pk FM Assoc,E-power.,"Linkable to  
+        146.97000 (KB0SRJ) at Colorado Springs, Pikes Peak, CO .",,,,,,,PPFMA Repeaters,,,,,,,,,,,,,,,,,,
+146.97,-0.6,100,KB0SRJ,"Colorado Springs, Pikes Peak",CO,OPEN,,11.9,W,,146.97,146.37,100,El Paso,On-Air,"Wide area. line-of-sight coverage to pretty much the entire prairie of Colorado, from the mountains eastward to Kansas, with signal as far as New Mexico and Wyoming depending on where you are.",CCARC,,123,Pikes Peak FM Assoc,"Closed autopatch, e-power.","Linkable to  
+        448.45000 (KB0SRJ) at Colorado Springs, Pikes Peak, CO .",,"Southern Colorado Traffic: Daily at 2000. 
+Midday Severe Weather: Daily 1230 - 1240. 
+PPFMA Weekly Info: Sun at 2030. 
+ARES: Tue at 1900. 
+SKYWARN.",,,,,PPFMA Repeaters,,,,,,,,,,,,,,,,,,
+447.2,-5,151.4,,Falcon,CO,OPEN,,13.3,E,,447.2,442.2,,El Paso,Testing,"Falcon, Black Forest, Peyton Areas",,,,GGARC,,,,,,Garden of the Gods Amateur Radio Club,,,,,Open ↑ / Open ↓,,,,,,,,,,,,,,,,
+449.025,-5,141.3,KA0WUC,Woodland Park,CO,OPEN,,16.8,NW,,449.025,444.025,141.3,Teller,,,CCARC,,,Mountain Amateur Radio Club (MARC),Linked.,,,,,,,,,,,,Unknown,,,,,,,,,,,,,,
+449.325,-5,103.5,KA4EPS,"Woodland Park, Paradise Pines",CO,OPEN,A,16.8,NW,,449.325,444.325,103.5,Teller,On-Air,"Small coverage repeater node covering Woodland Park, CO when not linked. When linked to the Florida hub, coverage from Key West to Port. St John Florida can be expected.",CCARC,,103.5,KA4EPS,E-power. Allstar Node 27976,,Node # 27976,"Sunday 1500 MST
+Tuesday 1730 MST",,Amateur Radio Motorcycle Club,,,,,,,,,,,,,,,,,,27976,,,
+145.415,-0.6,179.9,KA0WUC,Woodland Park,CO,OPEN,,16.8,NW,,145.415,144.815,179.9,Teller,,,CCARC,,,MARC,"Closed autopatch, e-power.",,,,,,,,,,,,Unknown,,,,,,,,,,,,,,
+448.65,-5,107.2,NX0G,Woodland Park,CO,OPEN,,16.8,NW,,448.65,443.65,107.2,Teller,On-Air,,CCARC,,,Mountain ARC (MARC),E-power.,"Full-time to  
+        146.68500 (NX0G) at Lake George, Badger Mountain, CO .
+ 
+
+
+Full-time to  
+        146.82000 (NX0G) at Woodland Park, CO .
+ 
+
+
+Full-time to  
+        147.01500 (NX0G) at Cripple Creek, CO .
+ 
+
+
+Full-time to  
+        447.47500 (NX0G) at Colorado Springs, CO .",,MARC/PCRC: Tue at 19:30.,,MARC,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,107.2,NX0G,Woodland Park,CO,OPEN,,16.8,NW,,146.82,146.22,107.2,Teller,On-Air,,CCARC,,,Mountain ARC,E-power.,"Full-time to  
+        146.68500 (NX0G) at Lake George, Badger Mountain, CO .
+ 
+
+
+Full-time to  
+        448.65000 (NX0G) at Woodland Park, CO .
+ 
+
+
+Full-time to  
+        447.47500 (NX0G) at Colorado Springs, CO .
+ 
+
+
+Full-time to  
+        147.01500 (NX0G) at Cripple Creek, CO .",,MARC/PCRC: Tue at 19:30.,,,,,,,,,,,,,,,,,,,,,,,
+447.675,-5,179.9,KA0WUC,Woodland Park,CO,OPEN,,16.8,NW,,447.675,442.675,179.9,Teller,On-Air,,CCARC,,179.9,Mountain Amateur Radio Club (MARC),E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.9,-25,D205,KA0WUC,Woodland Park,CO,OPEN,,16.8,NW,,927.9,902.9,D205,Teller,On-Air,,CCARC,,D205,MARC,,,,,,,,,,,,,,,,,,,,,,,,,,,

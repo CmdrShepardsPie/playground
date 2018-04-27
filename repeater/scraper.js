@@ -25,10 +25,11 @@
             this.distance = distance;
             this.data = [];
             this.url = `https://www.repeaterbook.com/repeaters/prox_result.php?city=${encodeURIComponent(location.toString())}&distance=${distance}&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`;
-            console.log('new Scraper', location, distance);
+            console.log();
+            // console.log('new Scraper', location, distance);
         }
         async process() {
-            console.log('Getting', this.url);
+            // console.log('Getting', this.url);
             const page = await this.getUrl(this.url, `${this.location} ${this.distance}.html`);
             const dom = new jsdom_1.JSDOM(page);
             await this.getRepeaterList(dom.window.document);
@@ -70,7 +71,7 @@
         }
         async getRepeaterDetails(href) {
             // console.log();
-            console.log('Getting', href);
+            // console.log('Getting', href);
             const key = href.split('?')[1];
             const page = await this.getUrl(`https://www.repeaterbook.com/repeaters/${href}`, `${key}.html`);
             const dom = new jsdom_1.JSDOM(page);
@@ -103,6 +104,7 @@
             // console.log('getUrl', url);
             const cache = await this.getCache(cacheKey || url);
             if (cache) {
+                console.log('Cached', cacheKey || url);
                 return cache;
             }
             else {
@@ -110,6 +112,7 @@
                 // console.log('request', request);
                 const data = request.data;
                 await this.setCache(cacheKey || url, data);
+                console.log('Downloaded', cacheKey || url);
                 return data;
             }
         }

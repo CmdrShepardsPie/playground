@@ -1,0 +1,81 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Sponsor,Coordination,Last update,Uplink Tone,Downlink Tone,Coverage,Affiliate,Features,Links,EchoLink,IRLP,Commands,Web links,Grid,Notes,RX Location,Gunbarrel,Lousville,Lyons,Louisville #2,Nets,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Worldwide,North America,Local/Cluster
+446.8625,-5,,KC0DS,Boulder,CO,OPEN,,0,W,,446.8625,441.8625,,KC0DS (B),"jfindu lookup 
+    /   dstar-users lookup",Boulder,On-Air,Boulder County ARES,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1299.5,-20,,W0DK,Boulder,CO,OPEN,,0,W,,1299.5,1279.5,,W0DK (A) DVAP 24/7,"jfindu lookup 
+    /   dstar-users lookup",Boulder,On-Air,Boulder County ARES,CCARC,,,,,,E-power.,,,,,,,,,,,,,,,,,,,,,
+449.55,-5,100,W0IA,Boulder,CO,OPEN,E,0,ESE,,449.55,444.55,,,,Boulder,On-Air,Rocky Mtn VHF Soc,CCARC,,100,,Denver metro area.,,8,"Full-time to  
+        224.02000 (W0IA) at Boulder, Lee Hill, CO .",217336,,,,,,,,,,,,,,,,,,,
+449.4,-5,91.5,K0DK,Boulder,CO,OPEN,,0,ESE,,449.4,444.4,,,,Boulder,Off-Air,BARC,CCARC,,91.5,,,,2,,,,,http://www.ked-wireless.com/products1.htm,,,,,,,,,,,,,,,,
+446.8,-5,CC7,N0SZ,"Boulder, Mount Thorodin",CO,OPEN,,0,W,,446.8,441.8,,,,Boulder,On-Air,Rocky Mountain Ham Radio,CCARC,,,,Wide area.,Rocky Mountain Ham Radio,,Full-time to the  Colorado TRBO System .,,,,Rocky Mountain Ham Radio,,See website for complete information regarding timeslot/colorcode/talkgroup programming.,,,,,,,,7,,,,,,
+146.61,-0.6,100,W0DK,Boulder,CO,OPEN,I,2.5,S,,146.61,146.01,,,,Boulder,Off-Air,Boulder Amateur Radio Club,CCARC,,100,,,,,,,7007,,,,,,,,,,,,,,,,,,
+1283.8625,-20,,KC0DS,Boulder,CO,OPEN,,2.6,NE,,1283.8625,1263.8625,,KC0DS (A) Repeater,"jfindu lookup 
+    /   dstar-users lookup",Boulder,On-Air,Boulder County ARES,CCARC,,,,20,,E-power.,,,,,,,,,,,,,,,,,,,,,
+146.7,-0.6,100,W0DK,"Boulder, Table Mountain",CO,OPEN,,2.6,S,,146.7,146.1,,,,Boulder,On-Air,Boulder Co ARC,CCARC,,100,,"Wyoming border in the north, to Monument Hill (near Colorado Springs) in the south. Coverage is primarily to the east of the Rockies Front Range, as the repeater signal is blocked to the west by mountain peaks with altitudes of over 14,000 feet.",,6,,,,,BARC Repeaters,,,,,,,,,,,,,,,,
+145.3875,-0.6,,KC0DS,Boulder,CO,OPEN,,2.6,NE,,145.3875,144.7875,,KC0DS (C),"jfindu lookup 
+    /   dstar-users lookup",Boulder,On-Air,Boulder County ARES,CCARC,,,,20,,E-power.,,,,,http://bouldercountyares.org/technical/d-star,,,,,,,,,,,,,,,,
+448.9,-5,100,W0DK,"Boulder, Table Mesa",CO,OPEN,,2.6,S,,448.9,443.9,,,,Boulder,On-Air,Boulder ARC,CCARC,,100,,"Wyoming border in the north, to Monument Hill in the south, near Colorado Springs. Its coverage is primarily to the east of the Front Range of the Rockies as the repeater signal is blocked to the west by the even higher Rocky Mountain peaks with altitudes of over 14,000 feet.",,6,,,,,,,,,,,,,,,,,,,,,
+146.73,-0.6,91.5,K0DK,Boulder,CO,OPEN,E,3.3,NNE,,146.73,146.13,,,,Boulder,Off-Air,BARC,CCARC,,91.5,91.5,Local,,12,,115482,,,http://www.ked-wireless.com/products1.htm,DN70jb,,,,,,,,,,,,,,,
+224.02,-1.6,,W0IA,"Boulder, Lee Hill",CO,OPEN,E,5.9,NW,,224.02,222.42,,,,Boulder,On-Air,Rocky Mtn VHF Soc,CCARC,,,,Denver metro area.,,8,"Full-time to  
+        449.55000 (W0IA) at Boulder, CO .",217336,,,RMVHS repeaters,,,,,,,,,,,,,,,,
+446.9875,-5,CC7,N0SZ,"Boulder, Lee Hill",CO,OPEN,,5.9,NW,,446.9875,441.9875,,,,Boulder,On-Air,Rocky Mountain Ham Radio,,,,,,,Linked on Time Slot 2 to  Almagre Mtn  (446.950).,"Full-time to  
+        446.95000 (K7PFJ) at Colorado Springs, Almagre Mountain, CO .
+ 
+
+
+Full-time to the  Colorado TRBO System .",,,,,,,,,,,,,,7,,,,,,
+447.75,-5,141.3,N0SZ,"Boulder, Lee Hill",CO,OPEN,I,5.9,NW,,447.75,442.75,,,,Boulder,On-Air,Rocky Mountain Ham Radio,CCARC,,141.3,141.3,,,,,,3450,,,,,,,,,,,,,,,,,,
+145.46,-0.6,107.2,W0CRA,"Boulder, Eldorado Mountain",CO,OPEN,EI,5.9,NW,,145.46,144.86,,,,Boulder,On-Air,Colorado Repeater Association (CRA),CCARC,,107.2,107.2,Boulder/Denver Metro,CRA VHF Link System,"Closed autopatch, e-power.","Full-time to  
+        145.16000 (W0CRA) at Colorado Springs, Cheyenne Mountain, CO .
+ 
+
+
+Full-time to  
+        147.22500 (W0CRA) at Larkspur, Westcreek, CO .",347086,3990,Member-only IRLP and Echolink node,,,,,,,,,,,,,,,,,
+445.05,-5,CC1,N0SZ,"Boulder, Lee Hill",CO,OPEN,,5.9,NW,,445.05,440.05,,,,Boulder,On-Air,Rocky Mountain Ham Radio,CCARC,,,,Wide area,,The DMR-MARC Worldwide Network,,,,,,,,,,,,,,,1,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1      North America  1  3      Local/Cluster  2  2    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,2
+447.975,-5,107.2,W0CRA,"Boulder, Eldorado Mountain",CO,OPEN,,5.9,NW,,447.975,442.975,,,,Boulder,On-Air,Colorado Repeater Association (CRA),CCARC,,107.2,107.2,Wide area: Boulder/Longmont area.,,Closed autopatch.,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,100,W0IA,"Boulder, Gunbarrel Hill",CO,OPEN,,6.6,E,,146.76,146.16,,,,Boulder,On-Air,Rocky Mtn VHF Soc,CCARC,,100,,Wide area.,Boulder County ARES,5,,,,,,,"ARES primary repeater. 
+ Voting Receivers:  
+ 
+   
+    RX Location    Tone    Pitch    PL  
+   
+   Gunbarrel  single beep  low  100.0 
+   
+   Lousville  single beep  low  100.0 
+   
+   Lyons  double beep  high followed by medium  100.0 
+   
+   Louisville #2  double beep  high followed by low  100.0",Tone,single beep,single beep,double beep,double beep,,,,,,,,,
+146.91,0.6,123,W0JZ,Gold Hill,CO,OPEN,,8.1,WNW,,146.91,147.51,,,,Boulder,On-Air,,,,123,127.3,"East of Gold Hill, The Indian Peaks, Denver, Boulder","Town of Gold Hill, Colorado",,,,,,http://goldhilltown.com/,,There is a MOU With BCARES for repeater use.,,,,,,"Summer Tue at 19:30P, Winter 19:00.",,,,,,,,
+448.925,-5,131.8,W0LMA,Broomfield,CO,OPEN,,11.7,SE,,448.925,443.925,,,,Boulder,On-Air,W0LMA,CCARC,,131.8,,,,,,,,,,,,,,,,,,,,,,,,,
+449.825,-5,103.5,W0WYX,Broomfield,CO,OPEN,,11.7,SE,,449.825,444.825,,,,Boulder,On-Air,Rocky Mountain Radio League,CCARC,,103.5,,Along the foothills and into Boulder where the 94 repeater is shadowed.,,6,,,,,Repeater,,,,,,,,"Colorado WX: Daily at 06:30. 
+RMRL: Mod at 20:30. 
+Astronomy: Tue at 19:00. 
+Amateur Radio Events: Tue at 20:00.",,,,,,,,
+449.225,-5,141.3,N0SZ,"Denver, Thorodin Mountain",CO,OPEN,,12.1,SW,,449.225,444.225,,,,Gilpin,On-Air,Rocky Mountain Ham Radio (RMHR),CCARC,,141.3,141.3,Wide area.,,Emergency Power,,,,,,,"Emcomm Affiliated, Open repeater",,,,,,,,,,,,,,
+145.31,-0.6,88.5,KB0VJJ,"Boulder, Thorodin Mountain",CO,OPEN,,12.1,SW,,145.31,144.71,,,,Gilpin,On-Air,Colorado Connection,CCARC,,88.5,123,"Wide area: Cheyenne, Wyoming to the north, Monument, Colorado to the south, Limon, Colorado to the east, and the continental divide to the west.",,10,Full-time to the  Colorado Connection System .,,,,,,"Split tone.  The repeater still transmits 123.0 for those wishing to use tone squelch, you must run a split tone 88.5 TX and 123.0 RX",,,,,,"Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net (all welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00.",,,,,,,,

@@ -1,0 +1,75 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,Downlink Tone,County,Op Status,Sponsor,Coordination,Last update,Coverage,Features,Links,Nets,Web links,On-air,Affiliate,EchoLink,AllStar,Notes,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Colorado,Southern Colorado,Denver Regional,Northern Colorado
+927.9,-25,D205,KA0WUC,Woodland Park,CO,OPEN,,0,SW,,927.9,902.9,D205,D205,Teller,On-Air,MARC,CCARC,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,107.2,NX0G,Woodland Park,CO,OPEN,,0,ESE,,146.82,146.22,107.2,,Teller,On-Air,Mountain ARC,CCARC,,,E-power.,"Full-time to  
+        146.68500 (NX0G) at Lake George, Badger Mountain, CO .
+ 
+
+
+Full-time to  
+        448.65000 (NX0G) at Woodland Park, CO .
+ 
+
+
+Full-time to  
+        447.47500 (NX0G) at Colorado Springs, CO .
+ 
+
+
+Full-time to  
+        147.01500 (NX0G) at Cripple Creek, CO .",MARC/PCRC: Tue at 19:30.,,,,,,,,,,,,,,,
+449.325,-5,103.5,KA4EPS,"Woodland Park, Paradise Pines",CO,OPEN,A,0,WNW,,449.325,444.325,103.5,103.5,Teller,On-Air,KA4EPS,CCARC,,"Small coverage repeater node covering Woodland Park, CO when not linked. When linked to the Florida hub, coverage from Key West to Port. St John Florida can be expected.",E-power. Allstar Node 27976,,"Sunday 1500 MST
+Tuesday 1730 MST",,,Amateur Radio Motorcycle Club,,27976,Node # 27976,,,,,,,,,
+447.675,-5,179.9,KA0WUC,Woodland Park,CO,OPEN,,0,WNW,,447.675,442.675,179.9,179.9,Teller,On-Air,Mountain Amateur Radio Club (MARC),CCARC,,,E-power.,,,,,,,,,,,,,,,,,
+145.415,-0.6,179.9,KA0WUC,Woodland Park,CO,OPEN,,0,ESE,,145.415,144.815,179.9,,Teller,,MARC,CCARC,,,"Closed autopatch, e-power.",,,,Unknown,,,,,,,,,,,,,
+448.65,-5,107.2,NX0G,Woodland Park,CO,OPEN,,0,ESE,,448.65,443.65,107.2,,Teller,On-Air,Mountain ARC (MARC),CCARC,,,E-power.,"Full-time to  
+        146.68500 (NX0G) at Lake George, Badger Mountain, CO .
+ 
+
+
+Full-time to  
+        146.82000 (NX0G) at Woodland Park, CO .
+ 
+
+
+Full-time to  
+        147.01500 (NX0G) at Cripple Creek, CO .
+ 
+
+
+Full-time to  
+        447.47500 (NX0G) at Colorado Springs, CO .",MARC/PCRC: Tue at 19:30.,,,MARC,,,,,,,,,,,,
+449.025,-5,141.3,KA0WUC,Woodland Park,CO,OPEN,,0,ESE,,449.025,444.025,141.3,,Teller,,Mountain Amateur Radio Club (MARC),CCARC,,,Linked.,,,,Unknown,,,,,,,,,,,,,
+146.97,-0.6,100,KB0SRJ,"Colorado Springs, Pikes Peak",CO,OPEN,,10.6,S,,146.97,146.37,100,123,El Paso,On-Air,Pikes Peak FM Assoc,CCARC,,"Wide area. line-of-sight coverage to pretty much the entire prairie of Colorado, from the mountains eastward to Kansas, with signal as far as New Mexico and Wyoming depending on where you are.","Closed autopatch, e-power.","Linkable to  
+        448.45000 (KB0SRJ) at Colorado Springs, Pikes Peak, CO .","Southern Colorado Traffic: Daily at 2000. 
+Midday Severe Weather: Daily 1230 - 1240. 
+PPFMA Weekly Info: Sun at 2030. 
+ARES: Tue at 1900. 
+SKYWARN.",PPFMA Repeaters,,,,,,,,,,,,,,
+448.45,-5,100,KB0SRJ,"Colorado Springs, Pikes Peak",CO,OPEN,,10.6,S,,448.45,443.45,100,,El Paso,On-Air,Pikes Pk FM Assoc,CCARC,,Wide area.,E-power.,"Linkable to  
+        146.97000 (KB0SRJ) at Colorado Springs, Pikes Peak, CO .",,PPFMA Repeaters,,,,,,,,,,,,,,
+145.19,-0.6,131.8,N0XLF,"Palmer Lake, Monument Hill",CO,OPEN,E,12,NE,,145.19,144.59,131.8,131.8,Douglas,On-Air,N0OBA Owner,,,Wide area coverage at 8300' Pueblo to Ft. Collins+,,,Tri Lakes Net: Mon at 19:30 (except third Monday of the month which is the regular radio club meeting).,,,,10079,,,,,,,,,,,
+447.725,-5,100,K0NR,"Monument, Monument Hill",CO,OPEN,,12,NE,,447.725,442.725,100,100,El Paso,On-Air,K0NR,CCARC,,Local.,30,,,http://www.k0nr.com/wordpress/k0nr-repeater/,,,,,,,,,,,,,,
+446.875,-5,CC6,N0SZ,Westcreek,CO,OPEN,,12.4,NNW,,446.875,441.875,,,Douglas,On-Air,W0VG,CCARC,,,,Full-time to the  Colorado TRBO System .,,http://www.rmham.org,,RMHAM,,,,,6,,RMHAM,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700  Full-Time    Southern Colorado  2  719  Full-Time    Denver Regional  2  720  Full-Time    Northern Colorado  2  721  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,2,2
