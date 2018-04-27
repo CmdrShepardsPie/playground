@@ -1,2 +1,9 @@
-Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Web links,Coordination,Last update
-147.27,0.6,127.3,KB5ITS,"Ouray, Engineer Mountain",CO,OPEN,,0,ESE,,147.27,147.87,127.3,Ouray,On-Air,http://www.sjcham.com,CCARC,
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Web links,Coordination,Last update,Coverage,Features,Links,Sponsor,Downlink Tone,IRLP,Notes,Nets
+147.27,0.6,127.3,KB5ITS,"Ouray, Engineer Mountain",CO,OPEN,,0,ESE,,147.27,147.87,127.3,Ouray,On-Air,http://www.sjcham.com,CCARC,,,,,,,,,
+145.325,-0.6,127.3,KB5ITS,"Silverton, Buffalo Boy",CO,OPEN,,14.6,S,,145.325,144.725,127.3,San Juan,On-Air,http://www.sjcham.com,CCARC,,,Solar powered,,,,,,
+444,5,67,KB5ITS,"Silverton, Hazelton",CO,OPEN,,14.6,S,,444,449,67,Huerfano,On-Air,http://www.sjcham.com,,,,,,,,,,
+447.525,-5,127.3,KB5ITS,Silverton,CO,OPEN,,14.6,S,,447.525,442.525,127.3,San Juan,On-Air,,CCARC,,Wide area.,E-power.,,KB5ITS,,,,
+147.375,0.6,156.7,KB5ITS,"Silverton, Kendall Mountain",CO,OPEN,,16,S,,147.375,147.975,156.7,San Juan,On-Air,http://www.sjcham.com,CCARC,,Wide area.,13,"Part-time to  
+        146.67000 (K0EP) at Durango, Eagle Pass, CO .",,,,,
+449.7,-5,107.2,KB0YNA,"Telluride, Gray Head",CO,OPEN,I,16.5,W,,449.7,444.7,107.2,San Miguel,On-Air,,CCARC,,Wide Area via links - Western Colorado - Eastern Utah,E-power.,Full-time to the  GMRA Open System .,Grand Mesa Repeater Association ( GMRA ),107.2,3710,Closed IRLP out - Ask for a control Op,RACES: Wed at 19:30.
+147.135,-0.6,123,KB5ITS,"Lake City, Hill 71",CO,OPEN,,19.4,ESE,,147.135,146.535,123,Hinsdale,On-Air,http://www.sjcham.com,CCARC,,,E-power (solar),,,,,,

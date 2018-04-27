@@ -1,4 +1,28 @@
-Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Sponsor,Features,Coordination,Last update,Downlink Tone,Coverage,Links
-146.745,-0.6,100,W0LSD,Nathrop,CO,OPEN,,9.7,SSW,,146.745,146.145,100,Chaffee,Off-Air,CLARA,E-power.,CCARC,,,,
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Sponsor,Features,Coordination,Last update,Downlink Tone,Coverage,Links,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Colorado,Denver Regional,Affiliate
+146.745,-0.6,100,W0LSD,Nathrop,CO,OPEN,,9.7,SSW,,146.745,146.145,100,Chaffee,Off-Air,CLARA,E-power.,CCARC,,,,,,,,,,,,
 448.575,-5,103.5,WZ0N,Hartsel,CO,OPEN,,11,E,,448.575,443.575,103.5,Park,Off-Air,,,CCARC,,103.5,Western Park County,"Full-time internet linked to  
-        146.89500 (AB0PC) at Bailey, Dick Mountain, CO ."
+        146.89500 (AB0PC) at Bailey, Dick Mountain, CO .",,,,,,,,
+446.7625,-5,CC0,N0SZ,"Fairplay, Badger",CO,OPEN,,19.9,NE,,446.7625,441.7625,,Park,On-Air,K7PFJ,,,,,,,,0,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700      Denver Regional  2  720    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,RMHAM
