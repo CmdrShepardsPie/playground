@@ -1,9 +1,0 @@
-Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,DMR Enabled,Color Code,Wide Network,County,Op Status,Coverage,Sponsor,Affiliate,Links,Notes,Web links,Coordination,Last update,Features,EchoLink,D-STAR Enabled,Node,Sources
-446.8,-5,CC7,N0SZ,"Boulder, Mount Thorodin",CO,OPEN,,0,W,,446.8,441.8,,,7,,Boulder,On-Air,Wide area.,Rocky Mountain Ham Radio,Rocky Mountain Ham Radio,Full-time to the  Colorado TRBO System .,See website for complete information regarding timeslot/colorcode/talkgroup programming.,Rocky Mountain Ham Radio,CCARC,,,,,,
-446.8625,-5,,KC0DS,Boulder,CO,OPEN,,0,W,,446.8625,441.8625,,,,,Boulder,On-Air,,Boulder County ARES,,,,,CCARC,,,,,KC0DS (B),"jfindu lookup 
-    /   dstar-users lookup"
-449.4,-5,91.5,K0DK,Boulder,CO,OPEN,,0,ESE,,449.4,444.4,91.5,,,,Boulder,Off-Air,,BARC,,,,http://www.ked-wireless.com/products1.htm,CCARC,,2,,,,
-449.55,-5,100,W0IA,Boulder,CO,OPEN,E,0,ESE,,449.55,444.55,100,,,,Boulder,On-Air,Denver metro area.,Rocky Mtn VHF Soc,,"Full-time to  
-        224.02000 (W0IA) at Boulder, Lee Hill, CO .",,,CCARC,,8,217336,,,
-1299.5,-20,,W0DK,Boulder,CO,OPEN,,0,W,,1299.5,1279.5,,,,,Boulder,On-Air,,Boulder County ARES,,,,,CCARC,,E-power.,,,W0DK (A) DVAP 24/7,"jfindu lookup 
-    /   dstar-users lookup"

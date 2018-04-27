@@ -29,7 +29,7 @@
             header: true
         };
         const csv = await stringifyAsync(result, options);
-        await fs.writeFile(`repeaters/${place} ${distance}.csv`, csv);
+        await fs.writeFile(`repeaters/${place}.csv`, csv);
     }
     exports.save = save;
     exports.default = (async () => {
