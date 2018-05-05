@@ -23,11 +23,14 @@ export async function save(place: string | number, distance: number) {
   };
 
   const csv = await stringifyAsync(result, options);
-  await fs.writeFile(`repeaters/${place}.csv`, csv);
+  return Promise.all([
+    fs.writeFile(`repeaters/csv/${place}.csv`, csv),
+    fs.writeFile(`repeaters/json/${place}.json`, JSON.stringify(result))
+  ]);
 }
 
 export default (async () => {
-  for (let i = 0; i <= 200; i++) {
+  for (let i = 200; i <= 200; i++) {
     await save('Colorado Springs, CO', i);
     await save('Monument, CO', i);
     await save('Castle Rock, CO', i);
