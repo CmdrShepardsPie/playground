@@ -1,0 +1,178 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+0,KD0MRC 145.325,145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Maysville, CO"
+1,KB0YNA 447.65,447.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,"Gunnison, W Mountain or Tenderfoot Mountain"
+2,WZ0N 449.925,449.925,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Salida, Methodist Mountain"
+3,KC0CVU 449.65,449.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Salida, Methodist Mountain"
+4,K0JSC 449.975,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"Salida, Methodist Mountain"
+5,KC0CVU 145.295,145.295,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Salida, Methodist Mountain"
+6,KB0VJJ 147.285,147.285,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"Salida, Methodist Mountain"
+7,K5GF 449.95,449.95,-,5,,88.5,88.5,23,23,NN,FM,5,Gunnison
+8,W0VTL 147.12,147.12,+,0.6,,88.5,88.5,23,23,NN,FM,5,Gunnison
+9,N0KM 146.64,146.64,-,0.6,TSQL,77,77,23,23,NN,FM,5,Center
+10,N0KM 447.1,447.1,-,5,Tone,77,88.5,23,23,NN,FM,5,Center
+11,K0JSC 448.325,448.325,-,5,TSQL,100,100,23,23,NN,FM,5,Westcliffe
+12,N0PKT 449.525,449.525,-,5,TSQL,100,100,23,23,NN,FM,5,"Creede, Bristol Head"
+13,KB0TUC 448.15,448.15,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,Westcliffe
+14,KB0TUC 147.06,147.06,+,0.6,TSQL,77,77,23,23,NN,FM,5,Westcliffe
+15,KB5ITS 147.135,147.135,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Lake City, Hill 71"
+16,K0VQ 447.05,447.05,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,"Aspen, Aspen Mountain"
+17,WB0WDF 449,449,-,5,TSQL,67,67,23,23,NN,FM,5,"Canon City, eightmile Mountain"
+18,WZ0N 447.125,447.125,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Fairplay, Sacramento Mountain"
+19,WD0EKR 145.49,145.49,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,"Canon City, Fremont Peak"
+20,WD0EKR 223.96,223.96,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,"Canon City, Fremont Peak"
+21,K0JSC 447.25,447.25,-,5,TSQL,100,100,23,23,NN,FM,5,"Canon City, Fremont Peak"
+22,WD0EKR 447.75,447.75,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Canon City, Fremont Peak"
+23,KB0VJJ 145.445,145.445,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Leadville, Mosquito Pass"
+24,K0CL 146.67,146.67,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Snowmass Village
+25,K0JSC 447.975,447.975,-,5,TSQL,100,100,23,23,NN,FM,5,"Canon City, Colorado"
+26,KC0CVU 147.36,147.36,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Lake George, Badger Mountain"
+27,NX0G 146.685,146.685,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Lake George, Badger Mountain"
+28,K0JSC 449.975,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"Canon City, Canon City"
+29,KB0YNA 448.65,448.65,-,5,TSQL,88.5,151.4,23,23,NN,FM,5,"Montrose, Waterdog Peak"
+30,WA4HND 447.2,447.2,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Montrose, Waterdog Peak"
+31, 449.7,449.7,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Lake George
+32,WB0WDF 224.94,224.94,-,1.6,Tone,67,88.5,23,23,NN,FM,5,Cripple Creek
+33,WB0WDF 447.4,447.4,-,5,Tone,67,88.5,23,23,NN,FM,5,Cripple Creek
+34,NX0G 147.015,147.015,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Cripple Creek
+35,WB0WDF 145.46,145.46,-,0.6,Tone,67,88.5,23,23,NN,FM,5,Cripple Creek
+36,KI0MR 147.33,147.33,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Paonia
+37,KC0CVU 449.625,449.625,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Pueblo, Deer Peak"
+38,KB5ITS 147.27,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Ouray, Engineer Mountain"
+39,KB0VJJ 147.39,147.39,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"Breckenridge, Bald Mountain"
+40,WB0QMR 146.7,146.7,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Breckenridge
+41,KB5ITS 147.375,147.375,+,0.6,Tone,156.7,88.5,23,23,NN,FM,5,"Silverton, Kendall Mountain"
+42,KC0UUX 146.91,146.91,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Montrose
+43,KD5OPD 146.79,146.79,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Montrose
+44,KB5ITS 444,444,+,5,Tone,67,88.5,23,23,NN,FM,5,"Silverton, Hazelton"
+45,KB5ITS 447.525,447.525,-,5,Tone,127.3,88.5,23,23,NN,FM,5,Silverton
+46,KB5ITS 145.325,145.325,-,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Silverton, Buffalo Boy"
+47,K0VQ 447.15,447.15,-,5,Tone,136.5,88.5,23,23,NN,FM,5,"Carbondale, Missouri Heights"
+48,KB0SRJ 146.97,146.97,-,0.6,Cross,100,123,23,23,NN,FM,5,"Colorado Springs, Pikes Peak"
+49,KB0SRJ 448.45,448.45,-,5,Tone,100,88.5,23,23,NN,FM,5,"Colorado Springs, Pikes Peak"
+50,K0RV 146.61,146.61,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Vail, Bald Mountain"
+51,NX0G 448.65,448.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Woodland Park
+52,KA0WUC 449.025,449.025,-,5,Tone,141.3,88.5,23,23,NN,FM,5,Woodland Park
+53,NX0G 146.82,146.82,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Woodland Park
+54,KA0WUC 145.415,145.415,-,0.6,Tone,179.9,88.5,23,23,NN,FM,5,Woodland Park
+55,KA0WUC 447.675,447.675,-,5,TSQL,179.9,179.9,23,23,NN,FM,5,Woodland Park
+56,KA4EPS 449.325,449.325,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Woodland Park, Paradise Pines"
+57,K0ELK 449.725,449.725,-,5,Tone,179.9,88.5,23,23,NN,FM,5,"Carbondale, Four Mile Ridge"
+58,K0SNO 147.39,147.39,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Carbondale, Four Mile Ridge"
+59,N0AFO 224.8,224.8,-,1.6,,88.5,88.5,23,23,NN,FM,5,Vail
+60,AB0PC 146.895,146.895,-,0.6,TSQL,100,100,23,23,NN,FM,5,"Bailey, Dick Mountain"
+61,KC0CVU 146.76,146.76,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Colorado Springs, Cheyenne Mountain"
+62,KC0CVU 448,448,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Colorado Springs, Cheyenne Mountain"
+63,KC0CVU 448.1,448.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Colorado Springs, Cheyenne Mountain"
+64,W0CRA 145.16,145.16,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Colorado Springs, Cheyenne Mountain"
+65,KC0CVU 147.345,147.345,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Colorado Springs, Cheyenne Mountain"
+66,KB0VJJ 147.345,147.345,+,0.6,Cross,88.5,123,23,23,NN,FM,5,Vail
+67,KB0VJJ 145.13,145.13,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"Colorado Springs, Cheyenne Mountain"
+68,KI0G 447.1,447.1,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Glenwood Springs, Sunlight Peak"
+69,KI0G 146.88,146.88,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Glenwood Springs, Sunlight Peak"
+70,N0XLI 449.6,449.6,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Glenwood Springs, Sunlight Peak"
+71,KB0VJJ 146.85,146.85,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"Glenwood Springs, Sunlight Peak"
+72,KA0TTF 448.725,448.725,-,5,Tone,123,88.5,23,23,NN,FM,5,"Colorado Springs, Fillmore Hill"
+73,W0ALC 147.36,147.36,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Cedaredge
+74,KC0QXX 147.195,147.195,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Cedaredge, Cedar Mesa"
+75,W0ALC 449.825,449.825,-,5,Tone,100,88.5,23,23,NN,FM,5,Cedaredge
+76,KB0YNA 449.7,449.7,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Telluride, Gray Head"
+77,KB5ITT 147.27,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Silverton, Engineer Mountain"
+78,AA0L 448.3,448.3,-,5,Tone,100,88.5,23,23,NN,FM,5,Colorado Springs
+79,NX0G 447.475,447.475,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Colorado Springs
+80,WA6IFI 447.55,447.55,-,5,Tone,123,88.5,23,23,NN,FM,5,Colorado Springs
+81,N0KG 448.25,448.25,-,5,Tone,123,88.5,23,23,NN,FM,5,"Colorado Springs, Broadmoor Area"
+82,W0MOG 448.6,448.6,-,5,Tone,114.8,88.5,23,23,NN,FM,5,Colorado Springs
+83,K0IRP 447.35,447.35,-,5,Tone,151.4,88.5,23,23,NN,FM,5,Colorado Springs
+84,W0MOG 147.39,147.39,+,0.6,Tone,103.5,88.5,23,23,NN,FM,5,Colorado Springs
+85,W0RSH 146.85,146.85,-,0.6,Tone,103.5,88.5,23,23,NN,FM,5,Colorado Springs
+86,K0IRP 146.91,146.91,-,0.6,TSQL,151.4,151.4,23,23,NN,FM,5,Colorado Springs
+87, 147.27,147.27,+,0.6,,88.5,88.5,23,23,NN,FM,5,Colorado Springs
+88,K0JSC 448.975,448.975,-,5,TSQL,100,100,23,23,NN,FM,5,Pueblo West
+89,W0CRA 448.425,448.425,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Larkspur, Westcreek"
+90,W0CRA 147.225,147.225,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Larkspur, Westcreek"
+91,K0JSC 449.975,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"Larkspur, Westcreek"
+92,N0JSP 146.61,146.61,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Pagosa Springs, Oakbrush Hill"
+93,N0ESQ 447.525,447.525,-,5,TSQL,146.2,146.2,23,23,NN,FM,5,"Castle Rock, Devils Head (Pike National Forest)"
+94,AA0L 147.135,147.135,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Colorado Springs
+95,WA4HND 449.85,449.85,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"Glenwood Springs, Lookout Mountain"
+96, 447.35,447.35,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Cedaredge, Grand Mesa"
+97,W0MOG 224.72,224.72,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,Colorado springs
+98,KB0YNA 449.65,449.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+99,KB0VJJ 145.355,145.355,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+100,N0XLF 145.19,145.19,-,0.6,TSQL,131.8,131.8,23,23,NN,FM,5,"Palmer Lake, Monument Hill"
+101,N0ARA 147.12,147.12,+,0.6,TSQL,88.5,88.5,23,23,NN,FM,5,"Critchell, Critchell Mountain"
+102,K0NR 447.725,447.725,-,5,TSQL,100,100,23,23,NN,FM,5,"Monument, Monument Hill"
+103,K0ST 146.655,146.655,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Pueblo, Pueblo"
+104,ND0Q 146.88,146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Pueblo, Deer Peak"
+105,N0PWZ 449.725,449.725,-,5,Tone,100,88.5,23,23,NN,FM,5,Palmer Divide
+106,N0OWY 447.5,447.5,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,"Conifer, Critchell Mountain"
+107,K0JSC 447.275,447.275,-,5,TSQL,100,100,23,23,NN,FM,5,"Pueblo, Metro"
+108,N0JPX 145.355,145.355,-,0.6,Tone,100,88.5,23,23,NN,FM,5,La Veta
+109,ND0Q 146.79,146.79,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Pueblo, Baculite Mesa"
+110,ND0Q 447.95,447.95,-,5,Tone,88.5,88.5,23,23,NN,FM,5,Pueblo
+111,WR0AEN 449,449,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+112,W0TX 449.35,449.35,-,5,TSQL,100,100,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+113,W0WYX 146.94,146.94,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+114,KB0UDD 146.67,146.67,-,0.6,TSQL,100,100,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+115,W0CRA 447.575,447.575,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+116,K1DUN 449.45,449.45,-,5,Cross,103.5,127.3,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+117,W0CFI 448.675,448.675,-,5,TSQL,100,100,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+118,W0TX 145.49,145.49,-,0.6,TSQL,100,100,23,23,NN,FM,5,"Idaho Springs, Centennial Cone"
+119,W0CRA 145.145,145.145,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+120,N0PYY 147.3,147.3,+,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,"Evergreen, Squaw Mountain"
+121,N0SZ 448.225,448.225,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+122,K0EP 146.7,146.7,-,0.6,TSQL,100,100,23,23,NN,FM,5,"Durango, Missionary Ridge"
+123,WB0TUB 146.88,146.88,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Centennial, Warren Mountain"
+124,WB0TUB 449.6,449.6,-,5,Tone,100,88.5,23,23,NN,FM,5,"Centennial, Warren Mountain"
+125,KE4GUQ 145.34,145.34,-,0.6,Cross,103.5,127.3,23,23,NN,FM,5,Evergreen
+126,KB0VJJ 147.345,147.345,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"Durango, Missionary Ridge"
+127,WG0N 449.05,449.05,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Idaho Springs, Squaw Mountain"
+128,AC0KQ 447.85,447.85,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,"Evergreen, Saddleback Mountain"
+129,N0ZSN 449.75,449.75,-,5,TSQL,100,100,23,23,NN,FM,5,"La Veta, Cordova Pass"
+130,KD0MDP 447.625,447.625,-,5,TSQL,100,100,23,23,NN,FM,5,"Falcon, Black Forest"
+131,K0JSC 449.975,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"Pueblo, Cedarwood"
+132,N6LXX 447.875,447.875,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Morrison, Mt. Morrison"
+133,WA4HND 449.3,449.3,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+134,WB0TUB 146.64,146.64,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Golden, Centennial Cone"
+135,K0FEZ 146.985,146.985,-,0.6,TSQL,100,100,23,23,NN,FM,5,"Golden, Centennial Cone"
+136,KE0SJ 145.28,145.28,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Golden, Centennial Cone"
+137,KE0SJ 449.525,449.525,-,5,,88.5,88.5,23,23,NN,FM,5,"Golden, Centennial Cone"
+138,W0TX 448.625,448.625,-,5,TSQL,100,100,23,23,NN,FM,5,"Golden, Centennial Cone"
+139,W9SL 449.95,449.95,-,5,TSQL,77,77,23,23,NN,FM,5,"Castle Pines, Daniels Park"
+140,K0EP 146.67,146.67,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Durango, Eagle Pass"
+141,KB5ITS 147.15,147.15,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"Ignacio, Spring Creek"
+142,N0POH 224.74,224.74,-,1.6,TSQL,88.5,88.5,23,23,NN,FM,5,"Golden, Guy Hill"
+143,KI0GO 449.75,449.75,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"Golden, Guy Hill"
+144,N0MHU 224,224,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,"Golden, Guy Hill"
+145,K0IBM 448.85,448.85,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,"Golden, Guy Hill"
+146,W0CBI 147.15,147.15,+,0.6,TSQL,100,100,23,23,NN,FM,5,"Golden, Guy Hill"
+147,W0KU 449.625,449.625,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,"Golden, Lookout Mountain"
+148,W0TX 147.33,147.33,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"Lakewood, Green Mountain"
+149,KC5EVE 448.625,448.625,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,Durango
+150,W0TX 224.38,224.38,-,1.6,TSQL,100,100,23,23,NN,FM,5,"Lakewood, Green Mountain"
+151,K0EP 449.85,449.85,-,5,TSQL,100,100,23,23,NN,FM,5,Durango
+152,N0PYY 448.125,448.125,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Golden
+153,W0GV 448.975,448.975,-,5,Tone,123,88.5,23,23,NN,FM,5,Golden
+154,KB5ITS 147.135,147.135,+,0.6,TSQL,100,100,23,23,NN,FM,5,"Durango, Smelter Mountain"
+155,N0ESQ 447.525,447.525,-,5,Cross,203.5,146.2,23,23,NN,FM,5,"Parker, Hess Reservoir"
+156,N0ELY 448.75,448.75,-,5,TSQL,100,100,23,23,NN,FM,5,Lakewood
+157,WA4HND 449.8,449.8,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Parachute, Mount Callahan"
+158,W0TX 447.825,447.825,-,5,DTCS,88.5,88.5,73,73,NN,NFM,5,"Lakewood, St Anthony Medical Campus"
+159,ND0Q 146.73,146.73,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Walsenburg, N Rattlesnake Butte"
+160,KB0VIU 145.37,145.37,-,0.6,TSQL,100,100,23,23,NN,FM,5,Hesperus
+161,WQ8M 448.7,448.7,-,5,Tone,146.2,88.5,23,23,NN,FM,5,Parker
+162,KB5ITS 442.375,442.375,+,5,Tone,100,88.5,23,23,NN,FM,5,"Mancos, Caviness Mountain"
+163,K0FEZ 447.925,447.925,-,5,TSQL,100,100,23,23,NN,FM,5,Denver
+164,KE0SJ 145.475,145.475,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Boulder, Blue Mountain"
+165,N0JXN 146.715,146.715,-,0.6,TSQL,123,123,23,23,NN,FM,5,Denver
+166,N5EHP 448.075,448.075,-,5,Tone,123,88.5,23,23,NN,FM,5,Denver
+167,W0JRL 447.175,447.175,-,5,TSQL,100,100,23,23,NN,FM,5,"Denver, Broadway Plaza Lofts"
+168,KB0UDD 145.4,145.4,-,0.8,Tone,100,88.5,23,23,NN,FM,5,"Aurora, Smoky Hill"
+169,N0OBA 145.19,145.19,-,0.6,Cross,151.4,131.8,23,23,NN,FM,5,Aurora
+170,N1UPS 449.3,449.3,-,5,Tone,100,88.5,23,23,NN,FM,5,Westminster
+171,KB5ITS 145.325,145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Mancos, Menefee Mountain"
+172,KB0UDD 448.5,448.5,-,5,Tone,100,88.5,23,23,NN,FM,5,"Aurora, Smokey Hill"
+173,N0ZUQ 448.4,448.4,-,5,Tone,94.8,88.5,23,23,NN,FM,5,Aurora
+174,W0BG 448.275,448.275,-,5,Tone,156.7,88.5,23,23,NN,FM,5,Aurora
+175,K0GUR 448.15,448.15,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,"Denver, Green Valley Ranch"
+176,WA6IFI 145.43,145.43,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Trinidad, Raton Pass"

@@ -15,7 +15,7 @@ export default class Scraper {
 
   constructor(private location: string | number, private distance: number) {
     this.url = `https://www.repeaterbook.com/repeaters/prox_result.php?city=${encodeURIComponent(location.toString())}&distance=${distance}&Dunit=m&band1=%25&band2=&freq=&call=&features=&status_id=%25&use=%25&order=%60state_id%60%2C+%60loc%60%2C+%60call%60+ASC`;
-    console.log();
+    // console.log();
     // console.log('new Scraper', location, distance);
   }
 
@@ -87,7 +87,7 @@ export default class Scraper {
     // console.log('getUrl', url);
     const cache = await this.getCache(cacheKey || url);
     if (cache) {
-      console.log('Cached', cacheKey || url);
+      // console.log('Cached', cacheKey || url);
       return cache;
     } else {
       const request: any = (await wait(Math.random() * 10000, () => axios.get(url)));

@@ -7,7 +7,8 @@ import { save } from './get-repeaters';
 const fs = {
   exists: promisify(_fs.exists),
   writeFile: promisify(_fs.writeFile),
-  readFile: promisify(_fs.readFile)
+  readFile: promisify(_fs.readFile),
+  readdir: promisify(_fs.readdir)
 };
 const parseAsync = promisify(_csv.parse);
 const stringifyAsync = promisify(_csv.stringify);
@@ -58,9 +59,11 @@ export async function read(files: string[], name: string, limit = 0) {
   let data = fileContents.reduce((prev, curr) => ([...prev, ...JSON.parse(curr.toString())]), [] as any[]);
   data.sort((a: any, b: any) => (a.Mi - b.Mi));
 
-  data = data.filter(a => a.Use === 'OPEN');
+  data = data.filter(a => a.Use === 'OPEN' && a['Op Status'] !== 'Off-Air');
 
-  const mapped = data.map((d: any) => makeRow(d));
+  const mapped = data
+    .map((d: any) => makeRow(d))
+    .filter(d => d.Mode !== 'DIG' && d.Frequency > 100 && d.Frequency < 500);
 
   let dupes = 0;
   for (let x = 0; x < mapped.length; x++) {
@@ -98,12 +101,15 @@ export async function read(files: string[], name: string, limit = 0) {
   }
 
   console.log(name, 'Deduped', dupes);
-
-  mapped.forEach((m: IRepeater, i: number) => m.Location = i);
+  console.log(name, mapped.length);
 
   if (limit) {
     mapped.splice(limit);
   }
+
+  // mapped.sort((a, b) => a.Name > b.Name ? 1 : a.Name < b.Name ? -1 : 0);
+
+  mapped.forEach((m: IRepeater, i: number) => m.Location = i);
 
   const options = {
     header: true
@@ -124,7 +130,7 @@ function makeRow(item: any) {
   const isNarrow = Object.entries(item).filter(a => /Narrow/i.test(a[1] as string)).length > 0;
 
   // const Location = 0;
-  const Name = item.Call;
+  const Name = `${item.Call} ${item.Frequency}`;
   const Frequency = item.Frequency;
   const Duplex = item.Offset > 0 ? '+' : item.Offset < 0 ? '-' : '';
   const Offset = Math.abs(item.Offset);
@@ -143,7 +149,7 @@ function makeRow(item: any) {
     Tone = 'Tone';
   } else {
     const d = DTCS.exec(UplinkTone);
-    if (d) {
+    if (d && d[1]) {
       const n = parseInt(d[1], 10);
       if (!isNaN(n)) {
         DtcsCode = n;
@@ -157,7 +163,7 @@ function makeRow(item: any) {
     Tone = 'TSQL';
   } else {
     const d = DTCS.exec(DownlinkTone);
-    if (d) {
+    if (d && d[1]) {
       const n = parseInt(d[1], 10);
       if (!isNaN(n)) {
         DtcsRxCode = n;
@@ -168,10 +174,10 @@ function makeRow(item: any) {
 
   if (Tone === 'TSQL' && rToneFreq !== cToneFreq) {
     if (!rToneFreq) {
-      console.log('No rToneFreq', Name, Frequency, rToneFreq, cToneFreq, Comment);
+      // console.log('No rToneFreq', Name, Frequency, rToneFreq, cToneFreq, Comment);
       // Tone = '';
     } else {
-      console.log('Cross', Name, Frequency, rToneFreq, cToneFreq, Comment);
+      // console.log('Cross', Name, Frequency, rToneFreq, cToneFreq, Comment);
       Tone = 'Cross';
     }
   }
@@ -198,6 +204,13 @@ function makeRow(item: any) {
   };
   return row;
 }
+
+const allFiles = fs.readdir('./repeaters/json')
+  .then(files => Promise.all(files.map(f => {
+    const name = f.replace('./repeaters/json', '').replace('.json', '');
+    console.log('name', name);
+    return read([name], name, 1000);
+  })));
 
 export default (Promise.all(
   [
@@ -229,9 +242,10 @@ export default (Promise.all(
       'La Sal, UT',
       'Spanish Valley, UT',
       'Moab, UT'
-    ],'long-way', 300),
+    ],`long-way`, 1000),
 
     read([
+      'Denver, CO',
       'Lakewood, CO',
       'Keystone, CO',
       'Breckenridge, CO',
@@ -243,7 +257,10 @@ export default (Promise.all(
       'Grand Junction, CO',
       'Fruita, CO',
       'Thompson, UT',
-      'Crescent Junction, UT'
-    ],'short-way', 300),
+      'Crescent Junction, UT',
+      'Moab, UT'
+    ],`short-way`, 1000),
+
+    allFiles
   ]
 ));

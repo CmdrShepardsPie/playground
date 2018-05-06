@@ -1,0 +1,82 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+0,KB0YNA 449.7,449.7,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Telluride, Gray Head"
+1,KC0UUX 146.91,146.91,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Montrose
+2,KD5OPD 146.79,146.79,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Montrose
+3,KB5ITS 147.27,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Ouray, Engineer Mountain"
+4,KB0YNA 449.4,449.4,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"Delta, Uncompahgre Butte"
+5,WA4HND 447.2,447.2,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Montrose, Waterdog Peak"
+6,KB0YNA 448.65,448.65,-,5,TSQL,88.5,151.4,23,23,NN,FM,5,"Montrose, Waterdog Peak"
+7,KB5ITT 147.27,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Silverton, Engineer Mountain"
+8,KB5ITS 444,444,+,5,Tone,67,88.5,23,23,NN,FM,5,"Silverton, Hazelton"
+9,KB5ITS 145.325,145.325,-,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Silverton, Buffalo Boy"
+10,KB5ITS 447.525,447.525,-,5,Tone,127.3,88.5,23,23,NN,FM,5,Silverton
+11,KB5ITS 147.375,147.375,+,0.6,Tone,156.7,88.5,23,23,NN,FM,5,"Silverton, Kendall Mountain"
+12,KB5ITS 447.275,447.275,-,5,Tone,100,88.5,23,23,NN,FM,5,"Dolores, Summit Ridge"
+13,KB5ITS 145.19,145.19,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Dolores, Summit Ridge"
+14,K0EP 146.67,146.67,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Durango, Eagle Pass"
+15,KB5ITS 147.135,147.135,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Lake City, Hill 71"
+16,KB5ITS 442.375,442.375,+,5,Tone,100,88.5,23,23,NN,FM,5,"Mancos, Caviness Mountain"
+17,W0GJT 448.15,448.15,-,5,Tone,100,88.5,23,23,NN,FM,5,Grand Junction
+18,KB5ITS 145.325,145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Mancos, Menefee Mountain"
+19,KD5LWU 146.79,146.79,-,0.6,TSQL,127.3,127.3,23,23,NN,FM,5,"Cortez, Downtown"
+20,KC0QXX 147.195,147.195,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Cedaredge, Cedar Mesa"
+21,W0ALC 147.36,147.36,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Cedaredge
+22,W0ALC 449.825,449.825,-,5,Tone,100,88.5,23,23,NN,FM,5,Cedaredge
+23,K0EP 146.7,146.7,-,0.6,TSQL,100,100,23,23,NN,FM,5,"Durango, Missionary Ridge"
+24,KB0VIU 145.37,145.37,-,0.6,TSQL,100,100,23,23,NN,FM,5,Hesperus
+25,KB0VJJ 147.345,147.345,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"Durango, Missionary Ridge"
+26, 447.35,447.35,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Cedaredge, Grand Mesa"
+27,K7QEQ 146.76,146.76,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Moab, Bald Mesa"
+28,K7QEQ 449.1,449.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Moab, Bald Mesa"
+29,K0EP 449.85,449.85,-,5,TSQL,100,100,23,23,NN,FM,5,Durango
+30,KC5EVE 448.625,448.625,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,Durango
+31,KI0MR 147.33,147.33,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Paonia
+32,KB5ITS 147.135,147.135,+,0.6,TSQL,100,100,23,23,NN,FM,5,"Durango, Smelter Mountain"
+33,WA4HND 449.3,449.3,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+34,KB0VJJ 147.355,147.355,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+35,KE0TY 145.22,145.22,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Grand Junction
+36,W0GJT 146.82,146.82,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Grand Junction
+37,K0SSI 147.105,147.105,+,0.6,,88.5,88.5,23,23,NN,FM,5,Grand Junction
+38,KC0ARV 447.5,447.5,-,5,Tone,114.8,88.5,23,23,NN,FM,5,Grand Junction
+39,KE0TY 147.39,147.39,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Grand Junction
+40,KD0SMZ 449.775,449.775,-,5,Cross,173.8,88.5,23,23,NN,FM,5,Grand Junction
+41,K7SDC 146.61,146.61,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Monticello, Abajo Peak"
+42,K7QEQ 447.1,447.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Monticello, Abajo Peak"
+43,KB0VJJ 145.355,145.355,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+44,KB0YNA 449.65,449.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+45,WA4HND 449.575,449.575,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"Grand Junction, Black Ridge"
+46,W0RRZ 146.94,146.94,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Grand Junction, Black Ridge (Above Colorado Ntl Monument)"
+47,W0RRZ 145.175,145.175,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Grand Junction, GJT"
+48,N0PKT 449.525,449.525,-,5,TSQL,100,100,23,23,NN,FM,5,"Creede, Bristol Head"
+49,K7QEQ 146.9,146.9,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Moab
+50,KB5ITS 147.15,147.15,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"Ignacio, Spring Creek"
+51,W0VTL 147.12,147.12,+,0.6,,88.5,88.5,23,23,NN,FM,5,Gunnison
+52,K5GF 449.95,449.95,-,5,,88.5,88.5,23,23,NN,FM,5,Gunnison
+53,NM5SJ 147.06,147.06,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"Nebo, Cedar Hill"
+54,KB5ITS 146.88,146.88,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Aztec, Tank Mtn"
+55,N0JSP 146.61,146.61,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Pagosa Springs, Oakbrush Hill"
+56,NM5SJ 146.74,146.74,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Aztec
+57,KB5ITS 447.45,447.45,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Aztec
+58,WA4HND 449.8,449.8,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Parachute, Mount Callahan"
+59,KB5ITS 147,147,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Farmington
+60,K5WXI 146.85,146.85,-,0.6,TSQL,100,100,23,23,NN,FM,5,Farmington
+61,KB5ITS 146.76,146.76,-,0.6,TSQL,100,100,23,23,NN,FM,5,Farmington
+62,K5WY 449,449,-,5,Tone,100,88.5,23,23,NN,FM,5,Farmington
+63,KB5ITS 147.36,147.36,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"Navajo Dam, Navajo Lake"
+64,KB5ITS 448.65,448.65,-,5,Tone,127.3,88.5,23,23,NN,FM,5,Bloomfield
+65,K5WXI 146.92,146.92,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Bloomfield
+66,KB0YNA 447.65,447.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,"Gunnison, W Mountain or Tenderfoot Mountain"
+67,KI0G 447.1,447.1,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Glenwood Springs, Sunlight Peak"
+68,KI0G 146.88,146.88,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Glenwood Springs, Sunlight Peak"
+69,N0XLI 449.6,449.6,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Glenwood Springs, Sunlight Peak"
+70,KB0VJJ 146.85,146.85,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"Glenwood Springs, Sunlight Peak"
+71,K0SNO 147.39,147.39,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Carbondale, Four Mile Ridge"
+72,K0ELK 449.725,449.725,-,5,Tone,179.9,88.5,23,23,NN,FM,5,"Carbondale, Four Mile Ridge"
+73,K0CL 146.67,146.67,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Snowmass Village
+74,K0VQ 447.05,447.05,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,"Aspen, Aspen Mountain"
+75,KD7HLL 449.9,449.9,-,5,Tone,123,88.5,23,23,NN,FM,5,Mexican Hat
+76,KD0MRC 145.325,145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Maysville, CO"
+77,NM5SJ 145.43,145.43,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,Dulce
+78,K0VQ 447.15,447.15,-,5,Tone,136.5,88.5,23,23,NN,FM,5,"Carbondale, Missouri Heights"
+79,WA4HND 449.85,449.85,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"Glenwood Springs, Lookout Mountain"
+80,W5SF 147.08,147.08,+,0.6,Tone,162.2,88.5,23,23,NN,FM,5,"Chama, Overlook Mtn"

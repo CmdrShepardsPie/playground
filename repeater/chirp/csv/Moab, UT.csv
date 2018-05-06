@@ -1,0 +1,73 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+0,K7QEQ 146.9,146.9,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Moab
+1,K7QEQ 449.1,449.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Moab, Bald Mesa"
+2,K7QEQ 146.76,146.76,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Moab, Bald Mesa"
+3,KB0YNA 449.4,449.4,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"Delta, Uncompahgre Butte"
+4,K7QEQ 447.1,447.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Monticello, Abajo Peak"
+5,K7SDC 146.61,146.61,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Monticello, Abajo Peak"
+6,W0RRZ 146.94,146.94,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"Grand Junction, Black Ridge (Above Colorado Ntl Monument)"
+7,WA4HND 449.575,449.575,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"Grand Junction, Black Ridge"
+8,W0GJT 448.15,448.15,-,5,Tone,100,88.5,23,23,NN,FM,5,Grand Junction
+9,KB0VJJ 147.355,147.355,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+10,KC0ARV 447.5,447.5,-,5,Tone,114.8,88.5,23,23,NN,FM,5,Grand Junction
+11,KE0TY 145.22,145.22,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Grand Junction
+12,W0GJT 146.82,146.82,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Grand Junction
+13,KE0TY 147.39,147.39,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Grand Junction
+14,K0SSI 147.105,147.105,+,0.6,,88.5,88.5,23,23,NN,FM,5,Grand Junction
+15,KD0SMZ 449.775,449.775,-,5,Cross,173.8,88.5,23,23,NN,FM,5,Grand Junction
+16,W0RRZ 145.175,145.175,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Grand Junction, GJT"
+17,K7SDC 448.55,448.55,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"Castle Dale, Cedar Mountain"
+18,K7SDC 147.14,147.14,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Castle Dale, Cedar Mountain"
+19,K7SDC 147.08,147.08,+,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"Hanksville, Ellen Peak"
+20,KB0SW 447,447,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Loma, Baxter Pass"
+21,WA4HND 449.3,449.3,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+22,K7SDC 449.05,449.05,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"Sunnyside, Bruin Point"
+23,K7SDC 147.32,147.32,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Sunnyside, Bruin Point"
+24,WX7Y 145.175,145.175,-,0.6,,88.5,88.5,23,23,NN,FM,5,"Sunny Side, Bruin Peak"
+25, 447.35,447.35,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Cedaredge, Grand Mesa"
+26,KC0QXX 147.195,147.195,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"Cedaredge, Cedar Mesa"
+27,W0ALC 449.825,449.825,-,5,Tone,100,88.5,23,23,NN,FM,5,Cedaredge
+28,W0ALC 147.36,147.36,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Cedaredge
+29,KD5OPD 146.79,146.79,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Montrose
+30,KC0UUX 146.91,146.91,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Montrose
+31,KD7HLL 449.9,449.9,-,5,Tone,123,88.5,23,23,NN,FM,5,Mexican Hat
+32,KB0YNA 449.65,449.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+33,KB0VJJ 145.355,145.355,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"Grand Junction, Grand Mesa"
+34,KB0YNA 449.7,449.7,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Telluride, Gray Head"
+35,KB5ITS 145.19,145.19,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Dolores, Summit Ridge"
+36,KB5ITS 447.275,447.275,-,5,Tone,100,88.5,23,23,NN,FM,5,"Dolores, Summit Ridge"
+37,K7YI 447.625,447.625,-,5,Tone,100,88.5,23,23,NN,FM,5,"Castle Dale, Horn Mountain"
+38,WX7Y 447.7,447.7,-,5,Tone,123,88.5,23,23,NN,FM,5,"Castle Dale, Horn Mountain"
+39,K7SDC 147.06,147.06,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Castle Dale, Horn Mountain"
+40,WX7Y 223.92,223.92,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"Huntington,  Skyline Dr"
+41,W7CEU 224.5,224.5,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"Price,  Wood Hill"
+42,K7GX 147.2,147.2,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Price, Wood Hill"
+43,W7CEU 145.43,145.43,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Price,  Wood Hill"
+44,K7GX 448.3,448.3,-,5,,88.5,88.5,23,23,NN,FM,5,"Price, Wood Hill"
+45,W7CEU 448.3,448.3,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"Price,  Wood Hill"
+46,KD5LWU 146.79,146.79,-,0.6,TSQL,127.3,127.3,23,23,NN,FM,5,"Cortez, Downtown"
+47,WA4HND 449.8,449.8,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"Parachute, Mount Callahan"
+48,WA4HND 447.2,447.2,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"Montrose, Waterdog Peak"
+49,KB0YNA 448.65,448.65,-,5,TSQL,88.5,151.4,23,23,NN,FM,5,"Montrose, Waterdog Peak"
+50,KI0MR 147.33,147.33,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Paonia
+51,KB5ITS 147.27,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Ouray, Engineer Mountain"
+52,KB5ITS 145.325,145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Mancos, Menefee Mountain"
+53,KB5ITT 147.27,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Silverton, Engineer Mountain"
+54,K7SDC 145.31,145.31,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Scofield, Ford Ridge"
+55,KB5ITS 442.375,442.375,+,5,Tone,100,88.5,23,23,NN,FM,5,"Mancos, Caviness Mountain"
+56,W7DHH 146.66,146.66,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Ephraim, Horseshoe"
+57,N7IMF 224.64,224.64,-,1.6,,88.5,88.5,23,23,NN,FM,5,"Ephraim,  Horseshoe"
+58,WB7REL 146.72,146.72,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Indianola, Indianola Peak"
+59,KB5ITS 145.325,145.325,-,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"Silverton, Buffalo Boy"
+60,KB5ITS 444,444,+,5,Tone,67,88.5,23,23,NN,FM,5,"Silverton, Hazelton"
+61,KB5ITS 447.525,447.525,-,5,Tone,127.3,88.5,23,23,NN,FM,5,Silverton
+62,K7SDC 147.08,147.08,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"Scofield, Boardinghouse Ridge"
+63,K0EP 146.67,146.67,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Durango, Eagle Pass"
+64,WX7Y 224.98,224.98,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"Scofield, Boardinghouse Rdge"
+65,KB5ITS 147.375,147.375,+,0.6,Tone,156.7,88.5,23,23,NN,FM,5,"Silverton, Kendall Mountain"
+66,KB0VIU 145.37,145.37,-,0.6,TSQL,100,100,23,23,NN,FM,5,Hesperus
+67,K0EP 146.7,146.7,-,0.6,TSQL,100,100,23,23,NN,FM,5,"Durango, Missionary Ridge"
+68,KB5ITS 147.135,147.135,+,0.6,TSQL,100,100,23,23,NN,FM,5,"Durango, Smelter Mountain"
+69,K0EP 449.85,449.85,-,5,TSQL,100,100,23,23,NN,FM,5,Durango
+70,KC5EVE 448.625,448.625,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,Durango
+71,KB0VJJ 147.345,147.345,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"Durango, Missionary Ridge"

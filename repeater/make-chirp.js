@@ -16,7 +16,8 @@
     const fs = {
         exists: util_1.promisify(_fs.exists),
         writeFile: util_1.promisify(_fs.writeFile),
-        readFile: util_1.promisify(_fs.readFile)
+        readFile: util_1.promisify(_fs.readFile),
+        readdir: util_1.promisify(_fs.readdir)
     };
     const parseAsync = util_1.promisify(_csv.parse);
     const stringifyAsync = util_1.promisify(_csv.stringify);
@@ -44,8 +45,10 @@
         const fileContents = await Promise.all(files.map(f => fs.readFile(`repeaters/json/${f}.json`)));
         let data = fileContents.reduce((prev, curr) => ([...prev, ...JSON.parse(curr.toString())]), []);
         data.sort((a, b) => (a.Mi - b.Mi));
-        data = data.filter(a => a.Use === 'OPEN');
-        const mapped = data.map((d) => makeRow(d));
+        data = data.filter(a => a.Use === 'OPEN' && a['Op Status'] !== 'Off-Air');
+        const mapped = data
+            .map((d) => makeRow(d))
+            .filter(d => d.Mode !== 'DIG' && d.Frequency > 100 && d.Frequency < 500);
         let dupes = 0;
         for (let x = 0; x < mapped.length; x++) {
             const outer = JSON.stringify(mapped[x]);
@@ -80,10 +83,12 @@
             }
         }
         console.log(name, 'Deduped', dupes);
-        mapped.forEach((m, i) => m.Location = i);
+        console.log(name, mapped.length);
         if (limit) {
             mapped.splice(limit);
         }
+        // mapped.sort((a, b) => a.Name > b.Name ? 1 : a.Name < b.Name ? -1 : 0);
+        mapped.forEach((m, i) => m.Location = i);
         const options = {
             header: true
         };
@@ -99,7 +104,7 @@
         const isDigital = Object.entries(item).filter(a => /Enabled/.test(a[0])).length > 0;
         const isNarrow = Object.entries(item).filter(a => /Narrow/i.test(a[1])).length > 0;
         // const Location = 0;
-        const Name = item.Call;
+        const Name = `${item.Call} ${item.Frequency}`;
         const Frequency = item.Frequency;
         const Duplex = item.Offset > 0 ? '+' : item.Offset < 0 ? '-' : '';
         const Offset = Math.abs(item.Offset);
@@ -118,7 +123,7 @@
         }
         else {
             const d = DTCS.exec(UplinkTone);
-            if (d) {
+            if (d && d[1]) {
                 const n = parseInt(d[1], 10);
                 if (!isNaN(n)) {
                     DtcsCode = n;
@@ -132,7 +137,7 @@
         }
         else {
             const d = DTCS.exec(DownlinkTone);
-            if (d) {
+            if (d && d[1]) {
                 const n = parseInt(d[1], 10);
                 if (!isNaN(n)) {
                     DtcsRxCode = n;
@@ -142,11 +147,11 @@
         }
         if (Tone === 'TSQL' && rToneFreq !== cToneFreq) {
             if (!rToneFreq) {
-                console.log('No rToneFreq', Name, Frequency, rToneFreq, cToneFreq, Comment);
+                // console.log('No rToneFreq', Name, Frequency, rToneFreq, cToneFreq, Comment);
                 // Tone = '';
             }
             else {
-                console.log('Cross', Name, Frequency, rToneFreq, cToneFreq, Comment);
+                // console.log('Cross', Name, Frequency, rToneFreq, cToneFreq, Comment);
                 Tone = 'Cross';
             }
         }
@@ -171,6 +176,12 @@
         };
         return row;
     }
+    const allFiles = fs.readdir('./repeaters/json')
+        .then(files => Promise.all(files.map(f => {
+        const name = f.replace('./repeaters/json', '').replace('.json', '');
+        console.log('name', name);
+        return read([name], name, 1000);
+    })));
     exports.default = (Promise.all([
         read([
             'Denver, CO',
@@ -200,8 +211,9 @@
             'La Sal, UT',
             'Spanish Valley, UT',
             'Moab, UT'
-        ], 'long-way', 300),
+        ], `long-way`, 1000),
         read([
+            'Denver, CO',
             'Lakewood, CO',
             'Keystone, CO',
             'Breckenridge, CO',
@@ -213,8 +225,10 @@
             'Grand Junction, CO',
             'Fruita, CO',
             'Thompson, UT',
-            'Crescent Junction, UT'
-        ], 'short-way', 300),
+            'Crescent Junction, UT',
+            'Moab, UT'
+        ], `short-way`, 1000),
+        allFiles
     ]));
 });
 //# sourceMappingURL=make-chirp.js.map
