@@ -33,19 +33,6 @@
             const page = await this.getUrl(this.url, `${this.location} ${this.distance}.html`);
             const dom = new jsdom_1.JSDOM(page);
             await this.getRepeaterList(dom.window.document);
-            const headers = {};
-            this.data.forEach(item => {
-                Object.entries(item).forEach(entry => {
-                    headers[entry[0]] = '';
-                });
-            });
-            this.data.forEach(item => {
-                Object.entries(headers).forEach(entry => {
-                    if (item[entry[0]] === undefined) {
-                        item[entry[0]] = '';
-                    }
-                });
-            });
             return this.data;
         }
         async getRepeaterList(document) {

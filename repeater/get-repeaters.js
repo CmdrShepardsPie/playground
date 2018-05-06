@@ -25,49 +25,72 @@
         result.sort((a, b) => (a.Call > b.Call ? 1 : a.Call < b.Call ? -1 : 0));
         result.sort((a, b) => (a.Frequency - b.Frequency));
         result.sort((a, b) => (a.Mi - b.Mi));
+        await fs.writeFile(`repeaters/json/${place}.json`, JSON.stringify(result));
         const options = {
             header: true
         };
+        const headers = {};
+        result.forEach(item => {
+            Object.entries(item).forEach(entry => {
+                headers[entry[0]] = true;
+            });
+        });
+        result.forEach(item => {
+            Object.entries(headers).forEach(entry => {
+                if (!item[entry[0]]) {
+                    item[entry[0]] = typeof item[entry[0]];
+                }
+            });
+        });
         const csv = await stringifyAsync(result, options);
-        return Promise.all([
-            fs.writeFile(`repeaters/csv/${place}.csv`, csv),
-            fs.writeFile(`repeaters/json/${place}.json`, JSON.stringify(result))
-        ]);
+        await fs.writeFile(`repeaters/csv/${place}.csv`, csv);
+        // return Promise.all([
+        //   fs.writeFile(`repeaters/csv/${place}.csv`, csv),
+        //   fs.writeFile(`repeaters/json/${place}.json`, JSON.stringify(result))
+        // ]);
     }
     exports.save = save;
     exports.default = (async () => {
         for (let i = 200; i <= 200; i++) {
-            await save('Colorado Springs, CO', i);
-            await save('Monument, CO', i);
-            await save('Castle Rock, CO', i);
-            await save('Castle Pines, CO', i);
-            await save('Centennial, CO', i);
-            await save('Parker, CO', i);
-            await save('Lakewood, CO', i);
             await save('Denver, CO', i);
-            await save('Golden, CO', i);
-            await save('Idaho Springs, CO', i);
-            await save('Evergreen, CO', i);
-            await save('Lone Tree, CO', i);
-            await save('Empire, CO', i);
-            await save('Silverthorne, CO', i);
-            await save('Frisco, CO', i);
+            await save('Littleton, CO', i);
+            await save('Bailey, CO', i);
+            await save('Grant, CO', i);
+            await save('Jefferson, CO', i);
+            await save('Como, CO', i);
+            await save('Fairplay, CO', i);
+            await save('Antero Junction, CO', i);
+            await save('Buena Vista, CO', i);
+            await save('Nathrop, CO', i);
+            await save('Salida, CO', i);
+            await save('Monarch, CO', i);
+            await save('Sargents, CO', i);
+            await save('Parlin, CO', i);
+            await save('Gunnison, CO', i);
+            await save('Cimarron, CO', i);
+            await save('Montrose, CO', i);
+            await save('Loghill Village, CO', i);
+            await save('Ridgway, CO', i);
+            await save('Norwood, CO', i);
+            await save('Redvale, CO', i);
+            await save('Naturita, CO', i);
+            await save('Bedrock, CO', i);
+            await save('Paradox, CO', i);
+            await save('La Sal, UT', i);
+            await save('Spanish Valley, UT', i);
+            await save('Moab, UT', i);
+            await save('Lakewood, CO', i);
+            await save('Keystone, CO', i);
+            await save('Breckenridge, CO', i);
             await save('Vail, CO', i);
             await save('Avon, CO', i);
-            await save('Edwards, CO', i);
-            await save('Eagle, CO', i);
-            await save('Gypsum, CO', i);
             await save('Glenwood Springs, CO', i);
-            await save('New Castle, CO', i);
-            await save('Silt, CO', i);
             await save('Rifle, CO', i);
+            await save('Palisade, CO', i);
             await save('Grand Junction, CO', i);
             await save('Fruita, CO', i);
-            await save('Moab, UT', i);
-            await save('Boulder, CO', i);
-            await save('Buena Vista, CO', i);
-            await save('Woodland Park, CO', i);
-            await save('Ouray, CO', i);
+            await save('Thompson, UT', i);
+            await save('Crescent Junction, UT', i);
         }
     })();
 });
