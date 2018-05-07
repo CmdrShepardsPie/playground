@@ -1,0 +1,72 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+0,"Maysville, CO KD0MRC 145.325",145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"CO Chaffee Maysville, CO KD0MRC 145.325"
+1,"Salida, Methodist Mountain K0JSC 449.975",449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain K0JSC 449.975"
+2,"Salida, Methodist Mountain KB0VJJ 147.285",147.285,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KB0VJJ 147.285"
+3,"Salida, Methodist Mountain KC0CVU 145.295",145.295,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 145.295"
+4,"Salida, Methodist Mountain KC0CVU 449.65",449.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 449.65"
+5,"Salida, Methodist Mountain WZ0N 449.925",449.925,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain WZ0N 449.925"
+6,"Pueblo, Deer Peak KC0CVU 449.625",449.625,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Custer Pueblo, Deer Peak KC0CVU 449.625"
+7,Westcliffe K0JSC 448.325,448.325,-,5,TSQL,100,100,23,23,NN,FM,5,CO Custer Westcliffe K0JSC 448.325
+8,Westcliffe KB0TUC 147.06,147.06,+,0.6,TSQL,77,77,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 147.06
+9,Westcliffe KB0TUC 448.15,448.15,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 448.15
+10,"Castle Rock, Devils Head (Pike National Forest) N0ESQ 447.525",447.525,-,5,TSQL,146.2,146.2,23,23,NN,FM,5,"CO Douglas Castle Rock, Devils Head (Pike National Forest) N0ESQ 447.525"
+11,"Larkspur, Westcreek K0JSC 449.975",449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek K0JSC 449.975"
+12,"Larkspur, Westcreek W0CRA 147.225",147.225,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek W0CRA 147.225"
+13,"Larkspur, Westcreek W0CRA 448.425",448.425,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek W0CRA 448.425"
+14,"Palmer Lake, Monument Hill N0XLF 145.19",145.19,-,0.6,TSQL,131.8,131.8,23,23,NN,FM,5,"CO Douglas Palmer Lake, Monument Hill N0XLF 145.19"
+15,Colorado Springs  147.27,147.27,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs  147.27
+16,Colorado Springs AA0L 147.135,147.135,+,0.6,Tone,100,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs AA0L 147.135
+17,Colorado Springs AA0L 448.3,448.3,-,5,Tone,100,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs AA0L 448.3
+18,Colorado Springs K0IRP 146.91,146.91,-,0.6,TSQL,151.4,151.4,23,23,NN,FM,5,CO El Paso Colorado Springs K0IRP 146.91
+19,Colorado Springs K0IRP 447.35,447.35,-,5,Tone,151.4,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs K0IRP 447.35
+20,Colorado Springs NX0G 447.475,447.475,-,5,Tone,107.2,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs NX0G 447.475
+21,Colorado Springs W0MOG 147.39,147.39,+,0.6,Tone,103.5,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs W0MOG 147.39
+22,Colorado Springs W0MOG 448.6,448.6,-,5,Tone,114.8,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs W0MOG 448.6
+23,Colorado Springs W0RSH 146.85,146.85,-,0.6,Tone,103.5,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs W0RSH 146.85
+24,Colorado Springs WA6IFI 447.55,447.55,-,5,Tone,123,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs WA6IFI 447.55
+25,"Colorado Springs, Broadmoor Area N0KG 448.25",448.25,-,5,Tone,123,88.5,23,23,NN,FM,5,"CO El Paso Colorado Springs, Broadmoor Area N0KG 448.25"
+26,"Colorado Springs, Cheyenne Mountain KB0VJJ 145.13",145.13,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KB0VJJ 145.13"
+27,"Colorado Springs, Cheyenne Mountain KC0CVU 146.76",146.76,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 146.76"
+28,"Colorado Springs, Cheyenne Mountain KC0CVU 147.345",147.345,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 147.345"
+29,"Colorado Springs, Cheyenne Mountain KC0CVU 448",448,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448"
+30,"Colorado Springs, Cheyenne Mountain KC0CVU 448.1",448.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448.1"
+31,"Colorado Springs, Cheyenne Mountain W0CRA 145.16",145.16,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain W0CRA 145.16"
+32,"Colorado Springs, Fillmore Hill KA0TTF 448.725",448.725,-,5,Tone,123,88.5,23,23,NN,FM,5,"CO El Paso Colorado Springs, Fillmore Hill KA0TTF 448.725"
+33,"Colorado Springs, Pikes Peak KB0SRJ 146.97",146.97,-,0.6,Cross,100,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 146.97"
+34,"Colorado Springs, Pikes Peak KB0SRJ 448.45",448.45,-,5,Tone,100,88.5,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 448.45"
+35,Colorado springs W0MOG 224.72,224.72,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,CO El Paso Colorado springs W0MOG 224.72
+36,"Monument, Monument Hill K0NR 447.725",447.725,-,5,TSQL,100,100,23,23,NN,FM,5,"CO El Paso Monument, Monument Hill K0NR 447.725"
+37,"Canon City, Canon City K0JSC 449.975",449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Canon City K0JSC 449.975"
+38,"Canon City, Colorado K0JSC 447.975",447.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Colorado K0JSC 447.975"
+39,"Canon City, Fremont Peak K0JSC 447.25",447.25,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak K0JSC 447.25"
+40,"Canon City, Fremont Peak WD0EKR 145.49",145.49,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 145.49"
+41,"Canon City, Fremont Peak WD0EKR 223.96",223.96,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 223.96"
+42,"Canon City, Fremont Peak WD0EKR 447.75",447.75,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 447.75"
+43,"Canon City, eightmile Mountain WB0WDF 449",449,-,5,TSQL,67,67,23,23,NN,FM,5,"CO Fremont Canon City, eightmile Mountain WB0WDF 449"
+44,Gunnison K5GF 449.95,449.95,-,5,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison K5GF 449.95
+45,Gunnison W0VTL 147.12,147.12,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison W0VTL 147.12
+46,"Gunnison, W Mountain or Tenderfoot Mountain KB0YNA 447.65",447.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,"CO Gunnison Gunnison, W Mountain or Tenderfoot Mountain KB0YNA 447.65"
+47,"Critchell, Critchell Mountain N0ARA 147.12",147.12,+,0.6,TSQL,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Critchell, Critchell Mountain N0ARA 147.12"
+48,"Leadville, Mosquito Pass KB0VJJ 145.445",145.445,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Lake Leadville, Mosquito Pass KB0VJJ 145.445"
+49,"Bailey, Dick Mountain AB0PC 146.895",146.895,-,0.6,TSQL,100,100,23,23,NN,FM,5,"CO Park Bailey, Dick Mountain AB0PC 146.895"
+50,"Fairplay, Sacramento Mountain WZ0N 447.125",447.125,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Park Fairplay, Sacramento Mountain WZ0N 447.125"
+51,Lake George  449.7,449.7,-,5,Tone,107.2,88.5,23,23,NN,FM,5,CO Park Lake George  449.7
+52,"Lake George, Badger Mountain KC0CVU 147.36",147.36,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain KC0CVU 147.36"
+53,"Lake George, Badger Mountain NX0G 146.685",146.685,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain NX0G 146.685"
+54,"Aspen, Aspen Mountain K0VQ 447.05",447.05,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,"CO Pitkin Aspen, Aspen Mountain K0VQ 447.05"
+55,Snowmass Village K0CL 146.67,146.67,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Pitkin Snowmass Village K0CL 146.67
+56,Pueblo West K0JSC 448.975,448.975,-,5,TSQL,100,100,23,23,NN,FM,5,CO Pueblo Pueblo West K0JSC 448.975
+57,Center N0KM 146.64,146.64,-,0.6,TSQL,77,77,23,23,NN,FM,5,CO Rio Grande Center N0KM 146.64
+58,Center N0KM 447.1,447.1,-,5,Tone,77,88.5,23,23,NN,FM,5,CO Saguache Center N0KM 447.1
+59,Breckenridge WB0QMR 146.7,146.7,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Summit Breckenridge WB0QMR 146.7
+60,"Breckenridge, Bald Mountain KB0VJJ 147.39",147.39,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO Summit Breckenridge, Bald Mountain KB0VJJ 147.39"
+61,Cripple Creek NX0G 147.015,147.015,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Teller Cripple Creek NX0G 147.015
+62,Cripple Creek WB0WDF 145.46,145.46,-,0.6,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 145.46
+63,Cripple Creek WB0WDF 224.94,224.94,-,1.6,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 224.94
+64,Cripple Creek WB0WDF 447.4,447.4,-,5,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 447.4
+65,Woodland Park KA0WUC 145.415,145.415,-,0.6,Tone,179.9,88.5,23,23,NN,FM,5,CO Teller Woodland Park KA0WUC 145.415
+66,Woodland Park KA0WUC 447.675,447.675,-,5,TSQL,179.9,179.9,23,23,NN,FM,5,CO Teller Woodland Park KA0WUC 447.675
+67,Woodland Park KA0WUC 449.025,449.025,-,5,Tone,141.3,88.5,23,23,NN,FM,5,CO Teller Woodland Park KA0WUC 449.025
+68,Woodland Park NX0G 146.82,146.82,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Teller Woodland Park NX0G 146.82
+69,Woodland Park NX0G 448.65,448.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,CO Teller Woodland Park NX0G 448.65
+70,"Woodland Park, Paradise Pines KA4EPS 449.325",449.325,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Teller Woodland Park, Paradise Pines KA4EPS 449.325"

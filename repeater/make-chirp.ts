@@ -2,14 +2,17 @@ import * as _csv from 'csv';
 import * as _fs from 'fs';
 import { promisify } from 'util';
 import { save } from './get-repeaters';
+import { IObject } from './helper';
 // import * as data from './repeaters/json/Denver, CO.json';
 
 const fs = {
   exists: promisify(_fs.exists),
   writeFile: promisify(_fs.writeFile),
   readFile: promisify(_fs.readFile),
-  readdir: promisify(_fs.readdir)
+  readdir: promisify(_fs.readdir),
+  mkdir: promisify(_fs.mkdir)
 };
+
 const parseAsync = promisify(_csv.parse);
 const stringifyAsync = promisify(_csv.stringify);
 
@@ -52,7 +55,7 @@ const repeater = {
 // const CC = /CC(\d+)/;
 // const Tone = /(\d+\.?\d*)/;
 
-export async function read(files: string[], name: string, limit = 0) {
+export async function read(files: string[], name: string, limit = 0, reSort?: string, filter?: IObject<string>) {
   console.log('read', files, name, limit);
   const fileContents = await Promise.all(files.map(f => fs.readFile(`repeaters/json/${f}.json`)));
 
@@ -61,8 +64,22 @@ export async function read(files: string[], name: string, limit = 0) {
 
   data = data.filter(a => a.Use === 'OPEN' && a['Op Status'] !== 'Off-Air');
 
+  if (filter) {
+    Object.entries(filter).forEach(e => {
+      data = data.filter(a => new RegExp(e[1]).test(a[e[0]]));
+    });
+  }
+
+  const nets = data
+    .filter(d => !!d.Nets)
+    .map(item => ({ Name: `${item.Call} ${item.Frequency}`, Location: `${item['ST/PR']} ${item.County} ${item.Location}`, Nets: item.Nets }));
+
+  if (limit) {
+    nets.splice(limit);
+  }
+
   const mapped = data
-    .map((d: any) => makeRow(d))
+    .map(d => makeRow(d))
     .filter(d => d.Mode !== 'DIG' && d.Frequency > 100 && d.Frequency < 500);
 
   let dupes = 0;
@@ -107,7 +124,9 @@ export async function read(files: string[], name: string, limit = 0) {
     mapped.splice(limit);
   }
 
-  // mapped.sort((a, b) => a.Name > b.Name ? 1 : a.Name < b.Name ? -1 : 0);
+  if (reSort) {
+    mapped.sort((a, b) => a[reSort] > b[reSort] ? 1 : a[reSort] < b[reSort] ? -1 : 0);
+  }
 
   mapped.forEach((m: IRepeater, i: number) => m.Location = i);
 
@@ -115,11 +134,29 @@ export async function read(files: string[], name: string, limit = 0) {
     header: true
   };
 
-  const csv = await stringifyAsync(mapped, options);
+  if (!(await fs.exists(`chirp/csv/${count}/`))) {
+    await fs.mkdir(`chirp/csv/${count}/`);
+  }
+  if (!(await fs.exists(`chirp/json/${count}/`))) {
+    await fs.mkdir(`chirp/json/${count}/`);
+  }
+  if (!(await fs.exists(`chirp/csv/nets/`))) {
+    await fs.mkdir(`chirp/csv/nets/`);
+  }
+  if (!(await fs.exists(`chirp/json/nets/`))) {
+    await fs.mkdir(`chirp/json/nets/`);
+  }
 
+  const netsCsv = await stringifyAsync(nets, options);
+  await Promise.all([
+    fs.writeFile(`chirp/csv/nets/${name}.csv`, netsCsv),
+    fs.writeFile(`chirp/json/nets/${name}.json`, JSON.stringify(nets))
+  ]);
+
+  const csv = await stringifyAsync(mapped, options);
   return Promise.all([
-    fs.writeFile(`chirp/csv/${name}.csv`, csv),
-    fs.writeFile(`chirp/json/${name}.json`, JSON.stringify(mapped))
+    fs.writeFile(`chirp/csv/${count}/${name}.csv`, csv),
+    fs.writeFile(`chirp/json/${count}/${name}.json`, JSON.stringify(mapped))
   ]);
 }
 
@@ -130,7 +167,7 @@ function makeRow(item: any) {
   const isNarrow = Object.entries(item).filter(a => /Narrow/i.test(a[1] as string)).length > 0;
 
   // const Location = 0;
-  const Name = `${item.Call} ${item.Frequency}`;
+  const Name = `${item.Location} ${item.Call} ${item.Frequency}`;
   const Frequency = item.Frequency;
   const Duplex = item.Offset > 0 ? '+' : item.Offset < 0 ? '-' : '';
   const Offset = Math.abs(item.Offset);
@@ -142,7 +179,7 @@ function makeRow(item: any) {
   let DtcsRxCode: any = '';
   let Tone = '';
   const Mode = isDigital ? 'DIG' : isNarrow ? 'NFM' : 'FM';
-  const Comment = `${item.Location}`;
+  const Comment = `${item['ST/PR']} ${item.County} ${item.Location} ${item.Call} ${item.Frequency}`;
 
   if (typeof UplinkTone === 'number') {
     rToneFreq = UplinkTone;
@@ -205,45 +242,23 @@ function makeRow(item: any) {
   return row;
 }
 
-const allFiles = fs.readdir('./repeaters/json')
+const count = 128 - 57;
+
+const allIndividualFiles = fs.readdir('./repeaters/json')
   .then(files => Promise.all(files.map(f => {
     const name = f.replace('./repeaters/json', '').replace('.json', '');
     console.log('name', name);
-    return read([name], name, 1000);
+    return read([name], `${name}`, count, 'Comment');
   })));
+
+const allCombinedFiles = fs.readdir('./repeaters/json')
+  .then(files => {
+    const cities = files.map(f => f.replace('./repeaters/json', '').replace('.json', ''));
+    return read(cities, `_all`, count, 'Comment');
+  });
 
 export default (Promise.all(
   [
-    read([
-      'Denver, CO',
-      'Littleton, CO',
-      'Bailey, CO',
-      'Grant, CO',
-      'Jefferson, CO',
-      'Como, CO',
-      'Fairplay, CO',
-      'Antero Junction, CO',
-      'Buena Vista, CO',
-      'Nathrop, CO',
-      'Salida, CO',
-      'Monarch, CO',
-      'Sargents, CO',
-      'Parlin, CO',
-      'Gunnison, CO',
-      'Cimarron, CO',
-      'Montrose, CO',
-      'Loghill Village, CO',
-      'Ridgway, CO',
-      'Norwood, CO',
-      'Redvale, CO',
-      'Naturita, CO',
-      'Bedrock, CO',
-      'Paradox, CO',
-      'La Sal, UT',
-      'Spanish Valley, UT',
-      'Moab, UT'
-    ],`long-way`, 1000),
-
     read([
       'Denver, CO',
       'Lakewood, CO',
@@ -259,8 +274,47 @@ export default (Promise.all(
       'Thompson, UT',
       'Crescent Junction, UT',
       'Moab, UT'
-    ],`short-way`, 1000),
+    ],`_I-70`, count, 'Comment'),
 
-    allFiles
+    read([
+      'Denver, CO',
+      'Buena Vista, CO',
+      'Salida, CO',
+      'Monarch, CO',
+      'Gunnison, CO',
+      'Montrose, CO',
+      'Ouray, CO',
+      'Naturita, CO',
+      'La Sal, UT',
+      'Moab, UT'
+    ],`_US-50`, count, 'Comment'),
+
+    read([
+      'Denver, CO',
+      'Buena Vista, CO',
+      'Salida, CO',
+      'Saguache, CO',
+      'Center, CO',
+      'Del Norte, CO',
+      'Pagosa Springs, CO',
+      'Bayfield, CO',
+      'Durango, CO',
+      'Mancos, CO',
+      'Dolores, CO',
+      'Dove Creek, CO',
+      'Monticello, UT',
+      'Moab, UT'
+    ],`_US-160`, count, 'Comment'),
+
+    read([
+      'Denver, CO',
+      'Moab, UT'
+    ],`_Den-Moab`, count, 'Comment'),
+
+    allIndividualFiles,
+    allCombinedFiles,
+
+    // read(['Moab, UT'], 'Moab-E', count, undefined, { Dir: 'E' }),
+    // read(['Denver, CO'], 'Denver-W', count, undefined, { Dir: 'W' })
   ]
 ));

@@ -54,13 +54,63 @@ export async function save(place: string | number, distance: number) {
 
 export default (async () => {
   // Update existing files
-  const allFiles = await fs.readdir('./repeaters/json');
-  allFiles.sort((a, b) => a > b ? 1 : a < b ? -1 : 0);
-  while (allFiles.length) {
-    const file = allFiles.shift();
-    if (file) {
-      const name = file.replace('./repeaters/json', '').replace('.json', '');
-      await save(name, 100);
+  // const allFiles = await fs.readdir('./repeaters/json');
+  // allFiles.sort((a, b) => a > b ? 1 : a < b ? -1 : 0);
+  // while (allFiles.length) {
+  //   const file = allFiles.shift();
+  //   if (file) {
+  //     const name = file.replace('./repeaters/json', '').replace('.json', '');
+  //     await save(name, 200);
+  //   }
+  // }
+  const cities = [
+    // 'Denver, CO',
+    // 'Lakewood, CO',
+    // 'Keystone, CO',
+    // 'Breckenridge, CO',
+    // 'Vail, CO',
+    // 'Avon, CO',
+    // 'Glenwood Springs, CO',
+    // 'Rifle, CO',
+    // 'Palisade, CO',
+    // 'Grand Junction, CO',
+    // 'Fruita, CO',
+    // 'Thompson, UT',
+    // 'Crescent Junction, UT',
+    // 'Moab, UT',
+    //
+    // 'Denver, CO',
+    // 'Buena Vista, CO',
+    // 'Salida, CO',
+    // 'Monarch, CO',
+    // 'Gunnison, CO',
+    // 'Montrose, CO',
+    // 'Ouray, CO',
+    // 'Naturita, CO',
+    // 'La Sal, UT',
+    // 'Moab, UT',
+    //
+    // 'Denver, CO',
+    // 'Buena Vista, CO',
+    // 'Salida, CO',
+    // 'Saguache, CO',
+    // 'Center, CO',
+    // 'Del Norte, CO',
+    // 'Pagosa Springs, CO',
+    // 'Bayfield, CO',
+    // 'Durango, CO',
+    // 'Mancos, CO',
+    // 'Dolores, CO',
+    // 'Dove Creek, CO',
+    // 'Monticello, UT',
+    // 'Moab, UT',
+
+    'Hotchkiss, CO'
+  ];
+  while (cities.length) {
+    const name = cities.shift();
+    if (name) {
+      await save(name, 200);
     }
   }
 })();
