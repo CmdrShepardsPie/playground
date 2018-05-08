@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Coverage,Sponsor,Features,Notes,Web links,Coordination,Last update
+444.525,5,,K5URD,"Belen, Capilla Peak",NM,OPEN,,180.7,S,,444.525,449.525,,K5URD (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",Torrance,On-Air,Wide area.,Upper Rio FM Soc,E-power.,9,URFMS Repeaters,NMFCC,

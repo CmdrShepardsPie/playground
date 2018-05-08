@@ -1,72 +1,72 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-0,"Loma, Baxter Pass KB0SW 447",447,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Garfield Loma, Baxter Pass KB0SW 447"
-1,"Parachute, Mount Callahan WA4HND 449.8",449.8,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Garfield Parachute, Mount Callahan WA4HND 449.8"
-2,"Delta, Uncompahgre Butte KB0YNA 449.4",449.4,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"CO Mesa Delta, Uncompahgre Butte KB0YNA 449.4"
-3,Grand Junction K0SSI 147.105,147.105,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Mesa Grand Junction K0SSI 147.105
-4,Grand Junction KC0ARV 447.5,447.5,-,5,Tone,114.8,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KC0ARV 447.5
-5,Grand Junction KD0SMZ 449.775,449.775,-,5,Cross,173.8,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KD0SMZ 449.775
-6,Grand Junction KE0TY 145.22,145.22,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KE0TY 145.22
-7,Grand Junction KE0TY 147.39,147.39,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KE0TY 147.39
-8,Grand Junction W0GJT 146.82,146.82,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Mesa Grand Junction W0GJT 146.82
-9,Grand Junction W0GJT 448.15,448.15,-,5,Tone,100,88.5,23,23,NN,FM,5,CO Mesa Grand Junction W0GJT 448.15
-10,"Grand Junction, Black Ridge (Above Colorado Ntl Monument) W0RRZ 146.94",146.94,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, Black Ridge (Above Colorado Ntl Monument) W0RRZ 146.94"
-11,"Grand Junction, Black Ridge WA4HND 449.575",449.575,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"CO Mesa Grand Junction, Black Ridge WA4HND 449.575"
-12,"Grand Junction, GJT W0RRZ 145.175",145.175,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"CO Mesa Grand Junction, GJT W0RRZ 145.175"
-13,"Grand Junction, Grand Mesa KB0VJJ 147.355",147.355,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa KB0VJJ 147.355"
-14,"Grand Junction, Grand Mesa WA4HND 449.3",449.3,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa WA4HND 449.3"
-15,"Price,  Wood Hill W7CEU 145.43",145.43,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price,  Wood Hill W7CEU 145.43"
-16,"Price,  Wood Hill W7CEU 224.5",224.5,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price,  Wood Hill W7CEU 224.5"
-17,"Price,  Wood Hill W7CEU 448.3",448.3,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price,  Wood Hill W7CEU 448.3"
-18,"Price, Wood Hill K7GX 147.2",147.2,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price, Wood Hill K7GX 147.2"
-19,"Price, Wood Hill K7GX 448.3",448.3,-,5,,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price, Wood Hill K7GX 448.3"
-20,"Scofield, Boardinghouse Rdge WX7Y 224.98",224.98,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Scofield, Boardinghouse Rdge WX7Y 224.98"
-21,"Scofield, Boardinghouse Ridge K7SDC 147.08",147.08,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Scofield, Boardinghouse Ridge K7SDC 147.08"
-22,"Scofield, Ford Ridge K7SDC 145.31",145.31,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Scofield, Ford Ridge K7SDC 145.31"
-23,"Sunny Side, Bruin Peak WX7Y 145.175",145.175,-,0.6,,88.5,88.5,23,23,NN,FM,5,"UT Carbon Sunny Side, Bruin Peak WX7Y 145.175"
-24,"Sunnyside, Bruin Point K7SDC 147.32",147.32,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Sunnyside, Bruin Point K7SDC 147.32"
-25,"Sunnyside, Bruin Point K7SDC 449.05",449.05,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Sunnyside, Bruin Point K7SDC 449.05"
-26,Altamont AD7ZW 147.28,147.28,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,UT Duchesne Altamont AD7ZW 147.28
-27,Duchense N7PQD 147.26,147.26,+,0.6,,88.5,88.5,23,23,NN,FM,5,UT Duchesne Duchense N7PQD 147.26
-28,"Myton, Flat Top W7BYU 145.49",145.49,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"UT Duchesne Myton, Flat Top W7BYU 145.49"
-29,"Castle Dale, Cedar Mountain K7SDC 147.14",147.14,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Cedar Mountain K7SDC 147.14"
-30,"Castle Dale, Cedar Mountain K7SDC 448.55",448.55,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Cedar Mountain K7SDC 448.55"
-31,"Castle Dale, Horn Mountain K7SDC 147.06",147.06,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Horn Mountain K7SDC 147.06"
-32,"Castle Dale, Horn Mountain K7YI 447.625",447.625,-,5,Tone,100,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Horn Mountain K7YI 447.625"
-33,"Castle Dale, Horn Mountain WX7Y 447.7",447.7,-,5,Tone,123,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Horn Mountain WX7Y 447.7"
-34,"Huntington,  Skyline Dr WX7Y 223.92",223.92,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Emery Huntington,  Skyline Dr WX7Y 223.92"
-35,Moab K7QEQ 146.9,146.9,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,UT Grand Moab K7QEQ 146.9
-36,"Moab, Bald Mesa K7QEQ 146.76",146.76,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Grand Moab, Bald Mesa K7QEQ 146.76"
-37,"Moab, Bald Mesa K7QEQ 449.1",449.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"UT Grand Moab, Bald Mesa K7QEQ 449.1"
-38,"Levan, Levan Peak K7JL 145.27",145.27,-,0.6,Tone,103.5,88.5,23,23,NN,FM,5,"UT Juab Levan, Levan Peak K7JL 145.27"
-39,"Monticello, Abajo Peak K7QEQ 447.1",447.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"UT San Juan Monticello, Abajo Peak K7QEQ 447.1"
-40,"Monticello, Abajo Peak K7SDC 146.61",146.61,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT San Juan Monticello, Abajo Peak K7SDC 146.61"
-41,"East Salina, Salina Canyon WB7REL 146.72",146.72,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT San Pete East Salina, Salina Canyon WB7REL 146.72"
-42,"Ephraim,  Horseshoe N7IMF 224.64",224.64,-,1.6,,88.5,88.5,23,23,NN,FM,5,"UT San Pete Ephraim,  Horseshoe N7IMF 224.64"
-43,"Ephraim, Horseshoe W7DHH 146.66",146.66,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT San Pete Ephraim, Horseshoe W7DHH 146.66"
-44,"Gunnison, N7RVS QTH N7RVS 447.35",447.35,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"UT San Pete Gunnison, N7RVS QTH N7RVS 447.35"
-45,"Indianola, Indianola Peak WB7REL 146.72",146.72,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT San Pete Indianola, Indianola Peak WB7REL 146.72"
-46,Manti N7YFZ 449.75,449.75,-,5,Tone,131.8,88.5,23,23,NN,FM,5,UT San Pete Manti N7YFZ 449.75
-47,"Manti, Barton Peak KD7YE 448.275",448.275,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"UT San Pete Manti, Barton Peak KD7YE 448.275"
-48,"Starling, Sterling WB7REL 145.29",145.29,-,0.6,Tone,131.8,88.5,23,23,NN,FM,5,"UT San Pete Starling, Sterling WB7REL 145.29"
-49,Sterling WB7REL 447.85,447.85,-,5,Tone,131.8,88.5,23,23,NN,FM,5,UT San Pete Sterling WB7REL 447.85
-50,"Holden, Beesting Peak N7GGN 147.1",147.1,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Sevier Holden, Beesting Peak N7GGN 147.1"
-51,"Monroe, Monroe Peak W7DHH 447.45",447.45,-,5,Tone,114.8,88.5,23,23,NN,FM,5,"UT Sevier Monroe, Monroe Peak W7DHH 447.45"
-52,"Monroe, Monroe Peak WA7HSW 146.64",146.64,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Sevier Monroe, Monroe Peak WA7HSW 146.64"
-53,"Monroe, Monroe Peak WB7REL 146.86",146.86,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Sevier Monroe, Monroe Peak WB7REL 146.86"
-54,"Richfield, Monroe Peak WA7VHF 146.84",146.84,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Sevier Richfield, Monroe Peak WA7VHF 146.84"
-55,"Sterling, Salina Canyon WB7REL 449.25",449.25,-,5,Tone,131.8,88.5,23,23,NN,FM,5,"UT Sevier Sterling, Salina Canyon WB7REL 449.25"
-56,Vernal W7BYU 449.7,449.7,-,5,Tone,136.5,88.5,23,23,NN,FM,5,UT Uintah Vernal W7BYU 449.7
-57,"Vernal, Blue Mountain W7BAR 147.1",147.1,+,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"UT Uintah Vernal, Blue Mountain W7BAR 147.1"
-58,"Vernal, Tabby Mountain KG7DSO 147.34",147.34,+,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"UT Uintah Vernal, Tabby Mountain KG7DSO 147.34"
-59,"Vernal, Uintah County EOC W7BAR 449.9",449.9,-,5,Tone,136.5,88.5,23,23,NN,FM,5,"UT Uintah Vernal, Uintah County EOC W7BAR 449.9"
-60,"Goshen,  West Mountain WA7FFM 448.95",448.95,-,5,,88.5,88.5,23,23,NN,FM,5,"UT Utah Goshen,  West Mountain WA7FFM 448.95"
-61,"Goshen, West Mountain K7UCS 147.34",147.34,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Utah Goshen, West Mountain K7UCS 147.34"
-62,"Goshen, West Mountain WA7UAH 147.02",147.02,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Utah Goshen, West Mountain WA7UAH 147.02"
-63,Mapleton N6EZO 146.8,146.8,-,0.6,Tone,100,88.5,23,23,NN,FM,5,UT Utah Mapleton N6EZO 146.8
-64,Payson KB7M 448.025,448.025,-,5,Tone,100,88.5,23,23,NN,FM,5,UT Utah Payson KB7M 448.025
-65,Payson NV7V 447,447,-,5,TSQL,100,100,23,23,NN,FM,5,UT Utah Payson NV7V 447
-66,"Spanish Fork,  Teat Mountain K7DSN 447.4",447.4,-,5,Tone,100,88.5,23,23,NN,FM,5,"UT Utah Spanish Fork,  Teat Mountain K7DSN 447.4"
-67,Springville N7KYY 447.325,447.325,-,5,Tone,114.8,88.5,23,23,NN,FM,5,UT Utah Springville N7KYY 447.325
-68,Springville WD7N 447.475,447.475,-,5,Tone,186.2,88.5,23,23,NN,FM,5,UT Utah Springville WD7N 447.475
-69,Woodland Hills WB7RPF 447.3,447.3,-,5,Tone,77,88.5,23,23,NN,FM,5,UT Utah Woodland Hills WB7RPF 447.3
-70,"Hanksville, Ellen Peak K7SDC 147.08",147.08,+,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"UT Wayne Hanksville, Ellen Peak K7SDC 147.08"
+57,KB0SW 447,447,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Garfield Loma, Baxter Pass KB0SW 447"
+58,WA4HND 449.8,449.8,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Garfield Parachute, Mount Callahan WA4HND 449.8"
+59,KB0YNA 449.4,449.4,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"CO Mesa Delta, Uncompahgre Butte KB0YNA 449.4"
+60,K0SSI 147.105,147.105,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Mesa Grand Junction K0SSI 147.105
+61,KC0ARV 447.5,447.5,-,5,Tone,114.8,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KC0ARV 447.5
+62,KD0SMZ 449.775,449.775,-,5,Cross,173.8,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KD0SMZ 449.775
+63,KE0TY 145.22,145.22,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KE0TY 145.22
+64,KE0TY 147.39,147.39,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KE0TY 147.39
+65,W0GJT 146.82,146.82,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Mesa Grand Junction W0GJT 146.82
+66,W0GJT 448.15,448.15,-,5,Tone,100,88.5,23,23,NN,FM,5,CO Mesa Grand Junction W0GJT 448.15
+67,W0RRZ 146.94,146.94,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, Black Ridge (Above Colorado Ntl Monument) W0RRZ 146.94"
+68,WA4HND 449.575,449.575,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,"CO Mesa Grand Junction, Black Ridge WA4HND 449.575"
+69,W0RRZ 145.175,145.175,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"CO Mesa Grand Junction, GJT W0RRZ 145.175"
+70,KB0VJJ 147.355,147.355,-,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa KB0VJJ 147.355"
+71,WA4HND 449.3,449.3,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa WA4HND 449.3"
+72,W7CEU 145.43,145.43,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price,  Wood Hill W7CEU 145.43"
+73,W7CEU 224.5,224.5,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price,  Wood Hill W7CEU 224.5"
+74,W7CEU 448.3,448.3,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price,  Wood Hill W7CEU 448.3"
+75,K7GX 147.2,147.2,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price, Wood Hill K7GX 147.2"
+76,K7GX 448.3,448.3,-,5,,88.5,88.5,23,23,NN,FM,5,"UT Carbon Price, Wood Hill K7GX 448.3"
+77,WX7Y 224.98,224.98,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Scofield, Boardinghouse Rdge WX7Y 224.98"
+78,K7SDC 147.08,147.08,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Scofield, Boardinghouse Ridge K7SDC 147.08"
+79,K7SDC 145.31,145.31,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Scofield, Ford Ridge K7SDC 145.31"
+80,WX7Y 145.175,145.175,-,0.6,,88.5,88.5,23,23,NN,FM,5,"UT Carbon Sunny Side, Bruin Peak WX7Y 145.175"
+81,K7SDC 147.32,147.32,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Sunnyside, Bruin Point K7SDC 147.32"
+82,K7SDC 449.05,449.05,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"UT Carbon Sunnyside, Bruin Point K7SDC 449.05"
+83,AD7ZW 147.28,147.28,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,UT Duchesne Altamont AD7ZW 147.28
+84,N7PQD 147.26,147.26,+,0.6,,88.5,88.5,23,23,NN,FM,5,UT Duchesne Duchense N7PQD 147.26
+85,W7BYU 145.49,145.49,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"UT Duchesne Myton, Flat Top W7BYU 145.49"
+86,K7SDC 147.14,147.14,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Cedar Mountain K7SDC 147.14"
+87,K7SDC 448.55,448.55,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Cedar Mountain K7SDC 448.55"
+88,K7SDC 147.06,147.06,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Horn Mountain K7SDC 147.06"
+89,K7YI 447.625,447.625,-,5,Tone,100,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Horn Mountain K7YI 447.625"
+90,WX7Y 447.7,447.7,-,5,Tone,123,88.5,23,23,NN,FM,5,"UT Emery Castle Dale, Horn Mountain WX7Y 447.7"
+91,WX7Y 223.92,223.92,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Emery Huntington,  Skyline Dr WX7Y 223.92"
+92,K7QEQ 146.9,146.9,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,UT Grand Moab K7QEQ 146.9
+93,K7QEQ 146.76,146.76,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT Grand Moab, Bald Mesa K7QEQ 146.76"
+94,K7QEQ 449.1,449.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"UT Grand Moab, Bald Mesa K7QEQ 449.1"
+95,K7JL 145.27,145.27,-,0.6,Tone,103.5,88.5,23,23,NN,FM,5,"UT Juab Levan, Levan Peak K7JL 145.27"
+96,K7QEQ 447.1,447.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"UT San Juan Monticello, Abajo Peak K7QEQ 447.1"
+97,K7SDC 146.61,146.61,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"UT San Juan Monticello, Abajo Peak K7SDC 146.61"
+98,WB7REL 146.72,146.72,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT San Pete East Salina, Salina Canyon WB7REL 146.72"
+99,N7IMF 224.64,224.64,-,1.6,,88.5,88.5,23,23,NN,FM,5,"UT San Pete Ephraim,  Horseshoe N7IMF 224.64"
+100,W7DHH 146.66,146.66,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT San Pete Ephraim, Horseshoe W7DHH 146.66"
+101,N7RVS 447.35,447.35,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"UT San Pete Gunnison, N7RVS QTH N7RVS 447.35"
+102,WB7REL 146.72,146.72,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT San Pete Indianola, Indianola Peak WB7REL 146.72"
+103,N7YFZ 449.75,449.75,-,5,Tone,131.8,88.5,23,23,NN,FM,5,UT San Pete Manti N7YFZ 449.75
+104,KD7YE 448.275,448.275,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"UT San Pete Manti, Barton Peak KD7YE 448.275"
+105,WB7REL 145.29,145.29,-,0.6,Tone,131.8,88.5,23,23,NN,FM,5,"UT San Pete Starling, Sterling WB7REL 145.29"
+106,WB7REL 447.85,447.85,-,5,Tone,131.8,88.5,23,23,NN,FM,5,UT San Pete Sterling WB7REL 447.85
+107,N7GGN 147.1,147.1,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Sevier Holden, Beesting Peak N7GGN 147.1"
+108,W7DHH 447.45,447.45,-,5,Tone,114.8,88.5,23,23,NN,FM,5,"UT Sevier Monroe, Monroe Peak W7DHH 447.45"
+109,WA7HSW 146.64,146.64,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Sevier Monroe, Monroe Peak WA7HSW 146.64"
+110,WB7REL 146.86,146.86,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Sevier Monroe, Monroe Peak WB7REL 146.86"
+111,WA7VHF 146.84,146.84,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Sevier Richfield, Monroe Peak WA7VHF 146.84"
+112,WB7REL 449.25,449.25,-,5,Tone,131.8,88.5,23,23,NN,FM,5,"UT Sevier Sterling, Salina Canyon WB7REL 449.25"
+113,W7BYU 449.7,449.7,-,5,Tone,136.5,88.5,23,23,NN,FM,5,UT Uintah Vernal W7BYU 449.7
+114,W7BAR 147.1,147.1,+,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"UT Uintah Vernal, Blue Mountain W7BAR 147.1"
+115,KG7DSO 147.34,147.34,+,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"UT Uintah Vernal, Tabby Mountain KG7DSO 147.34"
+116,W7BAR 449.9,449.9,-,5,Tone,136.5,88.5,23,23,NN,FM,5,"UT Uintah Vernal, Uintah County EOC W7BAR 449.9"
+117,WA7FFM 448.95,448.95,-,5,,88.5,88.5,23,23,NN,FM,5,"UT Utah Goshen,  West Mountain WA7FFM 448.95"
+118,K7UCS 147.34,147.34,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Utah Goshen, West Mountain K7UCS 147.34"
+119,WA7UAH 147.02,147.02,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"UT Utah Goshen, West Mountain WA7UAH 147.02"
+120,N6EZO 146.8,146.8,-,0.6,Tone,100,88.5,23,23,NN,FM,5,UT Utah Mapleton N6EZO 146.8
+121,KB7M 448.025,448.025,-,5,Tone,100,88.5,23,23,NN,FM,5,UT Utah Payson KB7M 448.025
+122,NV7V 447,447,-,5,TSQL,100,100,23,23,NN,FM,5,UT Utah Payson NV7V 447
+123,K7DSN 447.4,447.4,-,5,Tone,100,88.5,23,23,NN,FM,5,"UT Utah Spanish Fork,  Teat Mountain K7DSN 447.4"
+124,N7KYY 447.325,447.325,-,5,Tone,114.8,88.5,23,23,NN,FM,5,UT Utah Springville N7KYY 447.325
+125,WD7N 447.475,447.475,-,5,Tone,186.2,88.5,23,23,NN,FM,5,UT Utah Springville WD7N 447.475
+126,WB7RPF 447.3,447.3,-,5,Tone,77,88.5,23,23,NN,FM,5,UT Utah Woodland Hills WB7RPF 447.3
+127,K7SDC 147.08,147.08,+,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"UT Wayne Hanksville, Ellen Peak K7SDC 147.08"

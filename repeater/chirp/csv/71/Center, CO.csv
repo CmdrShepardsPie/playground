@@ -1,72 +1,72 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-0,"Pagosa Springs, Oakbrush Hill N0JSP 146.61",146.61,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"CO Archuleta Pagosa Springs, Oakbrush Hill N0JSP 146.61"
-1,"Maysville, CO KD0MRC 145.325",145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"CO Chaffee Maysville, CO KD0MRC 145.325"
-2,"Salida, Methodist Mountain K0JSC 449.975",449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain K0JSC 449.975"
-3,"Salida, Methodist Mountain KB0VJJ 147.285",147.285,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KB0VJJ 147.285"
-4,"Salida, Methodist Mountain KC0CVU 145.295",145.295,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 145.295"
-5,"Salida, Methodist Mountain KC0CVU 449.65",449.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 449.65"
-6,"Salida, Methodist Mountain WZ0N 449.925",449.925,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain WZ0N 449.925"
-7,"Pueblo, Deer Peak KC0CVU 449.625",449.625,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Custer Pueblo, Deer Peak KC0CVU 449.625"
-8,Westcliffe K0JSC 448.325,448.325,-,5,TSQL,100,100,23,23,NN,FM,5,CO Custer Westcliffe K0JSC 448.325
-9,Westcliffe KB0TUC 147.06,147.06,+,0.6,TSQL,77,77,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 147.06
-10,Westcliffe KB0TUC 448.15,448.15,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 448.15
-11,"Colorado Springs, Cheyenne Mountain KC0CVU 146.76",146.76,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 146.76"
-12,"Colorado Springs, Cheyenne Mountain KC0CVU 147.345",147.345,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 147.345"
-13,"Colorado Springs, Cheyenne Mountain KC0CVU 448",448,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448"
-14,"Colorado Springs, Cheyenne Mountain KC0CVU 448.1",448.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448.1"
-15,"Colorado Springs, Cheyenne Mountain W0CRA 145.16",145.16,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain W0CRA 145.16"
-16,"Colorado Springs, Pikes Peak KB0SRJ 146.97",146.97,-,0.6,Cross,100,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 146.97"
-17,"Colorado Springs, Pikes Peak KB0SRJ 448.45",448.45,-,5,Tone,100,88.5,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 448.45"
-18,Palmer Divide N0PWZ 449.725,449.725,-,5,Tone,100,88.5,23,23,NN,FM,5,CO El Paso Palmer Divide N0PWZ 449.725
-19,"Canon City, Canon City K0JSC 449.975",449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Canon City K0JSC 449.975"
-20,"Canon City, Colorado K0JSC 447.975",447.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Colorado K0JSC 447.975"
-21,"Canon City, Fremont Peak K0JSC 447.25",447.25,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak K0JSC 447.25"
-22,"Canon City, Fremont Peak WD0EKR 145.49",145.49,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 145.49"
-23,"Canon City, Fremont Peak WD0EKR 223.96",223.96,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 223.96"
-24,"Canon City, Fremont Peak WD0EKR 447.75",447.75,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 447.75"
-25,"Canon City, eightmile Mountain WB0WDF 449",449,-,5,TSQL,67,67,23,23,NN,FM,5,"CO Fremont Canon City, eightmile Mountain WB0WDF 449"
-26,Gunnison K5GF 449.95,449.95,-,5,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison K5GF 449.95
-27,Gunnison W0VTL 147.12,147.12,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison W0VTL 147.12
-28,"Gunnison, W Mountain or Tenderfoot Mountain KB0YNA 447.65",447.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,"CO Gunnison Gunnison, W Mountain or Tenderfoot Mountain KB0YNA 447.65"
-29,"Lake City, Hill 71 KB5ITS 147.135",147.135,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"CO Hinsdale Lake City, Hill 71 KB5ITS 147.135"
-30,La Veta N0JPX 145.355,145.355,-,0.6,Tone,100,88.5,23,23,NN,FM,5,CO Huerfano La Veta N0JPX 145.355
-31,"Silverton, Hazelton KB5ITS 444",444,+,5,Tone,67,88.5,23,23,NN,FM,5,"CO Huerfano Silverton, Hazelton KB5ITS 444"
-32,"Walsenburg, N Rattlesnake Butte ND0Q 146.73",146.73,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Huerfano Walsenburg, N Rattlesnake Butte ND0Q 146.73"
-33,"Durango, Missionary Ridge K0EP 146.7",146.7,-,0.6,TSQL,100,100,23,23,NN,FM,5,"CO La Plata Durango, Missionary Ridge K0EP 146.7"
-34,"Durango, Missionary Ridge KB0VJJ 147.345",147.345,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO La Plata Durango, Missionary Ridge KB0VJJ 147.345"
-35,"Ignacio, Spring Creek KB5ITS 147.15",147.15,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"CO La Plata Ignacio, Spring Creek KB5ITS 147.15"
-36,"La Veta, Cordova Pass N0ZSN 449.75",449.75,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Las Animas La Veta, Cordova Pass N0ZSN 449.75"
-37,"Creede, Bristol Head N0PKT 449.525",449.525,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Mineral Creede, Bristol Head N0PKT 449.525"
-38,"Montrose, Waterdog Peak KB0YNA 448.65",448.65,-,5,TSQL,88.5,151.4,23,23,NN,FM,5,"CO Montrose Montrose, Waterdog Peak KB0YNA 448.65"
-39,"Ouray, Engineer Mountain KB5ITS 147.27",147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"CO Ouray Ouray, Engineer Mountain KB5ITS 147.27"
-40,Lake George  449.7,449.7,-,5,Tone,107.2,88.5,23,23,NN,FM,5,CO Park Lake George  449.7
-41,"Lake George, Badger Mountain KC0CVU 147.36",147.36,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain KC0CVU 147.36"
-42,"Lake George, Badger Mountain NX0G 146.685",146.685,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain NX0G 146.685"
-43,Pueblo ND0Q 447.95,447.95,-,5,Tone,88.5,88.5,23,23,NN,FM,5,CO Pueblo Pueblo ND0Q 447.95
-44,Pueblo West K0JSC 448.975,448.975,-,5,TSQL,100,100,23,23,NN,FM,5,CO Pueblo Pueblo West K0JSC 448.975
-45,"Pueblo, Baculite Mesa ND0Q 146.79",146.79,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Baculite Mesa ND0Q 146.79"
-46,"Pueblo, Cedarwood K0JSC 449.975",449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Pueblo Pueblo, Cedarwood K0JSC 449.975"
-47,"Pueblo, Deer Peak ND0Q 146.88",146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Deer Peak ND0Q 146.88"
-48,"Pueblo, Metro K0JSC 447.275",447.275,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Pueblo Pueblo, Metro K0JSC 447.275"
-49,"Pueblo, Pueblo K0ST 146.655",146.655,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Pueblo K0ST 146.655"
-50,Center N0KM 146.64,146.64,-,0.6,TSQL,77,77,23,23,NN,FM,5,CO Rio Grande Center N0KM 146.64
-51,Center N0KM 447.1,447.1,-,5,Tone,77,88.5,23,23,NN,FM,5,CO Saguache Center N0KM 447.1
-52,Silverton KB5ITS 447.525,447.525,-,5,Tone,127.3,88.5,23,23,NN,FM,5,CO San Juan Silverton KB5ITS 447.525
-53,"Silverton, Buffalo Boy KB5ITS 145.325",145.325,-,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"CO San Juan Silverton, Buffalo Boy KB5ITS 145.325"
-54,"Silverton, Engineer Mountain KB5ITT 147.27",147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"CO San Juan Silverton, Engineer Mountain KB5ITT 147.27"
-55,"Silverton, Kendall Mountain KB5ITS 147.375",147.375,+,0.6,Tone,156.7,88.5,23,23,NN,FM,5,"CO San Juan Silverton, Kendall Mountain KB5ITS 147.375"
-56,Cripple Creek NX0G 147.015,147.015,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Teller Cripple Creek NX0G 147.015
-57,Cripple Creek WB0WDF 145.46,145.46,-,0.6,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 145.46
-58,Cripple Creek WB0WDF 224.94,224.94,-,1.6,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 224.94
-59,Cripple Creek WB0WDF 447.4,447.4,-,5,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 447.4
-60,"Eagle Nest, Iron Mountain NM5ML 444.35",444.35,+,5,Tone,100,88.5,23,23,NN,FM,5,"NM Colfax Eagle Nest, Iron Mountain NM5ML 444.35"
-61,"Eagle Nest, Touch Me Not NM5EM 147.04",147.04,+,0.6,Tone,141.3,88.5,23,23,NN,FM,5,"NM Colfax Eagle Nest, Touch Me Not NM5EM 147.04"
-62,"Chama, Overlook Mtn W5SF 147.08",147.08,+,0.6,Tone,162.2,88.5,23,23,NN,FM,5,"NM Rio Arriba Chama, Overlook Mtn W5SF 147.08"
-63,Dulce NM5SJ 145.43,145.43,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,NM Rio Arriba Dulce NM5SJ 145.43
-64,"Tres Piedras,  San Antonio Mountain KF5PFO 146.76",146.76,-,0.6,Tone,67,88.5,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras,  San Antonio Mountain KF5PFO 146.76"
-65,"Tres Piedras, San Antonio Mountain NM5ML 147.22",147.22,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras, San Antonio Mountain NM5ML 147.22"
-66,"Red River, Molycorp KF5PFO 145.39",145.39,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"NM Taos Red River, Molycorp KF5PFO 145.39"
-67,"Red River, Valle Vidal KF5PFO 145.25",145.25,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"NM Taos Red River, Valle Vidal KF5PFO 145.25"
-68,"Taos, Ski Valley NM5ML 147.14",147.14,+,0.6,Tone,67,88.5,23,23,NN,FM,5,"NM Taos Taos, Ski Valley NM5ML 147.14"
-69,"Taos, Wheeler Peak N5TSV 444.975",444.975,+,5,Tone,123,88.5,23,23,NN,FM,5,"NM Taos Taos, Wheeler Peak N5TSV 444.975"
-70,"Tres Piedras, San Antonio Mountain KF5PFO 146.76",146.76,-,0.6,Tone,67,88.5,23,23,NN,FM,5,"NM Taos Tres Piedras, San Antonio Mountain KF5PFO 146.76"
+57,N0JSP 146.61,146.61,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"CO Archuleta Pagosa Springs, Oakbrush Hill N0JSP 146.61"
+58,KD0MRC 145.325,145.325,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"CO Chaffee Maysville, CO KD0MRC 145.325"
+59,K0JSC 449.975,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain K0JSC 449.975"
+60,KB0VJJ 147.285,147.285,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KB0VJJ 147.285"
+61,KC0CVU 145.295,145.295,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 145.295"
+62,KC0CVU 449.65,449.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 449.65"
+63,WZ0N 449.925,449.925,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain WZ0N 449.925"
+64,KC0CVU 449.625,449.625,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO Custer Pueblo, Deer Peak KC0CVU 449.625"
+65,K0JSC 448.325,448.325,-,5,TSQL,100,100,23,23,NN,FM,5,CO Custer Westcliffe K0JSC 448.325
+66,KB0TUC 147.06,147.06,+,0.6,TSQL,77,77,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 147.06
+67,KB0TUC 448.15,448.15,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 448.15
+68,KC0CVU 146.76,146.76,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 146.76"
+69,KC0CVU 147.345,147.345,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 147.345"
+70,KC0CVU 448,448,-,5,Tone,107.2,88.5,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448"
+71,KC0CVU 448.1,448.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448.1"
+72,W0CRA 145.16,145.16,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain W0CRA 145.16"
+73,KB0SRJ 146.97,146.97,-,0.6,Cross,100,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 146.97"
+74,KB0SRJ 448.45,448.45,-,5,Tone,100,88.5,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 448.45"
+75,N0PWZ 449.725,449.725,-,5,Tone,100,88.5,23,23,NN,FM,5,CO El Paso Palmer Divide N0PWZ 449.725
+76,K0JSC 449.975,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Canon City K0JSC 449.975"
+77,K0JSC 447.975,447.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Colorado K0JSC 447.975"
+78,K0JSC 447.25,447.25,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak K0JSC 447.25"
+79,WD0EKR 145.49,145.49,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 145.49"
+80,WD0EKR 223.96,223.96,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 223.96"
+81,WD0EKR 447.75,447.75,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 447.75"
+82,WB0WDF 449,449,-,5,TSQL,67,67,23,23,NN,FM,5,"CO Fremont Canon City, eightmile Mountain WB0WDF 449"
+83,K5GF 449.95,449.95,-,5,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison K5GF 449.95
+84,W0VTL 147.12,147.12,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison W0VTL 147.12
+85,KB0YNA 447.65,447.65,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,"CO Gunnison Gunnison, W Mountain or Tenderfoot Mountain KB0YNA 447.65"
+86,KB5ITS 147.135,147.135,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"CO Hinsdale Lake City, Hill 71 KB5ITS 147.135"
+87,N0JPX 145.355,145.355,-,0.6,Tone,100,88.5,23,23,NN,FM,5,CO Huerfano La Veta N0JPX 145.355
+88,KB5ITS 444,444,+,5,Tone,67,88.5,23,23,NN,FM,5,"CO Huerfano Silverton, Hazelton KB5ITS 444"
+89,ND0Q 146.73,146.73,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Huerfano Walsenburg, N Rattlesnake Butte ND0Q 146.73"
+90,K0EP 146.7,146.7,-,0.6,TSQL,100,100,23,23,NN,FM,5,"CO La Plata Durango, Missionary Ridge K0EP 146.7"
+91,KB0VJJ 147.345,147.345,+,0.6,Cross,88.5,123,23,23,NN,FM,5,"CO La Plata Durango, Missionary Ridge KB0VJJ 147.345"
+92,KB5ITS 147.15,147.15,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"CO La Plata Ignacio, Spring Creek KB5ITS 147.15"
+93,N0ZSN 449.75,449.75,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Las Animas La Veta, Cordova Pass N0ZSN 449.75"
+94,N0PKT 449.525,449.525,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Mineral Creede, Bristol Head N0PKT 449.525"
+95,KB0YNA 448.65,448.65,-,5,TSQL,88.5,151.4,23,23,NN,FM,5,"CO Montrose Montrose, Waterdog Peak KB0YNA 448.65"
+96,KB5ITS 147.27,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"CO Ouray Ouray, Engineer Mountain KB5ITS 147.27"
+97, 449.7,449.7,-,5,Tone,107.2,88.5,23,23,NN,FM,5,CO Park Lake George  449.7
+98,KC0CVU 147.36,147.36,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain KC0CVU 147.36"
+99,NX0G 146.685,146.685,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain NX0G 146.685"
+100,ND0Q 447.95,447.95,-,5,Tone,88.5,88.5,23,23,NN,FM,5,CO Pueblo Pueblo ND0Q 447.95
+101,K0JSC 448.975,448.975,-,5,TSQL,100,100,23,23,NN,FM,5,CO Pueblo Pueblo West K0JSC 448.975
+102,ND0Q 146.79,146.79,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Baculite Mesa ND0Q 146.79"
+103,K0JSC 449.975,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Pueblo Pueblo, Cedarwood K0JSC 449.975"
+104,ND0Q 146.88,146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Deer Peak ND0Q 146.88"
+105,K0JSC 447.275,447.275,-,5,TSQL,100,100,23,23,NN,FM,5,"CO Pueblo Pueblo, Metro K0JSC 447.275"
+106,K0ST 146.655,146.655,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Pueblo K0ST 146.655"
+107,N0KM 146.64,146.64,-,0.6,TSQL,77,77,23,23,NN,FM,5,CO Rio Grande Center N0KM 146.64
+108,N0KM 447.1,447.1,-,5,Tone,77,88.5,23,23,NN,FM,5,CO Saguache Center N0KM 447.1
+109,KB5ITS 447.525,447.525,-,5,Tone,127.3,88.5,23,23,NN,FM,5,CO San Juan Silverton KB5ITS 447.525
+110,KB5ITS 145.325,145.325,-,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"CO San Juan Silverton, Buffalo Boy KB5ITS 145.325"
+111,KB5ITT 147.27,147.27,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,"CO San Juan Silverton, Engineer Mountain KB5ITT 147.27"
+112,KB5ITS 147.375,147.375,+,0.6,Tone,156.7,88.5,23,23,NN,FM,5,"CO San Juan Silverton, Kendall Mountain KB5ITS 147.375"
+113,NX0G 147.015,147.015,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,CO Teller Cripple Creek NX0G 147.015
+114,WB0WDF 145.46,145.46,-,0.6,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 145.46
+115,WB0WDF 224.94,224.94,-,1.6,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 224.94
+116,WB0WDF 447.4,447.4,-,5,Tone,67,88.5,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 447.4
+117,NM5ML 444.35,444.35,+,5,Tone,100,88.5,23,23,NN,FM,5,"NM Colfax Eagle Nest, Iron Mountain NM5ML 444.35"
+118,NM5EM 147.04,147.04,+,0.6,Tone,141.3,88.5,23,23,NN,FM,5,"NM Colfax Eagle Nest, Touch Me Not NM5EM 147.04"
+119,W5SF 147.08,147.08,+,0.6,Tone,162.2,88.5,23,23,NN,FM,5,"NM Rio Arriba Chama, Overlook Mtn W5SF 147.08"
+120,NM5SJ 145.43,145.43,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,NM Rio Arriba Dulce NM5SJ 145.43
+121,KF5PFO 146.76,146.76,-,0.6,Tone,67,88.5,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras,  San Antonio Mountain KF5PFO 146.76"
+122,NM5ML 147.22,147.22,+,0.6,Tone,100,88.5,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras, San Antonio Mountain NM5ML 147.22"
+123,KF5PFO 145.39,145.39,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"NM Taos Red River, Molycorp KF5PFO 145.39"
+124,KF5PFO 145.25,145.25,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"NM Taos Red River, Valle Vidal KF5PFO 145.25"
+125,NM5ML 147.14,147.14,+,0.6,Tone,67,88.5,23,23,NN,FM,5,"NM Taos Taos, Ski Valley NM5ML 147.14"
+126,N5TSV 444.975,444.975,+,5,Tone,123,88.5,23,23,NN,FM,5,"NM Taos Taos, Wheeler Peak N5TSV 444.975"
+127,KF5PFO 146.76,146.76,-,0.6,Tone,67,88.5,23,23,NN,FM,5,"NM Taos Tres Piedras, San Antonio Mountain KF5PFO 146.76"

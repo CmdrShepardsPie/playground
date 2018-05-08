@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Coverage,Sponsor,Features,Notes,Coordination,Last update
+446.8125,-5,,W0QEY,"Fort Collins, CSU Durward Hall",CO,OPEN,,109.4,N,,446.8125,441.8125,,W0QEY (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",Larimer,On-Air,Fort Collins Local Area,W0QEY CSU,D-Star Gateway,Free Star,CCARC,

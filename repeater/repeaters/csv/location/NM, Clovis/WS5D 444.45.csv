@@ -1,0 +1,2 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,Downlink Tone,County,Op Status,Coverage,Sponsor,EchoLink,IRLP,Commands,Last update
+444.45,5,88.5,WS5D,Clovis,NM,OPEN,EI,291.1,SE,,444.45,449.45,88.5,88.5,Curry,On-Air,"Clovis, NM",WS5D,401134,3713,"#+node for echolink, node for irlp, 73 to disc.",

@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Coverage,Last update
+449.575,-5,,NU7TS,Wellsville,UT,OPEN,,217.2,NNW,,449.575,444.575,,NU7TS (B),"jfindu lookup 
+    /   dstar-users lookup",Cache,On-Air,,

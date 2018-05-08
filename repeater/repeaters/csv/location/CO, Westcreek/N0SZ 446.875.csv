@@ -1,0 +1,25 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Colorado,Southern Colorado,Denver Regional,Northern Colorado,County,Op Status,Sponsor,Affiliate,Links,Web links,Coordination,Last update
+446.875,-5,CC6,N0SZ,Westcreek,CO,OPEN,,12.4,NNW,,446.875,441.875,,,6,,RMHAM,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700  Full-Time    Southern Colorado  2  719  Full-Time    Denver Regional  2  720  Full-Time    Northern Colorado  2  721  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,2,2,Douglas,On-Air,W0VG,RMHAM,Full-time to the  Colorado TRBO System .,http://www.rmham.org,CCARC,

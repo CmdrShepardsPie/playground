@@ -1,0 +1,2 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,Downlink Tone,YSF Digital Enabled,DG-ID,County,Op Status,Coverage,Sponsor,Features,Mixed-Mode,Notes,Coordination,Last update
+448.2,-5,123,KN6LL,"Jackson, Downtown",WY,OPEN,,274.8,NW,,448.2,443.2,123,123,,Open ↑ / Open ↓,Teton,On-Air,Central Jackson Hole,John Sherwood,WIRES-X,Yes; analog capable.,Switches between C4FM and Analog on the link but FM is always active locally. Usually on America Link (21080),WRCG,

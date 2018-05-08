@@ -1,0 +1,25 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Colorado,Northern Colorado,County,Op Status,Links,Web links,Coordination,Last update
+449.9375,-5,CC7,K7PFJ,"Cheyenne, South",WY,OPEN,,143.1,N,,449.9375,444.9375,,,7,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700      Northern Colorado  2  721    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,Laramie,On-Air,Full-time to the  Rocky Mountain Ham System .,https://www.rmham.org/wordpress/,WRCG,

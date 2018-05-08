@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Last update
+145.115,-0.6,,KF5VBE,Farmington,NM,OPEN,,221.2,SW,,145.115,144.515,,KF5VBE (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",San Juan,On-Air,

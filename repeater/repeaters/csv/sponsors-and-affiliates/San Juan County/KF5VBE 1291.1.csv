@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Sponsor,Features,Coordination,Last update
+1291.1,-20,,KF5VBE,Aztec,NM,CLOSED,,221.1,SW,,1291.1,1271.1,,KF5VBE (A) Repeater,"jfindu lookup 
+    /   dstar-users lookup",Bernalillo,On-Air,San Juan County,DV only,NMFCC,

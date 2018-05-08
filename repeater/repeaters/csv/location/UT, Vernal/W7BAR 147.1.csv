@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Coverage,Sponsor,Features,Links,EchoLink,IRLP,Commands,Notes,Coordination,Last update
+147.1,0.6,136.5,W7BAR,"Vernal, Blue Mountain",UT,OPEN,EI,154.9,WNW,,147.1,147.7,136.5,Uintah,On-Air,"Wide area: Vernal, Roosevelt, Duchesne and other Uintah basin communities.",""">Borderline ARC","Autopatch, e-power.","Full-time to  
+        147.34000 (KG7DSO) at Vernal, Tabby Mountain, UT .",458414,3577,"IRLP: No access code, bring up your node by it's node no. and bring it down with a 73.",8,UVHFS,

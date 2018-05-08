@@ -1,0 +1,14 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Coverage,Sponsor,Affiliate,Features,Notes,RX Location,Gunbarrel,Lousville,Lyons,Louisville #2,Coordination,Last update
+146.76,-0.6,100,W0IA,"Boulder, Gunbarrel Hill",CO,OPEN,,73.6,N,,146.76,146.16,100,Boulder,On-Air,Wide area.,Rocky Mtn VHF Soc,Boulder County ARES,5,"ARES primary repeater. 
+ Voting Receivers:  
+ 
+   
+    RX Location    Tone    Pitch    PL  
+   
+   Gunbarrel  single beep  low  100.0 
+   
+   Lousville  single beep  low  100.0 
+   
+   Lyons  double beep  high followed by medium  100.0 
+   
+   Louisville #2  double beep  high followed by low  100.0",Tone,single beep,single beep,double beep,double beep,CCARC,

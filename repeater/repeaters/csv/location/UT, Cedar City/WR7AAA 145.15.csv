@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,On-air,Coverage,Coordination,Last update
+145.15,-0.6,,WR7AAA,Cedar City,UT,OPEN,,201.1,WSW,,145.15,144.55,,WR7AAA (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Iron,Unknown,50,UVHFS,

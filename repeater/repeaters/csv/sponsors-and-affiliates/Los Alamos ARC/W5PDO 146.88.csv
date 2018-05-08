@@ -1,0 +1,2 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,Downlink Tone,County,Op Status,Coverage,Sponsor,Commands,Notes,Nets,Coordination,Last update
+146.88,-0.6,CSQ,W5PDO,"Los Alamos, Barranca Mesa",NM,OPEN,,250.2,SE,,146.88,146.28,CSQ,CSQ,Los Alamos,On-Air,,Los Alamos ARC,"Autopatch: Up- *88, wait for dialtone, and dial phone nbr. Down- #.",Located on the Barranca Mesa water tower.,LAARC: Sun at 2000.,NMFCC,

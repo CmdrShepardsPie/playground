@@ -55,7 +55,7 @@ const repeater = {
 // const CC = /CC(\d+)/;
 // const Tone = /(\d+\.?\d*)/;
 
-export async function read(files: string[], name: string, limit = 0, reSort?: string, filter?: IObject<string>) {
+export async function read(files: string[], name: string, limit = 0, offset = 0, reSort?: string, filter?: IObject<string>) {
   console.log('read', files, name, limit);
   const fileContents = await Promise.all(files.map(f => fs.readFile(`repeaters/json/${f}.json`)));
 
@@ -73,10 +73,6 @@ export async function read(files: string[], name: string, limit = 0, reSort?: st
   const nets = data
     .filter(d => !!d.Nets)
     .map(item => ({ Name: `${item.Call} ${item.Frequency}`, Location: `${item['ST/PR']} ${item.County} ${item.Location}`, Nets: item.Nets }));
-
-  if (limit) {
-    nets.splice(limit);
-  }
 
   const mapped = data
     .map(d => makeRow(d))
@@ -120,15 +116,13 @@ export async function read(files: string[], name: string, limit = 0, reSort?: st
   console.log(name, 'Deduped', dupes);
   console.log(name, mapped.length);
 
-  if (limit) {
-    mapped.splice(limit);
-  }
+  mapped.splice(limit);
 
   if (reSort) {
     mapped.sort((a, b) => a[reSort] > b[reSort] ? 1 : a[reSort] < b[reSort] ? -1 : 0);
   }
 
-  mapped.forEach((m: IRepeater, i: number) => m.Location = i);
+  mapped.forEach((m: IRepeater, i: number) => m.Location = i + offset);
 
   const options = {
     header: true
@@ -167,7 +161,7 @@ function makeRow(item: any) {
   const isNarrow = Object.entries(item).filter(a => /Narrow/i.test(a[1] as string)).length > 0;
 
   // const Location = 0;
-  const Name = `${item.Location} ${item.Call} ${item.Frequency}`;
+  const Name = `${item.Call} ${item.Frequency}`;
   const Frequency = item.Frequency;
   const Duplex = item.Offset > 0 ? '+' : item.Offset < 0 ? '-' : '';
   const Offset = Math.abs(item.Offset);
@@ -242,19 +236,20 @@ function makeRow(item: any) {
   return row;
 }
 
-const count = 128 - 57;
+// const count = 128 - 57;
+const count = 200 - 57;
 
 const allIndividualFiles = fs.readdir('./repeaters/json')
   .then(files => Promise.all(files.map(f => {
     const name = f.replace('./repeaters/json', '').replace('.json', '');
     console.log('name', name);
-    return read([name], `${name}`, count, 'Comment');
+    return read([name], `${name}`, count, 57, 'Comment');
   })));
 
 const allCombinedFiles = fs.readdir('./repeaters/json')
   .then(files => {
     const cities = files.map(f => f.replace('./repeaters/json', '').replace('.json', ''));
-    return read(cities, `_all`, count, 'Comment');
+    return read(cities, `_all`, count, 57, 'Comment');
   });
 
 export default (Promise.all(
@@ -274,7 +269,7 @@ export default (Promise.all(
       'Thompson, UT',
       'Crescent Junction, UT',
       'Moab, UT'
-    ],`_I-70`, count, 'Comment'),
+    ],`_I-70`, count, 57, 'Comment'),
 
     read([
       'Denver, CO',
@@ -287,7 +282,7 @@ export default (Promise.all(
       'Naturita, CO',
       'La Sal, UT',
       'Moab, UT'
-    ],`_US-50`, count, 'Comment'),
+    ],`_US-50`, count, 57, 'Comment'),
 
     read([
       'Denver, CO',
@@ -304,12 +299,12 @@ export default (Promise.all(
       'Dove Creek, CO',
       'Monticello, UT',
       'Moab, UT'
-    ],`_US-160`, count, 'Comment'),
+    ],`_US-160`, count, 57, 'Comment'),
 
     read([
       'Denver, CO',
       'Moab, UT'
-    ],`_Den-Moab`, count, 'Comment'),
+    ],`_Den-Moab`, count, 57, 'Comment'),
 
     allIndividualFiles,
     allCombinedFiles,

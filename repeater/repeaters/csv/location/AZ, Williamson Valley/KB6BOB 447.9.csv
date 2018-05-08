@@ -1,0 +1,10 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,DMR Enabled,Color Code,Wide Network,County,Op Status,Coverage,Sponsor,Notes,Last update
+447.9,-5,CC1,KB6BOB,Williamson Valley,AZ,OPEN,,289.7,SW,,447.9,442.9,,,1,,Yavapai,On-Air,"Williamson Valley, Chino Valley, North Prescott - Residential Repeater",Cactus Intertie,"Worldwide All Language 1 1 PTT 
+North America 1 3 PTT 
+WW English 1 13 PTT 
+TAC 310 1 310 PTT 
+DCI Bridge 1 3100 PTT 
+CA Statewide  3106 Full-Time 
+CA Statewide 1 3116 PTT 
+Southwest USA 1 3176 Full-Time 
+Cactus 3185 full-time",

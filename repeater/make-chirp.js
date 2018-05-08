@@ -41,7 +41,7 @@
     // const Frequency = /([-+]?\d+\.?\d*)/;
     // const CC = /CC(\d+)/;
     // const Tone = /(\d+\.?\d*)/;
-    async function read(files, name, limit = 0, reSort, filter) {
+    async function read(files, name, limit = 0, offset = 0, reSort, filter) {
         console.log('read', files, name, limit);
         const fileContents = await Promise.all(files.map(f => fs.readFile(`repeaters/json/${f}.json`)));
         let data = fileContents.reduce((prev, curr) => ([...prev, ...JSON.parse(curr.toString())]), []);
@@ -55,9 +55,6 @@
         const nets = data
             .filter(d => !!d.Nets)
             .map(item => ({ Name: `${item.Call} ${item.Frequency}`, Location: `${item['ST/PR']} ${item.County} ${item.Location}`, Nets: item.Nets }));
-        if (limit) {
-            nets.splice(limit);
-        }
         const mapped = data
             .map(d => makeRow(d))
             .filter(d => d.Mode !== 'DIG' && d.Frequency > 100 && d.Frequency < 500);
@@ -96,13 +93,11 @@
         }
         console.log(name, 'Deduped', dupes);
         console.log(name, mapped.length);
-        if (limit) {
-            mapped.splice(limit);
-        }
+        mapped.splice(limit);
         if (reSort) {
             mapped.sort((a, b) => a[reSort] > b[reSort] ? 1 : a[reSort] < b[reSort] ? -1 : 0);
         }
-        mapped.forEach((m, i) => m.Location = i);
+        mapped.forEach((m, i) => m.Location = i + offset);
         const options = {
             header: true
         };
@@ -135,7 +130,7 @@
         const isDigital = Object.entries(item).filter(a => /Enabled/.test(a[0])).length > 0;
         const isNarrow = Object.entries(item).filter(a => /Narrow/i.test(a[1])).length > 0;
         // const Location = 0;
-        const Name = `${item.Location} ${item.Call} ${item.Frequency}`;
+        const Name = `${item.Call} ${item.Frequency}`;
         const Frequency = item.Frequency;
         const Duplex = item.Offset > 0 ? '+' : item.Offset < 0 ? '-' : '';
         const Offset = Math.abs(item.Offset);
@@ -207,17 +202,18 @@
         };
         return row;
     }
-    const count = 128 - 57;
+    // const count = 128 - 57;
+    const count = 200 - 57;
     const allIndividualFiles = fs.readdir('./repeaters/json')
         .then(files => Promise.all(files.map(f => {
         const name = f.replace('./repeaters/json', '').replace('.json', '');
         console.log('name', name);
-        return read([name], `${name}`, count, 'Comment');
+        return read([name], `${name}`, count, 57, 'Comment');
     })));
     const allCombinedFiles = fs.readdir('./repeaters/json')
         .then(files => {
         const cities = files.map(f => f.replace('./repeaters/json', '').replace('.json', ''));
-        return read(cities, `_all`, count, 'Comment');
+        return read(cities, `_all`, count, 57, 'Comment');
     });
     exports.default = (Promise.all([
         read([
@@ -235,7 +231,7 @@
             'Thompson, UT',
             'Crescent Junction, UT',
             'Moab, UT'
-        ], `_I-70`, count, 'Comment'),
+        ], `_I-70`, count, 57, 'Comment'),
         read([
             'Denver, CO',
             'Buena Vista, CO',
@@ -247,7 +243,7 @@
             'Naturita, CO',
             'La Sal, UT',
             'Moab, UT'
-        ], `_US-50`, count, 'Comment'),
+        ], `_US-50`, count, 57, 'Comment'),
         read([
             'Denver, CO',
             'Buena Vista, CO',
@@ -263,11 +259,11 @@
             'Dove Creek, CO',
             'Monticello, UT',
             'Moab, UT'
-        ], `_US-160`, count, 'Comment'),
+        ], `_US-160`, count, 57, 'Comment'),
         read([
             'Denver, CO',
             'Moab, UT'
-        ], `_Den-Moab`, count, 'Comment'),
+        ], `_Den-Moab`, count, 57, 'Comment'),
         allIndividualFiles,
         allCombinedFiles,
     ]));

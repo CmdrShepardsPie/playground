@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,YSF Digital Enabled,DG-ID,County,Op Status,Coverage,Affiliate,Features,EchoLink,Last update
+441.67,5,CSQ,N7DMO,"Riverton, Griffy Hill",WY,OPEN,E,242,NW,,441.67,446.67,,N7DMO (B),"jfindu lookup 
+    /   dstar-users lookup",,Open ↑ / Open ↓,Fremont,On-Air,"DSTAR/C4FM/APRS Crossbander repeater 120 miles around Riverton Wy,","N7DMO Link,to 52.525 Mhz, Simplex,",Also Linked Controlled to Pinedale (146.880) Casper K7PLA (145.460).,161145,

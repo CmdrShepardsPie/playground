@@ -1,0 +1,25 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Colorado,Denver Regional,County,Op Status,Sponsor,Affiliate,Last update
+446.7625,-5,CC0,N0SZ,"Fairplay, Badger",CO,OPEN,,43.8,W,,446.7625,441.7625,,,0,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700      Denver Regional  2  720    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,Park,On-Air,K7PFJ,RMHAM,

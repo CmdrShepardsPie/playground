@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,DMR Enabled,Color Code,Wide Network,YSF Digital Enabled,DG-ID,County,Op Status,Coverage,Affiliate,Features,Notes,Last update
+446.75,-5,CC0,KC0ITF,"La Junta, North La Junta",CO,PRIVATE,,107.5,SE,,446.75,441.75,,KC0ITF (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,0,,,Open ↑ / Open ↓,Otero,On-Air,La Junta,KC0ITF,E-power.,Please use Busy Channel LockOut,

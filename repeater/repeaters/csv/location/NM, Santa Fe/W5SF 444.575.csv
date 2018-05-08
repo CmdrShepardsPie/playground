@@ -1,0 +1,3 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Coverage,Sponsor,Affiliate,Notes,Last update
+444.575,5,,W5SF,Santa Fe,NM,OPEN,,274.3,SE,,444.575,449.575,,W5SF (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Santa Fe,On-Air,Local Santa Fe,W5SF,Santa Fe Amateur Radio CLub,Soon to move to a better location,
