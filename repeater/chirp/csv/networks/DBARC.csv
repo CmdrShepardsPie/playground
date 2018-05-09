@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N5DFQ 147.15,147.15,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,DBARC
+,N5DFQ 444.975,444.975,+,5,Tone,88.5,88.5,23,23,NN,FM,5,DBARC

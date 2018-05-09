@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N7UW 147.015,147.015,+,0.6,Tone,146.2,88.5,23,23,NN,DIG,5,"Albany County ARES/RACES, University Amateur Radio"

@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7DRA 222.4,222.4,+,1.6,Tone,123,88.5,23,23,NN,FM,5,Mountain West Radio Group
+,K7DRA 448.025,448.025,-,5,Tone,123,88.5,23,23,NN,DIG,5,Mountain West Radio Group
+,K7DRA 444.7,444.7,+,5,Tone,123,88.5,23,23,NN,FM,5,Mountain West Radio Group

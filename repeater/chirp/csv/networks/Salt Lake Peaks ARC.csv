@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7CSW 448.05,448.05,-,5,Tone,100,88.5,23,23,NN,FM,5,Salt Lake Peaks ARC

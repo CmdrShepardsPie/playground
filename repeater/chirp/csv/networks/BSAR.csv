@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N1FSX 449.9,449.9,-,5,Tone,107.2,88.5,23,23,NN,FM,5,BSAR

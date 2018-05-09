@@ -1,0 +1,19 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7PFJ 446.75,446.75,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,N0SZ 445.05,445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,N0SZ 447.75,447.75,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Rocky Mountain Ham Radio
+,N0SZ 446.9875,446.9875,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,N0SZ 446.8,446.8,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,W0KU 449.625,449.625,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Rocky Mountain Ham Radio
+,N0SZ 145.37,145.37,-,0.6,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,N0SZ 448.225,448.225,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Rocky Mountain Ham Radio
+,N0SZ 446.9375,446.9375,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,N0SZ 145.175,145.175,-,0.6,DTCS,88.5,88.5,73,73,NN,DIG,5,Rocky Mountain Ham Radio
+,K7PFJ 446.95,446.95,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,N0SZ 445.0625,445.0625,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,AC0KQ 447.85,447.85,-,5,TSQL,141.3,141.3,23,23,NN,FM,5,Rocky Mountain Ham Radio
+,N0SZ 445.0875,445.0875,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,N0SZ 445.075,445.075,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,W0FT 448.175,448.175,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,K0JSC 446.7375,446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio
+,N0SZ 445.1375,445.1375,-,5,,88.5,88.5,23,23,NN,DIG,5,Rocky Mountain Ham Radio

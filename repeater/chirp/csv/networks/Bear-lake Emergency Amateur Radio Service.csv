@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,AG7BL 147.12,147.12,+,0.6,Tone,123,88.5,23,23,NN,FM,5,Bear-lake Emergency Amateur Radio Service

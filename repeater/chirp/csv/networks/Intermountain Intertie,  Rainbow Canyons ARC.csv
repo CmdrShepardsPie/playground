@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WR7AAA 146.94,146.94,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Intermountain Intertie,  Rainbow Canyons ARC"

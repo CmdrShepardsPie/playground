@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N5DFQ 442,442,+,5,Tone,88.5,88.5,23,23,NN,FM,5,Dustbowl Amateur Radio Club
+,N5DFQ 147.04,147.04,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Dustbowl Amateur Radio Club

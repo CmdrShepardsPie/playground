@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KB0UDD 448.5,448.5,-,5,Tone,100,88.5,23,23,NN,FM,5,Castle Rock Repeater Group
+,KB0UDD 146.67,146.67,-,0.6,TSQL,100,100,23,23,NN,FM,5,Castle Rock Repeater Group
+,KB0UDD 145.4,145.4,-,0.8,Tone,100,88.5,23,23,NN,FM,5,Castle Rock Repeater Group

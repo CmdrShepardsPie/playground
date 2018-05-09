@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N7KQ 442.8,442.8,+,5,Tone,100,88.5,23,23,NN,FM,5,Horned Toad Acres Wireless Assoc

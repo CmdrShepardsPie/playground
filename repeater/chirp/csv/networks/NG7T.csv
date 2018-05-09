@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,NG7T 449.1,449.1,-,5,,88.5,88.5,23,23,NN,FM,5,NG7T

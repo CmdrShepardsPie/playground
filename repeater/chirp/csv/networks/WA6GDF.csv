@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WA6GDF 147.12,147.12,+,0.6,Tone,192.8,88.5,23,23,NN,FM,5,WA6GDF

@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W0KIZ 448.55,448.55,-,5,Tone,82.5,88.5,23,23,NN,FM,5,HPRA

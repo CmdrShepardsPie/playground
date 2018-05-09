@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K0ELK 449.725,449.725,-,5,Tone,179.9,88.5,23,23,NN,FM,5,Roaring Fork Amateur Repeater Cooperative (RFARC)

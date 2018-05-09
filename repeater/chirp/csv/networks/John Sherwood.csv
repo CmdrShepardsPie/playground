@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KN6LL 448.2,448.2,-,5,TSQL,123,123,23,23,NN,DIG,5,John Sherwood

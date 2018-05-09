@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K0CL 146.67,146.67,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Ski Country ARC
+,KI0G 447.1,447.1,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Ski Country ARC
+,KI0G 146.88,146.88,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Ski Country ARC

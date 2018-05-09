@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W5SF 444.575,444.575,+,5,,88.5,88.5,23,23,NN,DIG,5,Santa Fe Amateur Radio CLub

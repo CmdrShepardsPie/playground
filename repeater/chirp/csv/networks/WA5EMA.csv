@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WA5EMA 443.75,443.75,+,5,,88.5,88.5,23,23,NN,FM,5,WA5EMA
+,WA5EMA 224.98,224.98,-,1.6,,88.5,88.5,23,23,NN,FM,5,WA5EMA
+,WA5EMA 146.88,146.88,-,0.6,,88.5,88.5,23,23,NN,FM,5,WA5EMA

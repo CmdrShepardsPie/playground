@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,NM5RR 443,443,+,5,Tone,100,88.5,23,23,NN,FM,5,RACES.

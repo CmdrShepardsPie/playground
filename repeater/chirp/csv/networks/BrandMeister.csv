@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,NX7R 449.625,449.625,-,5,DTCS,114.8,88.5,23,754,NN,DIG,5,BrandMeister

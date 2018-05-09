@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KB0SW 449.5,449.5,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Grand Mesa Repeater Association (GMRA)
+,K7QEQ 449.1,449.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Grand Mesa Repeater Association (GMRA)
+,K7QEQ 447.1,447.1,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Grand Mesa Repeater Association (GMRA)

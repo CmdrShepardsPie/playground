@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N7RRB 449.9,449.9,-,5,,88.5,88.5,23,23,NN,DIG,5,Casper Amateur Radio Club
+,W7VNJ 147.28,147.28,+,0.6,DTCS,88.5,88.5,32,32,NN,DIG,5,Casper Amateur Radio Club

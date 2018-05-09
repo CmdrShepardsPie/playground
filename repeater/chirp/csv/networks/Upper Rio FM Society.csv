@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WB5EKP 146.94,146.94,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Upper Rio FM Society
+,K5FIQ 146.9,146.9,-,0.6,Tone,67,88.5,23,23,NN,FM,5,Upper Rio FM Society
+,K5FIQ 147.06,147.06,+,0.6,Tone,67,88.5,23,23,NN,FM,5,Upper Rio FM Society
+,K5URR 146.96,146.96,-,0.6,Cross,100,88.5,23,23,NN,FM,5,Upper Rio FM Society

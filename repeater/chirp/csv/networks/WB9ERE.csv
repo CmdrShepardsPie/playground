@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WB9ERE 224.88,224.88,-,1.6,Tone,67,88.5,23,23,NN,FM,5,WB9ERE

@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W7WAC 146.96,146.96,-,0.6,Tone,100,88.5,23,23,NN,FM,5,KE7OZE

@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N0NEB 146.715,146.715,-,0.6,TSQL,103.5,103.5,23,23,NN,FM,5,TriCity

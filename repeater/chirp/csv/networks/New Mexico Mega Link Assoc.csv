@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,NM5ML 147.22,147.22,+,0.6,Tone,100,88.5,23,23,NN,FM,5,New Mexico Mega Link Assoc
+,NM5ML 147.22,147.22,+,0.6,Tone,67,88.5,23,23,NN,FM,5,New Mexico Mega Link Assoc
+,NM5ML 145.29,145.29,-,0.6,Tone,100,88.5,23,23,NN,FM,5,New Mexico Mega Link Assoc

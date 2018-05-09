@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7DAV 449.925,449.925,-,5,Tone,100,88.5,23,23,NN,DIG,5,Davis Co ARC
+,NU7X 927.3125,927.3125,-,25,Tone,127.3,88.5,23,23,NN,FM,5,Davis Co ARC
+,K7DOU 449.7,449.7,-,5,Tone,100,88.5,23,23,NN,DIG,5,Davis Co ARC
+,K7DAV 447.2,447.2,-,5,TSQL,127.3,127.3,23,23,NN,DIG,5,Davis Co ARC

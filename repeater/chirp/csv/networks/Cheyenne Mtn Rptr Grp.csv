@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KC0CVU 449.6,449.6,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Cheyenne Mtn Rptr Grp

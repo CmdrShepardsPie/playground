@@ -1,0 +1,10 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7QEQ 447.4,447.4,-,5,,88.5,88.5,23,23,NN,FM,5,Cactus-Intertie
+,K7YI 447.125,447.125,-,5,Tone,100,88.5,23,23,NN,FM,5,Cactus-Intertie
+,K7YI 447.625,447.625,-,5,Tone,100,88.5,23,23,NN,FM,5,Cactus-Intertie
+,WA7GIE 448.625,448.625,-,5,,88.5,88.5,23,23,NN,FM,5,Cactus-Intertie
+,WA7GIE 448.975,448.975,-,5,,88.5,88.5,23,23,NN,FM,5,Cactus-Intertie
+,KB6BOB 448.65,448.65,-,5,,88.5,88.5,23,23,NN,FM,5,Cactus-Intertie
+,WA7GIE 449,449,-,5,,88.5,88.5,23,23,NN,FM,5,Cactus-Intertie
+,K7JL 448.675,448.675,-,5,,88.5,88.5,23,23,NN,FM,5,Cactus-Intertie
+,K7OGM 448.975,448.975,-,5,,88.5,88.5,23,23,NN,FM,5,Cactus-Intertie

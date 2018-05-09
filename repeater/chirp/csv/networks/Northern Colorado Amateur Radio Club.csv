@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W0UPS 447.7,447.7,-,5,TSQL,100,100,23,23,NN,FM,5,Northern Colorado Amateur Radio Club

@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KC7WST 449.8,449.8,-,5,,88.5,88.5,23,23,NN,DIG,5,KC7WSU
+,KC7WST 447.05,447.05,-,5,,88.5,88.5,23,23,NN,DIG,5,KC7WSU

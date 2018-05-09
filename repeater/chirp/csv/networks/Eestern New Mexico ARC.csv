@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KA5B 147.24,147.24,+,0.6,Tone,67,88.5,23,23,NN,FM,5,Eestern New Mexico ARC

@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7UB 145.29,145.29,-,0.6,Tone,123,88.5,23,23,NN,FM,5,GSARC
+,K7UB 448.3,448.3,-,5,Tone,123,88.5,23,23,NN,FM,5,GSARC
+,K7UB 145.43,145.43,-,0.6,Tone,123,88.5,23,23,NN,FM,5,GSARC
+,K7UB 147.22,147.22,+,0.6,Tone,123,88.5,23,23,NN,FM,5,GSARC

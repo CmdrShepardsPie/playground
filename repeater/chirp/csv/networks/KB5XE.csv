@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KB5XE 147.36,147.36,+,0.6,Tone,100,88.5,23,23,NN,FM,5,KB5XE

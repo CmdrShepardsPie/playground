@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W0IA 146.76,146.76,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Rocky Mtn VHF Soc
+,W0IA 224.02,224.02,-,1.6,,88.5,88.5,23,23,NN,FM,5,Rocky Mtn VHF Soc
+,W0IA 449.55,449.55,-,5,Tone,100,88.5,23,23,NN,FM,5,Rocky Mtn VHF Soc

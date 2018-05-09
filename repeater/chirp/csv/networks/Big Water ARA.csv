@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K5DST 147.34,147.34,+,0.6,Tone,131.8,88.5,23,23,NN,FM,5,Big Water ARA

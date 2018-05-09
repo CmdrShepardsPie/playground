@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WB7GR 449.3,449.3,-,5,Tone,131.8,88.5,23,23,NN,FM,5,WU7G

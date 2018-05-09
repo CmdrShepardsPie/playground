@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N7JSQ 146.68,146.68,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Amateur Radio, Inc"
+,K7HEN 145.49,145.49,-,0.6,Tone,123,88.5,23,23,NN,FM,5,"Amateur Radio, Inc"

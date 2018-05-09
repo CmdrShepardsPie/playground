@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WA7GIE 147.36,147.36,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Wasatch Back Tri-County ARC

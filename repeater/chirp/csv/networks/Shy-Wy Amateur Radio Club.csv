@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KC7SNO 146.775,146.775,-,0.6,Tone,114.8,88.5,23,23,NN,FM,5,Shy-Wy Amateur Radio Club
+,KC7SNO 146.82,146.82,-,0.6,Tone,114.8,88.5,23,23,NN,FM,5,Shy-Wy Amateur Radio Club
+,KC7SNO 147.165,147.165,+,0.6,Tone,114.8,88.5,23,23,NN,FM,5,Shy-Wy Amateur Radio Club

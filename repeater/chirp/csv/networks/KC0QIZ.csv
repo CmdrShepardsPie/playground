@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KC0QIZ 443.85,443.85,+,5,Tone,103.5,88.5,23,23,NN,FM,5,KC0QIZ

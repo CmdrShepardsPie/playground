@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KB7SWR 448.15,448.15,-,5,Tone,100,88.5,23,23,NN,FM,5,KB7SWR

@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K5AKW 443.4,443.4,+,5,Tone,100,88.5,23,23,NN,FM,5,Sandia Vista ARC

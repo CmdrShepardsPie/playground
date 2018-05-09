@@ -1,0 +1,7 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,AC7O 147.26,147.26,+,0.6,Tone,103.5,88.5,23,23,NN,FM,5,Bridgerland ARC
+,WA7KMF 145.31,145.31,-,0.6,Tone,103.5,88.5,23,23,NN,FM,5,Bridgerland ARC
+,WA7MXZ 146.64,146.64,-,0.6,,88.5,88.5,23,23,NN,FM,5,Bridgerland ARC
+,AC7O 449.625,449.625,-,5,Tone,103.5,88.5,23,23,NN,FM,5,Bridgerland ARC
+,N7RRZ 147.24,147.24,+,0.6,Tone,79.7,88.5,23,23,NN,FM,5,Bridgerland ARC
+,WA7KMF 449.575,449.575,-,5,,88.5,88.5,23,23,NN,DIG,5,Bridgerland ARC

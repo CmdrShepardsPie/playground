@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+, 447.35,447.35,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Grand Mesa Repeater Assoc (GMRA)

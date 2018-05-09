@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KE0SJ 447.625,447.625,-,5,Tone,100,88.5,23,23,NN,FM,5,Intermountain Repeater Group
+,KE0SJ 145.475,145.475,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Intermountain Repeater Group

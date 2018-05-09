@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,ND0Q 146.79,146.79,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Pueblo HC
+,ND0Q 146.88,146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Pueblo HC
+,ND0Q 919.1,919.1,-,25,Tone,88.5,88.5,23,23,NN,FM,5,Pueblo HC
+,ND0Q 447.175,447.175,-,5,Tone,88.5,88.5,23,23,NN,FM,5,Pueblo HC

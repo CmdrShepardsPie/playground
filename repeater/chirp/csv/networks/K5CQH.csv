@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K5CQH 146.72,146.72,-,0.6,Cross,100,127.3,23,23,NN,FM,5,K5CQH

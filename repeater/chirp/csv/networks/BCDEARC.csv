@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KZ0DEM 147.09,147.09,+,0.6,TSQL,118.8,118.8,23,23,NN,FM,5,BCDEARC

@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KB0VJJ 449.625,449.625,-,5,TSQL,123,123,23,23,NN,FM,5,"Colorado Connection Repeaters, Inc."

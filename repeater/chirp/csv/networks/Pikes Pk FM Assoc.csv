@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KB0SRJ 448.45,448.45,-,5,Tone,100,88.5,23,23,NN,FM,5,Pikes Pk FM Assoc

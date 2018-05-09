@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7DAV 53.01,53.01,-,1,TSQL,141.3,141.3,23,23,NN,FM,5,K7DAV

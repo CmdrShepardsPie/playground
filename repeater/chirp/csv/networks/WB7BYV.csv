@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WB7BYV 927.075,927.075,-,25,TSQL,218.1,218.1,23,23,NN,FM,5,WB7BYV
+,WB7BYV 927.1125,927.1125,-,25,DTCS,88.5,88.5,432,432,NN,FM,5,WB7BYV
+,WB7BYV 927.5875,927.5875,,0,TSQL,131.8,131.8,23,23,NN,FM,5,WB7BYV

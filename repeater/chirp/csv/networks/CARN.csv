@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WR0AEN 449,449,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,CARN

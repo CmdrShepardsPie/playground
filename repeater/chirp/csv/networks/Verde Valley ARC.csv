@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W7EI 147.22,147.22,+,0.6,Tone,162.2,88.5,23,23,NN,FM,5,Verde Valley ARC

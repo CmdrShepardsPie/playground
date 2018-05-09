@@ -1,0 +1,10 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WA7VHF 448.6,448.6,-,5,Tone,100,88.5,23,23,NN,FM,5,Utah VHF Society
+,KD0J 146.88,146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Utah VHF Society
+,AA7JR 145.21,145.21,-,0.6,,88.5,88.5,23,23,NN,FM,5,Utah VHF Society
+,W7DES 147.06,147.06,+,0.6,,88.5,88.5,23,23,NN,FM,5,Utah VHF Society
+,WA7VHF 146.94,146.94,-,0.6,Tone,88.5,88.5,23,23,NN,DIG,5,Utah VHF Society
+,KF6RAL 448.075,448.075,-,5,,88.5,88.5,23,23,NN,DIG,5,Utah VHF Society
+,KF6RAL 145.125,145.125,-,0.6,,88.5,88.5,23,23,NN,DIG,5,Utah VHF Society
+,KF6RAL 1287,1287,-,20,,88.5,88.5,23,23,NN,DIG,5,Utah VHF Society
+,K7JL 146.86,146.86,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Utah VHF Society

@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W5SF 146.82,146.82,-,0.6,Tone,162.2,88.5,23,23,NN,FM,5,Santa Fe ARC
+,KB5ZQE 442.825,442.825,+,5,Tone,131.8,88.5,23,23,NN,FM,5,Santa Fe ARC
+,W5SF 147.3,147.3,+,0.6,Tone,162.2,88.5,23,23,NN,FM,5,Santa Fe ARC
+,N5BGC 147.2,147.2,+,0.6,Tone,162.2,88.5,23,23,NN,FM,5,Santa Fe ARC

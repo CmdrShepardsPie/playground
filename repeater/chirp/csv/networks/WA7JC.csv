@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WA7JC 449.725,449.725,-,5,Tone,110.9,88.5,23,23,NN,FM,5,WA7JC

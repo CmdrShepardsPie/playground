@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7SDC 448.55,448.55,-,5,Tone,88.5,88.5,23,23,NN,FM,5,N7QLO
