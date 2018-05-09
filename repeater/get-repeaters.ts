@@ -129,7 +129,7 @@ export async function save(place: string | number, distance: number) {
 export default (async () => {
   // Update existing files
   let allFiles = await fs.readdir('./repeaters/json');
-  allFiles = allFiles.filter(b => /\.json/.test(b))
+  allFiles = allFiles.filter(b => /\.json/.test(b));
   allFiles.sort((a, b) => a > b ? 1 : a < b ? -1 : 0);
   while (allFiles.length) {
     const file = allFiles.shift();
@@ -139,53 +139,52 @@ export default (async () => {
     }
   }
   const cities = [
-    // 'Denver, CO',
-    // 'Lakewood, CO',
-    // 'Keystone, CO',
-    // 'Breckenridge, CO',
-    // 'Vail, CO',
-    // 'Avon, CO',
-    // 'Glenwood Springs, CO',
-    // 'Rifle, CO',
-    // 'Palisade, CO',
-    // 'Grand Junction, CO',
-    // 'Fruita, CO',
-    // 'Thompson, UT',
-    // 'Crescent Junction, UT',
-    // 'Moab, UT',
-    //
-    // 'Denver, CO',
-    // 'Buena Vista, CO',
-    // 'Salida, CO',
-    // 'Monarch, CO',
-    // 'Gunnison, CO',
-    // 'Montrose, CO',
-    // 'Ouray, CO',
-    // 'Naturita, CO',
-    // 'La Sal, UT',
-    // 'Moab, UT',
-    //
-    // 'Denver, CO',
-    // 'Buena Vista, CO',
-    // 'Salida, CO',
-    // 'Saguache, CO',
-    // 'Center, CO',
-    // 'Del Norte, CO',
-    // 'Pagosa Springs, CO',
-    // 'Bayfield, CO',
-    // 'Durango, CO',
-    // 'Mancos, CO',
-    // 'Dolores, CO',
-    // 'Dove Creek, CO',
-    // 'Monticello, UT',
-    // 'Moab, UT',
+    'Denver, CO',
 
-    // 'Hotchkiss, CO'
+    'Golden, CO',
+    'Genesee, CO',
+    'Idaho Springs, CO',
+    'Downieville, CO',
+    'Lawson, CO',
+    'Georgetown, CO',
+    'Dillon, CO',
+    'Silverthorne, CO',
+    'Frisco, CO',
+    'Copper Mountain, CO',
+    'Vail, CO',
+    'Avon, CO',
+    'Edwards, CO',
+    'Wolcott, CO',
+    'Eagle, CO',
+    'Gypsum, CO',
+    'Dotsero, CO',
+    'Glenwood Springs, CO',
+    'Chacra, CO',
+    'New Castle, CO',
+    'Silt, CO',
+    'Rifle, CO',
+    'Rulison, CO',
+    'Parachute, CO',
+    'De Beque, CO',
+    'Palisade, CO',
+    'Grand Junction, CO',
+    'Fruita, CO',
+    'Loma, CO',
+
+    'Cisco, UT',
+    'Dewey, UT',
+    'Castle Valley, UT',
+    'Spanish Valley, UT',
+    'La Sal, UT',
+    'Thompson, UT',
+    'Crescent Junction, UT',
+
+    'Moab, UT'
   ];
-  // while (cities.length) {
-  //   const name = cities.shift();
-  //   if (name) {
-  //     await save(name, 200);
-  //   }
-  // }
+  while (cities.length) {
+    const name = cities.shift();
+    if (name) {
+      await save(name, 200);
+    }
+  }
 })();

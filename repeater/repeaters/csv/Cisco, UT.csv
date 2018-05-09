@@ -1,0 +1,1291 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Coverage,Sponsor,Features,Web links,Coordination,Last update,Notes,Downlink Tone,Nets,Affiliate,IRLP,Links,D-STAR Enabled,Node,Sources,On-air,EchoLink,AllStar,Commands,DMR Enabled,Color Code,Wide Network,Location Photo,Grid,Talkgroup Network,Talkgroups,Colorado,Southern Colorado,Worldwide,North America,English,Data,DMRX 1,Utah Statewide 2,Local/Cluster,TAC 310,TAC 311,USA,Utah,Mountain Reg USA,PA (PA-525),Hytera USA,SNARS,Parrott,Audio Test,All TG's Off,All TG's On,Europe,DCI Bridge,Southwest USA,YSF Digital Enabled,DG-ID,Mixed-Mode,Local,Denver Regional,Northern Colorado,WIRES-X,Feed,P25 Digital Enabled,NAC,Default Reflector,Wyoming,WyLOCAL
+146.9,-0.6,88.5,K7QEQ,Moab,UT,OPEN,,30,SSW,,146.9,146.3,88.5,Grand,On-Air,Moab and immediate surroundings.,Sinbad Desert ARC,"Closed autopatch, remote base, linked to Bald Mesa (146.760).",http://sdarc.us/repeaters/moab.html,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,88.5,K7QEQ,"Moab, Bald Mesa",UT,OPEN,,30.5,S,,146.76,146.16,88.5,Grand,On-Air,Moab and immediate surroundings.,Sinbad Desert ARC,,http://www.sdarc.us/repeaters/bald.html,UVHFS,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.1,-5,107.2,K7QEQ,"Moab, Bald Mesa",UT,OPEN,,30.5,S,,449.1,444.1,107.2,Grand,On-Air,"Wide area: Moab and surrounding areas, including large portions of Arches and Canyonlands National Parks.",Grand Mesa Repeater Association (GMRA),8,GMRA Repeaters,UVHFS,,,107.2,RACES Wed. 1930 hours,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.575,-5,131.8,WA4HND,"Grand Junction, Black Ridge",CO,OPEN,I,31.4,E,,449.575,444.575,131.8,Mesa,On-Air,Grand Junction,,e-power. Linked to GMRA Open System,GMRA Repeaters,CCARC,,Closed IRLP out,131.8,Wed RACES Net 1930 Hrs,Grand Mesa Repeater Assoc,3710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.94,-0.6,107.2,W0RRZ,"Grand Junction, Black Ridge (Above Colorado Ntl Monument)",CO,OPEN,,31.4,E,,146.94,146.34,107.2,Mesa,On-Air,Grand Junction 30-50 mi,Western Colorado Amateur Radio Club,E-power and autopatch for WCARC members,http://w0rrz.org,CCARC,,,107.2,Oatmeal Net: Mon-Fri at 7:30AM-8:00AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.355,-0.6,88.5,KB0VJJ,"Grand Junction, Grand Mesa",CO,OPEN,,41,ESE,,147.355,146.755,88.5,Mesa,On-Air,,Colorado Connection,,,CCARC,,,123,,,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446.775,-5,,KD0RED,Grand Junction,CO,OPEN,,41.8,ESE,,446.775,441.775,,Mesa,On-Air,,,,,,,,,,,,,,KD0RED (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.5,-5,114.8,KC0ARV,Grand Junction,CO,OPEN,,41.8,ESE,,447.5,442.5,114.8,Mesa,,,KC0ARV,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.22,-0.6,107.2,KE0TY,Grand Junction,CO,OPEN,,41.8,ESE,,145.22,144.62,107.2,Mesa,,,KE0TY,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,-5,,KB0SW,Grand Junction,CO,CLOSED,,41.8,ESE,,449,444,,Mesa,On-Air,,KB0SW,,,CCARC,,,107.2,,Grand Mesa Repeater Assoc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.775,-5,173.8,KD0SMZ,Grand Junction,CO,OPEN,EI,41.8,ESE,,449.775,444.775,173.8,Mesa,On-Air,,,,,CCARC,,,88.5,,,7573,,,,,,7572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.105,0.6,,K0SSI,Grand Junction,CO,OPEN,,41.8,ESE,,147.105,147.705,,Mesa,On-Air,,K0SSI,,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,107.2,W0GJT,Grand Junction,CO,OPEN,A,41.9,ESE,,146.82,146.22,107.2,Mesa,On-Air,Wide area: North Western Colorado - South to Montrose and East on I-70.,,,,CCARC,,,,,,,,,,,,,28515,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.39,0.6,107.2,KE0TY,Grand Junction,CO,OPEN,,41.9,ESE,,147.39,147.99,107.2,Mesa,,,KE0TY,Linked.,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.175,-0.6,107.2,W0RRZ,"Grand Junction, GJT",CO,OPEN,I,44.1,E,,145.175,144.575,107.2,Mesa,On-Air,Greater grand Junction area.,,"E-power,",,CCARC,,,,,,3161,,,,,,,,Standard IRLP node commands.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.15,-5,100,W0GJT,Grand Junction,CO,OPEN,EI,44.6,ESE,,448.15,443.15,100,Mesa,On-Air,,,,,CCARC,,,,,,7963,,,,,,312189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.4,-5,131.8,KB0YNA,"Delta, Uncompahgre Butte",CO,OPEN,I,45.3,SE,,449.4,444.4,131.8,Mesa,On-Air,Wide area via links - Western Colorado - Eastern Utah,"WA4HND,  Grand Mesa Repeater Association",E-power.,http://www.gmra.org,CCARC,,Closed IRLP out - Ask for a control op,131.8,RACES Wed 1930 Hrs,,3710,Full-time to the  GMRA Open System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,-5,107.2,KB0SW,"Loma, Baxter Pass",CO,OPEN,,46.7,NNE,,447,442,107.2,Garfield,On-Air,Wide area.,,8,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.3,-5,107.2,WA4HND,"Grand Junction, Grand Mesa",CO,OPEN,I,57.6,ESE,,449.3,444.3,107.2,Mesa,On-Air,Wide Area I-70 West Rifle to Western Utah,,e-power Linked to GMRA Open System,http://www.gmra.org/,CCARC,,Closed IRLP out,107.2,RACES Wed 1930 hrs,,3710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446.9125,-5,CC1,W0BX,"Grand Junction, Grand Mesa",CO,OPEN,,59.3,ESE,,446.9125,441.9125,,Mesa,On-Air,"Grand Junction, I70",Bill Frost,,,,,Brandmeister network,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.075,-5,,K7YI,"Price, Cedar Mountain",UT,OPEN,,70.5,WNW,,448.075,443.075,,Carbon,Off-Air,,Sinbad Desert Amateur Radio Club,,,,,,,,,,,,K7YI (B),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.55,-5,88.5,K7SDC,"Castle Dale, Cedar Mountain",UT,OPEN,I,71,WNW,,448.55,443.55,88.5,Emery,On-Air,"Wide area: Price on the west to Green River, Utah toward the south, bounded by the Bookcliffs on the north and east.",N7QLO,Remote base.,,UVHFS,,Stand alone.,,,,3280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.125,-5,100,K7YI,"Castle Dale, Cedar Mountain",UT,CLOSED,,71,WNW,,447.125,442.125,100,Emery,,"Wide area: This covers (approximately) from Price on the west to Green River, Utah toward the south, bounded by the Bookcliffs on the north and east.",San Rafael Cactus Assoc,7,,UVHFS,,,,,Cactus-Intertie,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.14,0.6,88.5,K7SDC,"Castle Dale, Cedar Mountain",UT,OPEN,EI,71.1,WNW,,147.14,147.74,88.5,Emery,On-Air,"Wide area: Price on the west to Green River, Utah toward the south, bounded by the Bookcliffs on the north and east.",Sinbad Desert ARC,"Closed autopatch, remote base.",http://sdarc.us/repeaters/cedar.html,UVHFS,,7,,,,3270,Full-time to the  Sinbad Desert (SDARC) System .,,,,,64264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.32,0.6,88.5,K7SDC,"Sunnyside, Bruin Point",UT,OPEN,EI,71.5,NW,,147.32,147.92,88.5,Carbon,On-Air,"Wide area: Roosevelt, Duchesne, near Vernal, and Price, with spotty coverage from Price down to I-70 on US-6 and US-10. 50 mi radius.",Sinbad Desert ARC,Remote base.,http://sdarc.us/repeaters/bruin.html,UVHFS,,110,,,,3270,,,,,,64264,,,,,,,DM49tp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.05,-5,88.5,K7SDC,"Sunnyside, Bruin Point",UT,OPEN,EI,71.5,NW,,449.05,444.05,88.5,Carbon,On-Air,"Wide area: Roosevelt, Duchesne, near Vernal, and Price, with spotty coverage from Price down to I-70 on US-6 and US-10.",Sinbad Desert ARC,Remote base.,http://sdarc.us/repeaters/bruin.html,UVHFS,,,,,,3270,,,,,,64264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.175,-0.6,,WX7Y,"Sunny Side, Bruin Peak",UT,OPEN,,72,NW,,145.175,144.575,,Carbon,On-Air,Eastern Utah,SDARC,,,,,,,,Sinbad Desert A.R.C.,,,,,,,,,United States,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.35,-5,107.2,,"Cedaredge, Grand Mesa",CO,OPEN,,72.4,ESE,,447.35,442.35,107.2,Delta,,,Grand Mesa Repeater Assoc (GMRA),,GMRA Repeaters,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.65,-5,151.4,KB0YNA,"Grand Junction, Grand Mesa",CO,OPEN,I,74.6,ESE,,449.65,444.65,151.4,Mesa,On-Air,Wide area coverage,Keri Washburn,NWS weather alert system.,,CCARC,,,151.4,,,8162,"Full-time to  
+        447.65000 (KB0YNA) at Gunnison, W Mountain or Tenderfoot Mountain, CO .",,,,,,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.355,-0.6,88.5,KB0VJJ,"Grand Junction, Grand Mesa",CO,OPEN,,74.6,ESE,,145.355,144.755,88.5,Mesa,On-Air,"Rifle to the east, several miles east of Green River, Utah to the west.",Colorado Connection,E-power.,,CCARC,,Colorado Connection system of repeaters,123,"Central Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net (all welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.825,-5,100,W0ALC,Cedaredge,CO,OPEN,,75.1,ESE,,449.825,444.825,100,Delta,,,W0ALC,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,100,W0ALC,Cedaredge,CO,OPEN,,75.1,ESE,,147.36,147.96,100,Delta,,,W0ALC,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.195,0.6,107.2,KC0QXX,"Cedaredge, Cedar Mesa",CO,OPEN,,75.1,ESE,,147.195,147.795,107.2,Delta,,Local.,,,,,,,,,Colorado District 25 ARES,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.5,-5,107.2,KB0SW,Collbran,CO,OPEN,,75.3,E,,449.5,444.5,107.2,Mesa,Off-Air,,Grand Mesa Repeater Association (GMRA),E-power.,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.8,-5,107.2,WA4HND,"Parachute, Mount Callahan",CO,OPEN,,75.6,E,,449.8,444.8,107.2,Garfield,On-Air,,,8,GMRA Repeaters,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.61,-0.6,88.5,K7SDC,"Monticello, Abajo Peak",UT,OPEN,EI,78.5,S,,146.61,146.01,88.5,San Juan,On-Air,"Wide area: Southeastern Utah, Southwest Colorado, Northwest New Mexico and extreme Northeastern Arizona, including Monticello, Blanding, and much of Canyonlands National Park.",Sinbad Desert ARC,Remote base.,http://www.sdarc.us/repeaters/abajo.html,UVHFS,,11.36,,,,3270,,,,,,64264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223.94,-1.6,,K7QEQ,"Monticello, Abajo Pk",UT,CLOSED,,78.5,S,,223.94,222.34,,San Juan,,"Wide area: Southeastern Utah, Southwest Colorado, Northwest New Mexico and extreme Northeastern Arizona, including Monticello, Blanding, and much of Canyonlands National Park.",Grand Mesa Rptr Assoc,11,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.4,-5,,K7QEQ,"Monticello, Abajo Peak",UT,CLOSED,,78.5,S,,447.4,442.4,,San Juan,,"Wide area: Southeastern Utah, Southwest Colorado, Northwest New Mexico and extreme Northeastern Arizona, including Monticello, Blanding, and much of Canyonlands National Park.",,11,,UVHFS,,,,,Cactus-Intertie,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.1,-5,107.2,K7QEQ,"Monticello, Abajo Peak",UT,OPEN,,78.5,S,,447.1,442.1,107.2,San Juan,On-Air,Wide area.,Grand Mesa Repeater Association (GMRA),E-power.,http://gmra.org,UVHFS,,11,107.2,,,,Full-time to the  GMRA Open System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.9,-5,136.5,W7BAR,"Vernal, Uintah County EOC",UT,OPEN,I,78.6,N,,449.9,444.9,136.5,Uintah,,"Vernal, Roosevelt, Duchesne and other Uintah basin communities.",Borderline Amateur Radio Club,,,,,,,,,7705,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.79,-0.6,107.2,KD5OPD,Montrose,CO,OPEN,,85,SE,,146.79,146.19,107.2,Montrose,On-Air,,KC0UXX,E-power.,,CCARC,,,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.91,-0.6,107.2,KC0UUX,Montrose,CO,OPEN,,85,SE,,146.91,146.31,107.2,Montrose,On-Air,,,E-Power,,CCARC,,,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,107.2,N0SWE,Rifle,CO,OPEN,E,89.9,E,,146.76,146.16,107.2,Garfield,Off-Air,"New Castle, Silt, Rifle and Rulison and areas around Parachute.","N0SWE,  Roaring Fork Amateur Repeater Cooperative",E-power.,,CCARC,,,,,,,,,,,,243117,,,,,,,DM69cl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.5,-1.6,88.5,W7CEU,"Price,  Wood Hill",UT,OPEN,,91.2,WNW,,224.5,222.9,88.5,Carbon,,,College of Eastern Utah ARC,5,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.3,-5,88.5,W7CEU,"Price,  Wood Hill",UT,OPEN,,91.2,WNW,,448.3,443.3,88.5,Carbon,,Price.,College of Eastern Utah ARC,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.3,-5,,K7GX,"Price, Wood Hill",UT,OPEN,EI,91.2,WNW,,448.3,443.3,,Carbon,,,,,,UVHFS,,,,,,3270,,,,,Unknown,64264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.43,-0.6,88.5,W7CEU,"Price,  Wood Hill",UT,OPEN,,91.2,WNW,,145.43,144.83,88.5,Carbon,,Price.,,5,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.2,0.6,88.5,K7GX,"Price, Wood Hill",UT,OPEN,EI,91.2,WNW,,147.2,147.8,88.5,Carbon,,,,,,UVHFS,,,,,,3270,,,,,Unknown,64264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.33,0.6,107.2,KI0MR,Paonia,CO,OPEN,,93.2,ESE,,147.33,147.93,107.2,Delta,On-Air,Wide area.,North Fork Repeater Assoc.,,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.49,-0.6,136.5,W7BYU,"Myton, Flat Top",UT,OPEN,,96,NNW,,145.49,144.89,136.5,Duchesne,On-Air,"Duchesne, UT area.",,E-power.,http://sdarc.us/repeaters/flat-top.html,UVHFS,,5,,,Sinbad Desert ARC (SDARC),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.92,-0.6,136.5,W7BYU,Roosevelt,UT,OPEN,E,96.1,N,,146.92,146.32,136.5,Duchesne,Off-Air,"Vernal, Roosevelt, Duchesne and other Uintah basin communities.",,E-power.,,UVHFS,,,,,,,,,,,,458695,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.7,-5,136.5,W7BYU,Vernal,UT,OPEN,,96.2,N,,449.7,444.7,136.5,Uintah,,"Vernal, Roosevelt, Duchesne and other Uintah basin communities.",W7BYU,8,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.1,0.6,136.5,W7BAR,"Vernal, Blue Mountain",UT,OPEN,EI,96.3,N,,147.1,147.7,136.5,Uintah,On-Air,"Wide area: Vernal, Roosevelt, Duchesne and other Uintah basin communities.",""">Borderline ARC","Autopatch, e-power.",,UVHFS,,8,,,,3577,"Full-time to  
+        147.34000 (KG7DSO) at Vernal, Tabby Mountain, UT .",,,,,458414,,"IRLP: No access code, bring up your node by it's node no. and bring it down with a 73.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.2,-5,107.2,WA4HND,"Montrose, Waterdog Peak",CO,OPEN,I,97.5,SE,,447.2,442.2,107.2,Montrose,On-Air,Delta/Montrose,,9,GMRA Repeaters,CCARC,,Closed IRLP out - Ask for a control op,107.2,RACES Net Wed at 1930 Hrs.,Grand Mesa Repeater Assoc,3710,Full-time to the  GMRA Open System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.65,-5,,KB0YNA,"Montrose, Waterdog Peak",CO,OPEN,,97.5,SE,,448.65,443.65,,Montrose,On-Air,Wide area.,KB0YNA,,,,,,151.4,,,,"Full-time to  
+        447.65000 (KB0YNA) at Gunnison, W Mountain or Tenderfoot Mountain, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1299.25,-20,,KF7YIX,"Torquerville, Hurricane Mesa",UT,OPEN,,98.1,WNW,,1299.25,1279.25,,Washington,On-Air,,,,,UVHFS,,,,,,,,,KF7YIX (A) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.7,-5,123,WX7Y,"Castle Dale, Horn Mountain",UT,OPEN,,99.1,W,,447.7,442.7,123,Emery,,Wide area.,,"Closed autopatch, 8,702'.",,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.06,0.6,88.5,K7SDC,"Castle Dale, Horn Mountain",UT,OPEN,EI,99.1,W,,147.06,147.66,88.5,Emery,On-Air,"Wide area: Most of western Emery County including the towns of Castle Dale, Orangeville, Huntington, Cleveland, Ferron, and further east into the San Rafael desert. It also covers the towns of Sunnyside and East Carbon, UT.",Sinbad Desert ARC,"Closed autopatch, remote base.",http://sdarc.us/repeaters/horn.html,UVHFS,,8,,,,3270,Full-time to the  Sinbad Desert (SDARC) System .,,,,,64264,,,,,,,DM49kf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.625,-5,100,K7YI,"Castle Dale, Horn Mountain",UT,OPEN,,99.1,W,,447.625,442.625,100,Emery,On-Air,Wide area.,San Rafael Cactus Assoc,,,UVHFS,,,,,Cactus-Intertie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223.92,-1.6,88.5,WX7Y,"Huntington,  Skyline Dr",UT,OPEN,,99.1,W,,223.92,222.32,88.5,Emery,,"Wide area: Extreme southern end of Utah county (to the north) and the valley communities from Fairview and Nephi down to Salina, with coverage toward Delta.",,"Remote base, 8,702'.",,UVHFS,,,,,Sinbad Desert ARC,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.7,-5,107.2,KB0YNA,"Telluride, Gray Head",CO,OPEN,I,99.5,SE,,449.7,444.7,107.2,San Miguel,On-Air,Wide Area via links - Western Colorado - Eastern Utah,Grand Mesa Repeater Association ( GMRA ),E-power.,,CCARC,,Closed IRLP out - Ask for a control Op,107.2,RACES: Wed at 19:30.,,3710,Full-time to the  GMRA Open System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.26,0.6,,N7PQD,Duchense,UT,OPEN,,99.8,NW,,147.26,147.86,,Duchesne,On-Air,"Tabby mountain and nearby communities including Duchesne, Roosevelt, and Vernal.",Borderline ARC,5,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.08,0.6,136.5,K7SDC,"Hanksville, Ellen Peak",UT,OPEN,EI,101,SW,,147.08,147.68,136.5,Wayne,On-Air,"Wide area: Areas around the Henry Mountain range in southeastern Utah including Hanksville, Hite, Boulder, Escalante, and Bullfrog.",Sinbad Desert ARC,"Closed autopatch, remote base.",http://sdarc.us/repeaters/mt-ellen.html,UVHFS,,11,,,,3270,Full-time to the  Sinbad Desert (SDARC) System .,,,,,64264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.31,-0.6,88.5,K7SDC,"Scofield, Ford Ridge",UT,OPEN,I,104.4,WNW,,145.31,144.71,88.5,Carbon,On-Air,Wide area: Scofield and Soldier Smt areas as well as into the Price valley as far south as Huntington and as far east as Sunnyside.,Sinbad Desert ARC,"Closed autopatch, remote base.",http://sdarc.us/repeaters/ford.html,UVHFS,,9,,,,3270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,107.2,KI0G,"Glenwood Springs, Sunlight Peak",CO,OPEN,,108.6,E,,146.88,146.28,107.2,Garfield,On-Air,,Ski Country ARC,,,CCARC,,,,,,,"Full-time to  
+        447.60000 (KI0G) at Glenwood Springs, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.1,-5,107.2,KI0G,"Glenwood Springs, Sunlight Peak",CO,OPEN,,108.6,E,,447.1,442.1,107.2,Garfield,On-Air,,Ski Country ARC,,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.6,-5,107.2,N0XLI,"Glenwood Springs, Sunlight Peak",CO,OPEN,,108.6,E,,449.6,444.6,107.2,Garfield,On-Air,Wide area.,,e-power Linked to GMRA open system,http://www.gmra.org,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.85,-0.6,88.5,KB0VJJ,"Glenwood Springs, Sunlight Peak",CO,OPEN,,108.6,E,,146.85,146.25,88.5,Garfield,On-Air,"Wide area: Throughout the Roaring Fork Valley, Glenwood Canyon, East and West on I-70, and the Flattops Wilderness north of Glenwood.",Colorado Connection,70,,CCARC,,Part of the Colorado Connection System of Repeaters,123,Daily 7:30PM Local Time Central Colorado Traffic Net Thursdays 8:00PM Colorado Connection Net All Welcome Sundays 8:00PM Statewide ARES net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.28,0.6,107.2,AD7ZW,Altamont,UT,OPEN,EI,108.8,NNW,,147.28,147.88,107.2,Duchesne,On-Air,,AD7ZW,Autopatch,http://ad7zwrepeater.xyz,UVHFS,,,107.2,,,3205,,,,,,458414,,B21 = 911 B22 = Local Public Safety Dispatch (Non Emergency) B3 = 3 Minute Autopatch Extension B0 = Autopatch Disconnect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.74,-0.6,100,WB7CBS,Altamont,UT,OPEN,,108.9,NNW,,146.74,146.14,100,Duchesne,Off-Air,,,Autopatch.,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.08,0.6,88.5,K7SDC,"Scofield, Boardinghouse Ridge",UT,OPEN,EI,110.4,WNW,,147.08,147.68,88.5,Carbon,On-Air,Wide area: Scofield and Soldier Smt areas as well as into the Price valley as far south as Huntington and as far east as Sunnyside.,Sinbad Desert ARC,"Closed autopatch, remote base.",http://sdarc.us/repeaters/boardinghouse.html,UVHFS,,9,,,,3270,Full-time to the  Sinbad Desert (SDARC) System .,,,,,64264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.27,0.6,127.3,KB5ITS,"Ouray, Engineer Mountain",CO,OPEN,,110.6,SE,,147.27,147.87,127.3,Ouray,On-Air,,,,http://www.sjcham.com,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.98,-1.6,88.5,WX7Y,"Scofield, Boardinghouse Rdge",UT,OPEN,,111.1,WNW,,224.98,223.38,88.5,Carbon,,"Wide area: Price, Wellington, Helper, and Huntington areas.","Intermountain Repeater Emergency Amateur Network,  Sinbad Desert ARC",Remote base.,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.39,0.6,107.2,K0SNO,"Carbondale, Four Mile Ridge",CO,OPEN,,111.4,E,,147.39,147.99,107.2,Garfield,On-Air,"Rifle, Carbondale, El Jebel, Glenwood Springs, Basalt and Aspen.",Roaring Fork Amateur Repeater Cooperative,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.725,-5,179.9,K0ELK,"Carbondale, Four Mile Ridge",CO,OPEN,IA,111.4,E,,449.725,444.725,179.9,Garfield,On-Air,Wide area.,Roaring Fork Amateur Repeater Cooperative (RFARC),EchoLink.,,CCARC,,,,,,3722,,,,,,,28434,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.19,-0.6,100,KB5ITS,"Dolores, Summit Ridge",CO,OPEN,,112.5,SSE,,145.19,144.59,100,Montezuma,On-Air,,,,http://www.sjcham.com,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.275,-5,100,KB5ITS,"Dolores, Summit Ridge",CO,OPEN,,112.5,SSE,,447.275,442.275,100,Montezuma,On-Air,,,,http://www.sjcham.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.02,-1.6,,KI0G,Glenwood Springs,CO,CLOSED,,114,E,,224.02,222.42,,Garfield,,,SCARC,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.85,-5,131.8,WA4HND,"Glenwood Springs, Lookout Mountain",CO,OPEN,,114,E,,449.85,444.85,131.8,Garfield,On-Air,Glenwood Springs,,e-power  Linked to GMRA Open System,http://GMRA.org,CCARC,,RACES net Wed 1930 Hrs Local,131.8,Colorado State RACES  Wed 1930 local,Grand Mesa Repeater Assoc,,Full-time to the  GMRA Open System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.6,-5,,KI0G,Glenwood Springs,CO,CLOSED,,114,E,,447.6,442.6,,Garfield,,40,Ski Country ARC (SCARC),50,,CCARC,,Link Hub for 146.880.,,,,,"Full-time to  
+        146.88000 (KI0G) at Glenwood Springs, Sunlight Peak, CO .",,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,107.2,K0VQ,"Glenwood Springs, Three Mile Ridge",CO,OPEN,E,114.1,E,,147.3,147.9,107.2,Garfield,Off-Air,"Wide area: Glenwood Springs, Glenwood Canyon, South Canyon, Carbondale and surrounding areas.",Roaring Fork Amateur Repeater Cooperative,8,,CCARC,,Single beep courtesy tone when linked and none when unlinked.,,,,,,,,,,266359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.66,-0.6,100,W7DHH,"Ephraim, Horseshoe",UT,OPEN,I,116.9,WNW,,146.66,146.06,100,San Pete,On-Air,Wide area: Provo to Salina.,Skyline Repeater System,"Autopatch, 10,350'.",,UVHFS,,,,,,3576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.64,-1.6,,N7IMF,"Ephraim,  Horseshoe",UT,OPEN,,116.9,WNW,,224.64,223.04,,San Pete,,Wasatch Front from Payson to Tremonton.,,E-power.,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.72,-0.6,100,WB7REL,"Indianola, Indianola Peak",UT,OPEN,I,116.9,WNW,,146.72,146.12,100,San Pete,On-Air,Northern San Pete County,W7REL and Sanpete County,,,UVHFS,,,,,Skyline Radio Club,3576,Full-time to the  Skyline Repeater System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.175,-5,127.3,KD5LWU,Cortez,CO,OPEN,E,118.9,SSE,,449.175,444.175,127.3,Montezuma,Off-Air,,KD5LWU,,,CCARC,,,,,,,,,,,,24336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.79,-0.6,127.3,KD5LWU,"Cortez, Downtown",CO,OPEN,EA,118.9,SSE,,146.79,146.19,127.3,Montezuma,On-Air,,KD5LWU,,,CCARC,,,127.3,4,,,,,,,,24336,29317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.525,-5,127.3,KB5ITS,Silverton,CO,OPEN,,120.2,SE,,447.525,442.525,127.3,San Juan,On-Air,Wide area.,KB5ITS,E-power.,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.27,0.6,127.3,KB5ITT,"Silverton, Engineer Mountain",CO,OPEN,,120.2,SE,,147.27,147.87,127.3,San Juan,On-Air,Wide area.,KB5ITT,E-power.,,CCARC,,,,,Durango ARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444,5,67,KB5ITS,"Silverton, Hazelton",CO,OPEN,,120.2,SE,,444,449,67,Huerfano,On-Air,,,,http://www.sjcham.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.325,-0.6,127.3,KB5ITS,"Silverton, Buffalo Boy",CO,OPEN,,120.2,SE,,145.325,144.725,127.3,San Juan,On-Air,,,Solar powered,http://www.sjcham.com,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.9,-5,123,KD7HLL,Mexican Hat,UT,OPEN,,122.5,SSW,,449.9,444.9,123,San Juan,On-Air,"Lake Powell area from Bullfrog to Wahweap and Hite, toward the south into Arizona and North as far as Boulder.",,6,,UVHFS,,Part time link to  two repeaters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.375,0.6,156.7,KB5ITS,"Silverton, Kendall Mountain",CO,OPEN,,122.5,SE,,147.375,147.975,156.7,San Juan,On-Air,Wide area.,,13,http://www.sjcham.com,CCARC,,,,,,,"Part-time to  
+        146.67000 (K0EP) at Durango, Eagle Pass, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.04,0.6,136.5,W7BAR,"Vernal, Grizzly Ridge",UT,OPEN,,122.6,N,,147.04,147.64,136.5,Uintah,On-Air,"Wide area: Vernal, Roosevelt, Duchesne and other Uintah basin communities.",Borderline ARC,E-power.,,UVHFS,,8,,,,,Full-time to the  Sinbad Desert (SDARC) System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.15,-5,136.5,K0VQ,"Carbondale, Missouri Heights",CO,OPEN,E,123.1,E,,447.15,442.15,136.5,Garfield,On-Air,,,,,,,"Please contact Tracy, K0VQ, by email or on-the-air prior to attempting to use this node to obtain codes for specific questions and to make sure that proper protocol is followed. Please DO NOT just key up and start issuing DTMF codes, connecting to reflectors, etc., without guidance.",,,,,,,,,,8150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.49,-0.6,136.5,K7HEN,"Vernal, Grizzly Ridge",UT,OPEN,,123.4,N,,145.49,144.89,136.5,Uintah,On-Air,"Vernal, Roosevelt, Duchesne and other Uintah basin communities.","W7BYU,  Borderline ARC","Autopatch, 8,506', linked to (147.320).",,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.34,0.6,136.5,KG7DSO,"Vernal, Tabby Mountain",UT,OPEN,,123.8,NW,,147.34,147.94,136.5,Uintah,On-Air,Wide area.,Borderline Amateur Radio Club,,,UVHFS,,9,,,Roosevelt Junior High School Amateur Radio Club,,"Full-time to  
+        147.10000 (W7BAR) at Vernal, Blue Mountain, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446.7375,-5,CC6,N5UBJ,"Mancos, Caviness Mountain",CO,OPEN,,125.5,SSE,,446.7375,441.7375,,Montezuma,On-Air,,RMHAM,,http://www.rmham.org,CCARC,,,,,,,,,,,,,,,,6,,,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700      Southern Colorado  1  719    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.75,-5,131.8,N7YFZ,Manti,UT,OPEN,,125.8,W,,449.75,444.75,131.8,San Pete,,"Manti and surroundings, as well as Nephi and Fairview to the north and Richfield to the south.",,Closed autopatch.,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.135,-0.6,123,KB5ITS,"Lake City, Hill 71",CO,OPEN,,126.4,SE,,147.135,146.535,123,Hinsdale,On-Air,,,E-power (solar),http://www.sjcham.com,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.325,-0.6,100,KB5ITS,"Mancos, Menefee Mountain",CO,OPEN,,127.7,SSE,,145.325,144.725,100,Montezuma,On-Air,Wide area.,,E-power.,http://www.sjcham.com,CCARC,,Full time to the San Juan Connection,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.15,-0.6,,KB7BSK,Sterling,UT,OPEN,,128.1,W,,145.15,144.55,,Utah,,,,,http://skylineradioclub.com,,,,,,,,,,KB7BSK (C),"jfindu lookup 
+    /   dstar-users lookup",Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.95,-5,,KB7BSK,Sterling,UT,OPEN,,128.1,W,,447.95,442.95,,Utah,,,,,http://skylineradioclub.com,,,,,,,,,,KB7BSK (B),"jfindu lookup 
+    /   dstar-users lookup",Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.29,-0.6,131.8,WB7REL,"Starling, Sterling",UT,OPEN,,128.1,W,,145.29,144.69,131.8,San Pete,On-Air,Sanpete and Sevier Valleys.,,Autopatch,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.85,-5,131.8,WB7REL,Sterling,UT,OPEN,,128.1,W,,447.85,442.85,131.8,San Pete,On-Air,Fairview North to Richfield to the South.,wb7rel,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.375,5,100,KB5ITS,"Mancos, Caviness Mountain",CO,OPEN,,128.1,SSE,,442.375,447.375,100,Montezuma,On-Air,,San Juan Connection,,,,,,,,,,Full-time to the  San Juan Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.67,-0.6,100,K0EP,"Durango, Eagle Pass",CO,OPEN,,128.8,SE,,146.67,146.07,100,La Plata,On-Air,Wide area.,Durango ARC,11,DARC Repeaters,CCARC,,Linked active in the summer months only.,,,,,"Part-time to  
+        147.37500 (KB5ITS) at Silverton, Kendall Mountain, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.67,-0.6,107.2,K0CL,Snowmass Village,CO,OPEN,,128.9,ESE,,146.67,146.07,107.2,Pitkin,On-Air,Wide area.,Ski Country ARC,Linked.,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.25,-5,131.8,WB7REL,"Sterling, Salina Canyon",UT,OPEN,,130.1,W,,449.25,444.25,131.8,Sevier,,"Wide area: The general area of Salina, including Scipio, Manti, and south of Richfield, and coverage east into Emery, Ferron, and the San Rafael Desert.",,,http://www.sanpeteso.org/skyline/skyline_files/frame.html,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.4,-5,100,K7DSN,"Spanish Fork,  Teat Mountain",UT,OPEN,,131.5,NW,,447.4,442.4,100,Utah,,Wide area.,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.95,-5,,K5GF,Gunnison,CO,OPEN,,132.4,SE,,449.95,444.95,,Gunnison,,,K5GF,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,,W0VTL,Gunnison,CO,OPEN,,132.4,SE,,147.12,147.72,,Gunnison,On-Air,,W0VTL,E-power.,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.275,-5,107.2,KD7YE,"Manti, Barton Peak",UT,OPEN,I,133.5,WNW,,448.275,443.275,107.2,San Pete,On-Air,"Manti and surroundings, as well as Nephi and Fairview to the north and Richfield to the south.",Sanpete Co SO,Autopatch.,http://www.sanpeteso.org/skyline/skyline_files/frame.html,UVHFS,,,,,,3576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.72,-0.6,100,WB7REL,"East Salina, Salina Canyon",UT,OPEN,I,134,W,,146.72,146.12,100,San Pete,On-Air,,Skyline,7,,UVHFS,,,,,Skyline Repeater System,3576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.05,-5,136.5,K0VQ,"Aspen, Aspen Mountain",CO,OPEN,,134.4,ESE,,447.05,442.05,136.5,Pitkin,On-Air,Aspen-Snowmass areas.,Roaring Fork Amateur Repeater Cooperative,,,CCARC,,,136.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.35,-5,88.5,N7RVS,"Gunnison, N7RVS QTH",UT,OPEN,,134.6,W,,447.35,442.35,88.5,San Pete,,,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.37,-0.6,100,KB0VIU,Hesperus,CO,OPEN,,135.1,SSE,,145.37,144.77,100,La Plata,On-Air,,,E-power.,http://www.sjcham.com,CCARC,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.7,-0.6,100,K0EP,"Durango, Missionary Ridge",CO,OPEN,,138,SE,,146.7,146.1,100,La Plata,On-Air,Local.,Durango ARC,9,http://durangoarc.org/,CCARC,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445.1375,-5,CC7,N0SZ,"Durango, Missionary Ridge",CO,OPEN,,138.7,SE,,445.1375,440.1375,,La Plata,On-Air,,K2AD,,http://www.rmham.org/,CCARC,,,,,Rocky Mountain Ham Radio,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.27,-0.6,103.5,K7JL,"Levan, Levan Peak",UT,OPEN,,139,WNW,,145.27,144.67,103.5,Juab,On-Air,Wide area.,K7JL,E-power.,http://www.utahvhfs.org/snowlink.html,UVHFS,,8,,State RACES: 3rd Thursday of even-numbered months.,Intermountain Intertie,,Full-time to the  Intermountain Intertie System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.16,0.6,136.5,K7HEN,"Heber City, Strawberry Peak",UT,OPEN,,139.8,NW,,147.16,147.76,136.5,Wasatch,Off-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.345,0.6,88.5,KB0VJJ,"Durango, Missionary Ridge",CO,OPEN,,140.2,SE,,147.345,147.945,88.5,La Plata,On-Air,Durango and north towards Molas Divide.,Colorado Connection,,,CCARC,,,123,"Central Colorado Traffic Net: Daily at 19:30.  
+Colorado Connection Net (All Welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.135,0.6,100,KB5ITS,"Durango, Smelter Mountain",CO,OPEN,,140.8,SSE,,147.135,147.735,100,La Plata,On-Air,,,,http://www.sjcham.com,CCARC,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.85,-5,100,K0EP,Durango,CO,OPEN,,140.9,SE,,449.85,444.85,100,La Plata,On-Air,,DARC,,,CCARC,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.625,-5,131.8,KC5EVE,Durango,CO,OPEN,,140.9,SE,,448.625,443.625,131.8,La Plata,,Wide area.,KC5EVE,,,CCARC,,,131.8,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.265,-0.6,107.2,WD0HAM,Craig,CO,OPEN,,142.4,NE,,145.265,144.665,107.2,Moffat,,,NW Colorado ARC,E-power.,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.97,-0.6,88.5,KB0VJJ,Craig,CO,OPEN,,142.4,NE,,146.97,146.37,88.5,Moffat,On-Air,,Northwest Colorado Amateur Radio Association,,,CCARC,,,123,,Colorado Connection,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.8,-5,CC1,KC7WST,Woodland Hills,UT,OPEN,,143.7,WNW,,449.8,444.8,,Utah,On-Air,Utah County,KC7WSU,,http://www.dmr-utah.net,UVHFS,,,,,Yeahmon Amateur Radio Club (YARC),,,,,,,,,,,1,,,,DMR-UTAH,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3      English  1  13  PTT    Data  1  100      DMRX 1  1  8001      Utah Statewide 2  1  13149      Local/Cluster  2  2      TAC 310  2  310  PTT    TAC 311  2  311  PTT    USA  2  1776  PTT    Utah  2  3149      Mountain Reg USA  2  3177      PA (PA-525)   2  3185  PTT    Hytera USA  2  4639  PTT    SNARS  2  6968  PTT    Parrott  2  9998  PTT    Audio Test  2  9999  PTT    All TG's Off  2  111111  PTT    All TG's On  2  222222  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,,,,,,,,,,,,,,,,
+447.3,-5,77,WB7RPF,Woodland Hills,UT,OPEN,,143.7,WNW,,447.3,442.3,77,Utah,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.8,-0.6,100,N6EZO,Mapleton,UT,OPEN,,144.6,NW,,146.8,146.2,100,Utah,On-Air,,,,,UVHFS,,,,,ERC CERT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.325,-5,114.8,N7KYY,Springville,UT,OPEN,,145.7,NW,,447.325,442.325,114.8,Utah,On-Air,Utah County from Alpine to Payson.,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.38,0.6,100,WA7GIE,"Roosevelt, Mirror Lake",UT,OPEN,,145.8,NW,,147.38,147.98,100,Duchesne,On-Air,Wide area.,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.3,-5,88.5,WB7REL,"Salina, Beesting Peak",UT,OPEN,,146.1,WNW,,449.3,444.3,88.5,Sevier,Off-Air,Wide area.,W7DHH,"Remote base, 10,020'.",http://www.sanpeteso.org/skyline/skyline_files/frame.html,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.075,-5,131.8,N7FQ,Salem,UT,OPEN,,146.1,WNW,,447.075,442.075,131.8,Utah,Off-Air,Utah County from Alpine to Payson.,,,http://www.n7fq.com/,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.475,-5,186.2,WD7N,Springville,UT,OPEN,,146.8,NW,,447.475,442.475,186.2,Utah,On-Air,Utah County from Alpine to Payson.,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.525,-5,100,N0PKT,"Creede, Bristol Head",CO,OPEN,A,147.2,SE,,449.525,444.525,100,Mineral,On-Air,,N0PKT,,,,,,100,,The Fun Machine,,Full-time to the  The Fun Machine System .,,,,,,43265,,,,,,DM67lt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.125,-5,100,K7UCA,"Payson, Mountain View Hospital",UT,OPEN,,147.6,WNW,,447.125,442.125,100,Utah,Off-Air,Wasatch Front from Payson to Tremonton.,Utah Co ARES,4,http://ucares.org,UVHFS,,,,,UCARES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,-5,100,NV7V,Payson,UT,OPEN,,147.7,WNW,,447,442,100,Utah,On-Air,Metro Utah County,,WX.,http://nv7v.org,UVHFS,,"Bulletins from ARRL, Amateur Radio Newsline, Rain Report, Handiham and QSO today are transmitted all day Saturdays.",100,Mountain View Stake net: Sun at 20:00.,,,147.4,,,,,,,"ABC time 
+AAAA voice test records your voice and then replays it.  Start speaking when the repeater says ""ready"". 
+Send CC followed by whatever tone you wish to test.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.025,-5,100,KB7M,Payson,UT,OPEN,I,148.6,WNW,,448.025,443.025,100,Utah,On-Air,Utah County from Alpine to Payson.,,Remote base.,,UVHFS,,,,,,4482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.84,-0.6,100,WA7VHF,"Richfield, Monroe Peak",UT,OPEN,,149.3,W,,146.84,146.24,100,Sevier,On-Air,Wide area: 100 mi radius.,UVHFS,,,UVHFS,,,,Tue at 20:00.,Intermountain Intertie,,Full-time to the  Intermountain Intertie System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.825,-5,167.9,KB7YOT,Provo,UT,OPEN,,150.8,NW,,449.825,444.825,167.9,Utah,Off-Air,Utah County from Alpine to Payson.,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.925,-0.6,,WA0JS,Creede,CO,OPEN,,151,SE,,146.925,146.325,,Mineral,Off-Air,,Creede ARC,,,CCARC,,WA0JS license expired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.86,-0.6,100,WB7REL,"Monroe, Monroe Peak",UT,OPEN,,151.3,W,,146.86,146.26,100,Sevier,On-Air,"The general area of Salina, including Scipio, Manti, and south of Richfield, and coverage east into Emery, Ferron, and the San Rafael Desert.","WB7REL, Sanpete Co SO",11,Skyline Repeater System,UVHFS,,,,,,,Full-time to the  Skyline Repeater System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.45,-5,114.8,W7DHH,"Monroe, Monroe Peak",UT,OPEN,,151.3,W,,447.45,442.45,114.8,Sevier,On-Air,"Wide area: Richfield and its surrounding communities including Nephi to the north, Fillmore to the west, Ferron and Emery to the east, and Panguitch to the south.",,,,UVHFS,,11,,,,,Full-time to the  Skyline Repeater System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,100,WA7HSW,"Monroe, Monroe Peak",UT,OPEN,,151.3,W,,146.64,146.04,100,Sevier,On-Air,"Richfield and its surrounding communities including Nephi to the north, Fillmore to the west, Ferron and Emery to the east, and Panguitch to the south.",Sanpete Co SO,Autopatch.,http://www.sanpeteso.org/skyline/skyline_files/frame.html,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.1,0.6,100,N7GGN,"Holden, Beesting Peak",UT,OPEN,,151.6,W,,147.1,147.7,100,Sevier,On-Air,"Wide area: West Desert, Nephi to Delta, Fillmore to Manti, Mt. Pleasant, Richfield",,Closed autopatch.,http://www.skylineradioclub.com/repeaters.html,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.65,-5,151.4,KB0YNA,"Gunnison, W Mountain or Tenderfoot Mountain",CO,OPEN,,151.6,ESE,,447.65,442.65,151.4,Gunnison,On-Air,Gunnison valley and along East and west on Highway 50.,KB0YNA,"Linked to 448.650 in Montrose, Colorado and 449.650 in Grand Junction, Colorado.",,CCARC,,,151.4,,,,"Full-time to  
+        448.65000 (KB0YNA) at Montrose, Waterdog Peak, CO .
+ 
+
+
+Full-time to  
+        449.65000 (KB0YNA) at Grand Junction, Grand Mesa, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.425,-5,,N7EVC,Provo,UT,OPEN,,152,NW,,447.425,442.425,,Utah,Off-Air,Utah County from Alpine to Payson.,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.075,-5,167.9,N7BYU,"Provo, BYU",UT,OPEN,E,152.1,NW,,449.075,444.075,167.9,Utah,On-Air,Utah County from Alpine to Payson.,"KI7TD,  BYU ARC",4,BYU Repeaters,UVHFS,,,,,,,,,,,,96806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.33,-0.6,100,N7BYU,"Provo, BYU",UT,OPEN,E,152.1,NW,,145.33,144.73,100,Utah,On-Air,Utah County from Alpine to Payson.,"KI7TD,  BYU ARC","Closed autopatch, linked.",BYU Repeaters,UVHFS,,,,BYU ARC: Thu at 21:00.,,,,,,,,96806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.85,-5,146.2,WA7FFM,"Provo, UVRMC",UT,OPEN,,152.9,NW,,449.85,444.85,146.2,Utah,On-Air,,Utah Valley Regional Medical Center,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.22,0.6,,WA7YZR,"Provo, Edgemont SC",UT,OPEN,,154.1,NW,,147.22,147.82,,Utah,Off-Air,Utah County from Alpine to Payson.,"KR7D, ARC of Utah Valley",4,,UVHFS,,,,,,,"Full-time to  
+        145.25000 (K7UVA) at Provo, Sundance, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.25,-5,100,N6QWU,"Payson, West Mountain",UT,OPEN,E,154.1,WNW,,448.25,443.25,100,Utah,Off-Air,Wide area: Utah County from Alpine to Payson.,,,,UVHFS,,,,,,,,,,,,355674,,,,,,,DN40cc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.02,0.6,100,WA7UAH,"Goshen, West Mountain",UT,OPEN,,154.1,WNW,,147.02,147.62,100,Utah,On-Air,Utah County from Alpine to Payson.,ERC,Autopatch.,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.34,0.6,100,K7UCS,"Goshen, West Mountain",UT,OPEN,,154.1,WNW,,147.34,147.94,100,Utah,On-Air,Wide area: Utah County from Alpine to Payson. Salt Lake Valley communities from Salt Lake City to Draper. Cedar Valley and its surrounding communities.,Utah Co ARES,E-power.,http://www.ucares.org,UVHFS,,,,UCARES: Tues at 21:00.,,,,,,,,,,,,,,,DN40cc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.95,-5,,WA7FFM,"Goshen,  West Mountain",UT,OPEN,,154.1,WNW,,448.95,443.95,,Utah,,Utah County from Alpine to Payson.,,6,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.25,-0.6,100,K7UVA,"Provo, Sundance",UT,OPEN,,155,NW,,145.25,144.65,100,Utah,On-Air,Utah County from Alpine to Payson and Heber,Utah Valley Amateur Radio Club,,https://uvarc.club/,UVHFS,,,,,Utah Valley Amateur Radio Club,,"Full-time to  
+        147.22000 (WA7YZR) at Provo, Edgemont SC, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.95,-5,,N7ZOI,Midway,UT,OPEN,,156.1,NW,,449.95,444.95,,Wasatch,On-Air,Heber city and surrounding communities.,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.47,-0.6,100,N7BSA,"Orem, QTH AC7DM",UT,OPEN,E,156.1,NW,,145.47,144.87,100,Utah,,Utah County from Alpine to Payson.,Explorer Post 1973,Autopatch.,,UVHFS,,,,,,,,,,,Unknown,46049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.6,-5,100,WA7VHF,"Page, Navajo Mountain",UT,OPEN,,156.8,SSW,,448.6,443.6,100,San Juan,On-Air,Wide Area.,Utah VHF Society,,http://utahvhfs.org/snowlink.html,UVHFS,,,,UVHFS: Tue at 20:00.,Intermountain Intertie,,"Full-time to  
+        448.87500 (W7ARA) at Flagstaff, Mt. Elden, AZ .
+ 
+
+
+Full-time to the  Intermountain Intertie System .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.88,-1.6,156.7,N7IMF,Orem,UT,CLOSED,,156.9,NW,,224.88,223.28,156.7,Utah,On-Air,Wasatch Front from Payson to Tremonton.,Utah High Desert ARC,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.6,-5,162.2,KD7RBR,"Orem, Point of the Mountain",UT,OPEN,,157.2,NW,,447.6,442.6,162.2,Utah,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.275,-5,100,K7UCA,"Orem,  Timpanogos Hospital",UT,OPEN,,157.5,NW,,447.275,442.275,100,Utah,Off-Air,Wasatch Front from Payson to Tremonton.,Utah Co ARES,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.15,0.6,100,KB5ITS,"Ignacio, Spring Creek",CO,OPEN,,157.7,SE,,147.15,147.75,100,La Plata,On-Air,Bayfield,,E-power.,http://www.sjcham.com,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.925,-5,100,W7CWI,"Page (AZ), Navajo Mountain",UT,OPEN,,158.1,SSW,,449.925,444.925,100,San Juan,On-Air,"Wide area: Lake Powell area from Bullfrog to Wahweap and Hite, toward the south into Arizona and North as far as Boulder.",Lake Powell ARG,10,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.96,-0.6,100,W7WAC,"Page (AZ), Navajo Mountain",UT,OPEN,,158.1,SSW,,146.96,146.36,100,San Juan,On-Air,"Wide area: Lake Powell area from Bullfrog to Wahweap and Hite, toward the south into Arizona and North as far as Boulder.",KE7OZE,,,UVHFS,,10,,,Intermountain Intertie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.75,-5,100,NA7DB,"Page (az), Navajo Mountain",UT,OPEN,,158.1,SSW,,448.75,443.75,100,San Juan,On-Air,"Wide area: Lake Powell area from Bullfrog to Wahweap and Hite, toward the south into Arizona and North as far as Boulder.",,10,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.2,0.6,88.5,N7ZOI,"Midway, Wilson Peak",UT,OPEN,,158.8,NW,,147.2,147.8,88.5,Wasatch,On-Air,Heber city and surrounding communities.,,8,,UVHFS,,,,HVARC: Wed at 20:00.,High Valley ARC,,"Full-time to  
+        449.52500 (K7JL) at Brighton, Scott's Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.345,0.6,88.5,KB0VJJ,Vail,CO,OPEN,,160.2,E,,147.345,147.945,88.5,Eagle,On-Air,Wide area: Vail Pass to Glenwood Canyon and the Flattops Wilderness to Tennessee Pass.  Map,Colorado Connection,9,,CCARC,,,123,"Central Colorado Traffic Net: Daily at 19:3030 
+Colorado Connection Net (All Welcome):  Thu at 20:00. 
+Statewide ARES net: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445.075,-5,CC7,N0SZ,Vail,CO,OPEN,,160.4,E,,445.075,440.075,,Eagle,On-Air,,K2AD,,http://www.rmham.org/,CCARC,,,,,Rocky Mountain Ham Radio,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223.88,-1.6,156.7,KB7YOT,Pleasant Grove,UT,OPEN,,160.7,NW,,223.88,222.28,156.7,Utah,,,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.775,-5,,K8BKT,Pleasant Grove,UT,OPEN,,160.7,NW,,449.775,444.775,,Utah,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.06,0.6,100,NM5SJ,"Nebo, Cedar Hill",NM,OPEN,,160.9,SSE,,147.06,147.66,100,San Juan,On-Air,,,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.975,-5,,NT3ST,"American Fork, KD7BBC QTH",UT,OPEN,,163.4,NW,,447.975,442.975,,Utah,On-Air,20,,,https://nt3st.zzt.net,UVHFS,,,,,,,,,NT3ST (B),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.24,0.6,156.7,N0ZSN,"Leadville, Quail Mountain",CO,OPEN,,163.5,ESE,,147.24,147.84,156.7,Lake,Off-Air,,,,,CCARC,,,156.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.225,-5,146.2,KC7MVI,"Eureka,  Eureka Peak",UT,OPEN,,163.5,WNW,,448.225,443.225,146.2,Juab,Off-Air,Wide area: Utah County from Alpine to Payson.,Utah Valley Comm College,"Autopatch, 4,300'.",,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.875,-5,,KC7KRY,"Eureka,  Eureka Peak",UT,OPEN,,163.5,WNW,,447.875,442.875,,Juab,,Wide area.,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.325,-0.6,100,KD0MRC,"Maysville, CO",CO,OPEN,,163.5,ESE,,145.325,144.725,100,Chaffee,On-Air,wide area,Chaffee Lake Amateur Repeater Association,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.8,-1.6,,N0AFO,Vail,CO,OPEN,,164.2,E,,224.8,223.2,,Eagle,,,ECHO,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.9,-5,107.2,N0AFO,Vail,CO,OPEN,,164.2,E,,449.9,444.9,107.2,Eagle,Off-Air,,ECHO,,,CCARC,,,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.61,-0.6,107.2,K0RV,"Vail, Bald Mountain",CO,OPEN,,164.5,E,,146.61,146.01,107.2,Eagle,On-Air,,ECHO,11,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.175,-5,131.8,KA7EGC,"American Fork, Utah Lake",UT,OPEN,,164.6,NW,,449.175,444.175,131.8,Utah,On-Air,Utah Valley.,,,,UVHFS,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.475,-5,100,WA7GIE,"Provo, Lake Mountain",UT,OPEN,I,165,WNW,,449.475,444.475,100,Utah,On-Air,Wide area: Utah County from Alpine to Payson.,,7,,UVHFS,,,,,,5620,"Full-time to  
+        449.42500 (WA7GIE) at Salt Lake City, Nelson Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.675,-5,173.8,K7UCS,"Provo, Lake Mountain",UT,CLOSED,,165,WNW,,449.675,444.675,173.8,Utah,On-Air,Utah County from Alpine to Payson.,Utah Co ARES,7,,UVHFS,,7,,,,,"Full-time to  
+        448.32500 (K7UCS) at Provo, Lake Mountain, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.875,-5,100,KA7EGC,"Provo, Lake Mountain",UT,OPEN,,165,WNW,,447.875,442.875,100,Utah,Off-Air,Salt Lake Valley communities from Salt Lake City to Draper.,,7,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.45,-5,107.2,KB5ITS,Aztec,NM,OPEN,,165.1,SSE,,447.45,442.45,107.2,San Juan,On-Air,,KB5ITS,"E-power, remote base.",,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,100,KB5ITS,"Aztec, Tank Mtn",NM,OPEN,,165.1,SSE,,146.88,146.28,100,San Juan,On-Air,,,,http://www.sjcham.com,NMFCC,,,,,,,Full-time to the  San Juan Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.27,-0.6,100,K7JL,"Brighton, Scotts Peak",UT,OPEN,,165.1,NW,,145.27,144.67,100,Salt Lake,On-Air,"Wide area: Park City, Heber, Coalville and other nearby communities. Western side of the Salt Lake valley.",,E-power.,http://utahvhfs.org/snowlink.html,UVHFS,,10,,State RACES: 3rd Thursday of even-numbered months.,Intermountain Intertie,,Full-time to the  Intermountain Intertie System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.25,5,CC1,N5UBJ,Aztec,NM,OPEN,,165.1,SSE,,442.25,447.25,,San Juan,On-Air,,,,http://www.aztrbonet.com/MinimalNetwatch,NMFCC,,,,,,,,,,,,,,,,1,,,,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,,,,,2,,,,,,,,,,,,2,2,2,,,,,,,,,,,,,
+146.74,-0.6,100,NM5SJ,Aztec,NM,OPEN,,165.1,SSE,,146.74,146.14,100,San Juan,On-Air,,Totah ARC,"Closed autopatch, e-power.",,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.525,-5,131.8,K7JL,"Brighton, Scott's Peak",UT,OPEN,,165.1,NW,,449.525,444.525,131.8,Salt Lake,On-Air,"Wide area: Western Salt Lake Valley up to Malad, East to Evanston and Vernal.",K7JL,,http://utahvhfs.org/snowlink.html,UVHFS,,10,131.8,,Intermountain Intertie,,"Full-time to  
+        147.20000 (N7ZOI) at Midway, Wilson Peak, UT .
+ 
+
+
+Full-time to the  Intermountain Intertie System .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,100,K7JL,"Snowbird, Hidden Peak",UT,OPEN,,165.2,NW,,147.18,147.78,100,Utah,On-Air,"Wide area: Northern Utah, extreme Southwestern Wyoming, Southeastern Idaho, spotty coverage into Western Colorado and Eastern Nevada.  Map",K7JL,E-power.,,UVHFS,,11,,UVHFS: Tue at 20:00.,Intermountain Intertie,,"Full-time to  
+        146.94000 (WR7AAA) at Milford, Frisco Peak, UT .
+ 
+
+
+Full-time to  
+        147.12000 (K7JL) at Salt Lake City, Farnsworth Peak, UT .
+ 
+
+
+Full-time to  
+        147.02000 (K7OGM) at Laketown, Bear Lake, UT .
+ 
+
+
+Full-time to  
+        146.86000 (K7JL) at Evanston, Medicine Butte, WY .
+ 
+
+
+Full-time to the  Intermountain Intertie System .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.725,-5,167.9,KX7VC,"Highland, KX7VC QTH",UT,OPEN,,165.7,NW,,447.725,442.725,167.9,Utah,On-Air,,,,,,,Normally connected via Allstar to Alaska Morning Net,167.9,,,,,,,,,,,,,,,,DN40ck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.7,-5,114.8,N7IMF,"Lehi, Lake Mountain",UT,OPEN,,165.9,NW,,448.7,443.7,114.8,Salt Lake,Off-Air,Wide area: Utah County from Alpine to Payson. Salt Lake Valley communities from Salt Lake City to Draper.,,7,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,,W7SP,"Provo, Lake Mountain",UT,OPEN,EI,166.1,NW,,146.76,146.16,,Utah,On-Air,"Wide area: Via mobile (50 watts, 1/4 wave or better): This repeater covers the Utah and Salt Lake Valleys, south along I-15 as far south as Filmore (spotty coverage,) portions of the west desert, and points north to the Idaho border. Very spotty coverage eastwards into the Wasatch. Via handie-talkie: Coverage is good in Utah county, marginal in many parts of Salt Lake county, particularly in the southern part of the valley.  Map . 90 mi radius.",Utah ARC,Closed autopatch.,http://utaharc.org/rptr/76rpt.html,UVHFS,,7,,Wednesday at 19:00,,3352,,,,,,703269,,"While anyone may Dial In to this node, only UARC members will be given the ""prefix code"" that will allow them to Dial Out into the IRLP network.",,,,,DN40ag,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.325,5,CC1,N5UBJ,Farmington,NM,OPEN,,166.1,SSE,,442.325,447.325,,San Juan,On-Air,,,AZ-TRBONET,http://www.aztrbonet.com/MinimalNetwatch,NMFCC,,,,,,,,,,,,,,,,1,,,,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,,,,,2,,,,,,,,,,,,2,2,2,,,,,,,,,,,,,
+444.15,5,,KF5VBF,Farmington,NM,OPEN,,166.1,SSE,,444.15,449.15,,San Juan,On-Air,,San Juan County,DV only,,,,,,,,,,,KF5VBF (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,-5,100,K5WY,Farmington,NM,OPEN,,166.2,SSE,,449,444,100,San Juan,,,K5WY,E-power.,,NMFCC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.28,0.6,141.3,K7UCS,"Provo, Lake Mountain",UT,OPEN,,166.2,NW,,147.28,147.88,141.3,Utah,On-Air,Wide area: Utah County from Alpine to Payson. Salt Lake Valley communities from Salt Lake City to Draper. Cedar valley and its surrounding communities.,Utah Co ARES,E-power.,,UVHFS,,,,,,,"Full-time to  
+        449.67500 (K7UCS) at Provo, Lake Mountain, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.56,-1.6,100,K7UVA,"Orem, Lake Mountain",UT,OPEN,E,166.2,NW,,224.56,222.96,100,Utah,On-Air,"Utah County, Salt Lake County, Juab County",UVARC (Utah Valley Amateur Radio Club),10,http://uvarc.club,UVHFS,,,,Ladies Net: Tue 19:00 Youth Net: Thu 18:30 New Ham Net: Thu 19:00 Family History Net: Sat 20:0,UVARC (Utah Valley Amateur Radio Club),,"Full-time to  
+        448.20000 (K7UVA) at Orem, Lake Mountain, UT .
+ 
+
+
+Full-time to  
+        146.78000 (K7UVA) at Orem, Lake Mountain, UT .",,,,,762028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.42,-1.6,156.7,W7WJC,"Provo, Lake Mountain",UT,OPEN,,166.2,NW,,224.42,222.82,156.7,Utah,On-Air,,Utah County Radio Club,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.7,-1.6,107.2,KE7AU,"Provo, Lake Mountain",UT,OPEN,,166.2,NW,,224.7,223.1,107.2,Utah,Off-Air,Wide area: Utah County from Alpine to Payson. Salt Lake Valley communities from Salt Lake City to Draper. Cedar valley and its surrounding communities.,,7,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.975,-5,131.8,K7UCS,"Provo, Lake Mountain",UT,OPEN,,166.2,NW,,449.975,444.975,131.8,Utah,On-Air,Wide area: Utah County from Alpine to Payson. Utah Valley and Spanish Fork Canyon.,Utah Co ARES,7,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,0.6,100,KB5ITS,Farmington,NM,OPEN,,166.2,SSE,,147,147.6,100,San Juan,On-Air,,,"Autopatch, e-power.",,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,100,KB5ITS,Farmington,NM,OPEN,,166.2,SSE,,146.76,146.16,100,San Juan,On-Air,,,"Closed autopatch, e-power.",http://www.sjcham.com,NMFCC,,,100,,,,Full-time to the  San Juan Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.2,-5,100,K7UVA,"Orem, Lake Mountain",UT,OPEN,E,166.2,NW,,448.2,443.2,100,Utah,On-Air,"Utah County, Salt Lake County, Juab County",UVARC (Utah Valley Amateur Radio Club),10,http://uvarc.club,UVHFS,,,,"Ladies' Net Tue 1900, Youth Net Thu 1830, New Ham Net Thu 1900, Family History Net Sat 20:00",UVARC (Utah Valley Amateur Radio Club),,"Full-time to  
+        146.78000 (K7UVA) at Orem, Lake Mountain, UT .
+ 
+
+
+Full-time to  
+        224.56000 (K7UVA) at Orem, Lake Mountain, UT .",,,,,762028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.78,-0.6,100,K7UVA,"Orem, Lake Mountain",UT,OPEN,E,166.2,NW,,146.78,146.18,100,Utah,On-Air,"Utah County, Salt Lake County",UVARC (Utah Valley Amateur Radio Club),,http://uvarc.club/,UVHFS,,,,Ladies Net: Tue 19:00 Youth Net: Thu 18:30 New Ham Net: Thu 19:00 Family History Net: Sat 20:00,UVARC (Utah Valley Amateur Radio Club),,"Full-time to  
+        448.20000 (K7UVA) at Orem, Lake Mountain, UT .
+ 
+
+
+Full-time to  
+        224.56000 (K7UVA) at Orem, Lake Mountain, UT .",,,,,762028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.23,-0.6,131.8,K7UCS,"Provo, Lake Mountain",UT,OPEN,,166.2,NW,,145.23,144.63,131.8,Utah,On-Air,Utah County from Alpine to Payson.,Utah Co ARES,E-power.,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.85,-0.6,100,K5WXI,Farmington,NM,OPEN,,166.2,SSE,,146.85,146.25,100,San Juan,On-Air,,Totah ARC,Closed autopatch.,,NMFCC,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.325,-5,103.5,K7UCS,"Provo, Lake Mountain",UT,CLOSED,,166.2,NW,,448.325,443.325,103.5,Utah,Off-Air,Wide area: Utah County from Alpine to Payson.,Utah Co ARES,7,,UVHFS,,,,,,,"Full-time to  
+        449.67500 (K7UCS) at Provo, Lake Mountain, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.01,-1,131.8,KB5ITS,Farmington,NM,OPEN,,166.2,SSE,,53.01,52.01,131.8,San Juan,On-Air,,KB5ITS,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.675,-5,100,KF7RCZ,Saratogo Springs,UT,OPEN,,166.5,NW,,447.675,442.675,100,Utah,,,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.05,-5,CC1,KC7WSU,Lehi,UT,OPEN,,166.6,NW,,447.05,442.05,,Utah,Off-Air,,,,,,,,,,,,,,,,,,,,,1,,,,DMR-UTAH,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3      English  1  13  PTT    Data  1  100      DMRX 1  1  8001      Utah Statewide 2  1  13149      Local/Cluster  2  2      TAC 310  2  310  PTT    TAC 311  2  311  PTT    USA  2  1776  PTT    Utah  2  3149      Mountain Reg USA  2  3177      PA (PA-525)   2  3185  PTT    Hytera USA  2  4639  PTT    SNARS  2  6968  PTT    Parrott  2  9998  PTT    Audio Test  2  9999  PTT    All TG's Off  2  111111  PTT    All TG's On  2  222222  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,,,,,,,,,,,,,,,,
+448.875,-5,,KG7QWU,Lehi,UT,OPEN,,166.6,NW,,448.875,443.875,,Utah,On-Air,I-15 from Lehi to Nephi. 30 mi radius.,Rick Whittaker,"linked, e-power",,,,,,"CERT, Lehi Cedar Hollow Stake, Saratoga Springs CERT","Lehi Amateur Radio Club, Lehi CERT, LDS Church ERC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+147.08,0.6,77,WX7Y,"Draper, Lake Mountain",UT,OPEN,EI,166.7,NW,,147.08,147.68,77,Salt Lake,On-Air,Wide area: Wasatch Front from Payson to the Utah/Idaho border.,Sinbad Desert ARC,,http://sdarc.us,UVHFS,,,,,,3270,,,,,,64264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1291.7,-20,,KF5VBF,"Farmington, Farmington Bluffs",NM,CLOSED,,167.3,SSE,,1291.7,1271.7,,San Juan,On-Air,,San Juan County,DV only,,NMFCC,,,,,,,,,KF5VBF (A) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.115,-0.6,,KF5VBE,Farmington,NM,OPEN,,167.7,SSE,,145.115,144.515,,San Juan,On-Air,,,,,,,,,,,,,,KF5VBE (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1291.1,-20,,KF5VBE,Aztec,NM,CLOSED,,167.7,SSE,,1291.1,1271.1,,Bernalillo,On-Air,,San Juan County,DV only,,NMFCC,,,,,,,,,KF5VBE (A) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144.635,0.6,100,KF7ELU,"Mountain View, Hickey Mtn",WY,OPEN,,167.7,NNW,,144.635,145.235,100,Uinta,On-Air,I-80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.165,0.6,88.5,KB0VJJ,Steamboat Springs,CO,OPEN,,168.6,NE,,147.165,147.765,88.5,Routt,On-Air,,Colorado Connection,,,,,,123,,,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.625,-5,123,KB0VJJ,Steamboat Springs,CO,OPEN,,168.6,NE,,449.625,444.625,123,Routt,On-Air,Local Steamboat Area,"Colorado Connection Repeaters, Inc.",Statewide Linked System,http://colcon.org,,,,123,"Central Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net: Thu at 20:00 (All welcome).  
+Statewide ARES Net: Sundays at 20:00.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.21,0.6,107.2,KD0H,Steamboat Springs,CO,OPEN,,168.7,NE,,147.21,147.81,107.2,Routt,On-Air,,SSARC,"Linked, WX.",,CCARC,,,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.5,-5,,NZ6Z,Park City,UT,OPEN,,168.8,NW,,447.5,442.5,,Summit,On-Air,"Park City, Heber, Coalville and other nearby communities.",,7,,UVHFS,,,,,,,"Full-time to  
+        145.23000 (NZ6Z) at Park City, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.23,-0.6,100,NZ6Z,Park City,UT,OPEN,,168.8,NW,,145.23,144.63,100,Summit,,"Park City, Heber, Coalville and other nearby communities.",,7,,UVHFS,,,,,,,"Full-time to  
+        447.50000 (NZ6Z) at Park City, UT .",,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.745,-0.6,100,W0LSD,Nathrop,CO,OPEN,,168.9,ESE,,146.745,146.145,100,Chaffee,Off-Air,,CLARA,E-power.,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.05,-5,CC1,KC7WST,Saratoga Springs,UT,OPEN,,169,NW,,447.05,442.05,,Utah,On-Air,North Utah County,KC7WSU,,http://www.dmr-utah.net,UVHFS,,,,,,,,,,,,,,,,1,,,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1      North America  1  3      English  1  13      TAC 311  1  311      USA  1  1776      Parrott  1  9998      Audio Test  1  9999      Utah Statewide 2  1  13149      Europe  2  2      TAC 310  2  310      DCI Bridge  2  3100      Utah  2  3149      Mountain Reg USA  2  3177      All TG's Off  2  111111      All TG's On  2  222222      Local  2  314900      Utah  2  314901      Local  2  314902    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,,,1,,2,1,1,2,2,,,,1,1,2,2,2,2,,,,,2,,,,,,,,,
+145.445,-0.6,88.5,KB0VJJ,"Leadville, Mosquito Pass",CO,OPEN,,169.4,ESE,,145.445,144.845,88.5,Lake,On-Air,,Colorado Connection,E-power (solar).,,CCARC,,"At 13,685;, it is one of the highest 2-meter repeaters in North America.",,"Central Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net (all welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445.05,-5,CC7,N0SZ,"Leadville, Mosquito Pass",CO,OPEN,,169.5,ESE,,445.05,440.05,,Adams,On-Air,,K2AD,,http://www.rmham.org/,CCARC,,,,,Rocky Mountain Ham Radio,,,,,,,,,,,7,,,,RMHAM,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700  Full-Time    Southern Colorado  2  719  Full-Time    Denver Regional  2  720  Full-Time    Northern Colorado  2  721  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,,,,
+147.16,0.6,100,N7NKK,"Panguitch, Mount Dutton",UT,OPEN,,169.8,WSW,,147.16,147.76,100,Garfield,On-Air,Wide area: South-central Utah in the general area of Panguitch and the western portion of Garfield County.,ERC,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.475,-5,,KB7HAF,"Park City,  Murdock Peak",UT,OPEN,,169.9,NW,,448.475,443.475,,Summit,On-Air,"Park City, Heber, Coalville and other nearby communities.",,8,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.25,-5,110.9,WD7N,Eagle Mountain,UT,OPEN,,170.4,NW,,449.25,444.25,110.9,Utah,Off-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+222.4,1.6,123,K7DRA,"Rock Springs, Aspen Mtn",WY,OPEN,E,170.5,N,,222.4,224,123,Sweetwater,On-Air,Wide Area,DRAWZM,,,,,,,,Mountain West Radio Group,,,,,,,824055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.61,-0.6,100,N7RUG,"Rock Springs, Aspen Mountain",WY,OPEN,,170.6,N,,146.61,146.01,100,Sweetwater,On-Air,Wide area: SW Wyoming,Sweetwater RACES,Autopatch.,http://wy7u.angelfire.com,WRCG,,,,Sun at 19:30.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.94,-0.6,100,WY7U,"Rock Springs, Aspen Mountain",WY,OPEN,E,170.6,N,,146.94,146.34,100,Sweetwater,On-Air,Wide area.,Sweetwater ARC,,,WRCG,,,,,,,Full-time to the  HERC System .,,,,,357388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.35,-5,,KC7OXI,"Draper,  South Mountain",UT,OPEN,,171.3,NW,,448.35,443.35,,Salt Lake,Off-Air,Utah County from Alpine to Payson. Salt Lake Valley communities from Salt Lake City to Draper.,Rocky Mtn RA,5,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.8,-5,88.5,KA7SLC,Bountiful,UT,CLOSED,,171.5,NW,,448.8,443.8,88.5,Davis,Off-Air,North Salt Lake to South Ogden.,Rocky Mtn RA,"Remote base, 5,100'.",,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.9,-1.6,156.7,N7IMF,"Draper, Point of the Mountain",UT,CLOSED,,171.6,NW,,224.9,223.3,156.7,Utah,On-Air,,UHDARC,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.61,-0.6,123,N0JSP,"Pagosa Springs, Oakbrush Hill",CO,OPEN,,172.2,SE,,146.61,146.01,123,Archuleta,On-Air,,,,http://durangoarc.org/,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.65,-5,127.3,KB5ITS,Bloomfield,NM,OPEN,,172.2,SSE,,448.65,443.65,127.3,San Juan,On-Air,,,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.92,-0.6,100,K5WXI,Bloomfield,NM,OPEN,,172.3,SSE,,146.92,146.32,100,San Juan,On-Air,,San Juan County OEM,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.1,-5,100,KG7EGM,"Draper, Fire Station",UT,OPEN,,172.6,NW,,447.1,442.1,100,Salt Lake,On-Air,Wide area.,DHRA,,http://draperhamradio.wordpress.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,-5,88.5,KE7QGT,Draper,UT,OPEN,,172.6,NW,,447,442,88.5,Salt Lake,Off-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.24,0.6,136.5,K7HEN,"Coalville, Lewis Peak",UT,OPEN,,173.4,NW,,147.24,147.84,136.5,Summit,On-Air,Wide area.,,"Autopatch, 9,304'.",,UVHFS,,,,,,,"Full-time to  
+        147.16000 (K7HEN) at Heber City, Strawberry Peak, UT .
+ 
+
+
+Full-time to  
+        147.14000 (K7MLA) at West Jordan, Butterfield Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.55,-5,100,WA7GIE,"Coalville,  Lewis Peak",UT,OPEN,,173.4,NW,,449.55,444.55,100,Summit,On-Air,"Wide area: Park City, Heber, Coalville and other nearby communities. Western side of the Salt Lake valley.",,IRLP,,UVHFS,,PL 131.8? Node usually connected to  5620 .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,100,WA7GIE,"Coalville, Lewis Peak",UT,OPEN,,173.4,NW,,147.36,147.96,100,Summit,On-Air,"Wide area: Western side of the Salt Lake valley. Park City, Heber, Coalville and other nearby communities.",,9,,UVHFS,,,,SCARC: Thu at 2100.,Wasatch Back Tri-County ARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.65,-5,,WA7GIE,"Coalville,  Lewis Peak",UT,CLOSED,,173.4,NW,,448.65,443.65,,Summit,On-Air,"Wide area: Park City, Heber, Coalville and other nearby communities.",Desert ARS,9,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.9,-5,,WB7TSQ,"Coalville,  Lewis Peak",UT,OPEN,,173.4,NW,,448.9,443.9,,Summit,,"Wide area: Park City, Heber, Coalville and other nearby communities.",,"Remote base, 9,304'.",,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.075,0.6,88.5,KB0VJJ,"Kremmling, Santoy Peak",CO,OPEN,,173.5,E,,147.075,147.675,88.5,Grand,On-Air,Flattops Wilderness Area well and can even be worked from the Front Range in some locations. Coverage at the east end of Glenwood Canyon to Eagle is available in some spots along I-70.  Map,Colorado Connection,,,CCARC,,Part of the Colorado Connection system of Repeaters,123,"Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net (all welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.25,-0.6,100,KB5ITS,"Lukachukai, Roof Butte",AZ,OPEN,,173.8,S,,145.25,144.65,100,Apache,On-Air,,San Juan Connection,"E-power, linked.",,ARCA,,,,,,,Full-time to the  San Juan Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,100,NM5SJ,"Lukachukai, Roof Butte",AZ,OPEN,,173.8,S,,146.82,146.22,100,Apache,On-Air,,Totah ARC,,,ARCA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.375,-5,100,W7ROY,Sandy,UT,OPEN,,174.2,NW,,448.375,443.375,100,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper.,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.625,-5,,WA7GIE,"Riverton, Flat Top",UT,CLOSED,,175,NW,,448.625,443.625,,Salt Lake,Off-Air,Wide area: Salt Lake Valley communities from Salt Lake City to Draper.,Desert ARS,Remote base.,,UVHFS,,,,,Cactus-Intertie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.775,5,CC12 123.0,AD0BN,"Green River, Green River High School",WY,OPEN,,175,N,,444.775,449.775,123,Sweetwater,Testing,"Note: This repeater will operate in digital mode only. It may, however, be switched to analogue mode under special circumstances and will use a tone of 123/123. Digital repeater should provide portable coverage in the Green River area when operational. Repeater is not currently on-air but has been coordinated and is awaiting installation. Please use Talkgroup 2 and Timeslot 2 for local communications. Repeater uses color 12.",,,,WRCG,,,123,,,,,,,,,,,,,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.7,-5,127.3,KO7R,"Cedar Fort, Internet Mountain",UT,OPEN,,175.3,WNW,,449.7,444.7,127.3,Utah,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.41,-0.6,D125,KE7GHK,"Salt Lake, Carrigan Ridge",UT,OPEN,,175.8,NW,,145.41,144.81,D125,Salt Lake,,Salt Lake Valley communities from Salt Lake City to Draper.,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,100,KB5ITS,"Navajo Dam, Navajo Lake",NM,OPEN,,176.3,SSE,,147.36,147.96,100,San Juan,On-Air,,,,http://www.sjcham.com,NMFCC,,,,,,,Full-time to the  San Juan Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.38,0.6,203.5,KB7WQD,"Delta, Notch Peak",UT,OPEN,,176.4,W,,147.38,147.98,203.5,Millard,On-Air,"West-central Utah around Delta, Tusher Mountains, Monroe &amp; Clear Creek Canyon.","Nyle Stott, KB7WQD",8,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.25,-5,100,K7MRS,Salt Lake City,UT,OPEN,,177.4,NW,,447.25,442.25,100,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper.,Salt Lake Co ARES,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.125,-5,103.5,WZ0N,"Fairplay, Sacramento Mountain",CO,OPEN,,178.8,ESE,,447.125,442.125,103.5,Park,On-Air,,WZ0N,,,CCARC,,Identifies with an 'S' following WZ0N callsign which identifies the site as Sacramento.,103.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.575,-5,114.8,K7LNP,West Jordan,UT,OPEN,,179.2,NW,,447.575,442.575,114.8,Salt Lake,,Salt Lake Valley communities from Salt Lake City to Draper.,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.7,-0.6,107.2,WB0QMR,Breckenridge,CO,OPEN,I,179.2,E,,146.7,146.1,107.2,Summit,On-Air,,GRARC,E-power.,,CCARC,,,,,,3972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.9375,-5,CC1,N6DVZ,West Jordan,UT,OPEN,,179.3,NW,,447.9375,442.9375,,Salt Lake,On-Air,Greater Salt Lake Valley to Ogden,,,http://www.dmr-utah.net,UVHFS,,,,,,,,,,,,,,,,1,,,,DMR-UTAH,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3      English  1  13  PTT    Data  1  100      DMRX 1  1  8001      Utah Statewide 2  1  13149      Local/Cluster  2  2      TAC 310  2  310  PTT    TAC 311  2  311  PTT    USA  2  1776  PTT    Utah  2  3149      Mountain Reg USA  2  3177      PA (PA-525)   2  3185  PTT    Hytera USA  2  4639  PTT    SNARS  2  6968  PTT    Parrott  2  9998  PTT    Audio Test  2  9999  PTT    All TG's Off  2  111111  PTT    All TG's On  2  222222  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,,,,,,,,,,,,,,,,
+447.75,-5,100,WD7P,West Jordan,UT,OPEN,,179.3,NW,,447.75,442.75,100,Salt Lake,,,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.325,-5,114.8,N7UEO,Pleasant Grove,UT,OPEN,,179.5,NW,,449.325,444.325,114.8,Utah,On-Air,Utah County from Alpine to Payson.,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.25,-5,100,KE7LMG,"Murray, Intermountain Medical Center",UT,OPEN,,179.6,NW,,447.25,442.25,100,Salt Lake,,Wide area.,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.15,-0.6,,KO7SLC,"Murray, Intermountain Med Ctr",UT,OPEN,,179.6,NW,,145.15,144.55,,Salt Lake,On-Air,Salt Lake County,Salt Lake County ARES,"E-power, linked to 1298.180 (DV) High Speed Data.",http://www.slcoares.net/,,,,,146.7,ARRL,,"Full-time to  
+        447.95000 (KO7SLC) at Murray, Intermountain Med Ctr, UT .",,KO7SLC (C) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.95,-5,,KO7SLC,"Murray, Intermountain Med Ctr",UT,OPEN,,179.6,NW,,447.95,442.95,,Salt Lake,On-Air,Salt Lake county.,Salt Lake County ARES,"E-power, linked to 1298.180 (DV) High Speed Data.",http://www.slcoares.net/,,,"No Internet or gateway functions available, yet.",,146.7,,,"Full-time to  
+        145.15000 (KO7SLC) at Murray, Intermountain Med Ctr, UT .",,KO7SLC (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1298.75,-20,,KO7SLC,"Murray, Intermountain Med Ctr",UT,OPEN,,179.6,NW,,1298.75,1278.75,,Salt Lake,On-Air,Salt Lake County,Salt Lake County ARES,"E-power, linked to 1298.180 (DV) High Speed Data.",http://www.slcoares.net/,,,,,146.7,ARRL,,,,KO7SLC (A) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.35,-0.6,100,NM7P,Murray,UT,OPEN,,179.7,NW,,145.35,144.75,100,Salt Lake,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.78,-1.6,100,KD0J,"Salt Lake City, Jordan Vly Hospital",UT,OPEN,,180,NW,,224.78,223.18,100,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper.,,5,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.25,-5,118.8,N7HRC,"Herriman, High School",UT,OPEN,,180,NW,,449.25,444.25,118.8,Salt Lake,On-Air,,Herriman Amateur Radio Club,,,UVHFS,,,,Emergency Communications Net: Sun at 21:00.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.84,-0.6,,N7PCE,"Salt Lake City, Jordan Vly Hospital",UT,OPEN,,180,NW,,146.84,146.24,,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper.,Salt Lake Co ARES,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.125,-5,100,N7HIW,Murray,UT,OPEN,,180.3,NW,,448.125,443.125,100,Salt Lake,,Salt Lake Valley communities from Salt Lake City to Draper.,,,,UVHFS,,4,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1292.3,-20,,KF5VBD,"Bloomfield, Harris Mesa",NM,CLOSED,,180.7,SSE,,1292.3,1272.3,,San Juan,On-Air,,San Juan County,,,NMFCC,,,,,,,,,KF5VBD (A) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.5,5,123,N7ABC,Rock Springs,WY,OPEN,,180.8,N,,444.5,449.5,123,Sweetwater,On-Air,,Sweetwater ARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.26,0.6,,N7WPF,Hinckley,UT,OPEN,,180.9,W,,147.26,147.86,,Millard,Off-Air,West-central Utah around Delta.,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.655,-0.6,107.2,KE7UUJ,"Rock Springs, Aspen Mountain",WY,OPEN,E,181,N,,146.655,146.055,107.2,Sweetwater,On-Air,Wide area. 100 mi radius.,Sweetwater Amateur Radio Club,,http://wy7u.angelfire.com,,,Sweetwater Amateur Radio Club uses this repeater pair for ARES/RACES use on both analog and d-star at different times.,107.2,,,,,,,,,865361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+448.025,-5,123,K7DRA,"Rock Springs, Aspen Mtn",WY,OPEN,,181,N,,448.025,443.025,123,Sweetwater,On-Air,Wide area.,DRAWZM Communications,,,,,,,,Mountain West Radio Group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+145.205,-0.6,123,K7DRA,"Rock Springs, Aspen Mtn",WY,OPEN,W,181,N,,145.205,144.605,123,Sweetwater,On-Air,"Rock Springs, Green River and Sweetwater County",,,http://alcomdra.com,,,,,,Mountain West Radio Group Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,21322,,,,,,
+447.1125,-5,CC11,K7DRA,Rock Springs,WY,OPEN,,181,N,,447.1125,442.1125,,Sweetwater,On-Air,Rock Springs,,,,WRCG,,,,,,,,,,,,,,,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.875,-5,CC1 123.0,KF7OBL,Rock Springs,WY,OPEN,,181,N,,448.875,443.875,123,Sweetwater,On-Air,,DRAWZM Communications,,,,,,,,West Mountain Radio Group,,,,,,,,,,,1,,,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1      North America  1  3      English  1  13      Local/Cluster  2  2      Mountain Reg USA  2  3177    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,,,,2,,,,,2,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,,,
+147.3,0.6,,KF7OBL,Rock Springs,WY,OPEN,,181,N,,147.3,147.9,,Sweetwater,On-Air,Wide Area Coverage,KF7OBL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.7,-5,100,KF7YXL,"South Salt Lake City, Fire Station 43",UT,OPEN,,181.1,NW,,447.7,442.7,100,Salt Lake,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446.8125,-5,CC0,N0SZ,"Salida, Methodist Mountain",CO,OPEN,,181.5,ESE,,446.8125,441.8125,,Chaffee,On-Air,,RMHAM,,,,,,,,,,,,,,,,,,,0,,,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700      Southern Colorado  2  719    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446.975,-5,,KD0QPG,"Salida, Methodist Mountain",CO,OPEN,,181.5,ESE,,446.975,441.975,,Chaffee,On-Air,,Crestone Amateur Radio Emergency Services,,KD0QPG,CCARC,,,,,Crestone Amateur Radio Emergency Services,,,,KD0QPG (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.925,-5,103.5,WZ0N,"Salida, Methodist Mountain",CO,OPEN,,181.6,ESE,,449.925,444.925,103.5,Chaffee,On-Air,"Upper Arkansas and Platte Rivers, and the SLV",,E-power (Bat),,CCARC,,Identifies with an 'M' following WZ0N callsign which identifies the site as Methodist.,103.5,,Colorado ARES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.65,-5,107.2,KC0CVU,"Salida, Methodist Mountain",CO,OPEN,,181.6,ESE,,449.65,444.65,107.2,Chaffee,On-Air,Wide area.,,E-power.,CMRG Repeaters,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.95,-5,100,W7EO,"Vernon,  Vernon Hills",UT,OPEN,,181.7,WNW,,449.95,444.95,100,Tooele,,Tooele Valley and communities from Grantsville down toward Vernon.,"Tooele County ARES, West Desert ARC",5,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.285,0.6,88.5,KB0VJJ,"Salida, Methodist Mountain",CO,OPEN,,181.9,ESE,,147.285,147.885,88.5,Chaffee,On-Air,"Wide area: South Park, Gunnison, Pueblo, and the San Luis Valley south to New Mexico. At extremes, it has been worked from east of Montrose and Blue Mesa Resevoir, on Fremont Pass near Climax, in and around Bailey on U.S. 285, and south toward Trinidad on Interstate 25.",Colorado Connection,11,,CCARC,,,123,"Central Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net (All Welcome): Thu at 20:00. 
+Statewide ARES Net: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.295,-0.6,107.2,KC0CVU,"Salida, Methodist Mountain",CO,OPEN,,181.9,ESE,,145.295,144.695,107.2,Chaffee,On-Air,Wide area.,Cheyenne Mtn Repeater Group,,CMRG Repeaters,CCARC,,,,,,,,,,,,,,,,,,,DM78ik,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445.0875,-5,CC7,N0SZ,"Breckenridge, Baldy",CO,OPEN,,182,E,,445.0875,440.0875,,Fremont,On-Air,,K2AD,,http://www.rmham.org/,,,,,,Rocky Mountain Ham Radio,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.975,-5,100,K0JSC,"Salida, Methodist Mountain",CO,OPEN,EIA,182.1,ESE,,449.975,444.975,100,Chaffee,On-Air,I-25 from Walsenburg to Wyoming and US-50 from La junta to Monarch Pass,,2,K0JSC.COM,CCARC,,Can be linked to various local repeater systems via the remote base. Echolink/IRLP connects restricted. Email me to be added to the authorized list.,100,"APRS Net: Sun at 19:00. 
+Region 5 District 2 ARES Net: Sun at 19:30. 
+Statewide ARES Net: Sun at 20:00. 
+Region 5 District 1 ARES Net: Mon at 19:00. 
+RGARC Net: Wed at 19:00.",,7301,Full-time to the  The Fun Machine System .,,,,,363976,28368,,,,,,DM68xk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.575,-5,103.5,WZ0N,Hartsel,CO,OPEN,,182.2,ESE,,448.575,443.575,103.5,Park,Off-Air,Western Park County,,,,CCARC,,,103.5,,,,"Full-time internet linked to  
+        146.89500 (AB0PC) at Bailey, Dick Mountain, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.39,0.6,88.5,KB0VJJ,"Breckenridge, Bald Mountain",CO,OPEN,,182.4,E,,147.39,147.99,88.5,Summit,On-Air,Wide area.,Colorado Connection,12,Breckenridge Repeater,CCARC,,"Please Note that 146.790 is the old Breckenridge frequency and this repeater may return to that frequency eventually but is now working on 147.390-.  This machine has a split tone, 88.5 rx and 123.0 tx",123,"Central Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net (all welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.74,-0.6,114.8,KD7NX,"Salt Lake City,  U of U Hospital",UT,OPEN,,182.5,NW,,146.74,146.14,114.8,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper.,Mercury ARA,4,,UVHFS,,,,MARA: Wed at 2100.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.1,-5,114.8,KD7NX,"Salt Lake City,  U of U Hospital",UT,OPEN,,182.5,NW,,448.1,443.1,114.8,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper. Utah County from Alpine to Payson.,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,88.5,KD0J,"Salt Lake City, SLCC",UT,OPEN,,182.7,NW,,146.88,146.28,88.5,Salt Lake,On-Air,"Salt Lake Valley communities from Salt Lake City to Draper. 
+North Salt Lake to South Ogden.",Utah VHF Society,,http://www.slcoares.net/,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.19,-0.6,123,W7IHC,"Salt Lake City, Intermountain Ridge",UT,OPEN,,182.7,NW,,145.19,144.59,123,Salt Lake,On-Air,Wide area.,IHCRC,,,UVHFS,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.1,0.6,100,KB5ITS,"Bloomfield, Harris mesa",NM,OPEN,,182.7,SSE,,147.1,147.7,100,San Juan,On-Air,,San Juan connection,,http://www.sjcham.com,NMFCC,,,,,,,Full-time to the  San Juan Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.28,0.6,67,NM5ML,"Bloomfield, Harris Mesa",NM,OPEN,,183.1,SSE,,147.28,147.88,67,San Juan,On-Air,Wide area.,,6,,NMFCC,,,,,,,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.1125,-25,D432,W7XDX,"West Jordan,  Butterfield Peak",UT,OPEN,,183.4,NW,,927.1125,902.1125,D432,Salt Lake,,Wasatch Front from Payson to Tremonton.,,9,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.14,0.6,127.3,K7MLA,"West Jordan, Butterfield Peak",UT,OPEN,I,183.4,NW,,147.14,147.74,127.3,Salt Lake,On-Air,Wide area: Wasatch Front from Payson to the Utah/Idaho border.,,9,,UVHFS,,For IRLP dial D before the node number. To disconnect dial D73.,,,,3215,"Full-time to  
+        147.24000 (K7HEN) at Coalville, Lewis Peak, UT .
+ 
+
+
+Full-time to  
+        147.16000 (WA7SNS) at Salt Lake City, Ensign Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.725,-5,151.4,WA7UAH,"West Jordan, Butterfield Pk",UT,OPEN,,183.5,NW,,449.725,444.725,151.4,Salt Lake,On-Air,Wide area: Wasatch Front from Payson to the Utah/Idaho border.,ERC Repeater System,9,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.45,-0.6,100,WA7UAH,"West Jordan, Butterfield Peak",UT,OPEN,,183.5,NW,,145.45,144.85,100,Salt Lake,On-Air,Wide area: Wasatch Front from Payson to the Utah/Idaho border.,ERC Repeater System,9,,UVHFS,,,CSQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.7,5,123,K7DRA,Rock Springs,WY,OPEN,EW,183.8,N,,444.7,449.7,123,Sweetwater,On-Air,Rock Springs,,,,,,,CSQ,,Mountain West Radio Group,,,,,,,824055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.175,-5,,W7SAR,Salt Lake City,UT,OPEN,,183.9,NW,,447.175,442.175,,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper.,,Portable.,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.65,-5,167.9,AC7II,"Salt Lake City, Mt Pisgah",UT,OPEN,,184.1,NW,,449.65,444.65,167.9,Salt Lake,,Salt Lake Valley communities from Salt Lake City to Draper.,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.5875,-25,D432,W7XDX,Salt Lake City,UT,OPEN,,184.1,NW,,927.5875,902.5875,D432,Salt Lake,,Wasatch Front from Payson to Tremonton.,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.75,-5,151.4,KA7OEI,Salt Lake City,UT,OPEN,,184.1,NW,,449.75,444.75,151.4,Salt Lake,,,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.86,-0.6,100,K7JL,"Evanston, Medicine Butte",WY,OPEN,,184.3,NNW,,146.86,146.26,100,Uinta,On-Air,Wide area: Southwestern Wyoming including Kemmerer and Evanston.,Utah VHF Society,,http://www.utahvhfs.org/snowlink.html,WRCG,,8,,Utah VHF Society Tuesday: 20:00,Intermountain Intertie,,"Full-time to  
+        147.18000 (K7JL) at Snowbird, Hidden Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.425,-5,100,WD7SL,"Salt Lake City, LDS HQ",UT,OPEN,I,184.5,NW,,448.425,443.425,100,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper.,ERC,,,UVHFS,,,,,,3837,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448,-5,100,W7DES,"Salt Lake City,  Capitol",UT,OPEN,,184.7,NW,,448,443,100,Salt Lake,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.06,0.6,,W7DES,"Salt Lake City, Capitol",UT,OPEN,,184.7,NW,,147.06,147.66,,Salt Lake,Off-Air,Salt Lake Valley communities from Salt Lake City to Draper.,Utah VHF Society,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.21,-0.6,CSQ,AA7JR,"Salt Lake City, Capitol",UT,OPEN,,184.8,NW,,145.21,144.61,CSQ,Salt Lake,,Salt Lake Valley communities from Salt Lake City to Draper.,Utah VHF Society,Autopatch.,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.525,-5,107.2,K2NWS,"Kearns,  Bacchus Hill",UT,OPEN,,184.9,NW,,447.525,442.525,107.2,Salt Lake,On-Air,Salt Lake Valley communities from Draper to north Davis County,KF6RAL,5,,UVHFS,,National Weather Service Alerts,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446.7625,-5,CC0,N0SZ,"Fairplay, Badger",CO,OPEN,,185.3,ESE,,446.7625,441.7625,,Park,On-Air,,K7PFJ,,,,,,,,RMHAM,,,,,,,,,,,0,,,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700      Denver Regional  2  720    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,
+448.975,-5,,WA7GIE,"Vernon, Black Crook Peak",UT,CLOSED,,185.4,WNW,,448.975,443.975,,Tooele,Off-Air,Wide area: Tooele Valley and communities from Grantsville down toward Vernon.,Desert ARS,9,,UVHFS,,,,,Cactus-Intertie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.39,-0.6,100,W7EO,"Vernon, Black Crook Peak",UT,OPEN,,185.4,WNW,,145.39,144.79,100,Tooele,On-Air,West-central Utah around Delta. Tooele Valley and communities from Grantsville down toward Vernon.,"Tooele County ARES, West Desert ARC","Autopatch, 9,274'.",,UVHFS,,,,,,,"Full-time to  
+        146.98000 (W7EO) at Tooele, Black Mountain, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.525,-5,100,K7XRD,"Salt Lake City, Ensign Peak",UT,OPEN,,185.8,NW,,448.525,443.525,,Salt Lake,On-Air,Salt Lake Valley,SL Crossroads ARC,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+146.7,-0.6,100,KC7IIB,"Salt Lake City, Ensign Peak",UT,OPEN,,186.2,NW,,146.7,146.1,100,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper. North Salt Lake to South Ogden.,Salt Lake Co ARES,"E-power, 5,911'.",http://www.slcoares.net/,UVHFS,,,,Weekly Net: Wed at 20:30 except 4th Wednesday.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.45,-5,100,KC7IIB,"Salt Lake City, Ensign Peak",UT,OPEN,,186.2,NW,,448.45,443.45,100,Salt Lake,On-Air,,Salt Lake Co ARES,,,UVHFS,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.16,0.6,127.3,WA7SNS,"Salt Lake City, Ensign Peak",UT,OPEN,,186.2,NW,,147.16,147.76,127.3,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper.,,"Autopatch, 5,800', linked to (147.240).",,UVHFS,,,,,,,"Full-time to  
+        147.14000 (K7MLA) at West Jordan, Butterfield Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.275,-5,88.5,K7OJU,"Salt Lake City,  Ensign Peak",UT,OPEN,I,186.2,NW,,449.275,444.275,88.5,Salt Lake,On-Air,Wide area: Salt Lake Valley communities from Salt Lake City to Draper.,,Linked.,,UVHFS,,,,,,3407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.9,-5,100,KD0J,"Salt Lake City, Ensign Peak",UT,OPEN,,186.2,NW,,449.9,444.9,100,Salt Lake,,Salt Lake Valley communities from Salt Lake City to Draper.,Salt Lake Co ARES,,http://utahvhfs.org,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.4,-5,100,K7JL,"Salt Lake City, Ensign Peak",UT,OPEN,,186.3,NW,,449.4,444.4,100,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper. 50 mi radius.,K7JL,2,http://www.utahvhfs.org/snowlink.html,UVHFS,,5,,UVHFS Net: Tue at 20:00.,Intermountain Intertie,,Full-time to the  Intermountain Intertie System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.55,-5,100,W7IHC,"Salt Lake City,  IHC",UT,OPEN,I,186.3,NW,,448.55,443.55,100,Salt Lake,On-Air,,IHCRC,,,UVHFS,,,,,,3078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.175,-5,203.5,KD7IMS,"Salt Lake City,  Ensign Peak",UT,OPEN,,186.3,NW,,448.175,443.175,203.5,Salt Lake,,Wide area: Salt Lake Valley communities from Salt Lake City to Draper.,N7HIW,5,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.82,-1.6,167.9,WB6CDN,"Salt Lake City, Meridian Peak",UT,OPEN,,186.5,NW,,224.82,223.22,167.9,Salt Lake,On-Air,Wide area: Salt Lake Valley communities from Salt Lake City to Draper.,Intermountain Repeater Emergency Amateur Network,"Autopatch, remote base, 6,400'. e-power, link to law enforcement.",,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.05,-5,100,K7CSW,"Salt Lake City, SLC",UT,OPEN,,187.2,NW,,448.05,443.05,100,Salt Lake,On-Air,Salt Lake Valley communities from Salt Lake City to Draper. North Salt Lake to South Ogden,Salt Lake Peaks ARC,4,,UVHFS,,,,"CSW Net, Mon-Thur, 7:05am",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.025,-5,100,W0HU,Salt Lake City,UT,OPEN,,187.3,NW,,447.025,442.025,100,Salt Lake,On-Air,Wide area.,Salt Lake Co ARES,4,,UVHFS,,,,,,,,,,,,,,,,,,,DN40as,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.925,-5,100,K7DAV,"Bountiful,  golf course",UT,OPEN,,187.4,NW,,449.925,444.925,,Davis,On-Air,Wide area: North Salt Lake to South Ogden.,Davis Co ARC,"Remote base, e-power.",http://www.dcarc.net,UVHFS,,5,,DARC: Thu at 20:30.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+927.3125,-25,127.3,NU7X,North Salt Lake,UT,OPEN,,188.8,NW,,927.3125,902.3125,127.3,Davis,Off-Air,Wasatch Front from Payson to Tremonton.,Davis Co ARC,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.43,-0.6,136.5,NM5SJ,Dulce,NM,OPEN,,189.2,SE,,145.43,144.83,136.5,Rio Arriba,On-Air,,SJC EMCOMM,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.38,0.6,,WA7GIE,"Salt Lake City, Nelson Peak",UT,OPEN,,189.8,NW,,147.38,147.98,,Salt Lake,Off-Air,Wasatch Front from Payson to Tremonton. Interstate 80 corridor west of the Wasatch Front to the Nevada border. Tooele Valley and communities from Grantsville down toward Vernon. West Desert areas around Dugway and into Wendover and areas generally to the north and west of the Great Salt Lake.,,9,,UVHFS,,,,,,,,,WA7GIE (C),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.425,-5,100,WA7GIE,"Salt Lake City, Nelson Peak",UT,OPEN,I,189.9,NW,,449.425,444.425,100,Salt Lake,On-Air,Wide area: Salt Lake Valley communities from Salt Lake City to Draper.,,9,,UVHFS,,,,,,5620,"Full-time to  
+        449.55000 (WA7GIE) at Wendover, Wendover Peak, UT .
+ 
+
+
+Full-time to  
+        449.47500 (WA7GIE) at Provo, Lake Mountain, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+433.6,-5,100,WA7GIE,"Salt Lake City,  Nelson Peak",UT,CLOSED,,189.9,NW,,433.6,428.6,100,Tooele,On-Air,Wasatch Front from Payson to Tremonton.,,9,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,-5,,WA7GIE,"Salt Lake City, Nelson Peak",UT,CLOSED,,189.9,NW,,449,444,,Salt Lake,On-Air,Wide area: Utah County from Alpine to Payson. Salt Lake Valley communities from Salt Lake City to Draper. North Salt Lake to South Ogden.,Desert ARS,9,,UVHFS,,,,,Cactus-Intertie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.725,-5,,WA7GIE,"Salt Lake City, Nelson Peak",UT,OPEN,,189.9,NW,,448.725,443.725,,Salt Lake,,Wasatch Front from Payson to Tremonton. Interstate 80 corridor west of the Wasatch Front to the Nevada border. Tooele Valley and communities from Grantsville down toward Vernon. West Desert areas around Dugway and into Wendover and areas generally to the north and west of the Great Salt Lake.,,9,,UVHFS,,,,,,,,,WA7GIE (B),"jfindu lookup 
+    /   dstar-users lookup",Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.35,-5,123,W7CWK,Bountiful,UT,OPEN,,189.9,NW,,449.35,444.35,123,Davis,On-Air,North Salt Lake to South Ogden,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.475,-5,,KI7BER,Rock Springs,WY,OPEN,,190.2,N,,449.475,444.475,,Sweetwater,On-Air,Rock Springs / Green River an Interstate 80 from mile post 110 to 38.,K7DRA,,http://www.alcomdra.com,,,,,,Mountain West Radio Group Wyoming,,,,KI7BER (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.425,5,192.8,KD7RTO,"Bountiful,  QTH",UT,OPEN,,190.7,NW,,447.425,452.425,192.8,Davis,On-Air,,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.1,0.6,123,KB7ZCL,"Morgan, TV Site.",UT,OPEN,,191.7,NW,,147.1,147.7,123,Morgan,On-Air,City of Morgan and surrounding communities.,,,,UVHFS,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+448.4,-5,,W7IHC,"Salt Lake City, Intermountain Ridge",UT,OPEN,I,192.1,NW,,448.4,443.4,,Salt Lake,On-Air,Wide area.,IHC.,9,,UVHFS,,,,,,3407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.5,-5,100,K7JL,"Salt Lake City,  Farnsworth Peak",UT,OPEN,,192.3,NW,,449.5,444.5,100,Salt Lake,On-Air,Wide area: Wasatch Front from Payson to Tremonton. Interstate 80 corridor west of the Wasatch Front to the Nevada border. Tooele Valley and communities from Grantsville down toward Vernon. West Desert areas around Dugway and into Wendover and areas generally to the north and west of the Great Salt Lake.,K7JL,9,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.15,-1,146.2,KI7DX,"Salt Lake City, Farnsworth Peak",UT,OPEN,,192.3,NW,,53.15,52.15,146.2,Salt Lake,On-Air,"Wide area: Salt Lake Valley communities from Salt Lake City to Draper. Utah County from Alpine to Payson. Tooele Valley and communities from Grantsville down toward Vernon. Interstate 80 corridor west of the Wasatch Front to the Nevada border. South Davis County, from North Salt Lake to Farmington.",WA7X,9,http://www.wa7x.com/ki7dx_rpt.html,UVHFS,,,,,,,"Full-time to  
+        448.15000 (KI7DX) at Salt Lake City, Farnsworth Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,100,K7JL,"Salt Lake City, Farnsworth Peak",UT,OPEN,,192.3,NW,,147.12,147.72,100,Salt Lake,On-Air,Wide area: Wasatch Front from Payson to Tremonton.  I-80 corridor west of the Wasatch Front to the Nevada border.  Tooele Valley and communities from Grantsville down toward Vernon.  West Desert areas around Dugway and into Wendover and areas generally to the north and west of the Great Salt Lake.,K7JL,E-power.,http://www.utahvhfs.org/snowlink.html,UVHFS,,9,,VHF Society Net: Tue at 20:00.,Intermountain Intertie,,"Full-time to  
+        146.94000 (WR7AAA) at Milford, Frisco Peak, UT .
+ 
+
+
+Full-time to  
+        147.18000 (K7JL) at Snowbird, Hidden Peak, UT .
+ 
+
+
+Full-time to  
+        147.02000 (K7OGM) at Laketown, Bear Lake, UT .
+ 
+
+
+Full-time to the  Intermountain Intertie System .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.125,-0.6,,KF6RAL,"Salt Lake City, Farnsworth Peak",UT,OPEN,,192.3,NW,,145.125,144.525,,Salt Lake,On-Air,"Wide area: South to Nephi, North to Malad, East to Evanston, West to Wendover.",Utah VHF Society,,,UVHFS,,,,,,,,,KF6RAL (C) Gateway,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.62,-0.6,,W7SP,"Salt Lake City, Farnsworth Peak",UT,OPEN,,192.3,NW,,146.62,146.02,,Salt Lake,On-Air,Wide area: Wasatch Front from Payson to Tremonton.  Tooele Valley and communities from Grantsville down toward Vernon.  Interstate 80 corridor west of the Wasatch Front to the Nevada border.  West Desert areas around Dugway and into Wendover and areas generally to the north and west of the Great Salt Lake.,Utah ARC,E-power.,,UVHFS,,,,UARC: Sun at 21:00.,,,,,,,,,,Synchroneous.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1287,-20,,KF6RAL,"Salt Lake City, Farnsworth Peak",UT,OPEN,,192.3,NW,,1287,1267,,Salt Lake,On-Air,"Wide Area: South to Nephi, North to Malad, Idaho, East to Evanston, Wyoming and West to Wendover.",Utah VHF Society,,,UVHFS,,,,,,,,,KF6RAL (A) Gateway,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.075,-5,,KF6RAL,"Salt Lake City,  Farnsworth Peak",UT,OPEN,,192.3,NW,,448.075,443.075,,Salt Lake,On-Air,"South to Nephi, North to Malad, East to Evanston, Wyoming and West to Wendover.",Utah VHF Society,,,UVHFS,,,,,,,,,KF6RAL (B),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.15,-5,127.3,KI7DX,"Salt Lake City, Farnsworth Peak",UT,OPEN,,192.4,NW,,448.15,443.15,127.3,Salt Lake,On-Air,Wide area: Salt Lake Valley communities from Salt Lake City to Draper. Utah County from Alpine to Payson.,WA7X,9,,UVHFS,,,,,,,"Full-time to  
+        53.15000 (KI7DX) at Salt Lake City, Farnsworth Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.15,-5,100,K7JL,"Salt Lake City, Farnsworth Peak",UT,OPEN,,192.4,NW,,449.15,444.15,100,Salt Lake,On-Air,"Wide area: Salt Lake, Ogden, Provo, Tooele and beyond.",K7JL,,,UVHFS,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+146.94,-0.6,88.5,WA7VHF,"Salt Lake City, Farnsworth Peak",UT,OPEN,,192.4,NW,,146.94,146.34,88.5,Salt Lake,On-Air,Wide area: Utah County from Alpine to Payson. Salt Lake Valley communities from Salt Lake City to Draper. North Salt Lake to South Ogden. I-15 and I-80 Coverage,Utah VHF Society,E-power.,,UVHFS,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+448.85,-5,,W7YDO,"Magna,  Kessler Peak",UT,CLOSED,,193,NW,,448.85,443.85,,Salt Lake,On-Air,Wide area: Salt Lake Valley communities from Salt Lake City to Draper.,,8,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.1,-5,77,N0KM,Center,CO,OPEN,,193,SE,,447.1,442.1,77,Saguache,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,77,N0KM,Center,CO,OPEN,A,193.2,SE,,146.64,146.04,77,Rio Grande,On-Air,Low level local coverage,,,,,,,77,,,,,,,,,,28781,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.35,-5,100,W7EO,"Tooele,  South Mountain",UT,OPEN,,193.7,WNW,,449.35,444.35,100,Tooele,On-Air,Tooele Valley and communities from Grantsville down toward Vernon.,"Tooele Co ARS, West Desert ARC",,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,100,W7EO,"Tooele, South Mountain",UT,OPEN,,193.7,WNW,,147.3,147.9,100,Tooele,On-Air,Wasatch Front from Payson to the Utah/Idaho border.,West Desert ARC,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.16,-0.6,88.5,KB0VJJ,"Walden, Peterson Ridge",CO,OPEN,,194.4,NE,,145.16,144.56,88.5,Jackson,On-Air,"North Park, along with portions of I-80 from Laramie, Wyoming, to Rock Springs, Wyoming.",Colorado Connection,8,,CCARC,,Part of the Colorado Connection system of repeaters.,123,"Central Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net (all welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.96,-0.6,100,K7MLA,"Layton,  Francis Peak",UT,OPEN,,194.7,NW,,146.96,146.36,100,Davis,On-Air,Wasatch Front from Ogden to the Utah/Idaho border. Ogden and South Ogden area. North Salt Lake to South Ogden.,ERC,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.875,-5,D051,K7DAV,"Layton,  Shepard Peak",UT,OPEN,,194.7,NW,,449.875,444.875,D051,Davis,On-Air,"Wide area: Salt Lake, David, Weber, Morgan Counties",K7UHP,9,,UVHFS,,,D051,,DCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+53.01,-1,141.3,K7DAV,"Farmington,  Shepard Peak",UT,OPEN,,194.7,NW,,53.01,52.01,141.3,Davis,Off-Air,"Davis, Morgan, Weber Counties and North Salt Lake",K7DAV,9,,UVHFS,,"New antenna installed 9/17/2016. Replaced broken antenna, replaced duplexer 9/2/2017",141.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.35,-0.6,123,W6DZL,Bryce Canyon,UT,OPEN,,194.8,WSW,,145.35,144.75,123,Garfield,On-Air,"Wide Area: Covers much of south-central Utah and parts of northern Arizona from Page, Arizona on the east to Zion National Park on the west.",,Emergency Power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,123,KA0YDW,Granby,CO,OPEN,,196,E,,146.82,146.22,123,Grand,,,GCARA,E-power.,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446.875,-5,CC,K7PFJ,"Granby, Mt Chauncey",CO,OPEN,,196,E,,446.875,441.875,,Clear Creek,On-Air,,,,http://www.rmham.org,,,,,,RMHAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.6,-5,136.5,AI7J,"Layton,  Kaysville Peak",UT,OPEN,,196.2,NW,,449.6,444.6,136.5,Weber,On-Air,Wide area: Wasatch Front from Ogden to the Utah/Idaho border.,,9,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.68,-0.6,123,N7JSQ,"Huntsville, Herd Mountain",UT,OPEN,,196.7,NW,,146.68,146.08,123,Morgan,On-Air,"Wide area: City of Morgan and surrounding communities, southern Bear Lake.","Amateur Radio, Inc","Autopatch, linked to (145.490).",,UVHFS,,,CSQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.7,-5,100,K7DOU,"West Kaysville,  sewer plant",UT,OPEN,,198.8,NW,,449.7,444.7,,Davis,On-Air,Wasatch Front from North Salt Lake to the Utah/Idaho border.,Davis Co ARC,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+447.45,-5,103.5,WA4CCC,Winter Park,CO,OPEN,,199.8,E,,447.45,442.45,103.5,Grand,On-Air,,W0IG,,,CCARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.285,0.6,88.5,KB0VJJ,"Winter Park, Winter Park",CO,OPEN,,200.1,E,,147.285,147.885,88.5,Grand,On-Air,,Colorado Connection,,,CCARC,,,123,,,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.25,-5,100,AI7J,Layton,UT,OPEN,,200.3,NW,,449.25,444.25,100,Davis,Off-Air,,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.05,-5,114.8,AH2S,Layton,UT,OPEN,IA,201.3,NW,,447.05,442.05,114.8,Davis,On-Air,,,"IRLP, Allstar",,UVHFS,,,,,,3515,,,,,,,28463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.21,-0.6,123,W7DBA,Huntsville,UT,OPEN,,204.1,NW,,145.21,144.61,123,Weber,,City of Morgan and surrounding communities.,,4,http://w7dba.hopto.org/,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.025,-5,123,W7DBA,Huntsville,UT,OPEN,I,204.1,NW,,448.025,443.025,123,Weber,On-Air,,,,,UVHFS,,,,,,3211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,107.2,KC0CVU,"Lake George, Badger Mountain",CO,OPEN,I,204.5,ESE,,147.36,147.96,107.2,Park,On-Air,Wide area.,,E-power.,CMRG Repeaters,CCARC,,,107.2,,,3854,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.685,-0.6,107.2,NX0G,"Lake George, Badger Mountain",CO,OPEN,,204.5,ESE,,146.685,146.085,107.2,Park,On-Air,,Mountain ARC (MARC),"Closed autopatch, e-power.",,CCARC,,,107.2,MARC/PCRC: Tue at 19:30.,,,"Full-time to  
+        146.82000 (NX0G) at Woodland Park, CO .
+ 
+
+
+Full-time to  
+        448.65000 (NX0G) at Woodland Park, CO .
+ 
+
+
+Full-time to  
+        447.47500 (NX0G) at Colorado Springs, CO .
+ 
+
+
+Full-time to  
+        147.01500 (NX0G) at Cripple Creek, CO .",,,,,,,Autopatch: 911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.9,-0.6,D122,W7SU,"Ogden, Mt Ogden",UT,OPEN,,205.1,NW,,146.9,146.3,D122,Weber,On-Air,"Huntsville to West desert, Salt Lake to Idaho border",OARC / VHFS,,http://www.ogdenarc.org,UVHFS,,C4FM Yaesu Fusion repeater digital and analog FM,D122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+448.6,-5,123,W7SU,"Ogden, Mt Ogden",UT,OPEN,,205.1,NW,,448.6,443.6,123,Weber,On-Air,"Ogden, Salt Lake city, Huntsville, west toward Nevada, north to Idaho",Ogden ARC,9,http://www.ogdenarc.org/,UVHFS,,"C4FM Yaesu fusion, digital and analog FM repeater",123,Weber Co ARES: Tue at 20:00.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+224.96,-1.6,,NJ7J,Syracuse,UT,OPEN,,205.2,NW,,224.96,223.36,,Davis,,Wasatch Front from Ogden to the Utah/Idaho border. Ogden and South Ogden area. North Salt Lake to South Ogden.,,4,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.825,-5,,KA7SHX,"Kemmerer, Quealy Peak",WY,OPEN,,205.2,NNW,,449.825,444.825,,Lincoln,,,ORARC,,,WRCG,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.075,-5,,KF7EHE,Kemmerer,WY,OPEN,,205.3,NNW,,449.075,444.075,,Lincoln,Off-Air,,,220,,,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.95,-5,123,NJ7J,"Clearfield,  civic center",UT,OPEN,I,205.8,NW,,449.95,444.95,123,Davis,On-Air,Ogden and South Ogden area.,City of Clearfield.,4,,UVHFS,,,,,,3876,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.15,-5,114.8,KR7K,Clearfield,UT,OPEN,I,205.8,NW,,447.15,442.15,114.8,Davis,On-Air,North Salt Lake to Tremonton.,,,,UVHFS,,,114.8,,,3607,,,,,,,,IRLP: No special access codes.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.825,-5,123,K0NOD,"Clearfield,  city office",UT,OPEN,EI,205.9,NW,,448.825,443.825,123,Davis,Off-Air,Wasatch Front from North Salt Lake to the Utah/Idaho border.,Community Service Emergency Radio Grp,4,,UVHFS,,,,,,4654,,,,,,332144,,"- MUST PROCEED ALL IRLP COMMANDS WITH ""B""   -- Use Bxxxx (where xxxx is desired IRLP node number) to connect to another IRLP node  -- e.g. use B9250 to connect to Western Reflector    - MUST PROCEED ALL EchoLink COMMANDS WITH ""BA""  -- Use BAxxxxxx (where xxxxxx is desired EchoLink node number) to connect to another EchoLink node  -- e.g. use BA263450 to connect to EchoLink node 263450     - Use B73 or 73 to disconnect from either EchoLink or IRLP     The following control codes are operable:  B00 - Current node status  B01 - Reads back last IRLP node connected  B02 - Gives info on recent incoming/outgoing IRLP calls  B03 - Current time  B04 - Connects to a random IRLP node  B05 - Connects to IRLP Western Reflector (Las Vegas, 9250)  B06 - Connects to IRLP Crossroads (Indiana) Reflector (9200)  B07 - Connects to IRLP Hurricane Net (Listen-only, 9206)  B99 - Connects to IRLP Echo Reflector (9990)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.04,0.6,123,K7DAV,"Antelope Island, Frary Peak",UT,OPEN,,206,NW,,147.04,147.64,,Davis,On-Air,Wide area: North Salt Lake to South Ogden. Wasatch Front from Ogden to the Utah/Idaho border.,Davis Co ARC /VHFS,6,http://www.dcarc.net,UVHFS,,C4FM Fusion Repeater,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+447.2,-5,127.3,K7DAV,"Antelope Island, Frary Peak",UT,OPEN,,206,NW,,447.2,442.2,127.3,Davis,On-Air,Wide area: North Salt Lake to South Ogden.,Davis Co ARC,6,,UVHFS,,,127.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+147.08,0.6,162.2,W5SF,"Chama, Overlook Mtn",NM,OPEN,,206.3,SE,,147.08,147.68,162.2,Rio Arriba,On-Air,,SFARC,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.72,-0.6,100,WB7REL,"Glendale, Spencer Bench",UT,OPEN,I,206.5,WSW,,146.72,146.12,100,Kane,On-Air,"Covers Highway 89 from Hatch to Kanab, west along Highway 14 over Cedar Mountain, and east along Highway 12 to Bryce Canyon.",Skyline,"Autopatch, linked to (146.940).",,UVHFS,,Provides a South-Central Utah link into the Skyline/Sinbad systems.,,Skyline RC VHF Net: Sunday at 2000 hrs,,3576,Full-time to the  Skyline Repeater System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.25,-0.6,123,KD7FDH,"Ogden, Weber State University",UT,OPEN,,206.7,NW,,145.25,144.65,123,Weber,On-Air,Ogden and surrounding area,Weber State University Amateur Radio Club,Autopatch.,Weber State University Amateur Radio Club,UVHFS,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.49,-0.6,123,K7HEN,"Ogden,  Promentory Pt",UT,OPEN,,206.8,NW,,145.49,144.89,123,Weber,On-Air,Wasatch Front from Ogden to the Utah/Idaho border. Ogden and South Ogden area. North Salt Lake to South Ogden.,"Amateur Radio, Inc",Autopatch.,,UVHFS,,,,MARA: Wed at 2100.,Mercury ARA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.41,-0.6,123,WB7TSQ,"Ogden,  foothills",UT,OPEN,,206.8,NW,,145.41,144.81,123,Weber,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,,N7SGV,Duck Creek Village,UT,OPEN,,207.1,WSW,,147.18,147.78,,Kane,Off-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.6625,-25,,N7SGV,Duck Creek Village,UT,OPEN,,207.1,WSW,,927.6625,902.6625,,Kane,Off-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.325,-5,,N7SGV,Duck Creek Village,UT,OPEN,,207.1,WSW,,447.325,442.325,,Kane,Off-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.09,0.6,100,KG7VVQ,"Kemmerer, Quealy Peak",WY,OPEN,,207.7,NNW,,147.09,147.69,100,Lincoln,On-Air,,,,,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.6,-5,,KJ7YE,Eden,UT,OPEN,,207.9,NW,,447.6,442.6,,Weber,,,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.075,-5,123,W7RSS,Riverdale,UT,OPEN,E,207.9,NW,,449.075,444.075,123,Weber,Off-Air,Ogden and South Ogden area.,,4,,UVHFS,,,,,,,,,,,,273460,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.5,-1.6,167.9,WB6CDN,"Ogden,  downtown",UT,OPEN,,208.1,NW,,224.5,222.9,167.9,Weber,,Ogden and South Ogden area.,Intermountain Repeater Emergency Amateur Network,Autopatch.,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.895,-0.6,100,AB0PC,"Bailey, Dick Mountain",CO,OPEN,A,208.2,ESE,,146.895,146.295,100,Park,On-Air,285,AB0RR,25,Park County Radio Club (PCRC),CCARC,,,100,Wed at 19:30.,,,"Full-time internet linked to  
+        448.57500 (WZ0N) at Hartsel, CO .",,,,,,45835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.075,-5,D051,W7WPC,"West Point, West Point City Building",UT,OPEN,,208.3,NW,,447.075,442.075,D051,Davis,On-Air,North Davis County / South Weber County,KE7OJJ,,,UVHFS,,,D051,,West Point City Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+449.075,-5,123,KC7NAT,Ogden,UT,OPEN,,208.6,NW,,449.075,444.075,123,Weber,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.275,-5,107.2,WB7TSQ,Ogden,UT,OPEN,,208.7,NW,,448.275,443.275,107.2,Weber,Off-Air,Wide area.,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.38,0.6,,WB7TSQ,Ogden,UT,OPEN,,209.3,NW,,147.38,147.98,,Weber,,Wide area: Wasatch Front from Payson to Tremonton.,,4,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1298.75,-20,,KE7EGG,"Ogden, Sheriff's Office",UT,OPEN,,209.5,NW,,1298.75,1278.75,,Weber,,,,,,UVHFS,,,,,,,,,KE7EGG (A),"jfindu lookup 
+    /   dstar-users lookup",Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.95,-5,,KE7EGG,"Ogden, Sheriff's Office",UT,OPEN,,209.5,NW,,447.95,442.95,,Weber,,,,,,UVHFS,,,,,,,,,KE7EGG (B),"jfindu lookup 
+    /   dstar-users lookup",Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.05,-5,107.2,WG0N,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.2,E,,449.05,444.05,107.2,Denver,On-Air,Wide area.,WG0N,E-power.,,CCARC,,,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,-1.6,167.9,N7TOP,"Ogden, Powder Mountain",UT,OPEN,,210.2,NW,,224,222.4,167.9,Weber,,Wide area: Cache and Morgan valleys.,Intermountain Repeater Emergency Amateur Network,Remote base.,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.47,-0.6,123,KC7SUM,"Ogden, Powder Mountain",UT,OPEN,,210.2,NW,,145.47,144.87,123,Weber,On-Air,Wide area: Cache and Morgan valleys.,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.775,-5,123,N7TOP,"Ogden,  Powder Mountain",UT,OPEN,,210.2,NW,,447.775,442.775,123,Weber,On-Air,Wide area: Cache and Morgan valleys.,,Linked.,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.575,-5,107.2,W0CRA,"Idaho Springs, Squaw Mountain",CO,OPEN,EI,210.4,E,,447.575,442.575,107.2,Clear Creek,On-Air,Wide area: Denver metro.,Colorado Repeater Association (CRA),,http://www.w0cra.org,CCARC,,,107.2,,,3291,,,,,,347088,,Member-only IRLP and Echolink node,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.225,-5,141.3,N0SZ,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.4,E,,448.225,443.225,141.3,Clear Creek,On-Air,,Rocky Mountain Ham Radio,E-power(gen).,,CCARC,,,141.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.67,-0.6,100,KB0UDD,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.4,E,,146.67,146.07,100,Clear Creek,On-Air,"North to Cheyenne, Wy - East to Limon, Co - South to Colorado Springs, Co and West to the Continental Divide.",Castle Rock Repeater Group,11,,CCARC,,,100,CRRG/QCWA: Sun at 0930. Southern Metro LDS Ham Group: Sun at 1900. ARES23: Thu at 1930. ARES13: Sun at 2000.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.45,-5,103.5,K1DUN,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.4,E,,449.45,444.45,103.5,Clear Creek,On-Air,"Wide area: West to the Continental Divide, south to
+Colorado Springs, east to Limon, and north to Cheyenne.",Rocky Mountain Radio League,11,Repeater,CCARC,,,127.3,RMRL: Mon at 20:30.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.145,-0.6,107.2,W0CRA,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.4,E,,145.145,144.545,107.2,Clear Creek,On-Air,Wide area. Denver metro.,Colorado Repeater Assoc,E-power.,http://www.w0cra.org/info/squaw.html#145145,CCARC,,,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.35,-5,100,W0TX,"Idaho Springs, Squaw Mountain",CO,OPEN,E,210.4,E,,449.35,444.35,100,Clear Creek,On-Air,Wide area.,Denver Radio Club,11,DRC Repeaters,CCARC,,,100,,,,,,,,,4140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.49,-0.6,100,W0TX,"Idaho Springs, Centennial Cone",CO,OPEN,,210.4,E,,145.49,144.89,100,Jefferson,On-Air,,"KB0VIU,  Denver Radio Club",E-power.,DRC Repeaters,CCARC,,,100,DRC: Sun at 20:30.,,,"Full-time to  
+        448.62500 (W0TX) at Golden, Centennial Cone, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.94,-0.6,103.5,W0WYX,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.4,E,,146.94,146.34,103.5,Clear Creek,On-Air,"Wide area: west to the Continental Divide, south to Colorado Springs, east to Limon, and north to Cheyenne.",Rocky Mtn Radio League,11,Repeater,CCARC,,,103.5,"Colorado WX: Daily at 06:30. 
+RMRL: Mod at 20:30. 
+Astronomy: Tue at 19:00. 
+Amateur Radio Events: Tue at 20:00.",,,"Linkable to  
+        449.82500 (W0WYX) at Broomfield, CO .
+ 
+
+
+Linkable to  
+        449.45000 (K1DUN) at Idaho Springs, Squaw Mountain, CO .",,,,,,,Autopatch: 911* / Off 0*.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Listen Live,,,,,
+446.9375,-5,CC7,N0SZ,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.4,E,,446.9375,441.9375,,Clear Creek,On-Air,,Rocky Mountain Ham Radio,,Rocky Mountain Ham Radio,CCARC,,See the website for programming information.,,,,,Full-time to the  Colorado TRBO System .,,,,,,,,,7,,,,RMHAM,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Colorado  1  700  Full-Time    Southern Colorado  2  719  Full-Time    Denver Regional  2  720  Full-Time    Northern Colorado  2  721  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,,,,
+147.3,0.6,103.5,N0PYY,"Evergreen, Squaw Mountain",CO,OPEN,,210.6,E,,147.3,147.9,103.5,Clear Creek,On-Air,Wide area.,Denver PD EEB,,,CCARC,,,103.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.675,-5,100,W0CFI,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.6,E,,448.675,443.675,100,Denver,On-Air,Wide area.,W0CFI,,,CCARC,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,-5,136.5,WR0AEN,"Idaho Springs, Squaw Mountain",CO,OPEN,,210.9,E,,449,444,136.5,Clear Creek,On-Air,,CARN,,,CCARC,,,136.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.775,-5,123,N7TOP,West Haven,UT,OPEN,,211.2,NW,,449.775,444.775,123,Weber,On-Air,,,Remote base.,,UVHFS,,,,,,,"Full-time to  
+        146.92000 (N7TOP) at Corinne, Promontory Point, UT .
+ 
+
+
+Full-time to  
+        448.77500 (N7TOP) at West Haven, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.775,-5,123,N7TOP,West Haven,UT,OPEN,,211.3,NW,,448.775,443.775,123,Weber,On-Air,Wasatch Front from Ogden to the Utah/Idaho border.,,4,,UVHFS,,,,,,,"Full-time to  
+        449.77500 (N7TOP) at West Haven, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.49,-0.6,100,NM5SJ,Lybrook,NM,OPEN,,212.2,SSE,,145.49,144.89,100,Rio Arriba,On-Air,,Totah ARC,Closed autopatch.,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.7,-5,107.2,,Lake George,CO,OPEN,,212.9,ESE,,449.7,444.7,107.2,Park,,,CMRG,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.85,-5,141.3,AC0KQ,"Evergreen, Saddleback Mountain",CO,OPEN,A,213.7,E,,447.85,442.85,141.3,Clear Creek,On-Air,Wide area at 9500',AC0KQ,AllStar node repeater providing wide area coverage along the Front Range,,CCARC,,,141.3,,Rocky Mountain Ham Radio,,,,,,,,29571,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.6,-1.6,100,W0RM,Rollinsville,CO,OPEN,,214,E,,224.6,223,100,Gilpin,,,W0RM,,,CCARC,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.8,-0.6,100,WV7H,"Cedar City, Blowhard Mountain",UT,OPEN,,214.4,WSW,,146.8,146.2,100,Iron,On-Air,"Wide area: The area of Washington County as a whole, including parts of neighboring counties and states south and west of St. George. Cedar City and nearby communities.",,,http://www.utahvhfs.org/snowlink.html,UVHFS,,,,State RACES: 3rd Thursday of even-numbered months.,Intermountain Intertie,,Full-time to the  Intermountain Intertie System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.65,-5,,KB6BOB,"Cedar City, Blowhard Mountain",UT,CLOSED,,214.4,WSW,,448.65,443.65,,Iron,,"Wide area: St. George and the neighboring communities. The area of Washington County as a whole, including parts of neighboring counties and states south and west of St. George.",Desert RS,"Remote base, 10,640'.",,UVHFS,,,,,Cactus-Intertie,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.31,-0.6,103.5,WA7KMF,Red Spur,UT,OPEN,,214.8,NNW,,145.31,144.71,103.5,Cache,On-Air,Wide area: Logan and immediately surrounding communities.,Bridgerland ARC,"Autopatch, 5,700'.",BARC Repeaters,UVHFS,,,,,,,"Full-time to  
+        146.72000 (AC7O) at Logan, Mt Logan, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.05,-1.7,107.2,W0CRA,"Conifer, Conifer Mountain",CO,OPEN,,215.3,E,,53.05,51.35,107.2,Jefferson,Off-Air,"Wide area: Cheyenne, Wyoming, to the north, Pueblo to the south, beyond Limon to the east and South Park to the southwest.",Colorado Repeater Association (CRA),10,,CCARC,,,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,88.5,N0ARA,"Critchell, Critchell Mountain",CO,OPEN,,215.6,E,,147.12,147.72,88.5,Jefferson,On-Air,Denver metro and east.,Aurora Repeater Association,E-power.,http://www.n0ara.org,CCARC,,,88.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.94,-0.6,100,WR7AAA,"Milford, Frisco Peak",UT,OPEN,,216,W,,146.94,146.34,100,Beaver,On-Air,"Wide area: From Cedar City up toward Delta, Utah, and into eastern Nevada. 50 mi radius.",WA7GTU,,RCARC System,UVHFS,,9,,State RACES: 3rd Thursday of even-numbered months.,"Intermountain Intertie,  Rainbow Canyons ARC",,"Full-time to  
+        147.12000 (K7JL) at Salt Lake City, Farnsworth Peak, UT .
+ 
+
+
+Full-time to  
+        147.18000 (K7JL) at Snowbird, Hidden Peak, UT .
+ 
+
+
+Full-time to the  Intermountain Intertie System .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,-5,67,WB0WDF,"Canon City, eightmile Mountain",CO,OPEN,,216,ESE,,449,444,67,Fremont,On-Air,,WB0WDF,"E-power (Solar, Wind)",Mega Link,CCARC,,North of the Royal Gorge Bridge.,67,,,,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.675,-5,,K7JL,"Milford, Frisco Peak",UT,CLOSED,,216,W,,448.675,443.675,,Beaver,,"Wide area: From Cedar City up toward Delta, Utah, and into eastern Nevada.",Desert ARS,9,,UVHFS,,,,,Cactus-Intertie,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+919.1,-25,88.5,ND0Q,"Westcliffe, Deer Peak",CO,OPEN,,216.1,SE,,919.1,894.1,88.5,Pueblo,Off-Air,Wide area.,Pueblo HC,,,CCARC,,,CSQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.325,-5,100,K0JSC,Westcliffe,CO,OPEN,,216.1,SE,,448.325,443.325,100,Custer,On-Air,,,,,,,,100,,The Fun Machine,,Full-time to the  The Fun Machine System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.06,0.6,77,KB0TUC,Westcliffe,CO,OPEN,,216.2,SE,,147.06,147.66,77,Custer,On-Air,,http://www.qsl.net/rghc,E-power,,CCARC,,,77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.15,-5,103.5,KB0TUC,Westcliffe,CO,OPEN,,216.2,SE,,448.15,443.15,103.5,Custer,On-Air,,Royal George ARC,E-power.,http://www.qsl.net/rghc,CCARC,,,103.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.775,-25,D116,KB0TUC,Westcliffe,CO,OPEN,,216.2,SE,,927.775,902.775,D116,Custer,On-Air,,Royal Gorge Amateur Radio Club,,,CCARC,,System uses digital PL,D116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.35,-5,CC1 CSQ,NU7TS,"Pleasant View, Rocky Point",UT,OPEN,,216.8,NW,,447.35,442.35,CSQ,Weber,On-Air,Weber COunty,WA7KMF,DMR,,,,"Temporary location until spring. Brandmeister System TS1 TG3100, TS2 TG3149, TG31491",CSQ,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.225,-5,141.3,N0SZ,"Denver, Thorodin Mountain",CO,OPEN,,217.3,E,,449.225,444.225,141.3,Gilpin,On-Air,Wide area.,Rocky Mountain Ham Radio (RMHR),Emergency Power,,CCARC,,"Emcomm Affiliated, Open repeater",141.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.31,-0.6,88.5,KB0VJJ,"Boulder, Thorodin Mountain",CO,OPEN,,217.3,E,,145.31,144.71,88.5,Gilpin,On-Air,"Wide area: Cheyenne, Wyoming to the north, Monument, Colorado to the south, Limon, Colorado to the east, and the continental divide to the west.",Colorado Connection,10,,CCARC,,"Split tone.  The repeater still transmits 123.0 for those wishing to use tone squelch, you must run a split tone 88.5 TX and 123.0 RX",123,"Colorado Traffic Net: Daily at 19:30. 
+Colorado Connection Net (all welcome): Thu at 20:00. 
+Statewide ARES: Sun at 20:00.",,,Full-time to the  Colorado Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.8375,-25.8,D205,KI0HC,"Golden, Centennial Cone",CO,OPEN,A,218.3,E,,927.8375,902.025,,Jefferson,On-Air,Great coverage of the Denver area and I-76 East to Atwood MM112. I-70 East to Agate MM340. West to Idaho Springs MM240. And I-25 from Larkspur MM172 to Longmont MM240 depending on the hills.,,,,CCARC,,The offset is -25.8125,,,,,,,,,,,45770,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,293,,,
+446.7875,-5,CC1,W0TX,"Denver, Centennial Cone",CO,OPEN,,218.3,E,,446.7875,441.7875,,Jefferson,On-Air,,Denver Radio Club,,http://www.w0tx.org/,CCARC,,,,,Brandmeister Network,,,,,,,,,"Any Brandmeister talk group is available on time slot 1, too many to list here, see website. https://dmrx.net/files/US_BM_User_Guide.pdf.  TG's are PTT enabled and will timeout after 15 minutes of inactivity.  Time Slot 2 Talk Group 310805 is local repeater only.",,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.985,-0.6,100,K0FEZ,"Golden, Centennial Cone",CO,OPEN,I,218.4,E,,146.985,146.385,100,Denver,On-Air,,El Jebel RADOPS,E-power.,,CCARC,,,100,RADOPS: Sun at 19:00.,,3346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,100,WB0TUB,"Golden, Centennial Cone",CO,OPEN,,218.4,E,,146.64,146.04,100,Jefferson,On-Air,"Wide area. 
+   Repeater Coverage Map",Denver Radio League,E-power.,DRL Repeaters,CCARC,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.28,-0.6,100,KE0SJ,"Golden, Centennial Cone",CO,OPEN,,218.4,E,,145.28,144.68,100,Jefferson,On-Air,Wide area.,,"Closed autopatch, e-power, linked.",Intermountain Repeater Group,CCARC,,"PL is usually off, allowing use by older transceivers.",,Sun at 19:30. Everyone welcome.,,,"Full-time to  
+        449.52500 (KE0SJ) at Golden, Centennial Cone, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.525,-5,CSQ,KE0SJ,"Golden, Centennial Cone",CO,OPEN,,218.4,E,,449.525,444.525,CSQ,Jefferson,On-Air,,KE0SJ,E-power.,Intermountain Repeater Group,CCARC,,,,,,,"Full-time to  
+        145.28000 (KE0SJ) at Golden, Centennial Cone, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,123,W7NRC,"Kanab, TV Site",UT,OPEN,E,218.4,SW,,146.88,146.28,123,Kane,On-Air,"Southern border of Utah and Northern Arizona including Kanab, Fredonia, and surrounding areas.",,5,,UVHFS,,,,Good Morning Net: Weekdays @ 0800,,,,,,,,892361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+448.625,-5,100,W0TX,"Golden, Centennial Cone",CO,OPEN,,218.5,E,,448.625,443.625,100,Jefferson,On-Air,Denver metro area.,Denver Radio Club,E-power.,DRC Repeaters,CCARC,,,100,DRC: Sun at 20:30.,,,"Full-time to  
+        145.49000 (W0TX) at Idaho Springs, Centennial Cone, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.85,-5,,W7NRC,Kanab,UT,OPEN,,219.3,SW,,449.85,444.85,,Kane,Off-Air,Southern border of Utah including Kanab and surrounding areas.,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.1,-5,100,N7YSE,"Kanab, TV Site",AZ,OPEN,,219.3,SW,,449.1,444.1,100,Coconino,On-Air,Covers Kanab and Fredonia and along the Utah/Arizona border from Johnson Canyon to Pipe Springs,KC Amateur Radio Club,2,,ARCA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,,WI7M,Kanab,UT,OPEN,,219.3,SW,,147.36,147.96,,Kane,Off-Air,Southern border of Utah including Kanab and surrounding areas.,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.47,-0.6,,WV7H,Cedar City,UT,OPEN,,220.3,WSW,,145.47,144.87,,Iron,,Cedar City and nearby communities.,,5,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.06,0.6,,N7AKK,"Cedar City, Hospital",UT,OPEN,E,220.3,WSW,,147.06,147.66,,Iron,On-Air,Cedar City and nearby communities.,,,,UVHFS,,,,,,,,,,,,91510,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.75,-5,103.5,KI0GO,"Golden, Guy Hill",CO,OPEN,,220.4,E,,449.75,444.75,103.5,Jefferson,On-Air,,Rocky Mtn Radio League,8,Repeater,CCARC,,,103.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,-1.6,103.5,N0MHU,"Golden, Guy Hill",CO,OPEN,,220.4,E,,224,222.4,103.5,Jefferson,On-Air,,Rocky Mountain Radio League,8,Repeater,CCARC,,,103.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.74,-1.6,88.5,N0POH,"Golden, Guy Hill",CO,OPEN,,220.4,E,,224.74,223.14,88.5,Jefferson,On-Air,,Aurora Repeater Assoc,e-power,ARA Repeaters,CCARC,,,88.5,ARA: Wed at 2000.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.85,-5,88.5,K0IBM,"Golden, Guy Hill",CO,OPEN,,220.4,E,,448.85,443.85,88.5,Jefferson,On-Air,"Denver metro, central front range",Aurora Repeater Assoc,e-power.,ARA Repeaters,CCARC,,,88.5,ARA: Wed at 20:00.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.22,-0.6,103.5,WT0C,"Golden, Guy Hill",CO,OPEN,,220.4,E,,145.22,144.62,103.5,Jefferson,On-Air,Wide area.,Rocky Mtn Radio League,8,Repeater,CCARC,,Talk-Group of $FFFF.,103.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,293,,,
+147.15,0.6,100,W0CBI,"Golden, Guy Hill",CO,OPEN,,220.4,E,,147.15,147.75,100,Jefferson,On-Air,"Denver metro, central front range",Aurora Repeater Assoc (ARA),e-power,ARA Repeaters,CCARC,,,100,ARA: Wed at 20:00.,,,"Linkable to  
+        224.74000 (N0POH) at Golden, Guy Hill, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.15,-0.6,,WR7AAA,Cedar City,UT,OPEN,,220.5,WSW,,145.15,144.55,,Iron,,50,,,,UVHFS,,,,,,,,,WR7AAA (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.4,-5,100,WA7GTU,Cedar City,UT,OPEN,,220.5,WSW,,448.4,443.4,100,Iron,On-Air,Wide area: Cedar City and nearby communities.,WA7GTU,HF remote base.,,UVHFS,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.1,-5,,N7DZP,Cedar City,UT,OPEN,,220.5,WSW,,448.1,443.1,,Iron,On-Air,,,5,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.9,-5,100,WA7GTU,Cedar City,UT,OPEN,EI,220.5,WSW,,449.9,444.9,100,Iron,On-Air,,WA7GTU,5,,UVHFS,,,,,RCARC,3574,,,,,,193065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1299.25,-20,,WR7AAA,Cedar City,UT,OPEN,,220.5,WSW,,1299.25,1279.25,,Iron,,,,,,UVHFS,,,,,,,,,WR7AAA (A) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,123,W7SU,"Ogden, Little Mountain",UT,OPEN,,220.6,NW,,146.82,146.22,123,Weber,On-Air,Wasatch Front from south of Salt Lake City to the Utah/Idaho border and into the West desert toward Nevada.,Ogden ARC,,OARC Repeaters,UVHFS,,,123,,Utah VHF Soc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+448.575,-5,100,W7SU,"Ogden, Little Mountain",UT,OPEN,,220.6,NW,,448.575,443.575,100,Weber,On-Air,Salt lake to Idaho and west toward Nevada,OARC,,http://www.ogdenarc.org/,UVHFS,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+147.3,0.6,100,N7YSE,Jacob Lake,AZ,OPEN,,220.6,SW,,147.3,147.9,100,Coconino,On-Air,"Kanab and Fredonia, to Long Valley Junction and Escalante toward the north, East of Page, Vermillion Cliffs and Lee's Ferry in Arizona.",,,,ARCA,,,,Kane County ARES net: Mon at 08:00.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.03,0.6,100,KI0HG,"Allenspark, AFPD Station #5",CO,OPEN,,221.4,E,,147.03,147.63,100,Boulder,On-Air,,KI0HG,,,CCARC,,,,,Boulder County Amateur Radio Emergency Service,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.91,0.6,123,W0JZ,Gold Hill,CO,OPEN,,221.7,E,,146.91,147.51,123,Boulder,On-Air,"East of Gold Hill, The Indian Peaks, Denver, Boulder",,,http://goldhilltown.com/,,,There is a MOU With BCARES for repeater use.,127.3,"Summer Tue at 19:30P, Winter 19:00.","Town of Gold Hill, Colorado",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.575,5,100,KD7KRA,Tuba City,AZ,OPEN,W,222.3,SSW,,444.575,449.575,100,Coconino,On-Air,,KD7KRA,,,ARCA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,100,KC7OZU,Rawlins,WY,OPEN,,223.6,NNE,,146.76,146.16,100,Carbon,On-Air,Wide area.,CCARS,,,,,,,Sunday nite net 2030 local time.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.39,0.6,100,KD7BN,Rawlins,WY,OPEN,,223.6,NNE,,147.39,147.99,100,Carbon,On-Air,Wide area.,HERC,E-power.,,,,,,,N7ZEF (EchoLink).,,"Full-time to  
+        146.80500 (W7BEQ) at Shoshoni, Copper Mtn, WY .
+ 
+
+
+Full-time to  
+        146.94000 (W7VNJ) at Casper, Casper Mountain, WY .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.8,-5,146.2,N7RON,Rawlins,WY,OPEN,,223.6,NNE,,449.8,444.8,146.2,Carbon,,,Wyocomm,,,WRCG,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.3,-5,100,KD7SU,Rawlins,WY,OPEN,,223.6,NNE,,448.3,443.3,100,Carbon,,,,,,WRCG,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.95,-5,,KF7VJO,"Paradise, AC7II QTH",UT,OPEN,,223.6,NW,,447.95,442.95,,Cache,On-Air,,KF7VJO,,http://barconline.org/repeaters/,UVHFS,,,,,,,,,KF7VJO (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.7,-0.6,162.2,N7RON,Rawlins,WY,OPEN,I,223.6,NNE,,146.7,146.1,162.2,Carbon,On-Air,,,,,WRCG,,,,,,7045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445.05,-5,CC11,WY7EOC,Rawlins,WY,CLOSED,,223.6,NNE,,445.05,440.05,,Carbon,On-Air,Wide area.,Laramie County EM,,,WRCG,,,,,Wyoming DMR Project,,,,,,,,,,,11,,,,Wyoming DMR Project,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Wyoming  1  3156  Full-Time    WyLOCAL  2  100  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2
+449.8,-5,123,N0FH,Estes Park,CO,OPEN,EI,224.2,E,,449.8,444.8,123,Larimer,On-Air,,Estes Valley ARC,E-Power,,CCARC,,"Both Echolink and IRLP are open, IRLP connect is a four digit node number only and '73' to disconnect. Top of Hour time is announced from 0600 to 2200.",,ARES D-10: Thu at 19:00.,,7268,"Full-time to  
+        146.68500 (N0FH) at Estes Park, CO .",,,,,625757,,"The EchoLink node connects to both machines. The node is open (no passwords; touch tone only the the ' * ' character followed by a four, five, or six digit node number where you wish to connect). The disconnect is ' # '.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.75,-5,141.3,N0SZ,"Boulder, Lee Hill",CO,OPEN,I,224.7,E,,447.75,442.75,141.3,Boulder,On-Air,,Rocky Mountain Ham Radio,,,CCARC,,,141.3,,,3450,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446.9875,-5,CC7,N0SZ,"Boulder, Lee Hill",CO,OPEN,,224.7,E,,446.9875,441.9875,,Boulder,On-Air,,Rocky Mountain Ham Radio,Linked on Time Slot 2 to  Almagre Mtn  (446.950).,,,,,,,,,"Full-time to  
+        446.95000 (K7PFJ) at Colorado Springs, Almagre Mountain, CO .
+ 
+
+
+Full-time to the  Colorado TRBO System .",,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.975,-5,107.2,W0CRA,"Boulder, Eldorado Mountain",CO,OPEN,,224.7,E,,447.975,442.975,107.2,Boulder,On-Air,Wide area: Boulder/Longmont area.,Colorado Repeater Association (CRA),Closed autopatch.,,CCARC,,,107.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.02,-1.6,,W0IA,"Boulder, Lee Hill",CO,OPEN,E,224.7,E,,224.02,222.42,,Boulder,On-Air,Denver metro area.,Rocky Mtn VHF Soc,8,RMVHS repeaters,CCARC,,,,,,,"Full-time to  
+        449.55000 (W0IA) at Boulder, CO .",,,,,217336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445.05,-5,CC1,N0SZ,"Boulder, Lee Hill",CO,OPEN,,224.7,E,,445.05,440.05,,Boulder,On-Air,Wide area,Rocky Mountain Ham Radio,The DMR-MARC Worldwide Network,,CCARC,,,,,,,,,,,,,,,,1,,,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1      North America  1  3      Local/Cluster  2  2    
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.46,-0.6,107.2,W0CRA,"Boulder, Eldorado Mountain",CO,OPEN,EI,224.7,E,,145.46,144.86,107.2,Boulder,On-Air,Boulder/Denver Metro,Colorado Repeater Association (CRA),"Closed autopatch, e-power.",,CCARC,,,107.2,,CRA VHF Link System,3990,"Full-time to  
+        145.16000 (W0CRA) at Colorado Springs, Cheyenne Mountain, CO .
+ 
+
+
+Full-time to  
+        147.22500 (W0CRA) at Larkspur, Westcreek, CO .",,,,,347086,,Member-only IRLP and Echolink node,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.29,-0.6,123,K7UB,Brigham City,UT,OPEN,,225,NW,,145.29,144.69,123,Box Elder,On-Air,Wasatch Front from Ogden to the Utah/Idaho border.,GSARC,E-power.,http://www.ubetarc.org/clubinfo.html,UVHFS,,,,"Box Elder Emergency Training: Sun at 19:30. 
+GSARC Business: Wed at 20:00.",,,"Full-time to  
+        147.22000 (K7UB) at Riverside, UT .
+ 
+
+
+Full-time to  
+        145.43000 (K7UB) at Howell, Blue Springs Hill, UT .
+ 
+
+
+Full-time to  
+        448.30000 (K7UB) at Howell, Blue Springs Hill, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.65,-5,100,AC7II,"Logan, Mt Pisgah",UT,OPEN,,225.4,NW,,449.65,444.65,100,Cache,On-Air,"Communities in the Cache Valley as well as Mantua.  The Intermountain Intertie network covers much of Utah as well as parts of Idaho, Montana, Arizona, Nevada, and occasionally California.",,,http://barconline.org/,UVHFS,,http://utahvhfs.org/,100,,,,Full-time to the  Intermountain Intertie System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.98,-0.6,,W7EO,"Tooele, Black Mountain",UT,OPEN,,225.4,NW,,146.98,146.38,,Tooele,On-Air,West Desert areas around Dugway and into Wendover and areas generally to the north and west of the Great Salt Lake.  I-80 corridor west of the Wasatch Front to the Nevada border.,"Tooele County ARES, West Desert ARC","Autopatch, 6,295'.",,UVHFS,,,,,,,"Full-time to  
+        147.20000 (W7EO) at Wendover, Wendover Peak, UT .
+ 
+
+
+Full-time to  
+        145.39000 (W7EO) at Vernon, Black Crook Peak, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.35,-0.6,,K7HK,"Tooele, Black Mountain",UT,OPEN,,225.5,NW,,145.35,144.75,,Tooele,,West Desert areas around Dugway and into Wendover and areas generally to the north and west of the Great Salt Lake.,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.225,-5,100,K7MLA,"Tooele, Black Mountain",UT,OPEN,,225.5,NW,,449.225,444.225,100,Tooele,On-Air,,ERC,E-power.,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.685,-0.6,123,N0FH,Estes Park,CO,OPEN,EI,227.1,E,,146.685,146.085,123,Larimer,On-Air,Estes Valley and east RMNP - some coverage E and SE (Loveland and Denver),Estes Valley ARC,E-power.,,CCARC,,"Both Echolink and IRLP are open, IRLP connect is a four digit node number only and '73' to disconnect. Top of Hour time is announced from 0600 to 2200.",,ARES D-10: Thu at 19:00.,,7268,"Full-time to  
+        449.80000 (N0FH) at Estes Park, CO .",,,,,625757,,"The EchoLink node connects to both machines. The node is open (no passwords; touch tone only the the ' * ' character followed by a four, five, or six digit node number where you wish to connect). The disconnect is ' # '.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,,WA7MXZ,"Logan, Cache CSO",UT,OPEN,,227.7,NW,,146.64,146.04,,Cache,Off-Air,Logan and immediately surrounding communities.,Bridgerland ARC,Autopatch.,BARC Repeaters,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.72,-0.6,103.5,AC7O,"Logan, Mt Logan",UT,OPEN,,227.7,NNW,,146.72,146.12,103.5,Cache,On-Air,"Wide area: Cache County, including Logan, from Richmond to Avon.",Bridgeland ARC,"Closed autopatch, 9,713'.",BARC Repeaters,UVHFS,,,,BARC: Tue at 21:00.,Utah VHF Soc,,"Full-time to  
+        145.31000 (WA7KMF) at Red Spur, UT .
+ 
+
+
+Full-time to  
+        147.20000 (AC7O) at Logan, WA7KMF QTH, UT .
+ 
+
+
+Full-time to  
+        147.26000 (AC7O) at Ogden, Promontory Pt, UT .
+ 
+
+
+Full-time to  
+        449.62500 (AC7O) at Logan, Mt Logan, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.625,-5,103.5,AC7O,"Logan, Mt Logan",UT,OPEN,,227.7,NNW,,449.625,444.625,103.5,Cache,On-Air,"Wide area: Cache County, including Logan, from Richmond to Avon.",Bridgerland ARC,,BARC Repeaters,UVHFS,,9,,,,,"Full-time to  
+        146.72000 (AC7O) at Logan, Mt Logan, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.92,-0.6,123,N7TOP,"Corinne, Promontory Point",UT,OPEN,,228.4,NW,,146.92,146.32,123,Weber,On-Air,Wasatch Front from Ogden to the Utah/Idaho border.,,,,UVHFS,,6,,,,,"Full-time to  
+        449.77500 (N7TOP) at West Haven, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.26,0.6,103.5,AC7O,"Ogden, Promontory Pt",UT,OPEN,,228.4,NW,,147.26,147.86,103.5,Salt Lake,On-Air,Wide area: Wasatch Front from Ogden to the Utah/Idaho border. Salt Lake Valley communities from Salt Lake City to Draper. North Salt Lake to South Ogden.,Bridgerland ARC,Closed autopatch.,BARC Repeaters,UVHFS,,,,Tuesdays at 9 pm,,,"Full-time to  
+        147.26000 (AC7O) at Ogden, Promontory Pt, UT .
+ 
+
+
+Full-time to  
+        146.72000 (AC7O) at Logan, Mt Logan, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.575,-5,,NU7TS,Wellsville,UT,OPEN,,229.2,NW,,449.575,444.575,,Cache,On-Air,,,,,,,,,,,,,,NU7TS (B),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.8,-5,103.5,WA7KMF,"Mantua,  Murrays Hill",UT,OPEN,,229.2,NW,,449.8,444.8,103.5,Cache,On-Air,Logan and immediately surrounding communities.,Bridgerland ARS,,,UVHFS,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.5,-5,,K7WS,"Hurricane,  Kolob Peak",UT,OPEN,,229.8,WSW,,448.5,443.5,,Washington,Off-Air,St. George and the neighboring communities.,,9,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.015,0.6,146.2,N7UW,"Laramie, Jelm Mountain",WY,OPEN,E,229.9,NE,,147.015,147.615,146.2,Albany,On-Air,Albany County,"Albany County ARES/RACES, University Amateur Radio",,http://www.uwyo.edu/uarc/,,,,,,,,,,,,,82070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+927.5125,-25,103.5,AF7FH,Wellsville,UT,OPEN,,230.1,NW,,927.5125,902.5125,103.5,Cache,,,BARC,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1299.75,-20,,AC7O,"Logan, Mt Logan",UT,OPEN,,230.8,NNW,,1299.75,1279.75,,Cache,On-Air,,,,http://barconline.org/repeaters/,,,,,,,,,,AC7O (A),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.22,0.6,100,NM5ML,"Tres Piedras, San Antonio Mountain",NM,OPEN,,231.6,SE,,147.22,147.82,100,Rio Arriba,On-Air,Wide area.,New Mexico Mega Link Assoc,10,,NMFCC,,,,,,,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,67,KF5PFO,"Tres Piedras,  San Antonio Mountain",NM,OPEN,,231.6,SE,,146.76,146.16,67,Rio Arriba,On-Air,"Most of Taos County, eastern Rio Arriba County and the San Luis Valley in Southern Colorado.",Taos ARC,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.3,-5,103.5,W7BOZ,Logan,UT,OPEN,EI,231.8,NW,,449.3,444.3,103.5,Cache,On-Air,,W7BOZ,"EchoLink, IRLP.",,UVHFS,,,,,,7576,,,,,,558836,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.15,-0.6,,AC7O,"Logan, WA7KMF QTH",UT,OPEN,,232.1,NW,,145.15,144.55,,Cache,On-Air,,,,,UVHFS,,,,,,,,,AC7O (C) Hot Spot &lt;24/7,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.975,-5,,AC7O,"Logan, WA7KMF QTH",UT,OPEN,,232.1,NW,,447.975,442.975,,Cache,On-Air,,,,http://barconline.org/repeaters/,,,,,,,,,,AC7O (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.2,0.6,103.5,AC7O,"Logan, WA7KMF QTH",UT,OPEN,EI,232.1,NW,,147.2,147.8,103.5,Cache,On-Air,"Cache County, including Logan, from Richmond to Avon.",,,BARC Repeaters,UVHFS,,,,State RACES: 3rd Thu of even-numbered months.,,3381,"Full-time to  
+        146.72000 (AC7O) at Logan, Mt Logan, UT .",,,,,495125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.25,-5,103.5,AC7II,Logan,UT,OPEN,,232.4,NW,,449.25,444.25,103.5,Cache,Off-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,-5,CC1,NU7TS,Logan,UT,OPEN,,232.5,NW,,447,442,,Cache,On-Air,Cache County,WA7KMF,,http://www.dmr-utah.net,UVHFS,,,,,,,,,,,,,,,,1,,,,DMR-UTAH,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3      English  1  13  PTT    Data  1  100      DMRX 1  1  8001      Utah Statewide 2  1  13149      Local/Cluster  2  2      TAC 310  2  310  PTT    TAC 311  2  311  PTT    USA  2  1776  PTT    Utah  2  3149      Mountain Reg USA  2  3177      PA (PA-525)   2  3185  PTT    Hytera USA  2  4639  PTT    SNARS  2  6968  PTT    Parrott  2  9998  PTT    Audio Test  2  9999  PTT    All TG's Off  2  111111  PTT    All TG's On  2  222222  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,,,,,,,,,,,,,,,,
+147.32,0.6,88.5,KA7FAP,Logan,UT,OPEN,,233.1,NNW,,147.32,147.92,88.5,Cache,Off-Air,Logan and immediately surrounding communities.,,4,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.24,0.6,79.7,N7RRZ,Logan,UT,OPEN,,233.4,NNW,,147.24,147.84,79.7,Cache,On-Air,Logan and immediately surrounding communities.,Bridgerland ARC,,,UVHFS,,4,,,,,"Full-time to  
+        449.32500 (N7RRZ) at Logan, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.325,-5,156.7,N7RRZ,Logan,UT,OPEN,,233.4,NNW,,449.325,444.325,156.7,Cache,On-Air,Logan and immediately surrounding communities.,,4,,UVHFS,,,,,,,"Full-time to  
+        147.24000 (N7RRZ) at Logan, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.925,-5,100,N7PKI,Mendon,UT,OPEN,,235.4,NW,,448.925,443.925,100,Cache,,,,,,UVHFS,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.24,0.6,100,N7GCR,"Rawlins, Elk Mountain",WY,OPEN,,235.7,NE,,147.24,147.84,100,Carbon,On-Air,Wide area.,CCARS,,,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.7,-5,100,W0UPS,"Fort Collins, Buckhorn Mountain",CO,OPEN,,240.5,E,,447.7,442.7,100,Larimer,On-Air,Wide Area Coverage,Northern Colorado Amateur Radio Club,,http://ncarc.net/,,,,100,,,,"Linkable to  
+        146.62500 (W0UPS) at Fort Collins, Buckhorn Mountain, CO .
+ 
+
+
+Linkable to  
+        146.85000 (W0UPS) at Greeley, UNC, CO .
+ 
+
+
+Full-time to  
+        224.84000 (W0UPS) at Fort Collins, Buckhorn Mountain, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.625,-0.6,100,W0UPS,"Fort Collins, Buckhorn Mountain",CO,OPEN,,240.6,E,,146.625,146.025,100,Larimer,On-Air,Wide area: Northern front range.,Northern Colorado ARC,E-power.,,CCARC,,,100,,,,"Linkable to  
+        146.85000 (W0UPS) at Greeley, UNC, CO .
+ 
+
+
+Linkable to  
+        224.84000 (W0UPS) at Fort Collins, Buckhorn Mountain, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.84,-1.6,100,W0UPS,"Fort Collins, Buckhorn Mountain",CO,OPEN,,240.6,E,,224.84,223.24,100,Larimer,On-Air,"Wide Area: Northern CO Front Range and into Cheyenne - Laramie, WY",Northern Colorado ARC,"E-power, 25 watts.",,,,,100,,,,"Full-time to  
+        447.70000 (W0UPS) at Fort Collins, Buckhorn Mountain, CO .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.925,-0.6,,N7RDS,Tremonton,UT,OPEN,,241.5,NW,,147.925,147.325,,Box Elder,Off-Air,,NUTS,,,UVHFS,,,,,,,,,N7RDS (C),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.925,-5,,N7RDS,Tremonton,UT,OPEN,,241.5,NW,,447.925,442.925,,Box Elder,Off-Air,,NUTS,,,UVHFS,,,,,,,,,N7RDS (B),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.175,-0.6,141.3,NM5EM,"Tres Piedras, San Antonio Mtn.",NM,OPEN,,243.4,SE,,145.175,144.575,141.3,Taos,Off-Air,,NMEMA ARC,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,67,KF5PFO,"Tres Piedras, San Antonio Mountain",NM,OPEN,,243.4,SE,,146.76,146.16,67,Taos,On-Air,"Wide area: Most of Taos County, Eastern Rio Arriba County and the San Luis Valley in Southern Colorado.",Taos ARC,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.95,-5,,KF7YIX,"Torquerville, Hurricane Mesa",UT,OPEN,,244.1,WSW,,447.95,442.95,,Washington,On-Air,,,,,UVHFS,,,,,,,,,KF7YIX (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.45,-0.6,100,W7DRC,"Toquerville, Toquerville Hill",UT,OPEN,E,244.3,WSW,,145.45,144.85,100,Washington,On-Air,"Hurricane Valley including Toquerville, LaVerkin, Hurricane, Leeds, Silver Reef, Pintura, as well as the rest of the lower Black Ridge and parts of Washington City.",Dixie ARC,,,UVHFS,,5,,Sun at 20:00 hours.,,,"Full-time to  
+        145.49000 (W7DRC) at St George, Utah Hill, UT .
+ 
+
+
+Full-time to  
+        146.64000 (W7DRC) at St George, Webb Hill, UT .",,,,,678741,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.15,-0.6,,KF7YIX,"Torquerville, Hurricane Mesa",UT,OPEN,,244.9,WSW,,145.15,144.55,,Washington,On-Air,,,,,UVHFS,,,,,,,,,KF7YIX (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.3,-5,123,K7UB,"Howell, Blue Springs Hill",UT,OPEN,,245.1,NW,,448.3,443.3,123,Box Elder,On-Air,Wasatch Front from Ogden to the Utah/Idaho border.,GSARC,,http://www.ubetarc.org/clubinfo.html,UVHFS,,,,"Willard/Perry Sun at 19:00 (MST). 
+Box Elder Emergency Training: Sun at 19:30. 
+GSARC Business: Wed at 20:00.",,,"Full-time to  
+        147.22000 (K7UB) at Riverside, UT .
+ 
+
+
+Full-time to  
+        145.43000 (K7UB) at Howell, Blue Springs Hill, UT .
+ 
+
+
+Full-time to  
+        145.29000 (K7UB) at Brigham City, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.125,-5,CC1,NU7TS,Riverside,UT,OPEN,,245.1,NW,,447.125,442.125,,Box Elder,On-Air,"Tremonton, Logan, Ogden",WA7KMF,,http://www.dmr-utah.net,UVHFS,,,,,,,,,,,,,,,,1,,,,DMR-UTAH,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3      English  1  13  PTT    Data  1  100      DMRX 1  1  8001      Utah Statewide 2  1  13149      Local/Cluster  2  2      TAC 310  2  310  PTT    TAC 311  2  311  PTT    USA  2  1776  PTT    Utah  2  3149      Mountain Reg USA  2  3177      PA (PA-525)   2  3185  PTT    Hytera USA  2  4639  PTT    SNARS  2  6968  PTT    Parrott  2  9998  PTT    Audio Test  2  9999  PTT    All TG's Off  2  111111  PTT    All TG's On  2  222222  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,,,,,,,,,,,,,,,,
+145.43,-0.6,123,K7UB,"Howell, Blue Springs Hill",UT,OPEN,,245.1,NW,,145.43,144.83,123,Box Elder,On-Air,Wasatch Front from Ogden to the Utah/Idaho border. North Salt Lake to South Ogden.,GSARC,E-power,http://www.ubetarc.org/clubinfo.html,UVHFS,,,,"Willard/Perry Sun at 19:00 9MST). 
+Box Elder Emergency Training: Sun at 19:30. 
+GSARC Business - Wed at 20:00.",,,"Full-time to  
+        147.22000 (K7UB) at Riverside, UT .
+ 
+
+
+Full-time to  
+        448.30000 (K7UB) at Howell, Blue Springs Hill, UT .
+ 
+
+
+Full-time to  
+        145.29000 (K7UB) at Brigham City, UT .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.575,-5,,WA7KMF,Riverside,UT,OPEN,,245.5,NW,,449.575,444.575,,Box Elder,On-Air,Wasatch Front from Ogden to the Utah/Idaho border.,Bridgerland ARC,"Remote base, 4,839', linked to (449.800).",,UVHFS,,,,,,,,,WA7KMF (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.22,0.6,123,K7UB,Riverside,UT,OPEN,EI,245.6,NW,,147.22,147.82,123,Box Elder,On-Air,"Riverside, Garland, Tremonton and surrounding areas.",GSARC,5,UBETARC,UVHFS,,Dial '*' before Echolink and '#' before IRLP.,,"Willard/Perry Sun at 19:00 (MST). 
+Box Elder Emergency Training: Sun at 19:30. 
+GSARC Business - Wed at 20:00.",,7172,"Full-time to  
+        145.43000 (K7UB) at Howell, Blue Springs Hill, UT .
+ 
+
+
+Full-time to  
+        448.30000 (K7UB) at Howell, Blue Springs Hill, UT .
+ 
+
+
+Full-time to  
+        145.29000 (K7UB) at Brigham City, UT .",,,,,645522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.275,-5,,K5JCA,"Hurricane, Hurricane Mesa",UT,OPEN,,248.9,WSW,,449.275,444.275,,Washington,On-Air,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.04,0.6,141.3,NM5EM,"Abiquiu, Cerro Pelon",NM,OPEN,,251.9,SE,,147.04,147.64,141.3,Rio Arriba,Off-Air,,NMEMA ARC,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.32,0.6,,WB6JAA,"Grand Canyon, Hopi Pt",AZ,OPEN,E,253.3,SW,,147.32,147.92,,Coconino,On-Air,,,E-power,,ARCA,,,,,,,,,,,,369463,,,,,,,DM36wb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,114.8,KC7SNO,"Laramie, Beacon Hill",WY,OPEN,,254.9,NE,,146.82,146.22,114.8,Albany,On-Air,Wide area.,Shy-Wy Amateur Radio Club,,,WRCG,,,,Shy-WY ARC: Thu at 19:00.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.61,-0.6,,N7UW,"Laramie, University",WY,OPEN,,255.4,NE,,146.61,146.01,,Albany,On-Air,Laramie Valley  30 mi radius.,University ARC,,http://www.uwyo.edu/uarc,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,
+447.225,-5,CC11,WY7EOC,"Laramie, Pilot Hill",WY,CLOSED,,259.5,NE,,447.225,442.225,,Albany,On-Air,Wide area.,Laramie County EM,,,WRCG,,,,,Wyoming DMR Project,,,,,,,,,,,11,,,,Wyoming DMR Project,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Wyoming  1  3156  Full-Time    WyLOCAL  2  100  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2
+53.03,-1,,K7UWR,"Laramie,  Pilot Hill",WY,OPEN,,260.4,NE,,53.03,52.03,,Albany,Off-Air,I-80 from west of Laramie to east of Cheyenne for 25 watt mobiles with 1/4 wave antenna.,K7UWR,8,http://www.r-vcr.com/k7uwr/repeater.htm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.39,-0.6,100,KF5PFO,"Red River, Molycorp",NM,OPEN,,260.5,SE,,145.39,144.79,100,Taos,On-Air,Wide area.,Taos ARC,"E-power, linked.",Taos Amateur Radio Club,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.14,0.6,67,NM5ML,"Taos, Ski Valley",NM,OPEN,,267.6,SE,,147.14,147.74,67,Taos,On-Air,,,11,http://www.taosarc.com/,,,,,,TaosARC,,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,100,KD5PX,"Dixon, Cerro Abajo",NM,OPEN,,268.2,SE,,147.18,147.78,100,Rio Arriba,On-Air,Dixon Embudo Ojo Sarco St Rd 68 Rio Grande Canyon,,,,NMFCC,,,100,,,,,,,,,,,,,,,,DM76BF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.975,5,123,N5TSV,"Taos, Wheeler Peak",NM,OPEN,,270.7,SE,,444.975,449.975,123,Taos,On-Air,,N5TSV,,,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.4,-1.6,225.7,KF5PFO,"Taos, Picuris Peak",NM,OPEN,,275,SE,,224.4,222.8,225.7,Taos,On-Air,,Taos ARC,,http://taosarc.org,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,67,KF5PFO,"Taos, Picuris Peak",NM,OPEN,E,275,SE,,147.12,147.72,67,Taos,On-Air,Wide area.,Taos Amateur Radio Club,E-power.,http://taosarc.org/,NMFCC,,,,,ARRL,,,,,,,828279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.5,0,100,KF5PFO,"Taos, Picuris Peak",NM,OPEN,,275,SE,,51.5,51.5,100,Taos,On-Air,,Taos ARC,,Taos Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.875,-5,123,KF5PFO,"Taos, Picuris Peak",NM,OPEN,,275.1,SE,,449.875,444.875,123,Taos,On-Air,,Taos ARC,"Linked to 147.34, E-Power.",,NMFCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

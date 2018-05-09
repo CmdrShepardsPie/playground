@@ -1,5 +1,5 @@
-Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Worldwide,North America,Local/Cluster,County,Op Status,Coverage,Sponsor,Features,Coordination,Last update
-445.05,-5,CC1,N0SZ,"Boulder, Lee Hill",CO,OPEN,,76.2,NNW,,445.05,440.05,,,1,,,"Open Talkgroup View 
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Colorado,Southern Colorado,Denver Regional,Northern Colorado,County,Op Status,Sponsor,Affiliate,Web links,Coordination,Last update
+445.05,-5,CC7,N0SZ,"Leadville, Mosquito Pass",CO,OPEN,,187.2,E,,445.05,440.05,,,7,,RMHAM,"Open Talkgroup View 
 
 
  
@@ -11,7 +11,7 @@ Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplin
      Access 
    
 
-  Worldwide  1  1      North America  1  3      Local/Cluster  2  2    
+  Colorado  1  700  Full-Time    Southern Colorado  2  719  Full-Time    Denver Regional  2  720  Full-Time    Northern Colorado  2  721  Full-Time  
   
  
  
@@ -22,4 +22,4 @@ function myFunction(id) {
     } else {
         x.className = x.className.replace("" w3-show"", """");
     }
-}",1,1,2,Boulder,On-Air,Wide area,Rocky Mountain Ham Radio,The DMR-MARC Worldwide Network,CCARC,
+}",1,2,2,2,Adams,On-Air,K2AD,Rocky Mountain Ham Radio,http://www.rmham.org/,CCARC,

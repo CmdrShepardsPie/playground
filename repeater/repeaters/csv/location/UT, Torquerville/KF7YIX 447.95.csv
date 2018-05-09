@@ -1,3 +1,3 @@
 Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Coordination,Last update
-447.95,-5,,KF7YIX,"Torquerville, Hurricane Mesa",UT,OPEN,,225.8,WSW,,447.95,442.95,,KF7YIX (B) Gateway Repeater,"jfindu lookup 
+447.95,-5,,KF7YIX,"Torquerville, Hurricane Mesa",UT,OPEN,,221,WSW,,447.95,442.95,,KF7YIX (B) Gateway Repeater,"jfindu lookup 
     /   dstar-users lookup",Washington,On-Air,UVHFS,

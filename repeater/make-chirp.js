@@ -202,32 +202,56 @@
         };
         return row;
     }
-    // const count = 128 - 57;
-    const count = 200 - 57;
+    const count = 128 - 57;
+    // const count = 200 - 57;
     const allIndividualFiles = fs.readdir('./repeaters/json')
-        .then(files => Promise.all(files.map(f => {
+        .then(files => Promise.all(files.filter(b => /\.json/.test(b)).map(f => {
         const name = f.replace('./repeaters/json', '').replace('.json', '');
         console.log('name', name);
         return read([name], `${name}`, count, 57, 'Comment');
     })));
     const allCombinedFiles = fs.readdir('./repeaters/json')
         .then(files => {
-        const cities = files.map(f => f.replace('./repeaters/json', '').replace('.json', ''));
+        const cities = files.filter(b => /\.json/.test(b)).map(f => f.replace('./repeaters/json', '').replace('.json', ''));
         return read(cities, `_all`, count, 57, 'Comment');
     });
     exports.default = (Promise.all([
         read([
             'Denver, CO',
-            'Lakewood, CO',
-            'Keystone, CO',
-            'Breckenridge, CO',
+            'Golden, CO',
+            'Genesee, CO',
+            'Idaho Springs, CO',
+            'Downieville, CO',
+            'Lawson, CO',
+            'Georgetown, CO',
+            'Dillon, CO',
+            'Silverthorne, CO',
+            'Frisco, CO',
+            'Copper Mountain, CO',
             'Vail, CO',
             'Avon, CO',
+            'Edwards, CO',
+            'Wolcott, CO',
+            'Eagle, CO',
+            'Gypsum, CO',
+            'Dotsero, CO',
             'Glenwood Springs, CO',
+            'Chacra, CO',
+            'New Castle, CO',
+            'Silt, CO',
             'Rifle, CO',
+            'Rulison, CO',
+            'Parachute, CO',
+            'De Beque, CO',
             'Palisade, CO',
             'Grand Junction, CO',
             'Fruita, CO',
+            'Loma, CO',
+            'Cisco, UT',
+            'Dewey, UT',
+            'Castle Valley, UT',
+            'Spanish Valley, UT',
+            'La Sal, UT',
             'Thompson, UT',
             'Crescent Junction, UT',
             'Moab, UT'

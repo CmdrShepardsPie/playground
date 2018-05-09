@@ -1,3 +1,3 @@
 Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Sponsor,Coordination,Last update
-1292.3,-20,,KF5VBD,"Bloomfield, Harris Mesa",NM,CLOSED,,220.2,SW,,1292.3,1272.3,,KF5VBD (A) Gateway Repeater,"jfindu lookup 
+1292.3,-20,,KF5VBD,"Bloomfield, Harris Mesa",NM,CLOSED,,164.1,SE,,1292.3,1272.3,,KF5VBD (A) Gateway Repeater,"jfindu lookup 
     /   dstar-users lookup",San Juan,On-Air,San Juan County,NMFCC,
