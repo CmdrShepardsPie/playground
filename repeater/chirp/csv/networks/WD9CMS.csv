@@ -1,2 +1,3 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,WD9CMS 444.775,444.775,+,5,Tone,131.8,88.5,23,23,NN,DIG,5,WD9CMS
+,WD9CMS 927.9,927.9,-,25,Tone,131.8,88.5,23,23,NN,DIG,5,WD9CMS

@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W7VNJ 146.94,146.94,-,0.6,TSQL,123,123,23,23,NN,FM,5,W7VNJ
+,W7VNJ 449.575,449.575,-,5,TSQL,173.8,173.8,23,23,NN,FM,5,W7VNJ
+,W7VNJ 147.28,147.28,+,0.6,DTCS,88.5,88.5,32,32,NN,DIG,5,W7VNJ
+,W7VNJ 52.98,52.98,-,1,Tone,141.3,88.5,23,23,NN,FM,5,W7VNJ

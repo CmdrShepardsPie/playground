@@ -1,3 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,N9PGQ 146.84,146.84,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,N9PGQ
 ,N9PGQ 53.2,53.2,-,1,Tone,107.2,88.5,23,23,NN,FM,5,N9PGQ
+,N9PGQ 442.125,442.125,+,5,Tone,107.2,88.5,23,23,NN,FM,5,N9PGQ

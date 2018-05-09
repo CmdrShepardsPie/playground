@@ -1,2 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,NB7I 449.5,449.5,-,5,Tone,100,88.5,23,23,NN,FM,5,Versatel

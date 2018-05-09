@@ -1,3 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,N0ARA 147.12,147.12,+,0.6,TSQL,88.5,88.5,23,23,NN,FM,5,Aurora Repeater Association
 ,N0OWY 447.5,447.5,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,Aurora Repeater Association
+,K0IBM 448.85,448.85,-,5,TSQL,88.5,88.5,23,23,NN,FM,5,Aurora Repeater Assoc
+,N0POH 224.74,224.74,-,1.6,TSQL,88.5,88.5,23,23,NN,FM,5,Aurora Repeater Assoc

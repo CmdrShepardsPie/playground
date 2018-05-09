@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KE0AE 147.06,147.06,+,0.6,Tone,103.5,88.5,23,23,NN,DIG,5,KE0AE
+,KE0AE 146.895,146.895,-,0.6,Tone,103.5,88.5,23,23,NN,FM,5,KE0AE

@@ -1,2 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,KC7BJY 146.88,146.88,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"Sublette Co ARC """
+,KC7BJY 145.145,145.145,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Sublette Co ARC
+,KC7BJY 448.1,448.1,-,5,Tone,100,88.5,23,23,NN,FM,5,Sublette Co ARC
+,W7YP 146.775,146.775,-,0.6,,88.5,88.5,23,23,NN,FM,5,Sublette Co ARC

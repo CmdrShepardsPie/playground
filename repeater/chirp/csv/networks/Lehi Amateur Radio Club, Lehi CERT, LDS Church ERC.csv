@@ -1,2 +1,7 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,KG7QWU 448.875,448.875,-,5,,88.5,88.5,23,23,NN,DIG,5,"Lehi Amateur Radio Club, Lehi CERT, LDS Church ERC"
+,N7NKK 147.16,147.16,+,0.6,Tone,100,88.5,23,23,NN,FM,5,ERC
+,WA7UAH 147.02,147.02,+,0.6,Tone,100,88.5,23,23,NN,FM,5,ERC
+,WD7SL 448.425,448.425,-,5,Tone,100,88.5,23,23,NN,FM,5,ERC
+,K7MLA 146.96,146.96,-,0.6,Tone,100,88.5,23,23,NN,FM,5,ERC
+,K7MLA 449.225,449.225,-,5,Tone,100,88.5,23,23,NN,FM,5,ERC

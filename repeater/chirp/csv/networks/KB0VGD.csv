@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KB0VGD 145.265,145.265,-,0.6,,88.5,88.5,23,23,NN,DIG,5,KB0VGD
+,KB0VGD 446.975,446.975,-,5,,88.5,88.5,23,23,NN,DIG,5,KB0VGD

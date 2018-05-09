@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KF7YIX 1299.25,1299.25,-,20,,88.5,88.5,23,23,NN,DIG,5,KF7YIX
+,KF7YIX 447.95,447.95,-,5,,88.5,88.5,23,23,NN,DIG,5,KF7YIX
+,KF7YIX 145.15,145.15,-,0.6,,88.5,88.5,23,23,NN,DIG,5,KF7YIX

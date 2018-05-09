@@ -8,3 +8,5 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCo
 ,KF6RAL 145.125,145.125,-,0.6,,88.5,88.5,23,23,NN,DIG,5,Utah VHF Society
 ,KF6RAL 1287,1287,-,20,,88.5,88.5,23,23,NN,DIG,5,Utah VHF Society
 ,K7JL 146.86,146.86,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Utah VHF Society
+,W7SU 146.82,146.82,-,0.6,TSQL,123,123,23,23,NN,DIG,5,Utah VHF Soc
+,AC7O 146.72,146.72,-,0.6,Tone,103.5,88.5,23,23,NN,FM,5,Utah VHF Soc

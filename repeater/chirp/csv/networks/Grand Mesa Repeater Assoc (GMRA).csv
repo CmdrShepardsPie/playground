@@ -1,2 +1,6 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WA4HND 449.85,449.85,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,Grand Mesa Repeater Assoc
+,WA4HND 447.2,447.2,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Grand Mesa Repeater Assoc
+,KB0SW 449,449,-,5,TSQL,88.5,107.2,23,23,NN,FM,5,Grand Mesa Repeater Assoc
+,WA4HND 449.575,449.575,-,5,TSQL,131.8,131.8,23,23,NN,FM,5,Grand Mesa Repeater Assoc
 , 447.35,447.35,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Grand Mesa Repeater Assoc (GMRA)

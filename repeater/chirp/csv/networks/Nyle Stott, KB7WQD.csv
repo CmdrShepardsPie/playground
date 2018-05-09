@@ -1,2 +1,3 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,KB7WQD 147.38,147.38,+,0.6,Tone,203.5,88.5,23,23,NN,FM,5,"Nyle Stott, KB7WQD"
+,KB7WQD 147.38,147.38,+,0.6,Tone,203.5,88.5,23,23,NN,FM,5,KB7WQD

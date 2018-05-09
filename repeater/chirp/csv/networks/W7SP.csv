@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W7SP 146.76,146.76,-,0.6,,88.5,88.5,23,23,NN,FM,5,W7SP
+,W7SP 146.62,146.62,-,0.6,,88.5,88.5,23,23,NN,FM,5,W7SP

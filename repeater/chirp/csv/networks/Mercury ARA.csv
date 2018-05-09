@@ -1,3 +1,8 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,KD7NX 146.74,146.74,-,0.6,Tone,114.8,88.5,23,23,NN,FM,5,Mercury ARA
+,WD7SL 448.425,448.425,-,5,Tone,100,88.5,23,23,NN,FM,5,ERC
+,K7MLA 146.96,146.96,-,0.6,Tone,100,88.5,23,23,NN,FM,5,ERC
+,K7MLA 449.225,449.225,-,5,Tone,100,88.5,23,23,NN,FM,5,ERC
 ,K7HEN 145.49,145.49,-,0.6,Tone,123,88.5,23,23,NN,FM,5,Mercury ARA
+,N7NKK 147.16,147.16,+,0.6,Tone,100,88.5,23,23,NN,FM,5,ERC
+,WA7UAH 147.02,147.02,+,0.6,Tone,100,88.5,23,23,NN,FM,5,ERC

@@ -1,2 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,AB0SF 927.825,927.825,-,25,TSQL,100,100,23,23,NN,FM,5,AB0SF

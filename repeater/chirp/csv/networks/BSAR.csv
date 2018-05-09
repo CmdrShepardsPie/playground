@@ -1,2 +1,3 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,N1FSX 449.9,449.9,-,5,Tone,107.2,88.5,23,23,NN,FM,5,BSAR
+,KE0AE 147.06,147.06,+,0.6,Tone,103.5,88.5,23,23,NN,DIG,5,BSARC

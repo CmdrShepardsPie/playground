@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K5BIQ 145.13,145.13,-,0.6,TSQL,162.2,162.2,23,23,NN,FM,5,K5BIQ
+,K5BIQ 442.05,442.05,+,5,TSQL,162.2,162.2,23,23,NN,FM,5,K5BIQ
+,K5BIQ 145.15,145.15,-,0.6,TSQL,162.2,162.2,23,23,NN,FM,5,K5BIQ

@@ -5,6 +5,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCo
 ,KB0VJJ 147.075,147.075,+,0.6,Cross,88.5,123,23,23,NN,FM,5,Colorado Connection
 ,KB0VJJ 147.39,147.39,+,0.6,Cross,88.5,123,23,23,NN,FM,5,Colorado Connection
 ,KB0VJJ 147.165,147.165,+,0.6,Cross,88.5,123,23,23,NN,FM,5,Colorado Connection
+,KB0VJJ 449.625,449.625,-,5,TSQL,123,123,23,23,NN,FM,5,"Colorado Connection Repeaters, Inc."
 ,KB0VJJ 147.345,147.345,+,0.6,Cross,88.5,123,23,23,NN,FM,5,Colorado Connection
 ,KB0VJJ 145.4,145.4,-,0.8,Cross,88.5,123,23,23,NN,FM,5,Colorado Connection
 ,KB0VJJ 145.445,145.445,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Colorado Connection

@@ -1,2 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,WA6CCB 443.75,443.75,+,5,Tone,100,88.5,23,23,NN,FM,5,"WA6CCB, K5RKE"
+,K5KRE 443.3,443.3,+,5,,88.5,88.5,23,23,NN,DIG,5,K5RKE
+,WB5IUZ 51.7,51.7,-,1,Tone,156.7,88.5,23,23,NN,FM,5,K5RKE
+,WA6CCB 443.75,443.75,+,5,Tone,100,88.5,23,23,NN,FM,5,WA6CCB

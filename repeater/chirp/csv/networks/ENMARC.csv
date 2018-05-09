@@ -1,2 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,WS5D 147.32,147.32,+,0.6,TSQL,71.9,71.9,23,23,NN,FM,5,ENMARC
+,KA0WUC 145.415,145.415,-,0.6,Tone,179.9,88.5,23,23,NN,FM,5,MARC
+,KA0WUC 927.9,927.9,-,25,DTCS,88.5,88.5,205,205,NN,FM,5,MARC
+,NX0G 448.65,448.65,-,5,Tone,107.2,88.5,23,23,NN,FM,5,MARC

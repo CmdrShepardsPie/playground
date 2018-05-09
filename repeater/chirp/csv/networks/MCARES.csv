@@ -1,2 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KD5SAR 145.43,145.43,-,0.6,Tone,162.2,88.5,23,23,NN,FM,5,MCARES

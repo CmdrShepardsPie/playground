@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WY7EOC 447.225,447.225,-,5,,88.5,88.5,23,23,NN,DIG,5,WY7EOC
+,WY7EOC 445.05,445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,WY7EOC
+,WY7EOC 449.9875,449.9875,-,5,,88.5,88.5,23,23,NN,DIG,5,WY7EOC

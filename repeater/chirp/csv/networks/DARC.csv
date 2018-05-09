@@ -1,2 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,K0EP 449.85,449.85,-,5,TSQL,100,100,23,23,NN,FM,5,DARC
+,WX7Y 145.175,145.175,-,0.6,,88.5,88.5,23,23,NN,FM,5,SDARC
+,N7IMF 224.9,224.9,-,1.6,Tone,156.7,88.5,23,23,NN,FM,5,UHDARC
+,W7BYU 145.49,145.49,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,Sinbad Desert ARC (SDARC)

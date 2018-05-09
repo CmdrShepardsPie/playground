@@ -1,3 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,W7DHH 146.66,146.66,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Skyline Repeater System
+,WB7REL 146.72,146.72,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Skyline
 ,WB7REL 146.72,146.72,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Skyline Repeater System

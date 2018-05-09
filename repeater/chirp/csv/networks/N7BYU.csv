@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,N7BYU 449.075,449.075,-,5,Tone,167.9,88.5,23,23,NN,FM,5,N7BYU
+,N7BYU 145.33,145.33,-,0.6,Tone,100,88.5,23,23,NN,FM,5,N7BYU

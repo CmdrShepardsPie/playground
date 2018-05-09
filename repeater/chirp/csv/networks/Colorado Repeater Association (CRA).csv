@@ -1,9 +1,13 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,W0CRA 447.975,447.975,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
-,W0CRA 145.46,145.46,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
-,W0CRA 447.575,447.575,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
+,W0CRA 145.145,145.145,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Assoc
 ,W0CRA 447.15,447.15,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
 ,W0CRA 1287.9,1287.9,-,20,,88.5,88.5,23,23,NN,FM,5,Colorado Repeater Association (CRA)
+,W0CRA 224.98,224.98,-,1.6,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association
 ,W0CRA 53.05,53.05,-,1.7,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
 ,W0CRA 147.225,147.225,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
 ,W0CRA 448.425,448.425,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
+,W0CRA 145.16,145.16,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association
+,WA0DE 147.105,147.105,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association
+,W0CRA 447.975,447.975,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
+,W0CRA 145.46,145.46,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)
+,W0CRA 447.575,447.575,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,Colorado Repeater Association (CRA)

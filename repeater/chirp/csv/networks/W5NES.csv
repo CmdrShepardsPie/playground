@@ -1,2 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,W5NES 444.075,444.075,+,5,Tone,100,88.5,23,23,NN,FM,5,W5NES

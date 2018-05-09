@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WD7N 447.475,447.475,-,5,Tone,186.2,88.5,23,23,NN,FM,5,WD7N
+,WD7N 449.25,449.25,-,5,Tone,110.9,88.5,23,23,NN,FM,5,WD7N

@@ -1,2 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,WB7REL 449.3,449.3,-,5,Tone,88.5,88.5,23,23,NN,FM,5,W7DHH
+,W7DHH 146.66,146.66,-,0.6,Tone,100,88.5,23,23,NN,FM,5,W7DHH
+,W7DHH 447.45,447.45,-,5,Tone,114.8,88.5,23,23,NN,FM,5,W7DHH

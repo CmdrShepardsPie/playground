@@ -1,4 +1,8 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,KC0CVU 146.76,146.76,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,Cheyenne Mountain Repeater Group
+,KD0RDI 446.775,446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,Cheyenne Mountain Repeater Group (CMRG)
 ,WA6IFI 145.43,145.43,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Cheyenne Mountain Repeater Group
 ,KD0RDI 446.775,446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,Cheyenne Mountain Repeater Group
+,KC0CVU 145.375,145.375,-,0.6,,88.5,88.5,23,23,NN,DIG,5,Cheyenne Mountain Repeater Group (CMRG)
+,KC0CVU 446.9125,446.9125,-,5,,88.5,88.5,23,23,NN,DIG,5,Cheyenne Mountain Repeater Group (CMRG)
+,WA6IFI 53.13,53.13,-,1.7,TSQL,107.2,107.2,23,23,NN,FM,5,Cheyenne Mountain Repeater Group (CMRG)

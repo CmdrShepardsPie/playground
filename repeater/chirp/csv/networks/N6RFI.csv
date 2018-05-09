@@ -1,2 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N6RFI 447.2,447.2,-,5,Tone,82.5,88.5,23,23,NN,FM,5,N6RFI

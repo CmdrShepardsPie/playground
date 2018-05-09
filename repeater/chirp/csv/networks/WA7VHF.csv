@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WA7VHF 448.6,448.6,-,5,Tone,100,88.5,23,23,NN,FM,5,WA7VHF
+,WA7VHF 146.84,146.84,-,0.6,Tone,100,88.5,23,23,NN,FM,5,WA7VHF
+,WA7VHF 146.94,146.94,-,0.6,Tone,88.5,88.5,23,23,NN,DIG,5,WA7VHF

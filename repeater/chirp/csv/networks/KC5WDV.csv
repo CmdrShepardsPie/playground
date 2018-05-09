@@ -1,3 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KC5WDV 448.2,448.2,-,5,Tone,100,88.5,23,23,NN,FM,5,KC5WDV
 ,KC5WDV 147.26,147.26,+,0.6,Tone,100,88.5,23,23,NN,FM,5,KC5WDV
 ,KC5WDV 449.75,449.75,-,5,Tone,100,88.5,23,23,NN,FM,5,KC5WDV

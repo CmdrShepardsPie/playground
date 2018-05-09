@@ -2,3 +2,4 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCo
 ,KB0VGD 145.265,145.265,-,0.6,,88.5,88.5,23,23,NN,DIG,5,Brandmeister Network
 ,W0DMR 446.775,446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,Brandmeister Network
 ,W0TX 446.7875,446.7875,-,5,,88.5,88.5,23,23,NN,DIG,5,Brandmeister Network
+,NX7R 449.625,449.625,-,5,DTCS,114.8,88.5,23,754,NN,DIG,5,BrandMeister

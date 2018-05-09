@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,K7MLA 147.14,147.14,+,0.6,Tone,127.3,88.5,23,23,NN,FM,5,K7MLA
+,K7MLA 146.96,146.96,-,0.6,Tone,100,88.5,23,23,NN,FM,5,K7MLA
+,K7MLA 449.225,449.225,-,5,Tone,100,88.5,23,23,NN,FM,5,K7MLA

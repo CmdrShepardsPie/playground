@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KC0HH 146.61,146.61,-,0.6,TSQL,123,123,23,23,NN,FM,5,KC0HH
+,KC0HH 449.5,449.5,-,5,Tone,123,88.5,23,23,NN,FM,5,KC0HH

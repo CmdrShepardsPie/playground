@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WR7AAA 145.15,145.15,-,0.6,,88.5,88.5,23,23,NN,DIG,5,WR7AAA
+,WR7AAA 1299.25,1299.25,-,20,,88.5,88.5,23,23,NN,DIG,5,WR7AAA
+,WR7AAA 146.94,146.94,-,0.6,Tone,100,88.5,23,23,NN,FM,5,WR7AAA

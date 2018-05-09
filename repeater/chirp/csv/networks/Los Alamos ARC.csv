@@ -1,2 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,W5PDO 146.88,146.88,-,0.6,,88.5,88.5,23,23,NN,FM,5,Los Alamos ARC

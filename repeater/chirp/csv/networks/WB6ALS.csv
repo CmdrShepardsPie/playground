@@ -1,2 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,WB6ALS 443.05,443.05,+,5,Tone,136.5,88.5,23,23,NN,FM,5,WB6ALS

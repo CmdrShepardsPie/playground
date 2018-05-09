@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,W7XDX 927.1125,927.1125,-,25,DTCS,88.5,88.5,432,23,NN,FM,5,W7XDX
+,W7XDX 927.5875,927.5875,-,25,DTCS,88.5,88.5,432,23,NN,FM,5,W7XDX

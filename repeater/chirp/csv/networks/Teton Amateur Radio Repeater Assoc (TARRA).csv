@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,W7TAR 447.7,447.7,-,5,Cross,123,118.8,23,23,NN,FM,5,Teton Amateur Radio Repeater Assoc (TARRA)
-,W7TAR 146.91,146.91,-,0.6,,88.5,88.5,23,23,NN,FM,5,Teton Amateur Radio Repeater Assoc (TARRA)
-,W7TAR 146.73,146.73,-,0.6,Cross,123,118.8,23,23,NN,FM,5,Teton Amateur Radio Repeater Assoc (TARRA)

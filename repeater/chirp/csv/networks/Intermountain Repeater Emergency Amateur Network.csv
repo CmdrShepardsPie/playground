@@ -2,3 +2,4 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCo
 ,WB6CDN 224.82,224.82,-,1.6,Tone,167.9,88.5,23,23,NN,FM,5,Intermountain Repeater Emergency Amateur Network
 ,WB6CDN 224.5,224.5,-,1.6,Tone,167.9,88.5,23,23,NN,FM,5,Intermountain Repeater Emergency Amateur Network
 ,N7TOP 224,224,-,1.6,Tone,167.9,88.5,23,23,NN,FM,5,Intermountain Repeater Emergency Amateur Network
+,WX7Y 224.98,224.98,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"Intermountain Repeater Emergency Amateur Network,  Sinbad Desert ARC"

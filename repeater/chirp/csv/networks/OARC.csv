@@ -1,2 +1,3 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,W7SU 448.575,448.575,-,5,TSQL,100,100,23,23,NN,DIG,5,OARC
+,W7SU 146.9,146.9,-,0.6,DTCS,88.5,88.5,122,122,NN,DIG,5,OARC / VHFS

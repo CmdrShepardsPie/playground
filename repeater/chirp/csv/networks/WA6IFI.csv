@@ -1,3 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,WA6IFI 447.55,447.55,-,5,Tone,123,88.5,23,23,NN,FM,5,WA6IFI
 ,WA6IFI 927.725,927.725,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,WA6IFI
+,WA6IFI 53.13,53.13,-,1.7,TSQL,107.2,107.2,23,23,NN,FM,5,WA6IFI
+,WA6IFI 145.43,145.43,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,WA6IFI

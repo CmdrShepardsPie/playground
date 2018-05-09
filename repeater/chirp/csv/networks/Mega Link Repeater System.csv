@@ -1,2 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,NM5ML 444.8,444.8,+,5,Tone,67,88.5,23,23,NN,FM,5,Mega Link Repeater System

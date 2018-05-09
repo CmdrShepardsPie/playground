@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,WA5IHL 442.25,442.25,+,5,,88.5,88.5,23,23,NN,DIG,5,WA5IHL
+,WA5IHL 444.375,444.375,+,5,Tone,100,88.5,23,23,NN,FM,5,WA5IHL

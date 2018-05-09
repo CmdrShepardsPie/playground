@@ -9,5 +9,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCo
 ,K7SDC 147.06,147.06,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Sinbad Desert ARC
 ,K7SDC 145.31,145.31,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Sinbad Desert ARC
 ,K7SDC 147.08,147.08,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,Sinbad Desert ARC
+,WX7Y 224.98,224.98,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"Intermountain Repeater Emergency Amateur Network,  Sinbad Desert ARC"
 ,WX7Y 147.08,147.08,+,0.6,Tone,77,88.5,23,23,NN,FM,5,Sinbad Desert ARC
 ,WX7Y 223.92,223.92,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,Sinbad Desert ARC
+,W7BYU 145.49,145.49,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,Sinbad Desert ARC (SDARC)

@@ -28,7 +28,7 @@ export function getText(el: Element) {
   return '';
 }
 
-export function wait(ms: number, fn: any) {
+export function wait(ms: number, fn?: any) {
   // console.log('wait', ms);
   return new Promise((resolve, reject) => {
     setTimeout(async () => {

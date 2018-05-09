@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,AC7II 449.65,449.65,-,5,Tone,167.9,88.5,23,23,NN,FM,5,AC7II
+,AC7II 449.65,449.65,-,5,TSQL,100,100,23,23,NN,FM,5,AC7II
+,AC7II 449.25,449.25,-,5,Tone,103.5,88.5,23,23,NN,FM,5,AC7II

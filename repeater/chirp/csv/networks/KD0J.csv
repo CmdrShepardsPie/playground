@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+,KD0J 224.78,224.78,-,1.6,Tone,100,88.5,23,23,NN,FM,5,KD0J
+,KD0J 146.88,146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,KD0J
+,KD0J 449.9,449.9,-,5,Tone,100,88.5,23,23,NN,FM,5,KD0J

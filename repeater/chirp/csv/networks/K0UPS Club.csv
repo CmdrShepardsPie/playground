@@ -1,2 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
 ,KD0RG 449.925,449.925,-,5,TSQL,114.8,114.8,23,23,NN,FM,5,K0UPS Club
+,K0UPS 449.25,449.25,-,5,TSQL,123,123,23,23,NN,FM,5,K0UPS
+,K0UPS 449.25,449.25,-,5,TSQL,123,123,23,23,NN,FM,5,K0UPS Club c/o N1UPS
