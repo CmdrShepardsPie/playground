@@ -1,3 +1,11 @@
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
 (function (factory) {
     if (typeof module === "object" && typeof module.exports === "object") {
         var v = factory(require, exports);
@@ -42,14 +50,14 @@
     function wait(ms, fn) {
         // console.log('wait', ms);
         return new Promise((resolve, reject) => {
-            setTimeout(async () => {
+            setTimeout(() => __awaiter(this, void 0, void 0, function* () {
                 try {
-                    resolve(fn && await fn());
+                    resolve(fn && (yield fn()));
                 }
                 catch (e) {
                     reject(e);
                 }
-            }, ms);
+            }), ms);
         });
     }
     exports.wait = wait;

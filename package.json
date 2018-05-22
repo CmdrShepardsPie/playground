@@ -10,9 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "axios": "~0.18.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
     "csv": "~3.0.2",
+    "d3v4": "^4.2.2",
     "domhandler": "~2.4.1",
     "domutils": "~1.7.0",
     "express": "~4.16.3",

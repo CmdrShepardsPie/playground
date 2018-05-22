@@ -161,7 +161,8 @@ function makeRow(item: any) {
   const isNarrow = Object.entries(item).filter(a => /Narrow/i.test(a[1] as string)).length > 0;
 
   // const Location = 0;
-  const Name = `${item.Call} ${item.Frequency}`;
+  // const name = item.Frequency.toString().replace('.', '');
+  const Name = `${item.Call} ${item.Location} ${item.Frequency.toString().replace('.', '')} `;
   const Frequency = item.Frequency;
   const Duplex = item.Offset > 0 ? '+' : item.Offset < 0 ? '-' : '';
   const Offset = Math.abs(item.Offset);
@@ -236,8 +237,9 @@ function makeRow(item: any) {
   return row;
 }
 
-const count = 128 - 57;
-// const count = 200 - 57;
+// const count = 128 - 57;
+const count = 200 - 57;
+// const count = 300;
 
 const allIndividualFiles = fs.readdir('./repeaters/json')
   .then(files => Promise.all(files.filter(b => /\.json/.test(b)).map(f => {

@@ -1,3 +1,11 @@
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
 (function (factory) {
     if (typeof module === "object" && typeof module.exports === "object") {
         var v = factory(require, exports);
@@ -47,7 +55,7 @@
         _profile = profile;
         done(null, profile);
     }));
-    app.get('/', async (req, res, next) => {
+    app.get('/', (req, res, next) => __awaiter(this, void 0, void 0, function* () {
         const user = req && req.user;
         // console.log('/', req && req.user);
         const urlname = 'ColoradoSprings4wheelers';
@@ -60,7 +68,7 @@
         const pars = Object.entries(params).map(param => `${param[0]}=${param[1]}`).join('&');
         const url = `https://api.meetup.com/members/self?${pars}`;
         console.log('url', url);
-        const events = await axios.get(url);
+        const events = yield axios.get(url);
         // const events = await axios.get<IMeetupEvent[]>(`https://api.meetup.com/${urlname}/events?status=${statuses.join(',')}&photo-host=secure&sign=true&key=5d6735595632314794b567935615f74`);
         const eventid = 247253189;
         // const fields = ['comment_sample'];
@@ -76,7 +84,7 @@
         // }));
         res.send(events.data);
         next();
-    });
+    }));
     app.get('/auth/meetup', passport.authenticate('meetup'));
     app.get('/auth/meetup/callback', passport.authenticate('meetup'), (req, res) => {
         // console.log('/auth/meetup/callback', JSON.stringify(req && req.user, null, 2));

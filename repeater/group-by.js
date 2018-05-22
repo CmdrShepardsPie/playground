@@ -1,3 +1,11 @@
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
 (function (factory) {
     if (typeof module === "object" && typeof module.exports === "object") {
         var v = factory(require, exports);
@@ -39,188 +47,190 @@
         TStep: 5,
         Comment: ''
     };
-    async function combine() {
-        let last = -1;
-        let show = true;
-        const progressInterval = setInterval(() => {
+    function combine() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let last = -1;
+            let show = true;
+            const progressInterval = setInterval(() => {
+                show = true;
+            }, 1000);
+            const aliases = {};
+            const allData = [];
+            console.log('\nGetting directory');
+            const allFiles = (yield fs.readdir('./repeaters/json')).filter(b => /\.json/.test(b));
+            console.log('\nReading files', allFiles);
+            yield Promise.all(allFiles.map((file) => __awaiter(this, void 0, void 0, function* () {
+                const contents = yield fs.readFile(`./repeaters/json/${file}`);
+                const data = JSON.parse(contents.toString());
+                allData.push(...data.map((d) => makeRow(d, 'Sponsor')).filter((d) => !!d.Comment));
+                allData.push(...data.map((d) => makeRow(d, 'Affiliate')).filter((d) => !!d.Comment));
+                allData.push(...data.map((d) => makeRow(d, 'Call')).filter((d) => !!d.Comment));
+            })));
+            last = -1;
             show = true;
-        }, 1000);
-        const aliases = {};
-        const allData = [];
-        console.log('\nGetting directory');
-        const allFiles = (await fs.readdir('./repeaters/json')).filter(b => /\.json/.test(b));
-        console.log('\nReading files', allFiles);
-        await Promise.all(allFiles.map(async (file) => {
-            const contents = await fs.readFile(`./repeaters/json/${file}`);
-            const data = JSON.parse(contents.toString());
-            allData.push(...data.map((d) => makeRow(d, 'Sponsor')).filter((d) => !!d.Comment));
-            allData.push(...data.map((d) => makeRow(d, 'Affiliate')).filter((d) => !!d.Comment));
-            allData.push(...data.map((d) => makeRow(d, 'Call')).filter((d) => !!d.Comment));
-        }));
-        last = -1;
-        show = true;
-        console.log('\nDeduping', allData.length);
-        console.log(`0% (0/${allData.length})`);
-        for (let x = 0; x < allData.length; x++) {
-            const outer = JSON.stringify(allData[x]);
-            for (let y = x + 1; y < allData.length; y++) {
-                if (y === x) {
-                    throw new Error('y === x');
+            console.log('\nDeduping', allData.length);
+            console.log(`0% (0/${allData.length})`);
+            for (let x = 0; x < allData.length; x++) {
+                const outer = JSON.stringify(allData[x]);
+                for (let y = x + 1; y < allData.length; y++) {
+                    if (y === x) {
+                        throw new Error('y === x');
+                    }
+                    const inner = JSON.stringify(allData[y]);
+                    if (inner === outer) {
+                        allData.splice(y, 1);
+                        y -= 1;
+                    }
                 }
-                const inner = JSON.stringify(allData[y]);
-                if (inner === outer) {
-                    allData.splice(y, 1);
-                    y -= 1;
+                yield helper_1.wait(0);
+                if (show) {
+                    const progress = (x / allData.length) * 100;
+                    show = false;
+                    console.log(`${progress.toFixed(4)}% (${x}/${allData.length}) ${x - last} per second`);
+                    last = x;
                 }
             }
-            await helper_1.wait(0);
-            if (show) {
-                const progress = (x / allData.length) * 100;
-                show = false;
-                console.log(`${progress.toFixed(4)}% (${x}/${allData.length}) ${x - last} per second`);
-                last = x;
+            console.log(`100% (${allData.length}/${allData.length})`);
+            last = -1;
+            show = true;
+            console.log('\nMerging Comments', allData.length);
+            console.log(`0% (0/${allData.length})`);
+            for (const data of allData) {
+                const x = allData.indexOf(data);
+                if (!aliases[data.Comment]) {
+                    aliases[data.Comment] = [];
+                }
+                const aliasEntries = Object.entries(aliases);
+                for (const entry of aliasEntries) {
+                    const name = entry[0];
+                    const aliasList = entry[1];
+                    if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
+                        // console.log(`Found alias for ${data.Comment}: ${name}`);
+                        if (aliases[data.Comment].indexOf(data) === -1) {
+                            aliases[data.Comment].push(data);
+                        }
+                        if (aliases[name].indexOf(data) === -1) {
+                            aliases[name].push(data);
+                        }
+                    }
+                }
+                yield helper_1.wait(0);
+                if (show) {
+                    const progress = (x / allData.length) * 100;
+                    show = false;
+                    console.log(`${progress.toFixed(4)}% (${x}/${allData.length}) ${x - last} per second (${aliasEntries.length} aliases)`);
+                    last = x;
+                }
             }
-        }
-        console.log(`100% (${allData.length}/${allData.length})`);
-        last = -1;
-        show = true;
-        console.log('\nMerging Comments', allData.length);
-        console.log(`0% (0/${allData.length})`);
-        for (const data of allData) {
-            const x = allData.indexOf(data);
-            if (!aliases[data.Comment]) {
-                aliases[data.Comment] = [];
+            console.log(`100% (${allData.length}/${allData.length})`);
+            last = -1;
+            show = true;
+            console.log('\nMerging Comments', allData.length);
+            console.log(`0% (0/${allData.length})`);
+            for (const data of allData) {
+                const x = allData.indexOf(data);
+                if (!aliases[data.Comment]) {
+                    aliases[data.Comment] = [];
+                }
+                const aliasEntries = Object.entries(aliases);
+                for (const entry of aliasEntries) {
+                    const name = entry[0];
+                    const aliasList = entry[1];
+                    if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
+                        // console.log(`Found alias for ${data.Comment}: ${name}`);
+                        if (aliases[data.Comment].indexOf(data) === -1) {
+                            aliases[data.Comment].push(data);
+                        }
+                        if (aliases[name].indexOf(data) === -1) {
+                            aliases[name].push(data);
+                        }
+                    }
+                }
+                yield helper_1.wait(0);
+                if (show) {
+                    const progress = (x / allData.length) * 100;
+                    show = false;
+                    console.log(`${progress.toFixed(4)}% (${x}/${allData.length}) ${x - last} per second (${aliasEntries.length} aliases)`);
+                    last = x;
+                }
             }
-            const aliasEntries = Object.entries(aliases);
-            for (const entry of aliasEntries) {
+            console.log(`100% (${allData.length}/${allData.length})`);
+            last = -1;
+            show = true;
+            console.log('\nMerging Comments', allData.length);
+            console.log(`0% (0/${allData.length})`);
+            for (const data of allData) {
+                const x = allData.indexOf(data);
+                if (!aliases[data.Comment]) {
+                    aliases[data.Comment] = [];
+                }
+                const aliasEntries = Object.entries(aliases);
+                for (const entry of aliasEntries) {
+                    const name = entry[0];
+                    const aliasList = entry[1];
+                    if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
+                        // console.log(`Found alias for ${data.Comment}: ${name}`);
+                        if (aliases[data.Comment].indexOf(data) === -1) {
+                            aliases[data.Comment].push(data);
+                        }
+                        if (aliases[name].indexOf(data) === -1) {
+                            aliases[name].push(data);
+                        }
+                    }
+                }
+                yield helper_1.wait(0);
+                if (show) {
+                    const progress = (x / allData.length) * 100;
+                    show = false;
+                    console.log(`${progress.toFixed(4)}% (${x}/${allData.length}) ${x - last} per second (${aliasEntries.length} aliases)`);
+                    last = x;
+                }
+            }
+            console.log(`100% (${allData.length}/${allData.length})`);
+            console.log('\nReducing');
+            const bigData = allData.reduce((prev, next) => {
+                if (!prev[next.Comment]) {
+                    prev[next.Comment] = [];
+                }
+                prev[next.Comment].push(next);
+                return prev;
+            }, {});
+            // console.log('\nGrouping');
+            //
+            // const groups = aliases; // Object.entries(bigData).map(entry => ({ name: entry[0], count: (entry[1] as any).length }));
+            //
+            // console.log('\nSorting');
+            //
+            // groups.sort((a: any, b: any) => b.length - a.length);
+            //
+            // console.log(groups);
+            const options = {
+                header: true
+            };
+            console.log('\nSaving');
+            if (!(yield fs.exists(`chirp/csv/networks/`))) {
+                yield fs.mkdir(`chirp/csv/networks/`);
+            }
+            if (!(yield fs.exists(`chirp/json/networks/`))) {
+                yield fs.mkdir(`chirp/json/networks/`);
+            }
+            yield Promise.all(Object.entries(aliases).map((entry) => __awaiter(this, void 0, void 0, function* () {
                 const name = entry[0];
-                const aliasList = entry[1];
-                if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
-                    // console.log(`Found alias for ${data.Comment}: ${name}`);
-                    if (aliases[data.Comment].indexOf(data) === -1) {
-                        aliases[data.Comment].push(data);
-                    }
-                    if (aliases[name].indexOf(data) === -1) {
-                        aliases[name].push(data);
-                    }
+                const list = entry[1];
+                if (list.length > 1) {
+                    console.log(`Generating ${name}`);
+                    const csv = yield stringifyAsync(list, options);
+                    console.log(` Writing ${name}`);
+                    yield Promise.all([
+                        fs.writeFile(`chirp/csv/networks/${name.replace(/\//g, ' ')}.csv`, csv),
+                        fs.writeFile(`chirp/json/networks/${name.replace(/\//g, ' ')}.json`, JSON.stringify(list))
+                    ]);
+                    console.log(`  Finished ${name}`);
                 }
-            }
-            await helper_1.wait(0);
-            if (show) {
-                const progress = (x / allData.length) * 100;
-                show = false;
-                console.log(`${progress.toFixed(4)}% (${x}/${allData.length}) ${x - last} per second (${aliasEntries.length} aliases)`);
-                last = x;
-            }
-        }
-        console.log(`100% (${allData.length}/${allData.length})`);
-        last = -1;
-        show = true;
-        console.log('\nMerging Comments', allData.length);
-        console.log(`0% (0/${allData.length})`);
-        for (const data of allData) {
-            const x = allData.indexOf(data);
-            if (!aliases[data.Comment]) {
-                aliases[data.Comment] = [];
-            }
-            const aliasEntries = Object.entries(aliases);
-            for (const entry of aliasEntries) {
-                const name = entry[0];
-                const aliasList = entry[1];
-                if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
-                    // console.log(`Found alias for ${data.Comment}: ${name}`);
-                    if (aliases[data.Comment].indexOf(data) === -1) {
-                        aliases[data.Comment].push(data);
-                    }
-                    if (aliases[name].indexOf(data) === -1) {
-                        aliases[name].push(data);
-                    }
-                }
-            }
-            await helper_1.wait(0);
-            if (show) {
-                const progress = (x / allData.length) * 100;
-                show = false;
-                console.log(`${progress.toFixed(4)}% (${x}/${allData.length}) ${x - last} per second (${aliasEntries.length} aliases)`);
-                last = x;
-            }
-        }
-        console.log(`100% (${allData.length}/${allData.length})`);
-        last = -1;
-        show = true;
-        console.log('\nMerging Comments', allData.length);
-        console.log(`0% (0/${allData.length})`);
-        for (const data of allData) {
-            const x = allData.indexOf(data);
-            if (!aliases[data.Comment]) {
-                aliases[data.Comment] = [];
-            }
-            const aliasEntries = Object.entries(aliases);
-            for (const entry of aliasEntries) {
-                const name = entry[0];
-                const aliasList = entry[1];
-                if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
-                    // console.log(`Found alias for ${data.Comment}: ${name}`);
-                    if (aliases[data.Comment].indexOf(data) === -1) {
-                        aliases[data.Comment].push(data);
-                    }
-                    if (aliases[name].indexOf(data) === -1) {
-                        aliases[name].push(data);
-                    }
-                }
-            }
-            await helper_1.wait(0);
-            if (show) {
-                const progress = (x / allData.length) * 100;
-                show = false;
-                console.log(`${progress.toFixed(4)}% (${x}/${allData.length}) ${x - last} per second (${aliasEntries.length} aliases)`);
-                last = x;
-            }
-        }
-        console.log(`100% (${allData.length}/${allData.length})`);
-        console.log('\nReducing');
-        const bigData = allData.reduce((prev, next) => {
-            if (!prev[next.Comment]) {
-                prev[next.Comment] = [];
-            }
-            prev[next.Comment].push(next);
-            return prev;
-        }, {});
-        // console.log('\nGrouping');
-        //
-        // const groups = aliases; // Object.entries(bigData).map(entry => ({ name: entry[0], count: (entry[1] as any).length }));
-        //
-        // console.log('\nSorting');
-        //
-        // groups.sort((a: any, b: any) => b.length - a.length);
-        //
-        // console.log(groups);
-        const options = {
-            header: true
-        };
-        console.log('\nSaving');
-        if (!(await fs.exists(`chirp/csv/networks/`))) {
-            await fs.mkdir(`chirp/csv/networks/`);
-        }
-        if (!(await fs.exists(`chirp/json/networks/`))) {
-            await fs.mkdir(`chirp/json/networks/`);
-        }
-        await Promise.all(Object.entries(aliases).map(async (entry) => {
-            const name = entry[0];
-            const list = entry[1];
-            if (list.length > 1) {
-                console.log(`Generating ${name}`);
-                const csv = await stringifyAsync(list, options);
-                console.log(` Writing ${name}`);
-                await Promise.all([
-                    fs.writeFile(`chirp/csv/networks/${name.replace(/\//g, ' ')}.csv`, csv),
-                    fs.writeFile(`chirp/json/networks/${name.replace(/\//g, ' ')}.json`, JSON.stringify(list))
-                ]);
-                console.log(`  Finished ${name}`);
-            }
-        }));
-        console.log(`Saved`);
-        clearInterval(progressInterval);
+            })));
+            console.log(`Saved`);
+            clearInterval(progressInterval);
+        });
     }
     function makeRow(item, comment) {
         const DTCS = /D(\d+)/;
@@ -282,8 +292,7 @@
         rToneFreq = rToneFreq || 88.5;
         DtcsCode = DtcsCode || 23;
         DtcsRxCode = DtcsRxCode || 23;
-        const row = {
-            ...repeater,
+        const row = Object.assign({}, repeater, { 
             // Location,
             Name,
             Frequency,
@@ -295,8 +304,7 @@
             DtcsRxCode,
             Tone,
             Mode,
-            Comment
-        };
+            Comment });
         return row;
     }
     exports.default = combine();
