@@ -1,8 +1,8 @@
-import * as _csv from 'csv';
-import * as _fs from 'fs';
-import { promisify } from 'util';
-import { save } from './get-repeaters';
-import { IObject, wait } from './helper';
+import * as _csv from "csv";
+import * as _fs from "fs";
+import { promisify } from "util";
+import { save } from "./get-repeaters";
+import { IObject, wait } from "./helper";
 // import * as data from './repeaters/json/Denver, CO.json';
 
 const fs = {
@@ -10,7 +10,7 @@ const fs = {
   writeFile: promisify(_fs.writeFile),
   readFile: promisify(_fs.readFile),
   readdir: promisify(_fs.readdir),
-  mkdir: promisify(_fs.mkdir)
+  mkdir: promisify(_fs.mkdir),
 };
 
 const parseAsync = promisify(_csv.parse);
@@ -35,20 +35,20 @@ interface IRepeater {
 }
 
 const repeater = {
-  Location: '',
-  Name: '',
-  Frequency: '',
-  Duplex: '',
-  Offset: '',
-  Tone: '',
-  rToneFreq: '',
-  cToneFreq: '',
-  DtcsCode: '',
-  DtcsRxCode: '',
-  DtcsPolarity: 'NN',
-  Mode: 'FM',
+  Location: "",
+  Name: "",
+  Frequency: "",
+  Duplex: "",
+  Offset: "",
+  Tone: "",
+  rToneFreq: "",
+  cToneFreq: "",
+  DtcsCode: "",
+  DtcsRxCode: "",
+  DtcsPolarity: "NN",
+  Mode: "FM",
   TStep: 5,
-  Comment: ''
+  Comment: "",
 };
 
 async function combine() {
@@ -61,30 +61,30 @@ async function combine() {
   const aliases: any = {};
   const allData: any[] = [];
 
-  console.log('\nGetting directory');
+  console.log("\nGetting directory");
 
-  const allFiles = (await fs.readdir('./repeaters/json')).filter(b => /\.json/.test(b));
+  const allFiles = (await fs.readdir("./repeaters/json")).filter((b) => /\.json/.test(b));
 
-  console.log('\nReading files', allFiles);
+  console.log("\nReading files", allFiles);
 
-  await Promise.all(allFiles.map(async file => {
+  await Promise.all(allFiles.map(async (file) => {
     const contents = await fs.readFile(`./repeaters/json/${file}`);
     const data = JSON.parse(contents.toString());
 
-    allData.push(...data.map((d: any) => makeRow(d, 'Sponsor')).filter((d: any) => !!d.Comment));
-    allData.push(...data.map((d: any) => makeRow(d, 'Affiliate')).filter((d: any) => !!d.Comment));
-    allData.push(...data.map((d: any) => makeRow(d, 'Call')).filter((d: any) => !!d.Comment));
+    allData.push(...data.map((d: any) => makeRow(d, "Sponsor")).filter((d: any) => !!d.Comment));
+    allData.push(...data.map((d: any) => makeRow(d, "Affiliate")).filter((d: any) => !!d.Comment));
+    allData.push(...data.map((d: any) => makeRow(d, "Call")).filter((d: any) => !!d.Comment));
   }));
 
   last = -1;
   show = true;
-  console.log('\nDeduping', allData.length);
+  console.log("\nDeduping", allData.length);
   console.log(`0% (0/${allData.length})`);
   for (let x = 0; x < allData.length; x++) {
     const outer = JSON.stringify(allData[x]);
     for (let y = x + 1; y < allData.length; y++) {
       if (y === x) {
-        throw new Error('y === x');
+        throw new Error("y === x");
       }
       const inner = JSON.stringify(allData[y]);
       if (inner === outer) {
@@ -104,7 +104,7 @@ async function combine() {
 
   last = -1;
   show = true;
-  console.log('\nMerging Comments', allData.length);
+  console.log("\nMerging Comments", allData.length);
   console.log(`0% (0/${allData.length})`);
   for (const data of allData) {
     const x = allData.indexOf(data);
@@ -116,7 +116,7 @@ async function combine() {
     for (const entry of aliasEntries) {
       const name = entry[0];
       const aliasList = entry[1];
-      if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
+      if (data.Comment && name && (new RegExp(name, "i").test(data.Comment) || new RegExp(data.Comment, "i").test(name))) {
         // console.log(`Found alias for ${data.Comment}: ${name}`);
         if (aliases[data.Comment].indexOf(data) === -1) {
           aliases[data.Comment].push(data);
@@ -138,7 +138,7 @@ async function combine() {
 
   last = -1;
   show = true;
-  console.log('\nMerging Comments', allData.length);
+  console.log("\nMerging Comments", allData.length);
   console.log(`0% (0/${allData.length})`);
   for (const data of allData) {
     const x = allData.indexOf(data);
@@ -150,7 +150,7 @@ async function combine() {
     for (const entry of aliasEntries) {
       const name = entry[0];
       const aliasList = entry[1];
-      if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
+      if (data.Comment && name && (new RegExp(name, "i").test(data.Comment) || new RegExp(data.Comment, "i").test(name))) {
         // console.log(`Found alias for ${data.Comment}: ${name}`);
         if (aliases[data.Comment].indexOf(data) === -1) {
           aliases[data.Comment].push(data);
@@ -172,7 +172,7 @@ async function combine() {
 
   last = -1;
   show = true;
-  console.log('\nMerging Comments', allData.length);
+  console.log("\nMerging Comments", allData.length);
   console.log(`0% (0/${allData.length})`);
   for (const data of allData) {
     const x = allData.indexOf(data);
@@ -184,7 +184,7 @@ async function combine() {
     for (const entry of aliasEntries) {
       const name = entry[0];
       const aliasList = entry[1];
-      if (data.Comment && name && (new RegExp(name, 'i').test(data.Comment) || new RegExp(data.Comment, 'i').test(name))) {
+      if (data.Comment && name && (new RegExp(name, "i").test(data.Comment) || new RegExp(data.Comment, "i").test(name))) {
         // console.log(`Found alias for ${data.Comment}: ${name}`);
         if (aliases[data.Comment].indexOf(data) === -1) {
           aliases[data.Comment].push(data);
@@ -204,7 +204,7 @@ async function combine() {
   }
   console.log(`100% (${allData.length}/${allData.length})`);
 
-  console.log('\nReducing');
+  console.log("\nReducing");
 
   const bigData = allData.reduce((prev, next) => {
     if (!prev[next.Comment]) {
@@ -225,10 +225,10 @@ async function combine() {
   // console.log(groups);
 
   const options = {
-    header: true
+    header: true,
   };
 
-  console.log('\nSaving');
+  console.log("\nSaving");
 
   if (!(await fs.exists(`chirp/csv/networks/`))) {
     await fs.mkdir(`chirp/csv/networks/`);
@@ -237,7 +237,7 @@ async function combine() {
     await fs.mkdir(`chirp/json/networks/`);
   }
 
-  await Promise.all(Object.entries(aliases).map(async entry => {
+  await Promise.all(Object.entries(aliases).map(async (entry) => {
 
     const name = entry[0];
     const list = entry[1] as any[];
@@ -246,8 +246,8 @@ async function combine() {
       const csv = await stringifyAsync(list, options);
       console.log(` Writing ${name}`);
       await Promise.all([
-        fs.writeFile(`chirp/csv/networks/${name.replace(/\//g, ' ')}.csv`, csv),
-        fs.writeFile(`chirp/json/networks/${name.replace(/\//g, ' ')}.json`, JSON.stringify(list))
+        fs.writeFile(`chirp/csv/networks/${name.replace(/\//g, " ")}.csv`, csv),
+        fs.writeFile(`chirp/json/networks/${name.replace(/\//g, " ")}.json`, JSON.stringify(list)),
       ]);
       console.log(`  Finished ${name}`);
     }
@@ -259,59 +259,59 @@ async function combine() {
 function makeRow(item: any, comment: string) {
   const DTCS = /D(\d+)/;
 
-  const isDigital = Object.entries(item).filter(a => /Enabled/.test(a[0])).length > 0;
-  const isNarrow = Object.entries(item).filter(a => /Narrow/i.test(a[1] as string)).length > 0;
+  const isDigital = Object.entries(item).filter((a) => /Enabled/.test(a[0])).length > 0;
+  const isNarrow = Object.entries(item).filter((a) => /Narrow/i.test(a[1] as string)).length > 0;
 
   // const Location = 0;
   const Name = `${item.Call} ${item.Frequency}`;
   const Frequency = item.Frequency;
-  const Duplex = item.Offset > 0 ? '+' : item.Offset < 0 ? '-' : '';
+  const Duplex = item.Offset > 0 ? "+" : item.Offset < 0 ? "-" : "";
   const Offset = Math.abs(item.Offset);
-  const UplinkTone = item['Uplink Tone'] || item.Tone;
-  const DownlinkTone = item['Downlink Tone'];
-  let cToneFreq: any = '';
-  let rToneFreq: any = '';
-  let DtcsCode: any = '';
-  let DtcsRxCode: any = '';
-  let Tone = '';
-  const Mode = isDigital ? 'DIG' : isNarrow ? 'NFM' : 'FM';
+  const UplinkTone = item["Uplink Tone"] || item.Tone;
+  const DownlinkTone = item["Downlink Tone"];
+  let cToneFreq: any = "";
+  let rToneFreq: any = "";
+  let DtcsCode: any = "";
+  let DtcsRxCode: any = "";
+  let Tone = "";
+  const Mode = isDigital ? "DIG" : isNarrow ? "NFM" : "FM";
   const Comment = item[comment];
 
-  if (typeof UplinkTone === 'number') {
+  if (typeof UplinkTone === "number") {
     rToneFreq = UplinkTone;
-    Tone = 'Tone';
+    Tone = "Tone";
   } else {
     const d = DTCS.exec(UplinkTone);
     if (d && d[1]) {
       const n = parseInt(d[1], 10);
       if (!isNaN(n)) {
         DtcsCode = n;
-        Tone = 'DTCS';
+        Tone = "DTCS";
       }
     }
   }
 
-  if (typeof DownlinkTone === 'number') {
+  if (typeof DownlinkTone === "number") {
     cToneFreq = DownlinkTone;
-    Tone = 'TSQL';
+    Tone = "TSQL";
   } else {
     const d = DTCS.exec(DownlinkTone);
     if (d && d[1]) {
       const n = parseInt(d[1], 10);
       if (!isNaN(n)) {
         DtcsRxCode = n;
-        Tone = 'DTCS';
+        Tone = "DTCS";
       }
     }
   }
 
-  if (Tone === 'TSQL' && rToneFreq !== cToneFreq) {
+  if (Tone === "TSQL" && rToneFreq !== cToneFreq) {
     if (!rToneFreq) {
       // console.log('No rToneFreq', Name, Frequency, rToneFreq, cToneFreq, Comment);
       // Tone = '';
     } else {
       // console.log('Cross', Name, Frequency, rToneFreq, cToneFreq, Comment);
-      Tone = 'Cross';
+      Tone = "Cross";
     }
   }
 
@@ -333,7 +333,7 @@ function makeRow(item: any, comment: string) {
     DtcsRxCode,
     Tone,
     Mode,
-    Comment
+    Comment,
   };
   return row;
 }

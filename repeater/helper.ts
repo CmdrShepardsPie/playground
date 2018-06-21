@@ -1,3 +1,14 @@
+import * as _fs from "fs";
+import { promisify } from "util";
+
+export const fs = {
+  exists: promisify(_fs.exists),
+  mkdir: promisify(_fs.mkdir),
+  readFile: promisify(_fs.readFile),
+  readdir: promisify(_fs.readdir),
+  writeFile: promisify(_fs.writeFile),
+};
+
 export function getTextOrNumber(el: Element) {
   const value = getText(el);
   const num = getNumber(value);
@@ -20,12 +31,12 @@ export function getText(el: Element) {
   if (el) {
     let text: string = el.innerHTML;
     if (text) {
-      text = text.replace(/<script>.*<\/script>/g, ' ');
-      text = text.replace(/<[^>]*>/g, ' ');
+      text = text.replace(/<script>.*<\/script>/g, " ");
+      text = text.replace(/<[^>]*>/g, " ");
       return text.trim();
     }
   }
-  return '';
+  return "";
 }
 
 export function wait(ms: number, fn?: any) {
@@ -39,6 +50,32 @@ export function wait(ms: number, fn?: any) {
       }
     }, ms);
   });
+}
+
+export async function makeDirs(path: string) {
+  let tempPath = `.`;
+  for (const dir of path.split(`/`)) {
+    if (/\./.test(dir)) {
+      break;
+    }
+    tempPath = `${tempPath}/${dir}`;
+    if (!(await fs.exists(tempPath))) {
+      await fs.mkdir(tempPath);
+    }
+  }
+}
+
+export async function dirExists(path: string) {
+  let tempPath = `.`;
+  let exists = true;
+  for (const dir of path.split(`/`)) {
+    tempPath = `${tempPath}/${dir}`;
+    exists = await fs.exists(tempPath);
+    if (!exists) {
+      break;
+    }
+  }
+  return exists;
 }
 
 export interface IObject<T> {

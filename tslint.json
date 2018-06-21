@@ -1,29 +1,5 @@
 {
   "extends": [
-    "tslint-eslint-rules",
-    "tslint:latest",
-    "tslint-config-standard"
-  ],
-  "rules": {
-    "semicolon": [true, "always"],
-    "space-before-function-paren": [true, {
-      "anonymous": "always",
-      "named": "never",
-      "asyncArrow": "always"
-    }],
-    "object-literal-sort-keys": false,
-    "ordered-imports": false,
-    "no-console": false,
-    "no-multi-spaces": false,
-    "no-debugger": false,
-    "import-spacing": false,
-    "no-submodule-imports": false,
-    "trailing-comma": false,
-    "no-implicit-dependencies": false,
-    "no-object-literal-type-assertion": false,
-    "arrow-parens": false,
-    "no-unused-variable": false,
-    "max-line-length": [false],
-    "await-promise": false
-  }
+    "tslint:recommended"
+  ]
 }

@@ -1,11 +1,11 @@
-const thing = document.querySelector<HTMLDivElement>('#thing');
-const text = document.querySelector<HTMLDivElement>('#text');
+const thing = document.querySelector<HTMLDivElement>("#thing");
+const text = document.querySelector<HTMLDivElement>("#text");
 const fps = 30;
 const fpsMs = 1000 / fps;
 const maxValue = 100;
 const seconds = 300;
 const incrementPerFrame = maxValue / fps / seconds;
-console.log('fps', fps, 'fps_ms', fpsMs, 'seconds', seconds, 'incrementPerFrame', incrementPerFrame);
+console.log("fps", fps, "fps_ms", fpsMs, "seconds", seconds, "incrementPerFrame", incrementPerFrame);
 let last = 0;
 let currentTime = 0;
 const int = setInterval(() => {
@@ -17,7 +17,7 @@ const int = setInterval(() => {
     clearInterval(int);
     last = maxValue;
     doAnimation();
-    console.log('done');
+    console.log("done");
   }
 }, fpsMs);
 

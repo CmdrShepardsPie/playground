@@ -1,7 +1,7 @@
-import ICommandOutput from './i.command-output';
-import { Subject } from 'rxjs/Subject';
-import { Observable } from 'rxjs/Observable';
-import 'rxjs/add/operator/share';
+import "rxjs/add/operator/share";
+import { Observable } from "rxjs/Observable";
+import { Subject } from "rxjs/Subject";
+import ICommandOutput from "./i.command-output";
 
 export default abstract class CommandOutput<OutType> implements ICommandOutput<OutType> {
   // protected subject: Subject<OutType>;

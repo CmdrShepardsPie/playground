@@ -1,12 +1,12 @@
 // tslint:disable:max-classes-per-file
 
-import ICommandOutput from './i.command-output';
-import ICommandLink from './i.command-link';
-import CommandInput from './command-input';
-import CommandOutput from './command-output';
-import { Observable } from 'rxjs/Observable';
-import { Subscription } from 'rxjs/Subscription';
-import { Subject } from 'rxjs/Subject';
+import { Observable } from "rxjs/Observable";
+import { Subject } from "rxjs/Subject";
+import { Subscription } from "rxjs/Subscription";
+import CommandInput from "./command-input";
+import CommandOutput from "./command-output";
+import ICommandLink from "./i.command-link";
+import ICommandOutput from "./i.command-output";
 
 export default abstract class CommandLink<InType, OutType = InType> implements ICommandLink<InType, OutType> {
   protected subject: Subject<OutType> = new Subject();

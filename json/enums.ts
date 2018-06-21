@@ -21,16 +21,16 @@ export enum Commands {
   Select,
   Back,
   Exit,
-  Reset
+  Reset,
 }
 
 type Keys = number;
-import * as Keys from './keycodes.json';
+import * as Keys from "./keycodes.json";
 // "Invert" the key/val pair so we can do a reverse lookup
-Object.entries(Keys).forEach(entry => {
+Object.entries(Keys).forEach((entry) => {
   const key = entry[0].toString();
   const val = entry[1].toString();
-  if (!Keys[val] || (typeof Keys[val] === 'string' && Keys[val].length > key.length)) {
+  if (!Keys[val] || (typeof Keys[val] === "string" && Keys[val].length > key.length)) {
     Keys[val] = key;
   }
 });

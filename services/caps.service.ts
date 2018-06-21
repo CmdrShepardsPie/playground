@@ -1,4 +1,4 @@
-import CommandLink from './abstract/command-link';
+import CommandLink from "./abstract/command-link";
 
 export default class CapsService extends CommandLink<string> {
   protected listen(value: string): void {

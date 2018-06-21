@@ -1,33 +1,21 @@
-(function (factory) {
-    if (typeof module === "object" && typeof module.exports === "object") {
-        var v = factory(require, exports);
-        if (v !== undefined) module.exports = v;
-    }
-    else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "./services/key.service", "./services/caps.service", "./services/output.service", "./services/number.service", "./services/string.service"], factory);
-    }
-})(function (require, exports) {
-    "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
-    const key_service_1 = require("./services/key.service");
-    const caps_service_1 = require("./services/caps.service");
-    const output_service_1 = require("./services/output.service");
-    const number_service_1 = require("./services/number.service");
-    const string_service_1 = require("./services/string.service");
-    const keys = new key_service_1.default();
-    const outputs = new output_service_1.default();
-    outputs.use(keys);
-    // outputs.clear();
-    const caps = new caps_service_1.default();
-    caps.use(keys);
-    outputs.use(caps);
-    const numbers = new number_service_1.default();
-    const strings = new string_service_1.default();
-    numbers.use(keys);
-    strings.use(numbers);
-    outputs.use(strings);
-    const map = new Map();
-});
+import CapsService from "./services/caps.service";
+import KeyService from "./services/key.service";
+import NumberService from "./services/number.service";
+import OutputService from "./services/output.service";
+import StringService from "./services/string.service";
+const keys = new KeyService();
+const outputs = new OutputService();
+outputs.use(keys);
+// outputs.clear();
+const caps = new CapsService();
+caps.use(keys);
+outputs.use(caps);
+const numbers = new NumberService();
+const strings = new StringService();
+numbers.use(keys);
+strings.use(numbers);
+outputs.use(strings);
+const map = new Map();
 // import { Commands, Keys } from './json/enums';
 // import * as config  from './json/somefile.json';
 //

@@ -1,4 +1,4 @@
-import CommandOutput from './abstract/command-output';
+import CommandOutput from "./abstract/command-output";
 
 export default class KeyService extends CommandOutput<string> {
   constructor() {
@@ -15,12 +15,12 @@ export default class KeyService extends CommandOutput<string> {
       stdin.resume();
 
       // i don't want binary, do you?
-      stdin.setEncoding('utf8');
+      stdin.setEncoding("utf8");
 
       // on any data into stdin
-      stdin.on('data', key => {
+      stdin.on("data", (key) => {
         // ctrl-c ( end of text )
-        if (key === '\u0003') {
+        if (key === "\u0003") {
           process.exit();
         }
         this.emit(key);

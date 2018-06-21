@@ -1,9 +1,9 @@
-import KeyService from './services/key.service';
-import CapsService from './services/caps.service';
-import OutputService from './services/output.service';
-import NumberService from './services/number.service';
-import StringService from './services/string.service';
-import { Commands, Keys } from './json/enums';
+import { Commands, Keys } from "./json/enums";
+import CapsService from "./services/caps.service";
+import KeyService from "./services/key.service";
+import NumberService from "./services/number.service";
+import OutputService from "./services/output.service";
+import StringService from "./services/string.service";
 
 const keys = new KeyService();
 const outputs = new OutputService();

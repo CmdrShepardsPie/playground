@@ -1,7 +1,7 @@
 function LockThat() {
-  return function (target: any, propertyKey: string, descriptor: PropertyDescriptor) {
+  return function(target: any, propertyKey: string, descriptor: PropertyDescriptor) {
     const d = Object.getOwnPropertyNames(target);
-    console.log('props', d);
+    console.log("props", d);
 
   };
 }
@@ -16,12 +16,12 @@ function LockThis<T extends { new(...args: any[]): {} }>(constructor: T) {
     }
   };
   const proto = constructor.prototype;
-  Object.getOwnPropertyNames(proto).forEach(key => {
-    if (key === 'constructor') {
+  Object.getOwnPropertyNames(proto).forEach((key) => {
+    if (key === "constructor") {
       return;
     }
     const descriptor = Object.getOwnPropertyDescriptor(proto, key);
-    if (descriptor && typeof descriptor.value === 'function') {
+    if (descriptor && typeof descriptor.value === "function") {
       const original = descriptor.value;
       locker.prototype[key] = (...a: any[]) => original.apply(self, a);
     }
@@ -31,16 +31,15 @@ function LockThis<T extends { new(...args: any[]): {} }>(constructor: T) {
 
 @LockThis
 class Something {
-  private foo = 'bar';
+  private foo = "bar";
 
   public doIt(someVar?: string) {
-    return this.foo + ' ' + someVar;
+    return this.foo + " " + someVar;
   }
 }
 
 // const something = new Something();
 // console.log(something.doIt.call({}, 'test'));
-
 
 //
 // console.log('Something', Something);
@@ -60,8 +59,8 @@ class Something {
 
 @LockThis
 abstract class Blah {
-  protected something = 'blah';
-  protected other = 'hello';
+  protected something = "blah";
+  protected other = "hello";
   public saySomething() {
     return this.something;
   }
@@ -72,11 +71,11 @@ abstract class Blah {
 
 @LockThis
 class Spoon extends Blah {
-  protected something = 'cow';
+  protected something = "cow";
   public saySomething() {
-    return this.something + ' ' + this.otherThing.call({});
+    return this.something + " " + this.otherThing.call({});
   }
 }
 
 const its = new Spoon();
-console.log('its', its.saySomething.call({}));
+console.log("its", its.saySomething.call({}));

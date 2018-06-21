@@ -1,13 +1,13 @@
-import * as _csv from 'csv';
-import * as _fs from 'fs';
-import { promisify } from 'util';
+import * as _csv from "csv";
+import * as _fs from "fs";
+import { promisify } from "util";
 
 const fs = {
   exists: promisify(_fs.exists),
   writeFile: promisify(_fs.writeFile),
   readFile: promisify(_fs.readFile),
   readdir: promisify(_fs.readdir),
-  mkdir: promisify(_fs.mkdir)
+  mkdir: promisify(_fs.mkdir),
 };
 
 const parseAsync = promisify(_csv.parse);
@@ -38,24 +38,24 @@ interface IStation {
 
 const baseChirp: IChirp = {
   Location: -1,
-  Name: '',
+  Name: "",
   Frequency: 0,
-  Duplex: '',
+  Duplex: "",
   Offset: 0,
-  Tone: '',
+  Tone: "",
   rToneFreq: 88.5,
   cToneFreq: 88.5,
   DtcsCode: 23,
   DtcsRxCode: 23,
-  DtcsPolarity: 'NN',
-  Mode: 'FM',
+  DtcsPolarity: "NN",
+  Mode: "FM",
   TStep: 5,
-  Comment: ''
+  Comment: "",
 };
 
-export default fs.readdir('./')
-  .then(async files => {
-    const contents = await Promise.all(files.filter(b => /\.json/.test(b)).map(f => fs.readFile(`./${f}`)));
+export default fs.readdir("./")
+  .then(async (files) => {
+    const contents = await Promise.all(files.filter((b) => /\.json/.test(b)).map((f) => fs.readFile(`./${f}`)));
     const data: IStation[] = contents.reduce((prev, next) => {
       return [ ...prev, ...JSON.parse(next.toString()) ];
     }, [] as IStation[]);
@@ -68,17 +68,17 @@ export default fs.readdir('./')
         lastFreq = freqRound;
         lastIndex = i;
       }
-      let shortIndex = ((i - lastIndex) + 1).toString();
+      const shortIndex = ((i - lastIndex) + 1).toString();
       // if (shortIndex.length > 1) {
       //   shortIndex = shortIndex[1];
       // }
-      const name = station.Frequency.toString().replace('.', '');
+      const name = station.Frequency.toString().replace(".", "");
       const Name = `${name}`;
       const chirp: IChirp = {
         ...baseChirp,
         Location: i,
         Frequency: station.Frequency,
-        Name: `${station.Name ? station.Name.substring(0, 1) : shortIndex} ${Name}`
+        Name: `${station.Name ? station.Name.substring(0, 1) : shortIndex} ${Name}`,
       };
       return chirp;
     });
