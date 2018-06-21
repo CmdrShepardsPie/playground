@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N1UPS 449.3,449.3,-,5,Tone,100,88.5,23,23,NN,FM,5,N1UPS
-,K0UPS 449.25,449.25,-,5,TSQL,123,123,23,23,NN,FM,5,K0UPS Club c/o N1UPS

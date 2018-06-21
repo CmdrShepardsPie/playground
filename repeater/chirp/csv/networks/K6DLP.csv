@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K6DLP 448.275,448.275,-,5,,88.5,88.5,23,23,NN,FM,5,K6DLP
-,K6DLP 223.84,223.84,-,1.6,Tone,107.2,88.5,23,23,NN,FM,5,K6DLP
-,K6DLP 447.7,447.7,-,5,,88.5,88.5,23,23,NN,FM,5,K6DLP

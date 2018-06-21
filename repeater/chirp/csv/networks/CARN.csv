@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,WR0AEN 449,449,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,CARN
-,WR0AEN 449.325,449.325,-,5,Tone,136.5,88.5,23,23,NN,DIG,5,Colorado Amateur Repeater Network (CARN)
-,WR0AEN 449.65,449.65,-,5,Tone,136.5,88.5,23,23,NN,DIG,5,Colorado Amateur Repeater Network (CARN)
-,WR0AEN 449.675,449.675,-,5,Tone,136.5,88.5,23,23,NN,DIG,5,Colorado Amateur Repeater Network (CARN)
-,WR0AEN 449.15,449.15,-,5,Tone,136.5,88.5,23,23,NN,DIG,5,Colorado Amateur Repeater Network (CARN)

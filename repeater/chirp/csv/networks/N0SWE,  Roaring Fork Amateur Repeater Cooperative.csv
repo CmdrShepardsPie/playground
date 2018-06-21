@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N0SWE 146.76,146.76,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,"N0SWE,  Roaring Fork Amateur Repeater Cooperative"
-,N0SWE 146.76,146.76,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,N0SWE
-,K0VQ 447.05,447.05,-,5,TSQL,136.5,136.5,23,23,NN,FM,5,Roaring Fork Amateur Repeater Cooperative
-,K0VQ 147.3,147.3,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Roaring Fork Amateur Repeater Cooperative
-,K0SNO 147.39,147.39,+,0.6,Tone,107.2,88.5,23,23,NN,FM,5,Roaring Fork Amateur Repeater Cooperative

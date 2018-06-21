@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K1TJ 1283.55,1283.55,-,20,Tone,100,88.5,23,23,NN,FM,5,K1TJ Repeater System
-,K1TJ 927.95,927.95,-,25,TSQL,100,100,23,23,NN,FM,5,K1TJ Repeater System
-,K1TJ 1283.55,1283.55,-,20,Tone,100,88.5,23,23,NN,FM,5,K1TJ
-,K1TJ 927.95,927.95,-,25,TSQL,100,100,23,23,NN,FM,5,K1TJ

@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,W0CRA 145.46,145.46,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,CRA VHF Link System
-,W0CRA 147.225,147.225,+,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,CRA VHF Link System
-,W0CRA 145.16,145.16,-,0.6,TSQL,107.2,107.2,23,23,NN,FM,5,CRA VHF Link System

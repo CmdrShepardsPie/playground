@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,AA0L 147.135,147.135,+,0.6,Tone,100,88.5,23,23,NN,FM,5,AA0L
-,AA0L 448.3,448.3,-,5,Tone,100,88.5,23,23,NN,FM,5,AA0L

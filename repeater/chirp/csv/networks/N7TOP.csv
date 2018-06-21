@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N7TOP 449.775,449.775,-,5,Tone,123,88.5,23,23,NN,FM,5,N7TOP
-,N7TOP 448.775,448.775,-,5,Tone,123,88.5,23,23,NN,FM,5,N7TOP
-,N7TOP 447.775,447.775,-,5,Tone,123,88.5,23,23,NN,FM,5,N7TOP
-,N7TOP 224,224,-,1.6,Tone,167.9,88.5,23,23,NN,FM,5,N7TOP
-,N7TOP 146.92,146.92,-,0.6,Tone,123,88.5,23,23,NN,FM,5,N7TOP

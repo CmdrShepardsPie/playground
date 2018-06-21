@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KB0SRJ 145.265,145.265,-,0.6,TSQL,100,100,23,23,NN,DIG,5,Pikes Peak FM Association
-,KB0SRJ 146.97,146.97,-,0.6,Cross,100,123,23,23,NN,FM,5,Pikes Peak FM Assoc
-,KB0SRJ 224.06,224.06,-,1.6,,88.5,88.5,23,23,NN,FM,5,Pikes Peak FM Association (PPFMA)
-,KB0SRJ 448.8,448.8,-,5,TSQL,100,100,23,23,NN,DIG,5,Pikes Peak FM Assoc

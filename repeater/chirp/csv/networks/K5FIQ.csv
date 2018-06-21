@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K5FIQ 449.55,449.55,-,5,Tone,71.9,88.5,23,23,NN,FM,5,K5FIQ
-,K5FIQ 449.8,449.8,-,5,Tone,67,88.5,23,23,NN,FM,5,K5FIQ
-,K5FIQ 146.9,146.9,-,0.6,Tone,67,88.5,23,23,NN,FM,5,K5FIQ
-,K5FIQ 147.06,147.06,+,0.6,Tone,67,88.5,23,23,NN,FM,5,K5FIQ

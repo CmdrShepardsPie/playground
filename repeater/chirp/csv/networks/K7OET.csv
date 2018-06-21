@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K7OET 927.55,927.55,-,25,TSQL,88.5,114.8,23,23,NN,FM,5,K7OET
-,K7OET 449.35,449.35,-,5,TSQL,88.5,100,23,23,NN,FM,5,K7OET

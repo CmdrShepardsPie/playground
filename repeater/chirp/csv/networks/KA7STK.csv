@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KA7STK 449.525,449.525,-,5,Tone,100,88.5,23,23,NN,FM,5,KA7STK
-,KA7STK 146.7,146.7,-,0.6,,88.5,88.5,23,23,NN,FM,5,KA7STK
-,KA7STK 449.425,449.425,-,5,Tone,203.5,88.5,23,23,NN,FM,5,KA7STK

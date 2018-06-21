@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,W0MOG 147.39,147.39,+,0.6,Tone,103.5,88.5,23,23,NN,FM,5,W0MOG
-,W0MOG 448.6,448.6,-,5,Tone,114.8,88.5,23,23,NN,FM,5,W0MOG
-,W0MOG 224.72,224.72,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,W0MOG
-,W0MOG 927.8,927.8,-,25,DTCS,88.5,88.5,116,23,NN,FM,5,W0MOG
-,W0MOG 224.72,224.72,-,1.6,TSQL,103.5,103.5,23,23,NN,FM,5,w0mog

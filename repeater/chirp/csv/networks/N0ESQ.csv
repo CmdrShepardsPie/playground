@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N0ESQ 447.525,447.525,-,5,Cross,203.5,146.2,23,23,NN,FM,5,N0ESQ
-,N0ESQ 446.925,446.925,-,5,,88.5,88.5,23,23,NN,DIG,5,N0ESQ
-,N0ESQ 447.525,447.525,-,5,TSQL,146.2,146.2,23,23,NN,FM,5,N0ESQ

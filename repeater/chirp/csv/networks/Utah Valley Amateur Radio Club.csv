@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K7UVA 145.25,145.25,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Utah Valley Amateur Radio Club
-,K7UVA 448.2,448.2,-,5,Tone,100,88.5,23,23,NN,FM,5,UVARC (Utah Valley Amateur Radio Club)
-,K7UVA 224.56,224.56,-,1.6,Tone,100,88.5,23,23,NN,FM,5,UVARC (Utah Valley Amateur Radio Club)
-,K7UVA 146.78,146.78,-,0.6,Tone,100,88.5,23,23,NN,FM,5,UVARC (Utah Valley Amateur Radio Club)

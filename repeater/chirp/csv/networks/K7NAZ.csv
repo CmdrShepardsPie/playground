@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K7NAZ 1284.6,1284.6,-,20,,88.5,88.5,23,23,NN,DIG,5,K7NAZ
-,K7NAZ 445.7875,445.7875,-,5,,88.5,88.5,23,23,NN,DIG,5,K7NAZ
-,K7NAZ 449.75,449.75,-,5,Tone,123,88.5,23,23,NN,FM,5,K7NAZ
-,K7NAZ 145.115,145.115,-,0.6,,88.5,88.5,23,23,NN,DIG,5,K7NAZ
-,K7NAZ 146.78,146.78,-,0.6,Tone,91.5,88.5,23,23,NN,FM,5,K7NAZ

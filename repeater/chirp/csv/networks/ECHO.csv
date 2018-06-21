@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N0AFO 449.9,449.9,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,ECHO
-,N0AFO 224.8,224.8,-,1.6,,88.5,88.5,23,23,NN,FM,5,ECHO
-,K0RV 146.61,146.61,-,0.6,Tone,107.2,88.5,23,23,NN,FM,5,ECHO
-,KD7BN 147.39,147.39,+,0.6,Tone,100,88.5,23,23,NN,FM,5,N7ZEF (EchoLink).

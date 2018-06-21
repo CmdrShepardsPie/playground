@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,WB7TSQ 448.9,448.9,-,5,,88.5,88.5,23,23,NN,FM,5,WB7TSQ
-,WB7TSQ 145.41,145.41,-,0.6,Tone,123,88.5,23,23,NN,FM,5,WB7TSQ
-,WB7TSQ 448.275,448.275,-,5,Tone,107.2,88.5,23,23,NN,FM,5,WB7TSQ
-,WB7TSQ 147.38,147.38,+,0.6,,88.5,88.5,23,23,NN,FM,5,WB7TSQ

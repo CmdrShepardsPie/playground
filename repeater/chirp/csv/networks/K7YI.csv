@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K7YI 447.125,447.125,-,5,Tone,100,88.5,23,23,NN,FM,5,K7YI
-,K7YI 448.075,448.075,-,5,,88.5,88.5,23,23,NN,DIG,5,K7YI
-,K7YI 447.625,447.625,-,5,Tone,100,88.5,23,23,NN,FM,5,K7YI

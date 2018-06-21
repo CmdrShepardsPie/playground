@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KD7YE 448.275,448.275,-,5,Tone,107.2,88.5,23,23,NN,FM,5,Sanpete Co SO
-,WA7HSW 146.64,146.64,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Sanpete Co SO
-,WB7REL 146.86,146.86,-,0.6,Tone,100,88.5,23,23,NN,FM,5,"WB7REL, Sanpete Co SO"

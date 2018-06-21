@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N6RTR 447.45,447.45,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,N6RTR
-,N6RTR 447.45,447.45,-,5,TSQL,151.4,151.4,23,23,NN,FM,5,N6RTR Repeater Group

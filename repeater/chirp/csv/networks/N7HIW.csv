@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KD7IMS 448.175,448.175,-,5,Tone,203.5,88.5,23,23,NN,FM,5,N7HIW
-,N7HIW 448.125,448.125,-,5,Tone,100,88.5,23,23,NN,FM,5,N7HIW

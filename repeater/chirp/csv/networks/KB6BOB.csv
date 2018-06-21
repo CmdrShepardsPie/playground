@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KB6BOB 448.65,448.65,-,5,,88.5,88.5,23,23,NN,FM,5,KB6BOB
-,KB6BOB 447.9,447.9,-,5,,88.5,88.5,23,23,NN,DIG,5,KB6BOB

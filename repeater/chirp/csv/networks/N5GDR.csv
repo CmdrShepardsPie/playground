@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N5GDR 145.21,145.21,-,0.6,TSQL,110.9,110.9,23,23,NN,FM,5,N5GDR
-,N5GDR 145.21,145.21,-,0.6,TSQL,110.9,110.9,23,23,NN,FM,5,"Gary Reynolds N5GDR, Dale Finley KB5NFT"

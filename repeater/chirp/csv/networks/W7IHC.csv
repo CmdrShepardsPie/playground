@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,W7IHC 145.19,145.19,-,0.6,Tone,123,88.5,23,23,NN,FM,5,W7IHC
-,W7IHC 448.55,448.55,-,5,Tone,100,88.5,23,23,NN,FM,5,W7IHC
-,W7IHC 448.4,448.4,-,5,,88.5,88.5,23,23,NN,FM,5,W7IHC

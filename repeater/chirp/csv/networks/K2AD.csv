@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N0SZ 445.0875,445.0875,-,5,,88.5,88.5,23,23,NN,DIG,5,K2AD
-,N0SZ 445.075,445.075,-,5,,88.5,88.5,23,23,NN,DIG,5,K2AD
-,N0SZ 445.05,445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,K2AD
-,N0SZ 445.1375,445.1375,-,5,,88.5,88.5,23,23,NN,DIG,5,K2AD

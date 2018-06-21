@@ -1,7 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K7MRS 447.25,447.25,-,5,Tone,100,88.5,23,23,NN,FM,5,Salt Lake Co ARES
-,N7PCE 146.84,146.84,-,0.6,,88.5,88.5,23,23,NN,FM,5,Salt Lake Co ARES
-,KD0J 449.9,449.9,-,5,Tone,100,88.5,23,23,NN,FM,5,Salt Lake Co ARES
-,KC7IIB 448.45,448.45,-,5,Tone,100,88.5,23,23,NN,FM,5,Salt Lake Co ARES
-,KC7IIB 146.7,146.7,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Salt Lake Co ARES
-,W0HU 447.025,447.025,-,5,Tone,100,88.5,23,23,NN,FM,5,Salt Lake Co ARES

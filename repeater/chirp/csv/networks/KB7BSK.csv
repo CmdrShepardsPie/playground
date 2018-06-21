@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KB7BSK 145.15,145.15,-,0.6,,88.5,88.5,23,23,NN,DIG,5,KB7BSK
-,KB7BSK 447.95,447.95,-,5,,88.5,88.5,23,23,NN,DIG,5,KB7BSK

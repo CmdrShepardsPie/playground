@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K0DK 146.73,146.73,-,0.6,TSQL,91.5,91.5,23,23,NN,FM,5,BARC
-,K0DK 449.4,449.4,-,5,Tone,91.5,88.5,23,23,NN,FM,5,BARC
-,N5DFQ 147.15,147.15,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,DBARC
-,N5DFQ 444.975,444.975,+,5,Tone,88.5,88.5,23,23,NN,FM,5,DBARC
-,AF7FH 927.5125,927.5125,-,25,Tone,103.5,88.5,23,23,NN,FM,5,BARC

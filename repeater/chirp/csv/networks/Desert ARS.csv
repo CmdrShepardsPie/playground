@@ -1,8 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,WA7GIE 448.625,448.625,-,5,,88.5,88.5,23,23,NN,FM,5,Desert ARS
-,WA7GIE 448.975,448.975,-,5,,88.5,88.5,23,23,NN,FM,5,Desert ARS
-,WA7GIE 448.65,448.65,-,5,,88.5,88.5,23,23,NN,FM,5,Desert ARS
-,WA7GIE 449,449,-,5,,88.5,88.5,23,23,NN,FM,5,Desert ARS
-,K7JL 448.675,448.675,-,5,,88.5,88.5,23,23,NN,FM,5,Desert ARS
-,K7OGM 448.45,448.45,-,5,Tone,131.8,88.5,23,23,NN,FM,5,Desert ARS
-,K7OGM 448.975,448.975,-,5,,88.5,88.5,23,23,NN,FM,5,Desert ARS

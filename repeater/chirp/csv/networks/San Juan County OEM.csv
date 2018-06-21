@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K5WXI 146.92,146.92,-,0.6,Tone,100,88.5,23,23,NN,FM,5,San Juan County OEM
-,KF5VBD 1292.3,1292.3,-,20,,88.5,88.5,23,23,NN,DIG,5,San Juan County
-,KF5VBF 444.15,444.15,+,5,,88.5,88.5,23,23,NN,DIG,5,San Juan County
-,KF5VBF 1291.7,1291.7,-,20,,88.5,88.5,23,23,NN,DIG,5,San Juan County
-,KF5VBE 1291.1,1291.1,-,20,,88.5,88.5,23,23,NN,DIG,5,San Juan County

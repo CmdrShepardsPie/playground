@@ -1,2 +1,0 @@
-Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,Downlink Tone,County,Op Status,Coverage,Sponsor,Features,EchoLink,IRLP,Commands,Web links,Coordination,Last update
-147.28,0.6,107.2,AD7ZW,Altamont,UT,OPEN,EI,129.5,NNW,,147.28,147.88,107.2,107.2,Duchesne,On-Air,,AD7ZW,Autopatch,458414,3205,B21 = 911 B22 = Local Public Safety Dispatch (Non Emergency) B3 = 3 Minute Autopatch Extension B0 = Autopatch Disconnect,http://ad7zwrepeater.xyz,UVHFS,

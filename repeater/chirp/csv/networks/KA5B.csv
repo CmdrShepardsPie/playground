@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KA5B 443.45,443.45,+,5,Tone,131.8,88.5,23,23,NN,FM,5,KA5B
-,KA5B 147.24,147.24,+,0.6,Tone,67,88.5,23,23,NN,FM,5,KA5B
-,KA5BIW 442,442,+,5,Tone,100,88.5,23,23,NN,FM,5,KA5BIW
-,KA5BIW 224.04,224.04,-,1.6,TSQL,100,100,23,23,NN,FM,5,KA5BIW

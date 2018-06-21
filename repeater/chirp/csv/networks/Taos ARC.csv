@@ -1,8 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KF5PFO 146.76,146.76,-,0.6,Tone,67,88.5,23,23,NN,FM,5,Taos ARC
-,KF5PFO 51.5,51.5,,0,Tone,100,88.5,23,23,NN,FM,5,Taos ARC
-,KF5PFO 224.4,224.4,-,1.6,Tone,225.7,88.5,23,23,NN,FM,5,Taos ARC
-,KF5PFO 449.875,449.875,-,5,Tone,123,88.5,23,23,NN,FM,5,Taos ARC
-,KF5PFO 145.25,145.25,-,0.6,Tone,123,88.5,23,23,NN,FM,5,Taos ARC
-,KF5PFO 145.39,145.39,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Taos ARC
-,N5LEM 147.34,147.34,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Taos ARC

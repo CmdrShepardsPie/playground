@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K7OGM 448.45,448.45,-,5,Tone,131.8,88.5,23,23,NN,FM,5,K7OGM
-,K7OGM 147.02,147.02,+,0.6,Tone,100,88.5,23,23,NN,FM,5,K7OGM
-,K7OGM 449.7,449.7,-,5,Tone,100,88.5,23,23,NN,FM,5,K7OGM
-,K7OGM 448.975,448.975,-,5,,88.5,88.5,23,23,NN,FM,5,K7OGM
-,AG7BL 147.12,147.12,+,0.6,Tone,123,88.5,23,23,NN,FM,5,K7OGM

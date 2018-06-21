@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N5UBJ 446.7375,446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,N5UBJ
-,N5UBJ 442.25,442.25,+,5,,88.5,88.5,23,23,NN,DIG,5,N5UBJ
-,N5UBJ 442.325,442.325,+,5,,88.5,88.5,23,23,NN,DIG,5,N5UBJ

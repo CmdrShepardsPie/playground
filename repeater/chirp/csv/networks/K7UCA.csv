@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K7UCA 447.125,447.125,-,5,Tone,100,88.5,23,23,NN,FM,5,K7UCA
-,K7UCA 447.275,447.275,-,5,Tone,100,88.5,23,23,NN,FM,5,K7UCA

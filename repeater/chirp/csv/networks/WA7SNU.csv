@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,WA7SNU 449.625,449.625,-,5,Tone,151.4,88.5,23,23,NN,FM,5,WA7SNU
-,WA7SNU 146.88,146.88,-,0.6,TSQL,100,100,23,23,NN,FM,5,WA7SNU

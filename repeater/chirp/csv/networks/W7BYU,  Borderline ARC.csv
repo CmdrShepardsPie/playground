@@ -1,7 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K7HEN 145.49,145.49,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,"W7BYU,  Borderline ARC"
-,W7BYU 145.49,145.49,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,W7BYU
-,W7BYU 449.7,449.7,-,5,Tone,136.5,88.5,23,23,NN,FM,5,W7BYU
-,W7BYU 146.92,146.92,-,0.6,Tone,136.5,88.5,23,23,NN,FM,5,W7BYU
-,N7PQD 147.26,147.26,+,0.6,,88.5,88.5,23,23,NN,FM,5,Borderline ARC
-,W7BAR 147.04,147.04,+,0.6,Tone,136.5,88.5,23,23,NN,FM,5,Borderline ARC

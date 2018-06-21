@@ -1,5 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,NM5SJ 146.74,146.74,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Totah ARC
-,K5WXI 146.85,146.85,-,0.6,TSQL,100,100,23,23,NN,FM,5,Totah ARC
-,NM5SJ 146.82,146.82,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Totah ARC
-,NM5SJ 145.49,145.49,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Totah ARC

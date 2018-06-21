@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KD7AGA 146.64,146.64,-,0.6,Tone,173.8,88.5,23,23,NN,FM,5,CDK Net
-,W7VNJ 449.575,449.575,-,5,TSQL,173.8,173.8,23,23,NN,FM,5,CDK Net

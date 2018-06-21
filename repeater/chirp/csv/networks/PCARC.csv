@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N0JUN 146.955,146.955,-,0.6,,88.5,88.5,23,23,NN,FM,5,PCARC
-,W7VNJ 52.98,52.98,-,1,Tone,141.3,88.5,23,23,NN,FM,5,CARC

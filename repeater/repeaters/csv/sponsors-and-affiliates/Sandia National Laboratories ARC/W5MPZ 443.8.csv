@@ -1,3 +1,0 @@
-Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,D-STAR Enabled,Node,Sources,County,Op Status,Coverage,Sponsor,Coordination,Last update
-443.8,5,,W5MPZ,"Albuquerque, Sandia Crest",NM,OPEN,,199.5,S,,443.8,448.825,,W5MPZ (B) Repeater,"jfindu lookup 
-    /   dstar-users lookup",Bernalillo,On-Air,Wide area;,Sandia National Laboratories ARC,NMFCC,

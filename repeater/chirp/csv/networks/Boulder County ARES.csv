@@ -1,6 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KC0DS 145.3875,145.3875,-,0.6,,88.5,88.5,23,23,NN,DIG,5,Boulder County ARES
-,KC0DS 1283.8625,1283.8625,-,20,,88.5,88.5,23,23,NN,DIG,5,Boulder County ARES
-,W0DK 1299.5,1299.5,-,20,,88.5,88.5,23,23,NN,DIG,5,Boulder County ARES
-,KC0DS 446.8625,446.8625,-,5,,88.5,88.5,23,23,NN,DIG,5,Boulder County ARES
-,W0IA 146.76,146.76,-,0.6,Tone,100,88.5,23,23,NN,FM,5,Boulder County ARES

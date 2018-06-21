@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,KI0HC 927.8375,927.8375,-,25.8,DTCS,88.5,88.5,205,23,NN,DIG,5,KI0HC
-,KI0HC 927.8375,927.8375,-,25.8,Tone,100,88.5,23,23,NN,DIG,5,KI0HC

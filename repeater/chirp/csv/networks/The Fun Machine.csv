@@ -1,7 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,K0JSC 449.975,449.975,-,5,TSQL,100,100,23,23,NN,FM,5,The Fun Machine
-,KD0MDP 447.625,447.625,-,5,TSQL,100,100,23,23,NN,FM,5,The Fun Machine
-,K0JSC 447.275,447.275,-,5,TSQL,100,100,23,23,NN,FM,5,The Fun Machine
-,K0JSC 448.325,448.325,-,5,TSQL,100,100,23,23,NN,FM,5,The Fun Machine
-,N0PKT 449.525,449.525,-,5,TSQL,100,100,23,23,NN,FM,5,The Fun Machine
-,N0ZSN 449.75,449.75,-,5,TSQL,100,100,23,23,NN,FM,5,The Fun Machine

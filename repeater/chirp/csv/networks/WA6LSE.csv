@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,WA6LSE 447.5,447.5,-,5,,88.5,88.5,23,23,NN,FM,5,WA6LSE
-,WA6LSE 449.425,449.425,-,5,Tone,141.3,88.5,23,23,NN,FM,5,WA6LSE

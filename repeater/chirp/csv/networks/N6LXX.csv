@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N6LXX 53.17,53.17,-,1.7,Tone,107.2,88.5,23,23,NN,FM,5,N6LXX
-,N6LXX 447.875,447.875,-,5,TSQL,107.2,107.2,23,23,NN,FM,5,N6LXX

@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,W7EO 449.35,449.35,-,5,Tone,100,88.5,23,23,NN,FM,5,"Tooele Co ARS, West Desert ARC"
-,W7EO 147.3,147.3,+,0.6,Tone,100,88.5,23,23,NN,FM,5,West Desert ARC

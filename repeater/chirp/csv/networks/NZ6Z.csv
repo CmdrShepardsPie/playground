@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,NZ6Z 447.5,447.5,-,5,,88.5,88.5,23,23,NN,FM,5,NZ6Z
-,NZ6Z 145.23,145.23,-,0.6,Tone,100,88.5,23,23,NN,FM,5,NZ6Z

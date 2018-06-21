@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,NM5SC 443.1,443.1,+,5,Tone,100,88.5,23,23,NN,FM,5,Sandoval County ARES
-,NM5SC 147.08,147.08,+,0.6,Tone,100,88.5,23,23,NN,FM,5,Sandoval County ARES

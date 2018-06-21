@@ -1,3 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-,N7YSE 147.3,147.3,+,0.6,Tone,100,88.5,23,23,NN,FM,5,N7YSE
-,N7YSE 449.1,449.1,-,5,Tone,100,88.5,23,23,NN,FM,5,N7YSE
