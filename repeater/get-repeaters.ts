@@ -139,7 +139,10 @@ export default (async () => {
   //   }
   // }
   const cities = [
-    "Worden, MT"
+    "Kooskia, ID",
+    "Elk City, ID",
+    "Alta, MT",
+    // "Worden, MT",
     // "Laramie, WY",
 
     // "Denver, CO",

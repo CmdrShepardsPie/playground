@@ -1,0 +1,679 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,Coverage,Sponsor,Features,Last update,Downlink Tone,EchoLink,IRLP,Notes,Affiliate,Web links,Coordination,On-air,DMR Enabled,Color Code,Wide Network,Local Network,Talkgroups,Worldwide English,North America,TAC 310,TAC 311,DCI Bridge,Parrot,Hytera USA Reflector,MPRG 2,BGV,NW7RG-USA,USA - Area 7 4647,Local/Cluster,Montana,MPRG,Mixed-Mode,Links,Simplex,Echo Test,Nets,Commands,Grid,YSF Digital Enabled,DG-ID,AllStar,Bandwidth,WIRES-X,Talkgroup Network,Idaho,D-STAR Enabled,Node,Sources,P25 Digital Enabled,NAC,Default Reflector
+146.98,-0.6,100,AA7WG,"Salmon, Baldy Summit",ID,OPEN,,35.7,SSE,,146.98,146.38,100,Lemhi,On-Air,,Lemhi Amateur Radio Club,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.03,0.6,100,AA7WG,"Salmon, Old Dump Hill above Salmon",ID,OPEN,EI,36.3,SSE,,147.03,147.63,100,Lemhi,On-Air,"Low level, covers most of Lemhi County",LDS ERC,,,100,439297,3601,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.225,5.1,100,AA7WG,"Salmon, Baldy Mountain",ID,OPEN,,36.3,SSE,,442.225,447.275,100,Lemhi,On-Air,,LDS ERC,Remote Base linked to 146.88 Rexburg Menan Butte Repeater,,100,,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.1,5,100,AA7WG,"Salmon, Baldy Mountain",ID,,,36.3,SSE,,442.1,447.1,100,Lemhi,On-Air,,,Linked to 146.98 Salmon and 146.78 Challis,,100,,,,Lemhi Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.72,-0.6,203.5,W7FTX,Hamilton,MT,OPEN,,43.9,N,,146.72,146.12,203.5,Ravalli,On-Air,,Bitterfoot ARC,5,,,,,,,https://www.facebook.com/W7FTX/info/?tab=page_info,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.75,-25,114.8,KD7HP,Stevensville,MT,OPEN,,62.4,N,,927.75,902.75,114.8,Ravalli,,,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.66,-0.6,88.5,KE7WR,Stevensville,MT,OPEN,,62.4,N,,146.66,146.06,88.5,Ravalli,On-Air,,KE7WWR,,,,,,,,,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.5,-5,203.5,W7FTX,Stevensville,MT,OPEN,,63.4,NNE,,447.5,442.5,203.5,Ravalli,,,Bitterfoor A,4,,,,,,,http://www.members.tripod.com/w7ftx/Club%20RPTRS.htm,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.1,5,CC2 100.0,WR7HLN,"Dillon, Badger Pass",MT,OPEN,E,70.7,SE,,444.1,449.1,100,Beaverhead,On-Air,,Mac Pass Repeater Group,E-power (solar),,100,259336,,"Repeater is on Solar Powered 24 hours a day, so is emergency use at all times. Also uses Internet via Ubiquiti 5.8Ghz Path. All repeater are on the Mac Pass Repeater Group. 
+7,520'.",Mac Pass repeater Group,www.wr7hln.org,MRCC,,,2,BrandMeister,BrandMeister US,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    TAC 310  1  310  PTT    TAC 311  1  311  PTT    DCI Bridge  1  3100  PTT    Parrot  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  Full-Time    BGV  1  31303  Full-Time    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,1,1,1,1,1,1,1,1,2,2,2,Yes; analog capable.,Full-time to the  Mac Pass Repeater Group System .,,,,,,,,,,,,,,,,,,
+446.8,-5,,KA7NBR,Anaconda,MT,OPEN,,72.9,E,,446.8,441.8,,Deer Lodge,,,KA7NBR,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.08,0.6,107.2,K0PP,Anaconda,MT,OPEN,,73.9,E,,147.08,147.68,107.2,Deer Lodge,On-Air,,Anaconda ARC,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.03,-1,131.8,KB7IQN,Anaconda,MT,OPEN,,74.2,E,,53.03,52.03,131.8,Deer Lodge,,,KB7IQO,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.78,-0.6,110.9,AA7WG,"Challis, Grouse Peak",ID,OPEN,,77.1,S,,146.78,146.18,110.9,Custer,On-Air,"Most of Custer County Idaho, Highway 93",AA7WG,"linked to 146.98 Salmon, Other links available",,110.9,,,8,Custer County Civil Communications Association,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,,K7IMM,Dillon,MT,OPEN,,85.3,SE,,146.76,146.16,,Beaverhead,On-Air,,DARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.775,-5,,K7IMM,Dillon,MT,OPEN,,85.5,SE,,449.775,444.775,,Beaverhead,,,DARC,Linked.,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,,W1KGK,"Missoula, Point 6",MT,OPEN,,86.8,N,,147.12,147.72,,Missoula,On-Air,Northwest and Western Montana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.9,-5,CC1 131.8,WR7HLN,"Missoula, University Mountain",MT,OPEN,E,87,NNE,,448.9,443.9,131.8,Missoula,On-Air,"Missoula, Stevensville, Hamilton, Polson, Drummond, Superior, and I90",Mac Pass Repeater Group,"E-power (batt). 5,366 Feet ASL",,131.8,448900,,DMR Info on our Website at: http://www.dmr-montana.net,,http://www.wr7hln.org,MRCC,,,1,BrandMeister,Mac Pass Repeater Group,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    TAC 311  1  311  PTT    DCI Bridge  1  3100  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,1,1,,1,1,,1,1,2,2,2,Yes; analog capable.,Full-time to the  Mac Pass Repeater Group System .,1,1,,,,,,,,,,,,,,,,
+146.92,-0.6,100,WR7HLN,"Missoula, University Mountain",MT,OPEN,,87,NNE,,146.92,146.32,100,Missoula,On-Air,"I90, Missoula, Hamilton, Stevensville, Polson, Drummond, Superior",Mac Pass Repeater Group,,,100,,,,,http://www.macpassradio.com/mprg/toston/,,,,,,,,,,,,,,,,,,,,,,,Full-time to the  Mac Pass Repeater Group System .,,,,,,,,,,,,,,,,,,
+147,0.6,,NZ7S,"Missoula,  University Mountain",MT,OPEN,,87,NNE,,147,147.6,,Missoula,On-Air,,NZ7S,Closed autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.9,-0.6,88.5,W7PX,"Missoula,  Point Six",MT,OPEN,,87.8,N,,146.9,146.3,88.5,Missoula,,Wide area.,Hellgate Amateur Radio Club,7,,,,,10,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.8,-0.6,88.5,W7PX,"Missoula, Blanchard Mountain",MT,OPEN,,87.8,N,,146.8,146.2,88.5,Missoula,On-Air,,Hellgate Amateur Radio Club,5,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52.85,-1,,K7UXO,Missoula,MT,OPEN,,87.8,N,,52.85,51.85,,Missoula,,,K7UXO,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.04,0.6,,W7PX,"Missoula, Point Six",MT,OPEN,,87.8,N,,147.04,147.64,,Missoula,,Wide area.,Hellgate Amateur Radio Club,7,,,,,10,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,HARC: Wed at 21:00,,,,,,,,,,,,,,,
+444.8,5,88.5,W7PX,"Missoula,  Point Six",MT,OPEN,,87.8,N,,444.8,449.8,88.5,Missoula,,,Hellgate Amateur Radio Club,7,,,,,10,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.62,-0.6,88.5,KK3ARC,Kooskia,ID,OPEN,,88.7,WNW,,146.62,146.02,88.5,Idaho,On-Air,,3,E-power (solar).,,100,,,,,http://3riversarc.webs.com/,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.02,0.6,107.2,W7VNE,Butte,MT,OPEN,,89.1,E,,147.02,147.62,107.2,Silver Bow,On-Air,30,Anaconda ARC,"E-power, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144.5,3,107.2,,Butte,MT,OPEN,,89.1,E,,144.5,147.5,107.2,Silver Bow,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.4,-5,131.8,KB8ML,Butte,MT,OPEN,E,89.1,E,,449.4,444.4,131.8,Silver Bow,Off-Air,,,,,,355351,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.94,-0.6,100,W7ROE,Butte,MT,OPEN,,89.1,E,,146.94,146.34,100,Silver Bow,On-Air,Wide area.,Butte ARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.68,-0.6,100,KC7MGR,Grangeville,ID,OPEN,,90.4,WNW,,146.68,146.08,100,Idaho,On-Air,,Camas Prairie ARC,Autopatch.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.925,5,100,,"Kamiah, KOA Campground",ID,OPEN,,91.6,WNW,,443.925,448.925,100,Idaho,On-Air,Kamiah area only,John T. Biggs Sr.,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Auto patch 6789 for dial tone 9876 to hang up,,,,,,,,,,,,,,
+146.9,-0.6,123,KC7MCC,"McCall, Brundage Mtn",ID,OPEN,,98.6,WSW,,146.9,146.3,123,Valley,On-Air,"Adams, Valley and southern Idaho counties.",CIARC,"Linked to 147.020, 441.925, 444.125.",,,,,Use contact form on www.ciarc.org,Central Idaho Amateur Radio Club,http://www.ciarc.org,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        444.12500 (N7IBC) at McCall, ID .
+ 
+
+
+Full-time to  
+        147.02000 (KC7MCC) at Mccall, No Business Montain, ID .",,,ID ARES District 3: Monday 2030 Local,,DN15WA,,,,,,,,,,,,,
+146.9,-0.6,,KC7MCC,"McCall, Brundage Mtn",ID,OPEN,,98.6,WSW,,146.9,146.3,,Valley,On-Air,"Adams, Valley and southern Idaho counties.",CIARC,"Linked to 441.925, 444.125",,,,,Use contact form on www.ciarc.org,Central Idaho Amateur Radio Club,http://www.ciarc.org,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        147.02000 (KC7MCC) at Mccall, No Business Montain, ID .",,,Wednesday before first Thursday of month (night before monthly CIARC meetings).,,,,,,,,,,,,,,,
+444.125,5,CC0 100.0,N7IBC,McCall,ID,OPEN,,100.2,WSW,,444.125,449.125,100,Valley,Off-Air,"McCall, Donnelly",N7IBC,"Linked, 2m Remote Base, 10m Remote Base",,,,,Low Level.,Central Idaho Amateur Radio Club (CIARC)  KC7MCC,,W7ZRQ,,,0,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.90000 (KC7MCC) at McCall, Brundage Mtn, ID .
+ 
+
+
+Full-time to  
+        147.02000 (KC7MCC) at Mccall, No Business Montain, ID .",,,,,,,,,,,,,,,,,,
+442.5,5,100,KC7MCC,"McCall, Brundage Mountain",ID,OPEN,,101,WSW,,442.5,447.5,100,Adams,On-Air,,Central Idaho Amateur Radio Club (CIARC),,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,103.5,W1KGK,"Missoula, Point Six",MT,OPEN,,102.7,NNE,,147.12,147.72,103.5,Missoula,On-Air,Western Montana from Idaho to Central Montana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.4,-5,,,Cottonwood,ID,OPEN,,103,WNW,,447.4,442.4,,Idaho,,,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.4,5,,,Cottonwood,ID,OPEN,,103,WNW,,444.4,449.4,,Idaho,,,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.84,-0.6,100,KB7VOL,"Cottonwood, Cottonwood Butte",ID,OPEN,,108.7,WNW,,146.84,146.24,100,Idaho,Off-Air,,CPARC,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.95,5,100,K7EI,"Cottonwood, Cottonwood Butte",ID,CLOSED,,108.7,WNW,,444.95,449.95,100,Idaho,,,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,Full-time to the  K7EI System .,,,,,DN16sb,,,,,,,,,,,,,
+147.02,0.6,100,KC7MCC,"Mccall, No Business Montain",ID,OPEN,,109.7,WSW,,147.02,147.62,100,Adams,On-Air,Wide area.,Central Idaho Amateur Radio Club (CIARC),"E-power, linked.",,100,,,,,http://www.ciarc.org,UVHFS,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.90000 (KC7MCC) at McCall, Brundage Mtn, ID .
+ 
+
+
+Full-time to  
+        444.12500 (N7IBC) at McCall, ID .
+ 
+
+
+Full-time to  
+        146.90000 (KC7MCC) at McCall, Brundage Mtn, ID .
+ 
+
+
+Full-time to  
+        146.96000 (W7CIA) at Cascade, ID .",,,"Idaho ARES District 3 Net: Mon at 2030 Mountain Time. 
+Club NET: Thu (Except 1st Thursday of month) 20:00 Mountain Time.",,,,,,,,,,,,,,,
+146.76,-0.6,131.8,K7NDX,"Orofino, Wells Bench",ID,OPEN,,110.4,NW,,146.76,146.16,131.8,Clearwater,On-Air,Orofino area,Clearwater Valley ARC,E-power.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,Sun at 19:00,,,,,,,,,,,,,,,
+146.96,-0.6,88.5,W7PX,"Superior, Thompson Peek",MT,OPEN,,111,NNW,,146.96,146.36,88.5,Mineral,On-Air,"I-90 = Fish Creek, MT to St. Regis, MT",Hellgate Amateur Radio Club,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.875,5,100,K7EI,Orofino,ID,OPEN,,111,WNW,,444.875,449.875,100,Clearwater,On-Air,,,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,Full-time to the  K7EI System .,,,,,,,,,,,,,,,,,,
+145.27,-0.6,100,KD7ALJ,Orofino,ID,OPEN,,111,WNW,,145.27,144.67,100,Clearwater,,,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.49,-0.6,,KC7VBT,Orofino,ID,OPEN,,111,WNW,,145.49,144.89,,Clearwater,On-Air,Orofino area,CVARC,Autopatch. Analog and Digital in / Analog out,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,Sunday @ 19:30 PST,,,,Open ↑ / Open ↓,,,,,,,,,,,
+449.2,-5,CC1 131.8,WR7HLN,"Boulder, Boulder Hill",MT,OPEN,E,113.1,E,,449.2,444.2,131.8,Jefferson,On-Air,"I15 from Butte to Helena, MT69 to I90 to Cardwell.",WR7AGT  Mac Pass Repeater Group,,,131.8,449200,,DMR Info is available at: http://www.dmr-montana.net,Mac Pass Repeater Group,http://www.wr7hln.org,MRCC,,,1,BrandMeister,Mac Pass Repeater Group,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    TAC 311  1  311  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    BGV  1  31303  PTT    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,1,,,1,1,1,1,1,2,2,2,,Full-time to the  Mac Pass Repeater Group System .,1,1,,,,,,,,,,,,,,,,
+146.96,-0.6,CC1,W7CIA,Cascade,ID,OPEN,EI,114,SW,,146.96,146.36,,Valley,On-Air,Two miles south of Smiths Ferry on Hwy 55 to McCall.,,2,,,696264,3210,Low level. EchoLink/ IRLP by Control Operator only.,Central Idaho Amateur Radio Club,http://www.ciarc.org/repeaters/w7cia.shtml,UVHFS,,,1,,,,,,,,,,,,,,,,,,,"Full-time to  
+        147.02000 (KC7MCC) at Mccall, No Business Montain, ID .",,,,,,,,,,,,,,,,,,
+443.3,5,110.9,K7ZZL,Cascade,ID,OPEN,,114.1,SW,,443.3,448.3,110.9,Valley,On-Air,,Deer Point ARC,Remote base.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,Link: 694.,,,,,,,,,,,,,,
+927.1625,-25,151.4,NB7C,Cascade,ID,OPEN,A,114.1,SW,,927.1625,902.1625,151.4,Valley,On-Air,Valley County,NB7C,Connected to 927_Tech,,151.4,,,,WI7ATV,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29826,,,,,,,,,,
+147.1,0.6,100,WR7HLN,"Helena, MacDonald Pass",MT,OPEN,,115.2,NE,,147.1,147.7,100,Lewis and Clark,On-Air,75,Mac Pass Repeater Group,7155,,,,,,,http://www.wr7hln.org,MRCC,,,,,,,,,,,,,,,,,,,,,,Full-time to the  Mac Pass Repeater Group System .,,,,,,,,,L,,,,,,,,,
+444.1,5,CC1 131.8,WR7HLN,"Helena, MacDonald Pass",MT,OPEN,E,115.5,NE,,444.1,449.1,131.8,Lewis and Clark,On-Air,,WR7AGT  Mac Pass Repeater Group,,,131.8,111730,,7,,http://www.wr7hln.org,MRCC,,,1,BrandMeister,Mac Pass Repeater Group,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    TAC 311  1  311  PTT    DCI Bridge  1  3100  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    BGV  1  31303  Full-Time    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,1,1,,1,1,1,1,1,2,2,2,,Full-time to the  Mac Pass Repeater Group System .,1,1,,,,,,,,,,,,,,,,
+444.55,5,,K7KTR,Dixon,MT,OPEN,,117.3,N,,444.55,449.55,,Sanders,,,WB7WBJ,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.21,-0.6,206.5,W7WWS,Peck,ID,OPEN,,117.8,WNW,,145.21,144.61,206.5,Nez Perce,,,NPCEM,,,,,,W7WWS is a silent key as of 2003.,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.43,-0.6,,KD7YAC,St Ignatius,MT,OPEN,,118,N,,145.43,144.83,,Lake,,,KD7YAC,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.38,0.6,100,WR7MT,"Three Forks, Round Spring",MT,OPEN,,120.1,ESE,,147.38,147.98,100,Jefferson,On-Air,"Wide area: Three Forks, Manhattan, Belgrade, Butte, Whitehall, and Townsend.",Montana Repeater Linking Assoc,80,,,,,,,,MRCC,,,,,,,,,,,,,,,,,,,,,,Full-time to the  MRLA System .,,,,,,,,,,,,,,,,,,
+145.19,-0.6,,KF7WOR,"Elk River, Elk Butte",ID,OPEN,,120.7,NW,,145.19,144.59,,Clearwater,On-Air,,"Glen Ahlborn, AF7JB",,,,,,,Kamiak Butte Amateur Repeater Association,http://www.kbara.org,IACC,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,
+146.62,-0.6,100,W7VOI,"Cascade, Snowbank Mountain",ID,OPEN,,121.1,SW,,146.62,146.02,100,Valley,On-Air,,Voice of Idaho Amateur Radio Club (VOI),,,,,,,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.22,0.6,100,N7RB,"Helena, Mount Belmont",MT,OPEN,,122.3,NE,,147.22,147.82,100,Lewis and Clark,On-Air,,Capital City ARC,7,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ARES: Tue at 19:30.,,,,,,,,,,,,,,,
+147.14,0.6,100,AE6DX,"Sawtooth City, Galena Peak",ID,OPEN,,122.5,S,,147.14,147.74,100,Blaine,On-Air,Sawtooth National Forest and Stanley,Wood River ARC,,,100,,,,,WRARC repeaters,UVHFS,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        147.18000 (N7ACB) at Ketchum, Bald Mountain, ID .",,,Mon at 19:00,,,,,,,,,,,,,,,
+146.68,-0.6,100,W1KGK,"Thompson Falls, Clarks Peak South of Thompaon Falls",MT,OPEN,,125.1,NNW,,146.68,146.08,100,Sanders,On-Air,NW Montana,W1KGK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,,,,,,,,,,,,,,
+442.1,5,103.5,K7EI,"Lewiston,  Craig Mountain",ID,CLOSED,,126.8,WNW,,442.1,447.1,103.5,Nez Perce,On-Air,,K7EI,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,DN16oe,,,,,,,,,,,,,
+53.11,-1,,WR7HLN,Helena,MT,OPEN,,127.6,E,,53.11,52.11,,Lewis and Clark,,,Mac Pass Repeater Group,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,Full-time to the  Mac Pass Repeater Group System .,,,,,,,,,,,,,,,,,,
+147.32,0.6,,W7MRI,Helena,MT,OPEN,,127.7,E,,147.32,147.92,,Lewis and Clark,On-Air,,W7MRI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.92,-0.6,110.9,K7EI,"Lewiston,  Craig Mountain",ID,OPEN,,127.7,WNW,,146.92,146.32,110.9,Nez Perce,On-Air,,K7EI,Linked.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.35,-1.7,100,K7EI,"Lewiston, Craig Mountain",ID,CLOSED,,127.7,WNW,,53.35,51.65,100,Nez Perce,On-Air,,K7EI,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,Full-time to the  K7EI System .,,,,,,,,,,,,,,,,,,
+147.1,0.6,100,WR7HLN,"Helena, Mac Donald Pass Site",MT,OPEN,W,127.9,E,,147.1,147.7,100,Lewis and Clark,On-Air,75,Mac Pass Repeater Group,,,,,,"Repeater is Internet Connected at the Repeater on a Mountain at 7,200 feet elevation. Digital will be working when Yaesu gets things working on Auto Mode with Wires, currently as FM",,http://www.wr7hln.org,MRCC,,,,,,,,,,,,,,,,,,,,,,Full-time to the  Mac Pass Repeater Group System .,,,,,,,,,,,,,,,,,,
+443,5,,K7WES,Helena,MT,OPEN,,128.1,E,,443,448,,Lewis and Clark,,,WR7AGT,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,100,W7GET,"Plains, Pats Knob",MT,OPEN,A,130.2,NNW,,146.64,146.04,100,Sanders,On-Air,Wide area: From Thompson Falls to St. Regis,,,,,,,6,,,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41474,,,,,,,,,,
+147.14,0.6,103.5,K7KTR,Plains,MT,OPEN,E,130.2,NNW,,147.14,147.74,103.5,Sanders,On-Air,30,K7KTR,80,,,44014,,,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.62000 (KA5LXG) at Bigfork, MT .
+ 
+
+
+Full-time to  
+        146.70000 (K7HR) at East Glacier, Mt Baldy, MT .",,,,,,,,,,,,,,,,,,
+449.075,-5,123,W7GET,"Plains, Pats Knob",MT,OPEN,,130.2,NNW,,449.075,444.075,123,Sanders,On-Air,Wide Area,,,,,,,6915,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,103.5,KD8RMQ,"Plains, In Town",MT,OPEN,E,130.2,NNW,,147.36,147.96,103.5,Sanders,On-Air,Plains - Paradise,KD8RMQ,EchoLink,,103.5,757103,,Covers Plains and Paradise with a handheld. Covers from Thompson Falls to Perma on a mobile.,,http://www.qsl.net/kd8rmq/link,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,#2 = Activate EchoLink (node)# = Connect to Node #. # = Disconnect from Node.,,,,,,,,,,,,,,
+146.7,-0.6,162.2,KC7MRQ,Ronan,MT,OPEN,EA,132.3,N,,146.7,146.1,162.2,Lake,Off-Air,,,,,162.2,274865,,,,,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29115,,,,,,,,,,
+444.85,5,,KC7MRQ,Ronan,MT,OPEN,W,132.3,N,,444.85,449.85,,Lake,Off-Air,Local valley coverage,,,,,,,WIRES-X enabled 24/7.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,11864,,,,,,,,
+145.31,-0.6,100,KA7ERV,"Lowman, Pilot Peak",ID,OPEN,,133.3,SSW,,145.31,144.71,100,Boise,On-Air,,KA7ERV,E-power (solar).,,,,,,Boise County ARES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.72,-1.6,,KL7JGS,Three Forks,MT,OPEN,,133.8,ESE,,224.72,223.12,,Gallatin,,"Three Forks, Manhatten, Belgrade, Butte, Whitehall, Twonsend.",Eagle Head Repeater Assoc,25,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.35,-5,,KB7KB,Three Forks,MT,OPEN,,133.8,ESE,,448.35,443.35,,Gallatin,,"Three Forks, Manhatten, Belgrade, Bozeman, Butte, Whitehall, Townsend.",KB7KB,40,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,Full-time to the  Intermountain Intertie System . Linkable to the  MRLA System .,,,,,,,,,,,,,,,,,,
+448.9,-5,CC1 131.8,WR7HLN,"Helena, North Hills",MT,OPEN,E,134.6,NE,,448.9,443.9,131.8,Lewis and Clark,On-Air,"The Helena Valley, North along I90 to Sieben Flats, South to Boulder Hill and Boulder, East to Winston, West to Elliston, and the north and northwest valley.
+Coverage The Helena Valley, North along I90 to Sieben Flats, South to Boulder Hill and Boulder, East to Winston, West to Elliston, and the north and northwest valley.",Mac Pass Repeater Group,,,131.8,528525,,DMR Info is at our website at http://www.dmr-montana.net,Mac Pass Repeater Group,http://www.wr7hln.org,MRCC,,,1,BrandMeister,Mac Pass Repeater Group,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    TAC 311  1  311  PTT    DCI Bridge  1  3100  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    BGV  1  31303  PTT    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,1,1,,1,1,1,1,1,2,2,2,,Full-time to the  Mac Pass Repeater Group System .,1,1,,,,,,,,,,,,,,,,
+446.05,0,103.5,WF7L,Anatone,WA,OPEN,E,134.8,WNW,,446.05,446.05,103.5,Asotin,On-Air,"Anatone, Lewiston, Coverage into Hells Canyon and the Craig Mountain area.",WF7L,Echolink Simplex Node with 15 Watts output,,103.5,896098,,Feel free to use anytime.,,,,,,,,,,,,,,,,,,,,,,,,,,,,"WX, WX warnings, Amateur Radio Newsline and Rain Report on Sundays at 19:00",0,,,,,,,,,,,,,,
+145.35,-0.6,114.8,N7WEE,Deary,ID,OPEN,,135.2,NW,,145.35,144.75,114.8,Latah,,Worley to Waha to Orofino to Alpowai Grade.,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,100,N7ACB,"Ketchum, Bald Mountain",ID,OPEN,,135.4,S,,147.18,147.78,100,Blaine,On-Air,Wide area: Wood River Valley to as far south as Twin Falls and Burley. 80 mi radius.,Wood River ARC (WRARC),9,,100,,,Visitors are encourage to call CQ.,"Chuck Robertson, N7CVR",WRARC repeaters,UVHFS,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        147.14000 (AE6DX) at Sawtooth City, Galena Peak, ID .",,,Mon at 19:00,"Autopatch : 
+*61 up / #6 Down.  We will change this to *Up and #Down shortly.
+ To call 911: enter 141911 on either repeater. You will be connected the Blaine County E-911 center in Hailey, ID. Use 140 to drop the call.",DN23tp,,,,,,,,,,,,,
+146.86,-0.6,,W7VJD,Anatone,WA,OPEN,,140.8,WNW,,146.86,146.26,,Asotin,,,Lewiston Clarkston ARC,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.21,-0.6,192.8,W7WWS,"Lewiston,  Lewiston Hill",ID,CLOSED,,141,WNW,,145.21,144.61,192.8,Nez Perce,,Wide area.,NPCEM,,,,,,W7WWS is a silent key as of 2003.,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.96,-0.6,,W7VJD,"Lewiston,  Lewiston Hill",ID,OPEN,,141,WNW,,146.96,146.36,,Nez Perce,,Wide area.,Lewiston Clark Amateur Radio Club (LCARC),,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,DN16ml,,,,,,,,,,,,,
+444.9,5,100,K7EI,"Lewiston, Lewiston Hill",ID,OPEN,,141,WNW,,444.9,449.9,100,Nez Perce,On-Air,Wide area.,K7EI,Closed autopatch.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,DN16ml,,,,,,,,,,,,,
+146.85,-0.6,100,WA7FDR,"Howe, Jumpoff Peak",ID,OPEN,,141.5,SSE,,146.85,146.25,100,Butte,On-Air,"Wide area. Idaho Falls, Pocatello, and southern Idaho.",ERARRA,,,,,,9,Intermountain Intertie,http://utahvhfs.org/other_rpt.html#jumpoff,UVHFS,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        145.23000 (WA7FDR) at Island Park, Sawtell Peak, ID .
+ 
+
+
+Full-time to  
+        145.27000 (WA7FDR) at Burley, Mt Harrison, ID .
+ 
+
+
+Full-time to the  Intermountain Intertie System .",,,,,,,,,,,,,,,,,,
+444.925,5,100,K7EI,Lewiston,ID,OPEN,,141.5,WNW,,444.925,449.925,100,Nez Perce,,Wide area coverage.,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.86,-0.6,,W7VJD,Lewiston,ID,OPEN,,141.5,WNW,,146.86,146.26,,Nez Perce,On-Air,,,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223.96,-1.6,,KB7RKY,Lewiston,ID,OPEN,,141.5,WNW,,223.96,222.36,,Nez Perce,,,,,,,,,Will be linked to KBARA in the future.,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.4,5,162.2,W7TRO,Lewiston,ID,OPEN,I,141.5,WNW,,444.4,449.4,162.2,Nez Perce,On-Air,,,,,,,7510,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.62,-5,88.5,W7RUG,"Howe, Jumpoff Peak",ID,OPEN,EI,141.9,SSE,,447.62,442.62,88.5,Butte,On-Air,S.E. Idaho Ashton to Burley Idaho,W7RUG,ECHOIRLP,,100,459433,3754,,Owner,,,,,,,,,,,,,,,,,,,,,,,,,,,,Precede IRLP Access with a # sign,,,,,,,,,,,,,,
+145.35,-0.6,114.8,N7SAU,Clarkston,WA,OPEN,,142.8,WNW,,145.35,144.75,114.8,Asotin,,,N7SAU,E-power.,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,0.6,103.5,KB7DZR,Joseph,OR,OPEN,E,142.9,W,,147,147.6,103.5,Wallowa,On-Air,"Joseph, Wallowa Lake, Enterprise, Wallowa Valley and parts of The Eagle Cap Wilderness.",KB7DZR,"WX, e-power (Batt &amp; Gen).",,103.5,323569,,"Open for any use and everyone is welcome on this system. Feel free to enter commands for info, weather and Echolink. Printable user guide available on the web site. YSF DSQ code 103",,Joseph Oregon Repeater System,ORRC,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,DODROPIN Newsline Net: Sat at 18:00.,0,,,103,,,,,,,,,,,
+444.2,5,CC2 131.8,WR7HLN,"Mullan-ID, Lookout Pass",MT,OPEN,,143.2,NNW,,444.2,449.2,131.8,Mineral,On-Air,From Spokane Washington to I90 to about 60 miles east of the Idaho/Montana Border,Mac Radio Repeater Group,,,131.8,,,DMR Info at our website at http://www.dmr-montana.net,Mac Pass Repeater Group System,http://www.wr7hln.org,MRCC,,,2,BrandMeister,Mac Pass Repeater Group,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    TAC 311  1  311  PTT    DCI Bridge  1  3100  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    BGV  1  31303  PTT    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,1,1,,1,1,1,1,1,2,2,2,,Full-time to the  Mac Pass Repeater Group System .,1,1,,,,,,,,,,,,,,,,
+147.02,0.6,,K7HPT,"Saltese,  Lookout Pass",MT,OPEN,,143.2,NNW,,147.02,147.62,,Mineral,On-Air,,,Linked.,,,,,,,Kamiak Butte Amateur Repeater Association,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.02,0.6,,K7HPT,"Mullan, Lookout Pass",ID,OPEN,,143.3,NNW,,147.02,147.62,,Shoshone,On-Air,,"W7OE ,  Kamiak Butte Amateur Repeater Association",,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.35,-0.6,100,W7CMA,Polson,MT,OPEN,,143.5,N,,145.35,144.75,100,Lake,On-Air,Wide area.,FVRG,"Autopatch, e-power, linked, remote base.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,82.5,W7LR,Big Sky,MT,OPEN,,144,ESE,,146.82,146.22,82.5,Gallatin,On-Air,Gallatin Canyon and remote areas of the Gallatin National Forest.,Eagle Head Repeater Association,9,,,,,,,,MRCC,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.88000 (W7YB) at Bozeman, Bridger Bowl, MT .",,,,,,,,,,,,,,,,,,
+145.47,-0.6,100,WI7ATV,"Idaho City, Shafer Butte",ID,OPEN,,144.8,SSW,,145.47,144.87,100,Boise,On-Air,Treasure Valley  75 mile radius,NB7C,,,100,,,,Western Idaho Amateur Television/ Repeater Associa,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+444.375,5,131.8,N7SAU,"Clarkston, Stout Ranch",WA,OPEN,,146.4,WNW,,444.375,449.375,131.8,Garfield,,,N7SAU,E-power.,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.3,-5,CC1 131.8,WR7HLN,"Toston, Lombard Mountain",MT,OPEN,E,147,E,,449.3,444.3,131.8,Broadwater,On-Air,"I90 from Butte, MT to Bozeman, MT. MT287 from Helena to Twin Bridges.",Mac Pass Repeater Group,,,131.8,449300,,DMR Info at our website: http://www.dmr-montana.net,Mac Pass Repeater Group,http://www.wr7hln.org,MRCC,,,1,BrandMeister,Mac Pass Repeater Group,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    BGV  1  31303  PTT    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,,,,1,1,1,1,1,2,2,2,Yes; analog capable.,Full-time to the  Mac Pass Repeater Group System .,1,1,,,,,,,,,,,,,,,,
+146.7,-0.6,,WB7TBM,"Moscow,  Paradise Ridge",ID,OPEN,,147.5,WNW,,146.7,146.1,,Latah,Off-Air,,Thatuna ARC,"E-power, 3,700'.",,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.975,5,100,K7EI,"Moscow, Moscow Mountain",ID,CLOSED,,147.6,NW,,444.975,449.975,100,Latah,,Wide area.,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,Full-time to the  K7EI System .,,,,,DN16nt,,,,,,,,,,,,,
+146.82,-0.6,127.3,WA7HWD,"Moscow, Moscow Mountain",ID,OPEN,,147.6,NW,,146.82,146.22,127.3,Latah,On-Air,Wide area.,NW Tri-State Amateur Radio Org,Link.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.45,-0.6,100,W7MRI,"Helena, Hogback Mountain",MT,OPEN,,149.3,NE,,145.45,144.85,100,Lewis and Clark,On-Air,Wide area. 50 mi radius.,Montana Repeater Linking Assoc,10,,,,,,,http://www.w7tck.org/_repeater/repeater_145.5.html,,,,,,,,,,,,,,,,,,,,,,,Full-time to the  MRLA System .,,,,,,,,,,,,,,,,,,
+146.85,-0.6,146.2,W7CK,"Helena,  Hogback Mountain",MT,OPEN,,149.3,NE,,146.85,146.25,146.2,Lewis and Clark,,,W7CK,Autopatch.,,,,,"Transmitter on Hogback Mtn and the receiver on Rogers Mtn. 
+Emergencies only between 22:00 and 06:00.",,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.85,-5,100,WB7USV,Belgrade,MT,OPEN,,151.1,ESE,,448.85,443.85,100,Gallatin,,,BARBS,20,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.45,-5,67,N7LT,Kalispell,MT,OPEN,,151.1,ESE,,448.45,443.45,67,Flathead,,"Three Forks, Manhatten, Belgrade, Bozeman, Butte, Whitehall, Townsend.",N7LT,15,,,,,,KC6UNN (remote base),,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.2,0.6,100,K7WIR,"Emmett, Squaw Butte",ID,OPEN,,151.2,SW,,147.2,147.8,100,Gem,On-Air,Wide area:,Western Idaho Amateur Radio Association,6,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.76,-1.6,CSQ,KB7BTU,"Wallace, Goose Peak",ID,OPEN,,153,NNW,,224.76,223.16,CSQ,Shoshone,On-Air,Lookout Pass to 4th of July Pass and up the CDA River.,KB7BTU,6,,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,,KB7BYR,"Wallace, Goose Peak",ID,OPEN,,153,NNW,,147.18,147.78,,Shoshone,On-Air,"Burke Canyon, Coeur d'Alene River, Thompson Pass",KB7BYR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.39,-0.6,,KA7FAJ,"Clarkston, Potter Hill",WA,OPEN,,154.4,WNW,,145.39,144.79,,Asotin,,,KA7FAJ,Closed autopatch,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.1125,-25,D432,NB7C,"Idaho City, Shafer Butte",ID,OPEN,EA,154.9,SW,,927.1125,902.1125,D432,Boise,On-Air,Southwest Idaho,"Carl Sorensen, NB7C",,,D432,93417,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29901,,,,,,,,,,
+146.94,-0.6,100,K7BSE,"Idaho City, Shafer Butte",ID,OPEN,,154.9,SW,,146.94,146.34,100,Boise,On-Air,Wide area. SW Idaho.,"Idaho Society of Radio Amateurs (ISRA), Boise Chapter",,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,"Linkable to  
+        443.30000 (K7ZZL) at Cascade, ID .",,,ISRA: Sun at 20:30.,Link: 694.,DN13ws,,,,,,,,,,,,,
+444.9,5,100,W7VOI,"Idaho City, Shafer Butte",ID,OPEN,,154.9,SW,,444.9,449.9,100,Boise,On-Air,Wide area.,,,,,,,,Voice of Idaho (VOI) Amateur Radio Club,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.675,5,156.7,N7KNL,Shafer Butte,ID,OPEN,I,154.9,SW,,444.675,449.675,156.7,Boise,On-Air,,N7KNL,,,,,3541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.5,5,100,WR7ID,"Idaho City, Shafer Butte",ID,OPEN,,154.9,SW,,444.5,449.5,100,Boise,On-Air,Caldwell.,Intrastate Repeater System (IRS),,,,,,,,http://www.intrastaterepeatersystem.org/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.84,-0.6,100,W7VOI,"Idaho City, Shafer Butte",ID,OPEN,,154.9,SW,,146.84,146.24,100,Boise,On-Air,Wide area.,Voice of Idaho Amateur Radio Club (VOI),,,,,,6,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444,5,127.3,N7SZY,"Kellogg,  Wardner Peak",ID,OPEN,,156.3,NNW,,444,449,127.3,Shoshone,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.94,-0.6,127.3,N7SZY,"Kellogg,  Wardner Peak",ID,OPEN,,156.3,NNW,,146.94,146.34,127.3,Shoshone,On-Air,,SVARC,,,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,100,K7OJI,"Weiser, Sheep Creek",ID,OPEN,,156.6,SW,,147.12,147.72,,Washington,On-Air,Wide area; Along the US Hwy 95 North of Weiser for another 50 miles.,Treasure Valley Radio Association (TVRA),"Autopatch, e-power, link.",,,,,,,http://www.K7OJI.us,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+447.7,-5,77,KI7XF,"Bozeman,  MSU",MT,OPEN,,156.8,ESE,,447.7,442.7,77,Gallatin,On-Air,Bozeman.,Eagle Head Rptr Assoc,30,,77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.01,0,PKT,KD7TQM,Bozeman,MT,OPEN,,157,ESE,,145.01,145.01,PKT,Gallatin,On-Air,,,Packet Node,,,,,KD7TQM-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.35,-5,100,KB7KB,Bozeman,MT,OPEN,I,157,ESE,,448.35,443.35,100,Gallatin,On-Air,,KB7KB,,,100,,3692,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.23,-0.6,100,WA7FDR,"Island Park, Sawtell Peak",ID,OPEN,,157.3,SE,,145.23,144.63,100,Fremont,On-Air,"Wide area. Yellowstone, Rexburg, Idaho Falls, and upper Snake River basin.",,9,,,,,100,Intermountain Intertie,,UVHFS,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.85000 (WA7FDR) at Howe, Jumpoff Peak, ID .
+ 
+
+
+Full-time to the  Intermountain Intertie System .",,,,,,,,,,,,,,,,,,
+224.66,-1.6,,KB7KB,Bozeman,MT,OPEN,,157.5,ESE,,224.66,223.06,,Gallatin,Off-Air,,KB7KB,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.29,-1,,KB7KB,Bozeman,MT,OPEN,,157.5,ESE,,53.29,52.29,,Gallatin,,,KB7KB,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.9,-5,100,KL7JGS,"Bozeman,  High Flats",MT,OPEN,E,157.6,ESE,,449.9,444.9,100,Gallatin,On-Air,Gallatin Valley.,,40,,,207198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.25,-0.6,100,KB7KB,Bozeman,MT,OPEN,,157.6,ESE,,145.25,144.65,100,Gallatin,Off-Air,Bozeman.,BARBS,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        29.62000 (KB7KB) at Bozeman, MT .",,,,,,,,,,,,,,,,,,
+147.18,0.6,100,WR7MT,Bozeman,MT,OPEN,,157.6,ESE,,147.18,147.78,100,Gallatin,On-Air,Wide area.,Montana Repeater Linking Assoc,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Full-time to the  MRLA System .,,,,,,,,,,,,,,,,,,
+29.62,-0.1,,KB7KB,Bozeman,MT,OPEN,,157.6,ESE,,29.62,29.52,,Gallatin,On-Air,,,25,,,,,Split -100.,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        145.25000 (KB7KB) at Bozeman, MT .",,,,,,,,,,,,,,,,,,
+444.075,5,CC1,WA7GSK,"Boise, Lower Deer Point",ID,OPEN,,157.7,SW,,444.075,449.075,,Boise,On-Air,Treasure Valley and SW Idaho,WA7GSK,,,,,,"Brandmeister Network 
+http://www.wa7gsk.com click on DMR Tab for codeplug info",Gem State Communications,,,,,1,,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Idaho  1  3116  Full-Time    Local/Cluster  2  2  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,,,,,,,,,,2,,,,,,,,,,,,,,,BrandMeister US,1,,,,,,
+443.1625,5,,W7YH,Pullman,WA,OPEN,,157.8,WNW,,443.1625,448.1625,,Whitman,On-Air,6,WSU ARC Rho Epsilon W7YH http://hamradio.wsu.edu/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W7YH (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,
+444.475,5,D245,KE7YD,"Boise, Deer Point",ID,OPEN,,157.8,SW,,444.475,449.475,D245,Ada,On-Air,SW Idaho,KE7YD,E-power.,,D245,,,,Ada County ACS,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,Tue at 19:00.,,,,,,,,,,,,,,,
+444.3,5,103.5,KC7AUI,Pullman,WA,OPEN,,157.9,WNW,,444.3,449.3,103.5,Whitman,On-Air,Pullman 4 mi radius.,KC7AUI,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,-5,162.2,KL7JGS,"Bozeman,  Deaconess Hosp",MT,OPEN,,158.5,ESE,,447,442,162.2,Gallatin,On-Air,Bozeman.,Bozeman Deaconess Hospital,"Autopatch, e-power.",,,,,Emergency services repeater,,,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.65,5,110.9,KA7EWN,"Boise, Wilderness Ridge",ID,OPEN,,158.8,SSW,,444.65,449.65,110.9,Ada,On-Air,Wide area:  70 mi radius.,,6,,,,,PL tone optional.,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.31,-0.6,88.5,KB7SIJ,"St. Maries, Idaho",ID,OPEN,,160.5,NW,,145.31,144.71,88.5,Idaho,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.75,-1.7,100,N7ZUF,"Colfax, Kamiak Butte",WA,OPEN,,161.7,WNW,,53.75,52.05,100,Whitman,On-Air,,,E-power.,,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.74,-0.6,,W7HFI,"Colfax, Kamiak Butte",WA,OPEN,,161.7,WNW,,146.74,146.14,,Whitman,On-Air,Wide area.,N7ZUF,E-power.,,,,,Whitman County ARES Repeater,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,"Whitman County ARES Net, every Thursday at 6:30PM",,,,,,,,,,,,,,,
+147.22,0.6,,N7UBO,Emmett,ID,OPEN,,161.8,SW,,147.22,147.82,,Gem,On-Air,,N7UBO,Yaesu System Fusion,,,,,,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+224.88,-1.6,100,KD7LXW,Emmett,ID,OPEN,E,161.8,SW,,224.88,223.28,100,Gem,On-Air,Wide area. 75 mi radius.,KD7LXW,6,,,182942,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.22,0.6,,N7UBO,Emmett,ID,OPEN,,161.8,SW,,147.22,147.82,,Gem,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.38,0.6,D026,N7BOI,"Boise, Seaman's Gulch",ID,OPEN,,163.7,SW,,147.38,147.98,D026,Ada,On-Air,SW Idaho 20 mi radius.,City of Boise Type 3 All-Hazards Incident Management Team,"E-power, weather nets.",,D026,,,Primary usage is PUBLIC SAFETY - RESTRICTED to Incident Management Team members during IMT incidents and events.  Please contact Boise AHIMT COML for details: K7HBJ@arrl.net,City of Boise ACS,http://www.cityofboise.org/,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,100,W7YB,"Bozeman, Bridger Bowl",MT,OPEN,,164.8,ESE,,146.88,146.28,100,Gallatin,On-Air,Wide area:,Eagle Head Repeater Assoc,8,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.82000 (W7LR) at Big Sky, MT .",,,,,,,,,,,,,,,,,,
+449.85,-5,173.8,WV7I,Eagle,ID,OPEN,,164.9,SW,,449.85,444.85,173.8,Ada,On-Air,Low level.,,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,100,K7LYY,Blacktail Mountain,MT,OPEN,,165.3,N,,147.18,147.78,100,Flathead,Testing,Flathead Valley from West Glacier to Ronan,Flathead Valley Amateur Radio Club,,,,,,,,http://www.fvarc.org,,,,,,,,,,,,,,,,,,,,,,,Full-time to the  MRLA System .,,,,,,,,,,,,,,,,,,
+146.76,-0.6,100,K7LYY,"Lakeside, Blacktail Mountain",MT,OPEN,,165.3,N,,146.76,146.16,100,Flathead,On-Air,,Flathead Valley ARC,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.86,-0.6,100,W7ZKA,"Lakeside, Blacktail Mountain",MT,OPEN,,165.3,N,,146.86,146.26,100,Flathead,On-Air,,Sam Waldenberg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.5,-1.6,100,KA7EWN,Boise,ID,OPEN,,167.2,SW,,224.5,222.9,100,Ada,On-Air,Wide area. 75 mi radius.,,6,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.45,5,,W7BDR,"Boise, Lower Deer Point",ID,OPEN,,167.2,SW,,443.45,448.45,,Ada,On-Air,Southwest Idaho Eastern Oregon,,,,,,,,Digital Amateur Radio Club of the Treasure Valley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W7BDR (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,
+223.94,-1.6,100,KB7ZD,Boise,ID,OPEN,,167.2,SW,,223.94,222.34,100,Ada,On-Air,,,Link to a 6-meter remote base.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,100,N7DJX,Boise,ID,OPEN,,167.2,SW,,147.3,147.9,100,Ada,On-Air,,,Autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52.62,-1.7,110.9,WA9WSJ,"Boise, Wilderness Ridge",ID,OPEN,,167.2,SW,,52.62,50.92,110.9,Ada,On-Air,,,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.05,5,114.8,NB7C,Payette,ID,OPEN,EI,167.2,SW,,443.05,448.05,114.8,Payette,On-Air,,NB7C,EchoIRLP Node,,,43417,3417,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.32,0.6,100,N7FYZ,Boise,ID,OPEN,,167.2,SW,,147.32,147.92,100,Ada,On-Air,,N7FYZ,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.725,5,100,W7VWR,Boise,ID,OPEN,,167.2,SW,,444.725,449.725,100,Ada,On-Air,Treasure Valley,W7VWR,E-power,,,,,No courtesy tone during hang time,Valley Wide REACT,http://www.vwreact.org,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.125,-25,103.5,NB7C,Payette,ID,OPEN,A,167.3,SW,,927.125,902.125,103.5,Payette,On-Air,City of Payette.,"Carl Sorensen, NB7C",,,103.5,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29902,,,,,,,,,,
+146.78,-0.6,88.5,W7VWR,Boise,ID,OPEN,,167.5,SW,,146.78,146.18,88.5,Ada,Off-Air,Portable repeater for special events,K6LOR,"E-power (solar), portable.",,88.5,,,,Valley Wide REACT,http://www.vwreact.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.15,-0.6,110.9,W7NYW,"La Grande, Mount Fanny",OR,OPEN,,167.6,W,,145.15,144.55,110.9,Union,On-Air,,Eastern Oregon Amateur Radio Society,7,,,,,,Baker ARC,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        145.17000 (W7NYW) at Ontario, Malheir, OR .
+ 
+
+
+Full-time to  
+        145.27000 (W7NYW) at Baker City, Beaver Mountain, OR .",,,,,,,,,,,,,,,,,,
+147.26,0.6,103.5,K7RPT,"La Grande, Mount Fanny",OR,OPEN,,167.6,W,,147.26,147.86,103.5,Union,On-Air,I-84 west of La Grande and the Baker area.,Amateur Radio Relay Group (ARRG),88,,,,,,,http://www.arrg.org/,ORRC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.275,5,,W7VWR,"Boise, Downtown",ID,OPEN,,168,SW,,444.275,449.275,,Ada,On-Air,Downtown Boise,W7VWR,,,123,,,,Valley Wide REACT,http://www.vwreact.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.2,5,100,KB7SYE,Boise,ID,OPEN,E,168.3,SW,,443.2,448.2,100,Ada,Off-Air,West Boise,,,,,511932,,,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.26,0.6,100,AB7HP,"Boise,  Hewlett-Packard",ID,OPEN,,168.3,SW,,147.26,147.86,100,Ada,On-Air,,Hewlett Packard Boise Amateur Radio Club (HPBARC),,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.62,-0.6,100,KA5LXG,Bigfork,MT,OPEN,,169.2,N,,146.62,146.02,100,Flathead,On-Air,Wide area.,FVRG,"Autopatch, e-power",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        147.14000 (K7KTR) at Plains, MT .
+ 
+
+
+Full-time to  
+        146.70000 (K7HR) at East Glacier, Mt Baldy, MT .",,,,,,,,,,,,,,,,,,
+442.075,5,88.5,KA5LXG,Bigfork,MT,OPEN,,169.2,N,,442.075,447.075,88.5,Flathead,,Wide area.,FVRG,"Autopatch, e-power, linked, remote base.",,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.15,5,100,K7OJI,"Huntington, Lime Hill",OR,OPEN,,169.3,WSW,,444.15,449.15,100,Baker,On-Air,"Wide area: Baker City, OR to Boise, ID. 50 mi radius.",Treasure Valley Radio Association,5,,,,,,,TVRA Repeaters,ORRC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,100,K7OJI,"Huntington, Lime Hill",OR,OPEN,,169.4,WSW,,147.12,147.72,100,Baker,On-Air,Wide area. Excelent coverage on I-84 from the east end of Ladd Canyon Canyon (~mp 270) to the Idaho border (mp 376). 75 mi radius.,Treasure Valley Radio Association,"APRS, e-power, linked.",,,,,5,,TVRA Repeaters,ORRC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.65,5,100,KC7BSA,Fruitland,ID,OPEN,I,169.8,SW,,443.65,448.65,100,Payette,On-Air,,,,,,,3130,,,IRLP site,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.25,-0.6,100,K3ZFF,"Boise, Blacks Creek",ID,OPEN,,170,SSW,,145.25,144.65,100,Ada,On-Air,,Boise County Amateur Radio Club,,,100,,,,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.8,-5,100,KE7JFA,Roberts,ID,OPEN,EI,170.1,SE,,448.8,443.8,100,Jefferson,On-Air,Idaho Falls and some surrounding areas.,,,,100,319230,3628,Email me for list of speed dial commands if needed.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.6,5,100,KC7LHV,"Meridian, Eagle Road and Ustick Road",ID,OPEN,A,170.3,SW,,442.6,447.6,,Ada,On-Air,,BARC,,,,,,,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,42253,,,,,,,,,,
+146.88,-0.6,100,K7ENE,"Menan, Menan Buttes",ID,OPEN,,170.5,SE,,146.88,146.28,100,Madison,On-Air,,ERC,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,ERC: Wed at 21:00.,,,,,,,,,,,,,,,
+443.15,5,100,K7RHB,Ontario,OR,OPEN,E,170.9,SW,,443.15,448.15,100,Malhuer,On-Air,,,,,,224189,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.08,0.6,100,KC9CJ,"Meridian, Meridian",ID,OPEN,,172.6,SW,,147.08,147.68,100,Ada,Testing,40,State of Idaho,,,,,,,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.8,5,100,N7DJX,Boise,ID,OPEN,,172.9,SW,,443.8,448.825,100,Ada,On-Air,,,,,,,,,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.31,-0.6,100,KE7DTL,"Libby, Meadow Peak",MT,OPEN,,173.1,N,,145.31,144.71,100,Lincoln,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.25,5,110.9,K7ZZL,Blacks Creek,ID,OPEN,,173.4,SSW,,443.25,448.25,110.9,Ada,On-Air,50,,Remote base.,,110.9,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.5,0,,K6LOR,Middleton,ID,OPEN,E,174.1,SW,,146.5,146.5,,Canyon,Testing,Middleton &amp; Western Star,K6LOR,,,100,707383,,"Low level low power simplex node, PL 100.0 required.",Valley Wide REACT,http://www.vwreact.org,,,,,,,,,,,,,,,,,,,,,,,,,,,"Enter node to connect, 02 for random conference, # to disconnect.",,,,,,,,,,,,,,
+444.275,5,,K6LOR,Middleton,ID,OPEN,,174.1,SW,,444.275,449.275,,Canyon,Testing,Greater Middleton and Western Star,W7VWR,,,100,,,Low level repeater for in building coverage in Middleton - Shared frequency with Downtown Boise Repeater with tones TX123.0/RX123.0,Valley Wide REACT,http://www.vwreact.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.925,5,146.2,KF7GOR,"La Grande, Mount Harris",OR,OPEN,E,174.3,W,,444.925,449.925,146.2,Union,On-Air,Union County I-82 and I-84 and into Baker City Area.,,7,,146.2,72735,,Remote base required a PL of 146.2.,,,,,,,,,,,,,,,,,,,,,,,,,147.5,,,,For system info Press 0*.,,,,,,,,,,,,,,
+448.6,-5,100,K7WIP,"Rexburg, BYU-Idaho Campus",ID,OPEN,I,175.4,SE,,448.6,443.6,100,Madison,On-Air,Portions of Hwy 20 and Hwy 33.,"Peter Stilling, K7WIP",,,100,,7186,,Brigham Young University Idaho,http://www.byui.edu/societies/amateur-radio-society/repeaters,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.41,-0.6,100,K7BYI,"Rexburg, BYU-Idaho Campus",ID,OPEN,EI,175.5,SE,,145.41,144.81,100,Madison,On-Air,"Rexburg area, covers portions of US Hwy 20 and State Hwy 33","Peter Stilling, K7WIP",,,100,893936,7186,,Brigham Young University - Idaho,http://www.byui.edu/societies/amateur-radio-society/repeaters,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,BYU-Idaho Amateur Radio Society Net: Tuesday @ 2000,,,,,,,,,,,,,,,
+146.7,-0.6,100,N7UNY,"Rexburg, Water Tower",ID,OPEN,,175.7,SE,,146.7,146.1,100,Madison,On-Air,,,5,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.1,0.6,100,K7OJI,"Ontario, Malheur Butte",OR,OPEN,,175.9,SW,,147.1,147.7,100,Malhuer,On-Air,,Tresure Valley Radio Assoc,"E-power, linked.",,,,,2,,http://www.K7OJI.us,ORRC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN14ka,,,,,,,,,,,,,
+145.17,-0.6,110.9,W7NYW,"Ontario, Malheir",OR,OPEN,,176,SW,,145.17,144.57,110.9,Malhuer,On-Air,Wide area.,TVRA Ham Club,E-power.,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        145.15000 (W7NYW) at La Grande, Mount Fanny, OR .
+ 
+
+
+Full-time to  
+        145.27000 (W7NYW) at Baker City, Beaver Mountain, OR .",,,,,,,,,,,,,,,,,,
+145.33,-0.6,100,KD7OCP,"Noxon, Green Mountain",MT,OPEN,,178.6,NNW,,145.33,144.73,100,Sanders,On-Air,,KD7OCP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.22,0.6,103.5,W7PAG,Nyssa,OR,OPEN,,179.7,SW,,147.22,147.82,103.5,Malhuer,Off-Air,,,2,,,,,QTH.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DN13lu,,,,,,,,,,,,,
+145.29,-0.6,100,W7VOI,"Boise, Boise Bench",ID,OPEN,,179.8,SW,,145.29,144.69,100,Ada,On-Air,Low level repeater covering Downtown Boise and the central Treasure Valley. Pair is also used on our portable repeater.,Voice of Idaho Amateur Radio Club (VOI),Portable repeater,,,,,,,http://voiceofidaho.org,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.8,-0.6,123,WF7S,"Elgin, Spout Springs Ski Resort",OR,OPEN,,180.6,W,,146.8,146.2,123,Umatilla,On-Air,"Wide area: Spokane to the North, Hood River to the West, Baker City to the Southwest, Joseph and Enterprise to the SE and high Idaho points to the East. Excellent coverage along I-84 except for down in the gorge in Morrow and Wasco counties (coverage ends WB I-84 at ~mp 147 and EB I-84 at mp 314). Coverage for Columbia Basin and Franklin County. No coverage from La Grande mp 261 through hills to the west.",Spout Springs Repeater Association,E-power.,,123,,,5,,http://www.wf7s.net,ORRC,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,"Full-time to  
+        146.62000 (WF7S) at Pasco, WA .",,,"Business Net: 1st and 3rd Sunday of each month at 19:30. 
+Cracker Barrel Rag Chew Net: Weeknights at 20:00.",Disable tone requirement by keying A0* (alpha zero asterisk) PL Tone is required again after 9 mins of repeater inactivity.,,,Open ↑ / Open ↓,,,,,,,,,,,
+927.1875,-25,D432,K7OVG,Nampa,ID,OPEN,A,181.6,SW,,927.1875,902.1875,D432,Canyon,On-Air,"Mobile: I-84 exit 9 (new Plymouth) to exit 17 (Sand Hollow) fair coverage. Exit 17 through exit 42 (Ten Mile Exit) good coverage. Mobile Coverage east of Boise will be supplied at a later date. Very Good coverage Caldwell, Nampa, Kuna Area Fair to Good Coverage Meridian and West Boise",,,,D432,,,"Normally connected to 27714 - NB7C - Idaho 900 Mhz Hub - Payette, Idaho",Western Idaho ATV Group,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41599,,,,,,,,,,
+444.1,5,156.7,NG7O,Nampa,ID,OPEN,EIA,181.7,SW,,444.1,449.1,156.7,Canyon,On-Air,,,2,,156.7,12532,4517,,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27131,,,,,,,,,,
+443.975,5,136.5,K7ID,"Coeur d'Alene, Canfield Mountain",ID,OPEN,E,183,NW,,443.975,448.975,136.5,Kootenai,On-Air,Metro CDA area and I-90.,,,,,426264,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.98000 (K7ID) at Post Falls, Mica Peak, ID .",,,,,,,,,,,,,,,,,,
+145.27,-0.6,110.9,W7NYW,"Baker City, Beaver Mountain",OR,OPEN,E,184.4,WSW,,145.27,144.67,110.9,Baker,On-Air,Wide area: Baker County. 60 mi radius.,Eastern Oregon ARS,E-power.,,110.9,414516,,6,Baker ARC,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        145.15000 (W7NYW) at La Grande, Mount Fanny, OR .
+ 
+
+
+Full-time to  
+        145.17000 (W7NYW) at Ontario, Malheir, OR .",,,,,,,,,,,,,,,,,,
+448.9,-5,,KG7WZG,Idaho Falls,ID,OPEN,,184.5,SE,,448.9,443.9,,Bonneville,,,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KG7WZG (B),"jfindu lookup 
+    /   dstar-users lookup",,,
+147.34,0.6,100,KC7NIY,"Mountain Home, Rattlesnake Butte",ID,OPEN,,185,SSW,,147.34,147.94,100,Elmore,On-Air,Mountain Home area; Have received reports from Caldwell to Twin Falls.,Elmore County,,,,,,,Elmore County ARES,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,Elmore County ARES: Sun at 2000.,,,,,,,,,,,,,,,
+442.825,5,110.9,K7ECI,Mountain Home,ID,OPEN,,185.3,SSW,,442.825,447.825,110.9,Elmore,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.98,-0.6,100,W7GRA,"La Grande, Grande Ronde Hospital",OR,OPEN,W,185.6,W,,146.98,146.38,100,Union,On-Air,Grande Ronde Valley,,e-power,,100,,,**NEWS***10/20/17 W7GRA is now a DR-2X repeater. C4FM use on this repeater may require you to update your radio's firmware. Please check with Yaesu to see if it is required for full System Fusion 2 compatibility. All System Fusion radios are upgrade-able.,Grande Ronde Radio Amateurs,http://w7gra.org/,ORRC,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,Sunday Night Net at 19:00,,,,Open ↑ / Open ↓,,,30274,,,,,,,,
+448.175,-5,100,K6LOV,"Iona,  Iona Hill",ID,OPEN,,185.7,SE,,448.175,443.175,100,Bonneville,On-Air,,,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,,K7EFZ,"Iona, Iona Hill",ID,OPEN,,185.7,SE,,146.64,146.04,,Bonneville,On-Air,,Eagle Rock ARC,e-power.,,,,,Learned this evening that the autopatch has been disabled indefinitely - too much FM radio interference at that location.,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.125,5,,WA7DRE,"Spokane, Sacred Heart Hospital",WA,OPEN,,186.1,NW,,443.125,448.125,,Spokane,On-Air,"Spokane, Spokane Valley, Post Falls ID, CDA ID",WA7DRE,,,,,,,Washington Digital Radio Enthusiasts,http://www.wa7dre.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WA7DRE (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,
+443.525,5,,WA7DRE,Spokane,WA,OPEN,W,186.5,NW,,443.525,448.525,,Spokane,On-Air,"Spokane, Spokane Valley, Post Falls ID, CDA ID",WA7DRE,,,,,,,Washington Digital Radio Enthusiasts,http://www.wa7dre.org,,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,11375,,,,,,,,
+147.28,0.6,103.5,KD7DDQ,"Milton-Freewater, Pikes Peak",OR,OPEN,,188.1,W,,147.28,147.88,103.5,Umatilla,On-Air,,,3,,,,,PL not required.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.98,-0.6,127.3,K7ID,"Post Falls, Mica Peak",ID,OPEN,,188.2,NW,,146.98,146.38,127.3,Kootenai,On-Air,,Kootenai Amateur Radio Society,,,,,,,,Kootenai Amateur Radio Society,IACC,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        443.97500 (K7ID) at Coeur d'Alene, Canfield Mountain, ID .",,,KARS NorthWest Traffic Net: Daily 18:30,,,,,,,,,,,,,,,
+147.08,0.6,100,KC7ODP,"Post Falls, Mica Peak",ID,OPEN,,188.2,NW,,147.08,147.68,100,Kootenai,On-Air,,,,,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,NW Traffic Net: Wed at 18:30.,,,,,,,,,,,,,,,
+147.38,0.6,100,W7OE,"Spokane, Mica Peak",WA,OPEN,I,188.8,NW,,147.38,147.98,100,Spokane,On-Air,Wide area. 30 mi radius.,W7OE,,,,,3957,,Kamiak Butte Amateur Repeater Assoc,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,NW Regional/International Net: Weekdays 0700.  Weather Nets: Weekdays 0545 &amp; 1645.  Wednesday Evening Net: Wed at 1900.  Whitman/Latah County ARES Net: Thur at 1830.  KBARA Tech-Net: Thur at 1930.  Stanley Steamer Net: Sat at 0700.  Road Runners Net: Sun at 0700.  Spokane Region Storehouse ERC Net: Sun at 1930.,,DN17ln,,,,,,,,,,,,,
+444.35,5,192.8,N1NG,"Spokane, South Hill",WA,OPEN,,188.8,NW,,444.35,449.35,192.8,Spokane,On-Air,,Kamiak Butte Amatuer Repeater Assoc (KBARA),,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17ln,,,,,,,,,,,,,
+145.15,-0.6,114.8,WA7RVV,"Spokane, Mica Peak",WA,OPEN,E,188.8,NW,,145.15,144.55,114.8,Spokane,On-Air,Wide area.,WA7RVV,,,114.8,254771,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17ln,,,,,,,,,,,,,
+147.24,0.6,127.3,WA7HWD,"Spokane, Mica Peak",WA,OPEN,,188.8,NW,,147.24,147.84,127.3,Spokane,On-Air,"Spokane, WA.",,"Linked, e-power.",,127.3,,,,Northwest Tri-State ARO,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,Membership Net: Wed 2000.,,,,,,,,,,,,,,,
+53.29,-1.7,100,WA7UOJ,"Spokane, Mica Peak",WA,OPEN,,188.8,NW,,53.29,51.59,100,Spokane,On-Air,Wide area.,,Autopatch.,,103.5,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17ln,,,,,,,,,,,,,
+53.39,-1.7,100,KB6UMY,"Coeur d'Alene, Mica Peak/RX   Blossom/TX",ID,OPEN,EI,188.9,NW,,53.39,51.69,100,Kootenai,On-Air,Kootenai County,Brandon Vetter,Linked to 147.280+ and 442.975+ All PL 100.0,,100,465683,3773,,KARS,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.11,-0.6,118.8,WA7UOJ,"Spokane, Mica Peak",WA,OPEN,,188.9,NW,,145.11,144.51,118.8,Spokane,On-Air,,,,,118.8,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.28,0.6,100,KB6UMY,"Post Falls, Blossom Peak",ID,OPEN,EI,189,NW,,147.28,147.88,100,Kootenai,On-Air,"Coeur d'Alene, Post Falls, Spokane",Brandon Vetter,Linked to 442.975+ 53.39-1.7 PL 100.0 Hz,,100,465683,3773,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.975,5,100,KB6UMY,"Post Falls, Blossom Peak",ID,OPEN,EI,189,NW,,442.975,447.975,100,Kootenai,On-Air,"Post Falls, Spokane and Coeur d'alene area",Brandon Vetter,Linked to 147.280+ 53.39-1.7 PL 100.0 Hz,,100,465683,3773,,,http://www.blossompeak.org,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.55,5,100,K7ZZL,Marsing,ID,OPEN,,189.2,SW,,443.55,448.55,100,Owyhee,On-Air,,Deer Point ARC,"link, e-power.",,100,,,SW of Marsing at 4740' AMSL.,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+146.88,-0.6,100,K7ZZL,Marsing,ID,OPEN,,189.2,SW,,146.88,146.28,100,Owyhee,On-Air,70,"Deer Point Amateur Radio Club, W7ZRQ","Link, e-power, C4FM, FDMA",,100,,,SW of Marsing at 4740' AMSL.,,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,AmRRON: First and third Wed at 20:00.,Autopatch: On * / Off #,,,Open ↑ / Open ↓,,,,,,,,,,,
+444.475,5,CC1,N7MOT,"Coeur d'Alene, Blossom Mtn",ID,OPEN,,189.3,NW,,444.475,449.475,,Kootenai,On-Air,Kootenai County and East Spokane County,N7MOT - Lenny Gemar,Internet linked to PNW c-Bridge and Brandmeister,,,,,Available TGs are listed at http://www.qrz.com/db/N7MOT,PNW c-Bridge http://www.trbo.org/pnw/,http://www.qrz.com/db/N7MOT,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.175,5,100,K7LCD,"Melba, Hat Butte",ID,OPEN,EA,189.7,SW,,444.175,449.175,,Canyon,On-Air,50,NF7T,,,,478568,,Coordinated by W7ZRQ,Lewis &amp; Clark ARC,http://www.k7lcd.org,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,43854,,,,,,,,,,
+145.35,-0.6,100,K7LCD,"Melba, Hat Butte",ID,OPEN,W,189.7,SW,,145.35,144.75,,Canyon,On-Air,"Boise, Nampa, Caldwell, Emmett, Meridian, Melba, Star, Eagle, Mt Home, Marsing, Murphy.",NF7T,Wires-X KB7VVD node,,,,,,LEWIS &amp; CLARK ARC,http://www.k7lcd.org,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,"Lewis &amp; Clark ARC, Wed at 8:00 P.M. MST",,,,Open ↑ / Open ↓,,,30283,,,,,,,,
+444.35,5,D051,W7ECA,"Great Falls, Gore Hill",MT,OPEN,,190.6,NE,,444.35,449.35,D051,Cascade,On-Air,,Great Falls Area ARC,"Open autopatch, e-power.",,,,,,,,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,,W7ECA,"Great Falls, Gore Hill",MT,OPEN,,190.6,NE,,147.3,147.9,,Cascade,On-Air,30,Great Falls Area ARC,"Open autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,,W7ECA,"Great Falls, Porphyry Peak",MT,OPEN,E,190.8,E,,147.12,147.72,,Meagher,On-Air,Wide area. 100 mi radius.,Great Falls Area ARC,8,,,110928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.275,5,,K7ID,"Post Falls, Idaho Mica Peak",ID,OPEN,,191.9,NW,,443.275,448.275,,Kootenai,On-Air,Kootenai County and Spokane County,Kootenai Amateur Radio Society K7ID,AMS - System Fusion,,136.5,,,,,http://www.K7ID.org,,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+444.45,5,91.5,N7MOT,Post Falls,ID,OPEN,EI,191.9,NW,,444.45,449.45,91.5,Kootenai,On-Air,Kootenai County Prairie 20 mi radius.,,"Linked to 442.975 Blossom Mtn
+KB6UMY",,91.5,465683,3773,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.17,-0.6,114.8,K7MMA,"Spokane Valley, Liberty Lake",WA,OPEN,E,192.3,NW,,145.17,144.57,114.8,Spokane,On-Air,"Spokane and Spokane Valley to Post Falls, ID Area",KC7GKY/K7MMA,,,114.8,591675,,All licensed amateurs are welcome to use.,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,100,W7GMC,Great Falls,MT,OPEN,EI,192.8,NE,,147.36,147.96,100,Cascade,On-Air,25,W7GMC,"Weather, weather alerts",,,425518,5670,,Electric City Amateur Radio Club,,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,Mon at 1900.,"number. Dial 73 to disconnect to IRLP-Dial node #. Echolink-* and node # Pound key = #, Star key = * 411 - Play ARRL News # - Stop News # 1 - Play Wx",,,,,,,,,,,,,,
+443.65,5,,W7TRF,Liberty Lake,WA,CLOSED,,192.9,NW,,443.65,448.65,,Spokane,,,ASARC,Linked.,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.38,0.6,,K7LYY,"Whitefish,  Sandy Hill",MT,OPEN,,192.9,N,,147.38,147.98,,Flathead,On-Air,Local valley area.,Flathead Valley ARC,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.23,-0.6,123,AG7AD,"Great Falls, 1708 6 St NW",MT,OPEN,,193,NE,,145.23,144.63,123,,On-Air,Great Falls MT,John &amp; Sally Greer,,,,,,,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.24,0.6,,AA7GS,Great Falls,MT,OPEN,,193.2,NE,,147.24,147.84,,Cascade,On-Air,40,AA7GS,,,,,,,Great Falls Area Amateur Radio Club,http://www.w7eca.net,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+444.9,5,,K7LW,Athena,OR,OPEN,,193.2,W,,444.9,449.9,,Umatilla,On-Air,"Low level, less than 100 miles",Cookie Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DN05ul,,,,,,,,,K7LW (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,
+146.74,-0.6,,K7EFZ,"Idaho Falls, Peterson Hill",ID,OPEN,,193.4,SE,,146.74,146.14,,Bonneville,On-Air,Eagle Rock Amateur Radio  (ERARC),,,,,,,,,http://www.erarc.org/,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.14,0.6,100,AE7HW,great falls,MT,OPEN,,193.4,NE,,147.14,147.74,100,Cascade,On-Air,50,,E-power,,100,,,One mile south of airport.,,,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.95,-5,,WB6EVM,Blackfoot,ID,PRIVATE,,193.5,SSE,,447.95,442.95,,Bingham,On-Air,Bingham County,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.475,5,88.5,W7TRF,"Liberty Lake, Agilent Bldg",WA,OPEN,E,193.9,NW,,443.475,448.475,88.5,Spokane,On-Air,,Spokane Ham Radio Club,"Closed autopatch, E-power",,,282039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spokane Ham Radio Club Thu at 20:30.,"EchoLink : 
+Connect- [node #] / Disconnect- #. 
+Status- 08 / Play Info- D.",DN17kq,,,,,,,,,,,,,
+146.68,-0.6,100,AA7GS,Great Falls,MT,OPEN,,194.1,NE,,146.68,146.08,100,Chouteau,On-Air,"Great Falls Area, Havre, East Glacier, Helena, and Big Timber. 30 mi radius.",Montana Repeater Linking Assoc,,,,,,Snowbird Link drops after 10 minutes of inactivity. Use the remote input of 446.680 to use the Snowbird Link.,,,,,,,,,,,,,,,,,,,,,,,,,Linkable to the  Intermountain Intertie System . Full-time to the  MRLA System . Linkable to the  Snowbird Link System . Linkable to the  Utah VHF Society System .,,,,Intermountain Intertie: Link 196 On/197 Off.,,,,,,,,,,,,,,
+146.7,-0.6,103.5,K7HR,"East Glacier, Mt Baldy",MT,OPEN,,194.2,NNE,,146.7,146.1,103.5,Glacier,On-Air,,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        147.14000 (K7KTR) at Plains, MT .
+ 
+
+
+Full-time to  
+        146.62000 (KA5LXG) at Bigfork, MT .",,,,,,,,,,,,,,,,,,
+443.375,5,88.5,K7HR,"East Glacier, Mt Baldy",MT,OPEN,,194.2,NNE,,443.375,448.375,88.5,Glacier,Off-Air,,HARK,"E-power, remote base.",,,,,,,http://www.cutbankairport.org/highline-radio/local-information/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.425,5,100,N7FM,Spokane Valley,WA,OPEN,I,194.8,NW,,444.425,449.425,100,Spokane,On-Air,Spokane,N7FM,,,100,,3507,,,http://www.n7fm.com,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17jo,,,,,,,,,,,,,
+145.33,-0.6,100,N7FM,Spokane Valley,WA,OPEN,A,194.8,NW,,145.33,144.73,100,Spokane,On-Air,,WA6HSL,,,100,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        224.40000 (K7MMA) at Spokane, Icy Hill, WA .",,,,,DN17jo,,,28162,,,,,,,,,,
+146.66,-0.6,,N7FM,Spokane Valley,WA,OPEN,IA,194.8,NW,,146.66,146.06,,Spokane,On-Air,Spokane,N7FM,,,100,,3502,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17jo,,,41473,,,,,,,,,,
+444.25,5,110.9,KC7TIG,Rathdrum,ID,OPEN,I,195.2,NW,,444.25,449.25,110.9,Kootenai,On-Air,,,,,,,8350,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.22,0.6,136.5,N7ESU,Rathdrum,ID,OPEN,,195.2,NW,,147.22,147.82,136.5,Kootenai,On-Air,,,45,,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,5,100,WA4VRV,"Idaho Falls, Quality Inn",ID,OPEN,,195.6,SE,,443,448,100,Bonneville,On-Air,Wide area,WA4VRV,"E-power, EX (NOAA Weather SAME Alerts)",,100,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+147.14,0.6,123,W7RAC,"Driggs, Relay Ridge",ID,OPEN,,195.9,SE,,147.14,147.74,123,Teton,On-Air,Teton Valley/North,Teton Valley Radio Amateur Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,ARES Net: Wed at 1900,,,,Open ↑ / Open ↓,,,,,,,,,,,
+146.94,-0.6,123,K7ENE,"Driggs, Relay Ridge",ID,OPEN,E,195.9,SE,,146.94,146.34,123,Teton,On-Air,,MCCD,9,,,328034,,Echolink is only on the repeater frequency during the net. All are welcome to join the net.,,ARES District 6 Nets,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,RACES/ARES: Thu at 21:00.,,,,,,,,,,,,,,,
+442.925,5,100,NV2Z,Otis Orchards,WA,OPEN,W,195.9,NW,,442.925,447.925,100,Spokane,On-Air,,NV2Z,E-power,,100,,,Digital WIRES-X node,,,,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,11634,,,,,,,,
+442.425,5,100,K7HRT,Greenacres,WA,OPEN,,196.2,NW,,442.425,447.425,100,Spokane,On-Air,,N7XKP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.875,-5,,KB7ITU,"Rexburg, Relay Ridge",ID,OPEN,EI,196.3,SE,,447.875,442.875,,Madison,On-Air,"Blackfoot, Idaho to Island Park, Idaho",W7RUG,,,100,667390,3424,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,"IRLP Up = node number. Down = 73 
+EchoLink Up = A then node number. Down = 73",,,,,,,,,,,,,,
+146.88,-0.6,123,WR7VHF,"Spokane, Krell Hill",WA,OPEN,,196.4,NW,,146.88,146.28,123,Spokane,On-Air,,Inland Empire VHF Radio Amateurs,Autopatch.,,107.2,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,Membership Net: Wed at 1930.,Autopatch:  * + number- On / #- Off,DN17in,,,,,,,,,,,,,
+145.39,-0.6,100,W7UPS,"Spokane, Krell Hill",WA,OPEN,E,196.5,NW,,145.39,144.79,100,Spokane,On-Air,Wide area.,,E-power.,,100,130935,,Wide area coverage on PL 100.0. Local area coverage for Echolink preferred on 127.3.,,http://w7ups.com,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+927.25,-25,114.8,W7RGW,"Spokane, Krell Hill",WA,OPEN,,196.5,NW,,927.25,902.25,114.8,Spokane,On-Air,,,,,114.8,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17IN,,,,,,,,,,,,,
+444.5,5,136.5,K7EMF,"Spokane, Krell Mtn",WA,OPEN,,196.6,NW,,444.5,449.5,,Spokane,On-Air,Wide Area Centered On Spokane,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+147.14,0.6,127.3,AD7DD,Otis Orchards,WA,OPEN,I,196.8,NW,,147.14,147.74,127.3,Spokane,On-Air,Spokane &amp; Couer d' Alene. 30 mi radius.,,WX,,,,7205,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,LDS Stake Net: Sun 1900.,,DN17kr,,,,,,,,,,,,,
+145.37,-0.6,141.3,KA7ENA,"Spokane, Tower Mountain",WA,OPEN,,197.2,NW,,145.37,144.77,141.3,Spokane,On-Air,,KA7ENA,,,141.3,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17IO,,,,,,,,,,,,,
+444.125,5,100,KC7AAD,"Spokane, Krell",WA,OPEN,,197.2,NW,,444.125,449.125,100,Spokane,On-Air,Wide Area,KC7AAD,,,100,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17IO,,,,,,,,,,,,,
+146.66,-0.6,100,K7MVA,"Jerome, Flat Top Butte",ID,OPEN,,199.4,S,,146.66,146.06,100,Jerome,On-Air,,,,,100,,,,,http://www.k7mva.org/,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.27,-0.6,100,KO8N,"Whitefish, Big Mountain",MT,OPEN,,199.5,N,,145.27,144.67,100,Flathead,On-Air,Wide area.,FVRG,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,100,K7TRH,"Marsing, French John Hill",ID,OPEN,,199.7,SW,,147.36,147.96,100,Owyhee,On-Air,Wide area.,CCEM,"Link, e-power.",,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.9,5,100,K7TRH,"Marsing, French John Hill",ID,OPEN,,199.7,SW,,442.9,447.9,100,Owyhee,On-Air,Wide area.,CCEM,"Link, e-power",,CSQ,,,Elevation: 3600',,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.35,5,,KB7SQE,Libby,MT,OPEN,I,200.3,NNW,,444.35,449.35,,Lincoln,On-Air,,KB7SQE,,,100,,3056,,,,MRCC,,,,,,,,,,,,,,,,,,,,,,146.29,,,,,,,,,,,,,,,,,,
+444.825,5,100,KB7SQE,Libby,MT,OPEN,,200.3,NNW,,444.825,449.825,100,Lincoln,On-Air,,KB7SQE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        147.26000 (WR7DW) at Olney, Werner Peak, MT .",,,,,,,,,,,,,,,,,,
+444.8,5,,KF7VTM,Jerome,ID,OPEN,,200.3,S,,444.8,449.8,,Jerome,On-Air,,W7VOI,,,,,,D-STAR 70CM at Jerome ID is KF7VTM B on 444.800 MHz +5.000MHz,Voice of Idaho Amateur Radio Club,,W7ZRQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KF7VTM (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,
+147.1,0.6,100,KG7SD,"Spokane, Paradise Rim",WA,OPEN,,200.5,NW,,147.1,147.7,100,Spokane,On-Air,,,,,100,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.9,5,123,WR7VHF,"Spokane Valley, Riblets",WA,OPEN,,200.6,NW,,444.9,449.9,123,Spokane,On-Air,,Inland Empire VHF Radio Amateurs,,,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17iq,,,,,,,,,,,,,
+444.9,5,123,WR7VHF,Spokane Valley,WA,OPEN,,202,NW,,444.9,449.9,123,Spokane,On-Air,,Inland Empire VHF Radio Amateurs,,,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.4,-1.6,114.8,K7MMA,"Spokane, Icy Hill",WA,OPEN,,202.1,NW,,224.4,222.8,114.8,Spokane,On-Air,Spokane and Surrounding Areas,WA6HSL,,,,,,5100,,,IACC,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        145.33000 (N7FM) at Spokane Valley, WA .",,,,,,,,,,,,,,,,,,
+147.16,0.6,136.5,K7EKM,"Spokane, South Hill",WA,OPEN,,202.2,NW,,147.16,147.76,136.5,Spokane,On-Air,Spokane 6 mi radius.,Spokane DX Association,,,136.5,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17HP,,,,,,,,,,,,,
+442,5,110.9,K7ZOX,Spirit Lake,ID,OPEN,,202.6,NW,,442,447,110.9,Kootenai,On-Air,,,,,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.8,-5,CC1 123.0,W7RAC,"Driggs, Idaho",ID,OPEN,,204.2,SE,,449.8,444.8,123,Idaho,On-Air,,Teton Valley Radio Amateur Club,,,,,,,Teton County ARES,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,100,W7GBU,"Spokane, Brownes Mountain",WA,OPEN,,204.6,NW,,147.3,147.9,100,Spokane,On-Air,Wide area.,Spokane County ARES RACES Support Group,E-power,,,,,,,http://www.spokares.org,IACC,,,,,,,,,,,,,,,,,,,,,,,,,730,,,,,,,,,,,,,,,
+443.85,5,114.8,KD7IKZ,Spokane,WA,OPEN,E,204.6,NW,,443.85,448.85,114.8,Spokane,Off-Air,Spokane and Post Falls.,,,,114.8,216767,,Located downtown.,,http://kd7ikz.myftp.org,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.66,-0.6,,,Spokane,WA,OPEN,I,204.6,NW,,146.66,146.06,,Spokane,On-Air,25,N7FM,,,,,3502,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IRLP connects to Reflector 9005 from 8:30 AM to 9:00 AM,,,,,,,,,,,,,,,
+224.94,-1.6,107.2,AK2O,Spokane,WA,OPEN,,204.6,NW,,224.94,223.34,107.2,Spokane,On-Air,Local,Spokane Repeater Group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.98,-1.6,107.2,N7BFS,Spokane,WA,OPEN,I,204.6,NW,,224.98,223.38,107.2,Spokane,On-Air,Local,N7BFS,,,,,3250,Contact me for the IRLP pre-access code that it uses.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442.6,5,100,N7FM,Spokane,WA,OPEN,,204.6,NW,,442.6,447.6,100,Spokane,On-Air,,N7FM,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+444.7,5,,AK2O,"Spokane, Brownes Mountain",WA,OPEN,,204.6,NW,,444.7,449.7,,Spokane,Off-Air,Metro Spokane,AK2O,,,,,,Repeater is down pending repairs.,Spokane Repeater Group,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1293.3,20,,WA7DRE,Spokane,WA,OPEN,,204.6,NW,,1293.3,1313.3,,Spokane,On-Air,,Washington Digital Radio Enthusiasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WA7DRE (A) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,
+444.05,5,,,"Spokane, Paradise Rim",WA,OPEN,,204.6,NW,,444.05,449.05,,Spokane,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+147.34,0.6,123,WR7VHF,Spokane,WA,OPEN,,204.6,NW,,147.34,147.94,123,Spokane,On-Air,,Inland Empire VHF Radio Amateurs,E-power.,,,,,Located on the State Farm Bank building downtown.,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.2,0.6,,K7SRG,Spokane,WA,OPEN,,204.6,NW,,147.2,147.8,,Spokane,On-Air,Wide area: Eastern Washington and Northern Idaho.,Spokane Repeater Group,,,,,,This repeater is part of a sophisticated large coverage area network. Please visit the web-site to learn more about the repeater system and how to join. Membership is not required to gain PL tones.,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.32,0.6,,AK2O,Spokane,WA,OPEN,,204.6,NW,,147.32,147.92,,Spokane,On-Air,,AK2O,,,,,,,Spokane Repeater Group,http://www.srgclub.org,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.21,-0.6,100,W7TRF,"Spokane, South Valley",WA,OPEN,,204.6,NW,,145.21,144.61,100,Spokane,On-Air,,Spokane Ham Radio Club,"Closed autopatch, linked, e-power.  Four receivers located at:  Agilent Technologies in Liberty Lake Green Ridge above Liberty Lake Beacon Hill South ridge above the Spokane Valley",,,,,,Agilent Technologies,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223.94,-1.6,,AK2O,Spokane,WA,OPEN,,204.6,NW,,223.94,222.34,,Spokane,,,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.925,5,100,K7MMA,"Spokane, Icy Hill",WA,OPEN,I,204.9,NW,,443.925,448.925,100,Spokane,On-Air,Spokane and West Spokane. 50 mi radius.,"K7MMA &amp; K7TMF, Michael West &amp; Chuck Hill",,,100,,7879,Linked into the Seattle Reflector 9198,,http://www.qrz.com/db/K7MMA,IACC,,,,,,,,,,,,,,,,,,,,,,,,,East Coast Tech &amp; Swap: Tue at 17:00.,0,,,,,,,,,,,,,,
+145.29,-0.6,77,K7MMA,"Spokane, Spokane International Airport",WA,OPEN,W,204.9,NW,,145.29,144.69,77,Spokane,On-Air,Spokane Area,K7MMA,,,77,,,,,http://www.qrz.com/db/K7MMA,,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,18091,,,,,,,,
+441.5,0,,W4LKS,Cheney,WA,OPEN,,206.1,NW,,441.5,441.5,,Spokane,On-Air,"Four Lakes, Airway Heights, Medical Lake, Cheney",,Full D-STAR Linking,,,,,,,http://www.wa7dre.org,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W4LKS (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,
+146.82,-0.6,88.5,,"Libby, Blue Mountain Lookout",MT,OPEN,,206.2,NNW,,146.82,146.22,88.5,Lincoln,On-Air,,,,,,,,Linked to 444.225 on Blue Mountain and 147.000 in Yaak,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        444.22500 (W3YAK) at Libby, Blue Mountain, MT .
+ 
+
+
+Full-time to  
+        147.00000 () at Yaak, MT .",,,,,,,,,,,,,,,,,,
+444.225,5,88.5,W3YAK,"Libby, Blue Mountain",MT,OPEN,,207.1,NNW,,444.225,449.225,88.5,Lincoln,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.82000 () at Libby, Blue Mountain Lookout, MT .",,,,,,,,,,,,,,,,,,
+443.3,5,,W7DPK,"Cut Bank, Airport",MT,OPEN,,207.3,E,,443.3,448.3,,Glacier,On-Air,Local Area Coverage,HARK,,,,,,,,http://www.cutbankairport.org/highline-radio/local-information/,,,,,,,,,,,,,,,,,,,,,,,,,,,,DN46tv,,,,,,,,,,,,,
+147.06,0.6,77,N7BFS,"Spokane, Five Mile",WA,OPEN,,208.1,NW,,147.06,147.66,77,Spokane,On-Air,,N7BFS,,,77,,,146.62,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.78,-0.6,123,K7JEP,"Sagle, Gold Hill",ID,OPEN,,208.7,NNW,,146.78,146.18,123,Bonner,On-Air,,Bonner County Amateur Radio Club (BCARC),Linked to 443.375.,,100,,,,,http://www.k7jep.org,IACC,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        448.37500 (K7JEP) at Sandpoint, ID .
+ 
+
+
+Full-time to  
+        145.49000 (K7JEP) at Sandpoint, Hoodoo Mountain, ID .",,,,,,,,,,,,,,,,,,
+444.175,5,,N7BFS,"Spokane, Five Mile",WA,OPEN,,208.8,NW,,444.175,449.175,,Spokane,On-Air,,N7BFS,,,,,,"Flat audio response, will pass DSTAR and Astro. For C4FM Astro use NAC 293",,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17gr,,,,,,,,,N7BFS (B),"jfindu lookup 
+    /   dstar-users lookup",,293,
+443.6,5,100,WA7RVV,Medical Lake,WA,OPEN,EI,209.8,NW,,443.6,448.6,100,Spokane,On-Air,"Medical lake, Airway Heights, Fairchild AFB",,,,,254771,3755,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,100,AD7UI,Pocatello,ID,OPEN,,210,SSE,,146.82,146.22,100,Bannock,On-Air,,,,,,,,,"Pocatello ARC , ERC, PV-ARES",,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,"ERC: Wed at 19:30. 
+PV-ARES: Sun at 20:30.",,,,,,,,,,,,,,,
+146.84,-0.6,100,K7LBY,"Libby, King Mountain",MT,OPEN,,210.3,NNW,,146.84,146.24,100,Lincoln,On-Air,South Lincoln County,Lincoln County Amateur Radio Group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LDS Traffic Net: Sun at 20:30.,,,,,,,,,,,,,,,
+443.8,5,123,KA7ENA,"Spokane, Booth Hill",WA,OPEN,,210.6,NW,,443.8,448.825,123,Spokane,On-Air,,KA7ENA,,,,,,Tower Mtn?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.75,-5,100,W7RSR,Pocatello,ID,OPEN,,210.8,SSE,,447.75,442.75,100,Bannock,Off-Air,,,,,,,,,Pocatello ARC,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.675,-5,,,Pocatello,ID,OPEN,,210.8,SSE,,449.675,444.675,,Bannock,,,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.125,-5,,WB6EVM,Pocatello,ID,PRIVATE,,210.8,SSE,,449.125,444.125,,Bannock,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.34,0.6,,K9GP,Pocatello,ID,OPEN,,210.8,SSE,,147.34,147.94,,Bannock,,,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.52,0,123,KF7FY,Pocatello,ID,OPEN,EI,210.8,SSE,,147.52,147.52,123,Bannock,On-Air,Pocatello,,,,,520814,3568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,,,,,,,,,,,,,,
+147.24,0.6,,,Pocatello,ID,OPEN,,210.8,SSE,,147.24,147.84,,Bannock,,,,,,,,,,,,UVHFS,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,,KA7MLM,Pocatello,ID,OPEN,,210.9,SSE,,147.3,147.9,,Bannock,,,,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.49,-0.6,123,K7JEP,"Sandpoint, Hoodoo Mountain",ID,OPEN,I,211.2,NW,,145.49,144.89,123,Bonner,On-Air,,Bonner County Amateur Radio Club (BCARC),,,136.5,,7612,,,http://www.k7jep.org,IACC,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        448.37500 (K7JEP) at Sandpoint, ID .
+ 
+
+
+Full-time to  
+        146.78000 (K7JEP) at Sagle, Gold Hill, ID .",,,,,,,,,,,,,,,,,,
+147.12,0.6,,WB7TBN,"Priest River, Hoodoo Mountain",ID,OPEN,,211.2,NW,,147.12,147.72,,Bonner,Off-Air,,Pend Oreille ARC,5,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,DN18mb,,,,,,,,,,,,,
+443.325,5,,W7TSC,Airway Heights,WA,OPEN,,211.6,NW,,443.325,448.325,,Spokane,On-Air,"Spokane County - West plains, West Spokane, Airway Heights, Four Lakes, Medical Lake",W7TSC,,,,,,,Washington Digital Radio Enthusiasts group,http://wa7dre.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+446.025,0,,N7JCT,Sandpoint,ID,OPEN,,212.1,NNW,,446.025,446.025,,Bonner,On-Air,Local.,N7JCT,,,,,,Open node for anyone to use.  Control as you wish.,,http://www.n7jct.org,,,,,,,,,,,,,,,,,,,,,,,,,,,Standard AllStar Commands,,,,,,,,,,,,,,
+448.375,5,,K7JEP,Sandpoint,ID,OPEN,,212.1,NNW,,448.375,453.375,,Bonner,On-Air,,Bonner County Amateur Radio Club,,,,,,,,http://www.k7jep.org,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        145.49000 (K7JEP) at Sandpoint, Hoodoo Mountain, ID .
+ 
+
+
+Full-time to  
+        146.78000 (K7JEP) at Sagle, Gold Hill, ID .",,,,,,,,,,,,,,,,,,
+145.27,-0.6,127.3,AA7XM,Sandpoint,ID,OPEN,,212.1,NNW,,145.27,144.67,127.3,Bonner,Off-Air,,AA7XM,,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,100,N7PI,"Pocatello, Kinport Peak",ID,OPEN,,214,SSE,,147.36,147.96,100,Bannock,On-Air,East Idaho,Pocatello ARC,,,,,,7,,http://www.pocatelloarc.org/pages/static/pocatello_repeater_INTRO.htm,UVHFS,,,,,,,,,,,,,,,,,,,,,,29.6,,,Pocatello ARC: Sunday at 20:00.,10,,,,,,,,,,,,,,
+444.15,5,CC1,KC7AAD,"Spokane, Lookout Point",WA,OPEN,,214.6,NW,,444.15,449.15,,Spokane,On-Air,I-90 from Ritzville WA to Coeur d Alene ID,KC7AAD,,,,,,Updated Listing,PNW DMR,,IACC,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.74,-0.6,100,W7ECA,"Great Falls, Highwood Baldy Mountain",MT,OPEN,E,215.2,NE,,146.74,146.14,100,Chouteau,On-Air,Wide area:  75 mi radius.,Great Falls Area ARC,7,,,37656,,EchoLink transmits IDer over the link.,,,,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        146.79000 (N7ARA) at Zortman, MT .",,,,"Info (link commands and club announcements) - 1*. 
+EchoLink * + [node number].
+Drop any and all links - #.",,,,,,,,,,,,,,
+444.075,5,100,K7MEE,"Sandpoint, Schweitzer Mountain",ID,OPEN,A,219.3,NNW,,444.075,449.075,100,Bonner,Off-Air,"Bonner County, ID, into Boundary &amp; Kootenai Co., ID, Pend Orielle and parts of Spokane Co., WA, parts of Sanders Co., MT",Bonner County,E-power.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        145.23000 (K7MEE) at Sandpoint, Schweitzer Mountain, ID .",,,,,,,,27010,,,,,,,,,,
+145.23,-0.6,100,K7MEE,"Sandpoint, Schweitzer Mountain",ID,OPEN,,219.3,NNW,,145.23,144.63,100,Bonner,Off-Air,"Bonner County, ID reaching into Boundary &amp; Kootenai Co., ID, Pend Oreille and parts of Spokane Co., WA and Sanders Co., MT",Bonner County,E-power.,,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,"Full-time to  
+        444.07500 (K7MEE) at Sandpoint, Schweitzer Mountain, ID .",,,,,,,,,,,,,,,,,,
+146.73,-0.6,123,W7TAR,"Teton Village, Rendezvous Mountain",WY,OPEN,I,219.5,SE,,146.73,146.13,123,Teton,On-Air,Wide area.,Teton Amateur Radio Repeater Assoc (TARRA),,,118.8,,3464,,Jackson Hole Area ARC,,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,JHAARC: Mon at 20:00. Also on IRLP Reflector 9454,,,,,,,,,,,,,,,
+147.12,0.6,100,WB7TBM,"Newport, Cooks Mountain",WA,OPEN,,222.1,NW,,147.12,147.72,100,Pend Orielle,Off-Air,,Thatuna Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.575,5,100,KB7TBN,"Newport, Cooks Mountain",WA,OPEN,,222.1,NW,,444.575,449.575,100,Pend Orielle,,,PCARC,3,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.65,5,123,KA7ENA,"Deer Park, Scoop Mountain",WA,OPEN,,226.4,NW,,444.65,449.65,123,Spokane,Off-Air,,KA7ENA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17dw,,,,,,,,,,,,,
+444.95,5,110.9,WA7UOJ,"Deer Park, Scoop Mountain",WA,OPEN,,226.4,NW,,444.95,449.95,110.9,Spokane,Off-Air,,WA7UOJ,Linked,,110.9,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,DN17dw,,,,,,,,,,,,,
+146.91,-0.6,,W7TAR,"Jackson, Snow King Mountain",WY,OPEN,I,229.1,SE,,146.91,146.31,,Teton,On-Air,Wide Area,Teton Amateur Radio Repeater Assoc (TARRA),,,,,3464,,Jackson Hole Area ARC,,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,JHAARC: Mon at 20:00. Also on IRLP Reflector 9454,,,,,,,,,,,,,,,
+447.7,-5,123,W7TAR,"Jackson, Snow King Mountain",WY,OPEN,I,229.1,SE,,447.7,442.7,123,Teton,On-Air,Wide Area,Teton Amateur Radio Repeater Assoc (TARRA),Closed IRLP,,118.8,,3464,,Jackson Hole Area ARC,TARRA,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,JHAARC: Mon at 20:00. Also on IRLP Reflector 9454,,,,,,,,,,,,,,,
+444.675,5,114.8,WB7UCI,Loon Lake,WA,PRIVATE,,230.8,NW,,444.675,449.675,114.8,Stevens,,,WB7UCI,,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.41,-0.6,77,N7KAM,"Coolin, Priest Lake",ID,OPEN,,231.2,NNW,,145.41,144.81,77,Bonner,On-Air,"Priest River to North of the Lake:  Low to medium power mobile
+Some portable coverage is available at the South end of the lake.
+
+Indian Creek Campground: portable coverage in most areas.
+
+Lionhead Campground:  Medium power mobile coverage; poor portable",N7KAM,,,,,,,,http://www.wildrepeaters.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.04,0.6,,W7OHI,"Davenport, Teel Hill",WA,OPEN,,233.6,NW,,147.04,147.64,,Lincoln,On-Air,,LCRP,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.725,5,,W7GHJ,"Chewelah, Chewelah Peak",WA,OPEN,E,241.6,NW,,443.725,448.725,,Stevens,On-Air,"South end of Colville to Clayton, Chewelah, Valley, Springdale. With a good antenna &amp; propagation can be hit from Deer Park &amp; Spokane. 20 mi radius.",North East Washington Amateur Radio Club [NEWARC],,,,979409,,"~50' AGL on a Mt. +9 db gain Antenna, Moderate coverage. Echolink [conferences allowed]",,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,"Standard EchoLink commands. [We have quick dial DTMF commands also, if you would like to know them, or have your repeater added, email us]",,,,,,,,,,,,,,
+145.43,-0.6,,WR7VHF,"Chewelah, Chewelah Peak",WA,OPEN,,246.2,NW,,145.43,144.83,,Stevens,On-Air,,Inland Empire VHF Radio Amateurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.65,-5,,,Star Valley Ranch,WY,OPEN,,246.5,SE,,449.65,444.65,,Lincoln,On-Air,,KK6WLS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+448.2,-5,123,KN6LL,Thayne,WY,OPEN,,247.7,SE,,448.2,443.2,123,Lincoln,On-Air,,John Sherwood,WIRES-X,,123,,,Switches between C4FM and Analog on the link but FM is always active locally. Usually on America Link (21080),,,WRCG,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,
+223.9,-1.6,,AK2O,"Chewelah, Stranger Mountain",WA,OPEN,,248.3,NW,,223.9,222.3,,Stevens,On-Air,Wide area.,SRG,,,,,,Hub repeater links KBARA and the Evergreen Intertie.,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,NW Regional/International Net: Weekdays 0700.  Weather Nets: Weekdays 0545 &amp; 1645.  Wednesday Evening Net: Wed at 1900.  Whitman/Latah County ARES Net: Thur at 1830.  KBARA Tech-Net: Thur at 1930.  Stanley Steamer Net: Sat at 0700.  Road Runners Net: Sun at 0700.  Spokane Region Storehouse ERC Net: Sun at 1930.,,,,,,,,,,,,,,,
+147.36,0.6,,K1RR,"Chewelah, Stranger Mountain",WA,OPEN,I,248.3,NW,,147.36,147.96,,Stevens,On-Air,,Kamiak Butte Amateur Repeater Assoc,,,,,3638,,Evergreen Intertie,Kamiak Butte Amateur Repeater Assoc,IACC,,,,,,,,,,,,,,,,,,,,,,,,,"NW Regional/International Net: Weekdays 0700. 
+Weather Nets: Weekdays 0545 and 1645. 
+Wednesday Evening Net: Wed at 1900. 
+Whitman/Latah County ARES Net: Thur at 1830. 
+Stanley Steamer Net: Sat at 0700. 
+Road Runners Net: Sun at 0700. 
+Spokane Region Storehouse ERC Net: Sun at 1930.",,,,,,,,,,,,,,,
+145.25,-0.6,CSQ,N7BFS,"Chewelah, Stensgar Mountain",WA,OPEN,,248.3,NW,,145.25,144.65,CSQ,Stevens,On-Air,"Stevens county, Lincoln county, Spokane county, HWY 395, HWY 2",N7BFS,Wide Area.,,CSQ,,,Owner has set up to be a passive non bit regen system for Digital Data and Digital Voice. Digital voice and data have priority over analog except in emergency situations.,,,IACC,,,,,,,,,,,,,,,,,,,,,Yes; analog capable.,,,,DSTAR and P25 nets available if enough interest is shown.,,,,,,,,,,,N7BFS (C),"jfindu lookup 
+    /   dstar-users lookup",,293,
+447,-5,100,W7UY,Bedford,WY,OPEN,,251.1,SE,,447,442,100,Lincoln,,,,,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.97,-0.6,100,KD7LVE,"Afton, The Narrows",WY,OPEN,,252.1,SE,,146.97,146.37,100,Lincoln,On-Air,,Star Valley ARC,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.61,-0.6,100,,"Afton, Black Mtn",WY,OPEN,,260.4,SE,,146.61,146.01,100,Lincoln,On-Air,,,,,,,,,,,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.62,-0.6,100,K7JAR,"Colville, Monumental Mountain",WA,OPEN,,266,NW,,146.62,146.02,100,Stevens,On-Air,Wide area.,Panorama Land ARC,"E-power, linked.",,,,,,,,IACC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
