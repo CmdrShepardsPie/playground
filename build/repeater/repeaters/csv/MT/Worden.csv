@@ -1,0 +1,314 @@
+Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,County,Op Status,IRLP,Web links,Last update,Sponsor,Links,Affiliate,Coordination,On-air,Coverage,EchoLink,Notes,Nets,D-STAR Enabled,Node,Sources,Features,Downlink Tone,Commands,YSF Digital Enabled,DG-ID,Mixed-Mode,Grid,DMR Enabled,Color Code,Wide Network,Talkgroups,Wyoming,WyLOCAL,Local Network,Worldwide English,North America,Simplex,TAC 310,Echo Test,Hytera USA Reflector,MPRG 2,BGV,NW7RG-USA,USA - Area 7 4647,Local/Cluster,Montana,MPRG,TAC 311,DCI Bridge
+146.4,0.6,118.8,KD0CST,Shepherd,MT,OPEN,I,8.8,W,,146.4,147,118.8,Yellowstone,On-Air,3005,http://status.irlp.net/?nodeid=3005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.08,0.6,,WR7MT,Billings,MT,OPEN,,10.3,E,,147.08,147.68,,Yellowstone,On-Air,,,,Montana Repeater Linking Assoc,Full-time to the  MRLA System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,123,KF7FW,Pompeys Pillar,MT,OPEN,,10.3,E,,147.18,147.78,123,Yellowstone,On-Air,,,,KF7FW,Full-time to the  MRLA System .,Montana Repeater Linking Assoc,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.29,-1,,KF7FW,Pompeys Pillar,MT,OPEN,,10.3,E,,53.29,52.29,,Yellowstone,,,,,KF7FW,,Montana Repeater Link Association,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.2,0.6,100,N7YHE,Red Lodge,MT,OPEN,E,20.4,SW,,147.2,147.8,100,Carbon,On-Air,,http://n7yhe.net,,Billings Valley Radio Club,,,,,"Billings to Big Timber and some coverage towards Cody, Wyoming but limited that direction.",104664,This repeater is located on Red Lodge MT Ski Resort has great coverage.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.1,0.6,100,N7YHE,Billings,MT,OPEN,E,20.4,SW,,147.1,147.7,100,Yellowstone,On-Air,,,,,,,MRCC,,Good coverage of Billings and West Billings.  Has extended due to echolink for wide coverage as well.,462231,,Club at 19:00 hours,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.25,-5,100,W7JDX,Billings,MT,OPEN,,20.4,SW,,449.25,444.25,100,Yellowstone,On-Air,,,,WB6EHV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.8,-5,100,KA7MHP,Billings,MT,OPEN,,20.4,SW,,449.8,444.8,100,Yellowstone,,,,,KA7MHP,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,-5,,K7EFA,Billings,MT,OPEN,,20.4,SW,,449,444,,Yellowstone,On-Air,,,,Yellowstone Radio Club K7EFA,,ARRL,MRCC,,Billings Montana Area,,,,,K7EFA (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",Billings D-star Digital,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.24,0.6,100,K7EFA,Billings,MT,OPEN,,20.4,SW,,147.24,147.84,100,Yellowstone,On-Air,,http://k7efa.net,,Yellowstone Radio Club,,ARRL,MRCC,,Billings Montana Area,,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,100,K7EFA,Billings,MT,OPEN,,20.4,SW,,147.3,147.9,100,Yellowstone,On-Air,,,,Yellowstone Radio Club,"Full-time to  
+        147.36000 (K7EFA) at Billings, Red Lodge Mountain, MT .",,,,Local: Billings.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.75,-5,,N7VR,Billings,MT,OPEN,,20.4,SW,,449.75,444.75,,Yellowstone,,,,,N7VR,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,,W7ECO,Billings,MT,OPEN,,20.4,SW,,146.88,146.28,,Yellowstone,,,,,W7ECO,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.41,-0.6,100,K7EFA,"Roundup, Bull Mountain",MT,OPEN,,25.1,NW,,145.41,144.81,100,Musselshell,On-Air,,YRC repeaters,,Yellowstone Radio Club,"Full-time to  
+        147.36000 (K7EFA) at Billings, Red Lodge Mountain, MT .",,,,"Custer to Big Timber, Grassrange to Red Lodge. coverage is not a blanket, repeater is on Bull mountains, area is hilly to the north.",,,Uncle Don's Early Morning Net: Weekdays at 08:00. Tuesday evening on Tuesday only 7 pm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.9,-0.6,,KC7KCF,"Colstrip,  Little Wolf Mountain",MT,OPEN,,60.7,ESE,,146.9,146.3,,Big Horn,,,,,WMARC,,,,Unknown,,,,,,,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.2,0.6,100,KC7BOB,Forsyth,MT,OPEN,E,74.2,E,,147.2,147.8,100,Rosebud,On-Air,,,,,,,MRCC,,,104664,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.9,-5,,KE7FEL,"Red Lodge, Palisades Peak, Radio Sites Red Lodge Mountain",MT,OPEN,,74.9,SW,,449.9,444.9,,Carbon,On-Air,,,,KA7MHP,,,,,Wide area,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,100,K7EFA,"Billings, Red Lodge Mountain",MT,OPEN,,78.3,SW,,147.36,147.96,100,Carbon,On-Air,,YRC repeaters,,Yellowstone Radio Club,"Full-time to  
+        147.30000 (K7EFA) at Billings, MT .
+ 
+
+
+Full-time to  
+        145.41000 (K7EFA) at Roundup, Bull Mountain, MT .",,,,Wide area.,,,,,,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,0.6,100,WB7RIS,"Red Lodge, Grizzly Peak Mtn",MT,OPEN,,79.1,SW,,147,147.6,100,Carbon,On-Air,,,,Beartooth ARC,,,MRCC,,"Wide area: South into Northern Wyoming, West to Big Timber, Mt. and East to Hardin, Mt. and beyond.",,,Roundtable: Wed at 20:00.,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.165,0.6,103.5,W7BEQ,"Lovell, Medicine Mountain",WY,OPEN,,80,S,,147.165,147.765,103.5,Big Horn,On-Air,,,,W7BEQ,,,WRCG,,"Big Horn Basin, Billings MT, Hardin MT, Wide coverage area",,,,,,,,103.5,1111,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.28,0.6,100,WR7MT,Greycliff,MT,OPEN,,82.2,W,,147.28,147.88,100,Sweet Grass,On-Air,,,,Montana Repeater Linking Assoc,Full-time to the  MRLA System .,,MRCC,,"Wide area: Big Timber, Reed Point, and Livingston.",,,,,,,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.6,5,100,NU7Q,Big Timber,MT,OPEN,,86.5,W,,444.6,449.6,100,Sweet Grass,,,,,BTAR,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,100,NU7Q,Big Timber,MT,OPEN,E,87.5,W,,146.64,146.04,100,Sweet Grass,On-Air,,,,,,,MRCC,,,7123,Transmits repeater tones over EchoLink.,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.7,-5,100,W7GUX,"Sheridan, Big Horn Mountain",WY,OPEN,,89,SSE,,449.7,444.7,100,Sheridan,On-Air,,,,,"Full-time to  
+        146.82000 (W7GUX) at Sheridan, WY .",,WRCG,,"Gillette(E), Buffalo(S), Colstrip/Ashland MT(N) and parts of the Big Horn Mntns(W)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.15,0.6,,W7YM,Lewistown,MT,OPEN,,97.1,NW,,147.15,147.75,,Fergus,Off-Air,,,,W7YM,,,MRCC,,,,This repeater is offline.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442,5,100,K7VH,Lewistown,MT,OPEN,,97.8,NW,,442,447,100,Beaverhead,On-Air,,,,K7EC,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.96,-0.6,100,K7VH,Lewistown,MT,OPEN,,97.8,NW,,146.96,146.36,100,Fergus,On-Air,,,,W7YM,,ARRL,MRCC,,,,New repeater.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.73,-0.6,100,NX7Z,Sheridan,WY,OPEN,,99.4,SE,,146.73,146.13,100,Sheridan,On-Air,,,,,"Full-time to  
+        146.98500 (NX7Z) at Wright, Pumpkin Butte, WY .",,WRCG,,"Sherian, WY and Northern Big Horn Mtn",,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,100,W7GUX,Sheridan,WY,OPEN,,99.4,SE,,146.82,146.22,100,Sheridan,On-Air,,,,,"Full-time to  
+        449.70000 (W7GUX) at Sheridan, Big Horn Mountain, WY .",,WRCG,,Wide area.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.85,-0.6,103.5,KI7W,"Cody, McCullough Peaks",WY,OPEN,I,100.7,SSW,,146.85,146.25,103.5,Park,On-Air,7194,,,Big Horn Basin ARC,"Full-time to  
+        444.65000 (KI7W) at Basin, WY .
+ 
+
+
+Full-time to  
+        147.33000 (KI7W) at Meeteetse, 3 Mile Hill, WY .
+ 
+
+
+Full-time to  
+        146.61000 (KI7W) at Basin, WY .",,WRCG,,,,,,,,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29.68,-0.1,,KC7NP,Cody,WY,OPEN,,108.2,SSW,,29.68,29.58,,Park,,,,,KC7NP,,,,Unknown,,,,,,,,Closed autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.875,5,103.5,KE7UJB,Cody,WY,OPEN,,108.2,SSW,,444.875,449.875,103.5,Park,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.65,5,103.5,KI7W,Basin,WY,OPEN,,109.3,S,,444.65,449.65,103.5,Big Horn,,,,,,"Full-time to  
+        146.85000 (KI7W) at Cody, McCullough Peaks, WY .",,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.61,-0.6,103.5,KI7W,Basin,WY,OPEN,,109.3,S,,146.61,146.01,103.5,Big Horn,On-Air,,,,BHBARC,"Full-time to  
+        147.33000 (KI7W) at Meeteetse, 3 Mile Hill, WY .
+ 
+
+
+Full-time to  
+        146.85000 (KI7W) at Cody, McCullough Peaks, WY .",,WRCG,,,,,,,,,,103.5,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,,KE7UJB,"Cody, Cedar Mtn",WY,OPEN,,114.5,SSW,,147.12,147.72,,Park,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.6,0,,K7RNS,Miles City,MT,OPEN,,115.2,E,,145.6,145.6,,Custer,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.95,5,,K7RNS,Miles City,MT,OPEN,,115.3,E,,444.95,449.95,,Custer,,,,,,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.92,-0.6,,K7HWK,Miles City,MT,OPEN,,115.3,E,,146.92,146.32,,Custer,On-Air,,,,Southeastern Montana Amateur Radio Club,,,,,Southestern Montana,,,SEMARC: Thu at 19:30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.21,0.6,123,KG7PRH,"Burlington, Tatman Mtn",WY,OPEN,,115.4,S,,147.21,147.81,123,Big Horn,On-Air,,,,KG7PRH,,10,WRCG,,Big Horn Basin,,TSQL 123khz for FM Operation No Tone for Dstar Operation,,,KG7PRH (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Dual Mode.,123,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,,,,,,,,,,,,,,
+147.255,0.6,103.5,KE7UJB,Wapiti,WY,OPEN,,120.4,SSW,,147.255,147.855,103.5,Park,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.5,-5,103.5,KE7UJB,Wapiti,WY,OPEN,,120.4,SSW,,449.5,444.5,103.5,Park,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.3,5,,W7DPK,"Cut Bank, Airport",MT,OPEN,,122.6,WNW,,443.3,448.3,,Glacier,On-Air,,http://www.cutbankairport.org/highline-radio/local-information/,,HARK,,,,,Local Area Coverage,,,,,,,,,,,,,DN46tv,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,100,NX7Z,"Buffalo, Windy Ridge",WY,OPEN,,127.9,SSE,,146.88,146.28,100,Johnson,,,,,,"Full-time to  
+        146.98500 (NX7Z) at Wright, Pumpkin Butte, WY .",,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.33,0.6,103.5,KI7W,"Meeteetse, 3 Mile Hill",WY,OPEN,,129.3,SSW,,147.33,147.93,103.5,Park,On-Air,,,,,"Full-time to  
+        146.85000 (KI7W) at Cody, McCullough Peaks, WY .
+ 
+
+
+Full-time to  
+        146.61000 (KI7W) at Basin, WY .",,WRCG,,,,,,,,,Linked to Cody (444.650).,103.5,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,100,W7YB,"Bozeman, Bridger Bowl",MT,OPEN,,131.9,W,,146.88,146.28,100,Gallatin,On-Air,,,,Eagle Head Repeater Assoc,"Full-time to  
+        146.82000 (W7LR) at Big Sky, MT .",,,,Wide area:,,,,,,,8,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,-5,110.9,W7PND,Buffalo,WY,OPEN,,132.2,SSE,,447,442,110.9,Johnson,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,110.9,WY7BRK,Buffalo,WY,OPEN,,132.2,SSE,,147.18,147.78,110.9,Johnson,On-Air,,,,Buffalo Amateur Radio Klub,,ARRL,WRCG,,,,,,,,,,110.9,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,,,,,,,,,,,,,,
+445.05,-5,CC11,WY7EOC,Buffalo,WY,CLOSED,,132.2,SSE,,445.05,440.05,,Johnson,On-Air,,,,Laramie County EM,,Wyoming DMR Project,WRCG,,Wide area.,,,,,,,,,,,,,,,11,,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Wyoming  1  3156  Full-Time    WyLOCAL  2  100  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,2,,,,,,,,,,,,,,,,
+146.67,-0.6,110.9,W7QQA,Buffalo,WY,OPEN,,132.2,SSE,,146.67,146.07,110.9,Johnson,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.49,-0.6,110.9,W7PND,Buffalo,WY,OPEN,,132.2,SSE,,145.49,144.89,110.9,Johnson,On-Air,,,,,,,WRCG,,,,,ARES/RACES: Tues at 18:30.,,,,Linked.,110.9,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.5,-5,110.9,W7QQA,Buffalo,WY,OPEN,,132.2,SSE,,447.5,442.5,110.9,Johnson,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.375,0.6,110.9,KG7KBJ,"Ten Sleep, Meadowlark Mountain",WY,OPEN,,132.6,SSE,,147.375,147.975,110.9,Washakie,On-Air,,,,WC EOC,,,WRCG,,Big Horn basin.,,,,,,,Linked to 444.925.,110.9,1111,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.925,5,103.5,W7BEQ,Worland,WY,OPEN,I,134.6,S,,444.925,449.925,103.5,Washakie,,3044,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.075,0.6,103.5,W7BEQ,Worland,WY,OPEN,,134.6,S,,147.075,147.675,,Washakie,On-Air,,,,W7BEQ,,,WRCG,,Local Worland,,,,,,,Linked to Meadowlark Mtn,,1111,,Open ↑ / Open ↓,,,,,,,,,,,,,,,,,,,,,,,,
+147.12,0.6,,W7ECA,"Great Falls, Porphyry Peak",MT,OPEN,E,136.1,WNW,,147.12,147.72,,Meagher,On-Air,,,,Great Falls Area ARC,,,,,Wide area. 100 mi radius.,110928,,,,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.79,-0.6,,N7ARA,Zortman,MT,OPEN,,136.4,N,,146.79,146.19,,Phillips,,,,,N7ARA,"Full-time to  
+        146.74000 (W7ECA) at Great Falls, Highwood Baldy Mountain, MT .",,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.145,-0.6,103.5,W7BEQ,Ten Sleep,WY,OPEN,,137.5,SSE,,145.145,144.545,103.5,Washakie,On-Air,,,,,,,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.26,0.6,100,W7ECA,Zortman,MT,OPEN,,137.7,N,,147.26,147.86,100,Phillips,On-Air,,,,Great Falls Area ARC,"Linkable to  
+        146.74000 (W7ECA) at Great Falls, Highwood Baldy Mountain, MT .",,,,Wide area.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,-5,162.2,KL7JGS,"Bozeman,  Deaconess Hosp",MT,OPEN,,139.1,W,,447,442,162.2,Gallatin,On-Air,,,,Bozeman Deaconess Hospital,,,MRCC,,Bozeman.,,Emergency services repeater,,,,,"Autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29.62,-0.1,,KB7KB,Bozeman,MT,OPEN,,139.9,W,,29.62,29.52,,Gallatin,On-Air,,,,,"Full-time to  
+        145.25000 (KB7KB) at Bozeman, MT .",,,,,,Split -100.,,,,,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.18,0.6,100,WR7MT,Bozeman,MT,OPEN,,139.9,W,,147.18,147.78,100,Gallatin,On-Air,,,,Montana Repeater Linking Assoc,Full-time to the  MRLA System .,,,,Wide area.,,,,,,,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.25,-0.6,100,KB7KB,Bozeman,MT,OPEN,,139.9,W,,145.25,144.65,100,Gallatin,Off-Air,,,,BARBS,"Full-time to  
+        29.62000 (KB7KB) at Bozeman, MT .",,,,Bozeman.,,,,,,,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.29,-1,,KB7KB,Bozeman,MT,OPEN,,139.9,W,,53.29,52.29,,Gallatin,,,,,KB7KB,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.9,-5,100,KL7JGS,"Bozeman,  High Flats",MT,OPEN,E,139.9,W,,449.9,444.9,100,Gallatin,On-Air,,,,,,,,,Gallatin Valley.,207198,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.01,0,PKT,KD7TQM,Bozeman,MT,OPEN,,140.4,W,,145.01,145.01,PKT,Gallatin,On-Air,,,,,,,,,,,KD7TQM-4,,,,,Packet Node,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.35,-5,100,KB7KB,Bozeman,MT,OPEN,I,140.4,W,,448.35,443.35,100,Gallatin,On-Air,3692,,,KB7KB,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.66,-1.6,,KB7KB,Bozeman,MT,OPEN,,140.6,W,,224.66,223.06,,Gallatin,Off-Air,,,,KB7KB,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.7,-5,77,KI7XF,"Bozeman,  MSU",MT,OPEN,,140.8,W,,447.7,442.7,77,Gallatin,On-Air,,,,Eagle Head Rptr Assoc,,,,,Bozeman.,,,,,,,30,77,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.85,-5,100,WB7USV,Belgrade,MT,OPEN,,145.6,W,,448.85,443.85,100,Gallatin,,,,,BARBS,,,,Unknown,,,,,,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.45,-5,67,N7LT,Kalispell,MT,OPEN,,145.6,W,,448.45,443.45,67,Flathead,,,,,N7LT,,KC6UNN (remote base),,Unknown,"Three Forks, Manhatten, Belgrade, Bozeman, Butte, Whitehall, Townsend.",,,,,,,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.3,-5,CC1 131.8,WR7HLN,"Toston, Lombard Mountain",MT,OPEN,E,152.3,W,,449.3,444.3,131.8,Broadwater,On-Air,,http://www.wr7hln.org,,Mac Pass Repeater Group,Full-time to the  Mac Pass Repeater Group System .,Mac Pass Repeater Group,MRCC,,"I90 from Butte, MT to Bozeman, MT. MT287 from Helena to Twin Bridges.",449300,DMR Info at our website: http://www.dmr-montana.net,,,,,,131.8,,,,Yes; analog capable.,,,1,BrandMeister,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    BGV  1  31303  PTT    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,Mac Pass Repeater Group,1,1,1,1,1,1,1,1,1,1,2,2,2,,
+146.74,-0.6,100,W7ECA,"Great Falls, Highwood Baldy Mountain",MT,OPEN,E,155.5,NW,,146.74,146.14,100,Chouteau,On-Air,,,,Great Falls Area ARC,"Full-time to  
+        146.79000 (N7ARA) at Zortman, MT .",,,,Wide area:  75 mi radius.,37656,EchoLink transmits IDer over the link.,,,,,7,,"Info (link commands and club announcements) - 1*. 
+EchoLink * + [node number].
+Drop any and all links - #.",,,,,,,,,,,,,,,,,,,,,,,,,,
+147.16,0.6,100,K7HWK,Fallon,MT,OPEN,,157.1,E,,147.16,147.76,100,Prairie,On-Air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.675,5,103.5,W7JRF,Thermopolis,WY,OPEN,,159.9,S,,444.675,449.675,103.5,Hot Springs,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,82.5,W7LR,Big Sky,MT,OPEN,,161.8,WSW,,146.82,146.22,82.5,Gallatin,On-Air,,,,Eagle Head Repeater Association,"Full-time to  
+        146.88000 (W7YB) at Bozeman, Bridger Bowl, MT .",,MRCC,,Gallatin Canyon and remote areas of the Gallatin National Forest.,,,,,,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.35,-5,,KB7KB,Three Forks,MT,OPEN,,163,W,,448.35,443.35,,Gallatin,,,,,KB7KB,Full-time to the  Intermountain Intertie System . Linkable to the  MRLA System .,,,Unknown,"Three Forks, Manhatten, Belgrade, Bozeman, Butte, Whitehall, Townsend.",,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224.72,-1.6,,KL7JGS,Three Forks,MT,OPEN,,163,W,,224.72,223.12,,Gallatin,,,,,Eagle Head Repeater Assoc,,,,Unknown,"Three Forks, Manhatten, Belgrade, Butte, Whitehall, Twonsend.",,,,,,,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.84,-0.6,100,WX7GGW,Glasgow,MT,OPEN,,170.2,NNE,,146.84,146.24,100,Valley,On-Air,,,,Valley ARC,,MRLA,,,"Southern part of Valley County, Montana",,,,,,,Will be linked into the MRLA system,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.43,-0.6,110.9,W7QQA,"Kaycee, Pack Saddle",WY,OPEN,,172.4,SSE,,145.43,144.83,110.9,Johnson,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.06,0.6,D261,N7HYF,"Boysen, Boysen Peak",WY,PRIVATE,,172.8,S,,147.06,147.66,,Fremont,On-Air,,,,N7HYF,"Full-time to  
+        53.03000 (N7HYF) at Lander, WY .
+ 
+
+
+Full-time to  
+        449.90000 (N7HYF) at Lander, Limestone Mountain, WY .",WYAME Club,WRCG,,Wide area:,,,WYAME Nets,,N7HYF (C),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.1125,-5,CC11,WY7RK,Gillette,WY,OPEN,,173.5,SE,,447.1125,442.1125,,Campbell,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,11,,,,,,,,,,,,,,,,,,,,
+448.75,-5,,NE7WY,Gillette,WY,OPEN,,173.5,SE,,448.75,443.75,,Campbell,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.27,0.6,123,NE7WY,"Gillette,  Bliss Ranch",WY,OPEN,,173.5,SE,,147.27,147.87,123,Campbell,On-Air,,http://www.newara.vcn.com/,,Northeast Wyoming Amateur Radio Assoc,,,WRCG,,,,,Tue at 20:00.,,,,,123,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448,-5,,K7VU,Gillette,WY,OPEN,,173.5,SE,,448,443,,Campbell,On-Air,,,,K7VU,,,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.96,-0.6,100,NE7WY,Gillette,WY,OPEN,,173.5,SE,,146.96,146.36,,Campbell,,,http://ne7wy.org/,,,,,WRCG,Unknown,,,,,,NE7WY (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.91,-0.6,100,KC7NV,Havre,MT,OPEN,,174.7,NNW,,146.91,146.31,100,Hill,On-Air,,,,Hi-Line ARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.805,-0.6,100,W7BEQ,"Shoshoni, Copper Mtn",WY,OPEN,,176.3,S,,146.805,146.205,100,Fremont,On-Air,,,,,,,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.38,0.6,100,WR7MT,"Three Forks, Round Spring",MT,OPEN,,176.7,W,,147.38,147.98,100,Jefferson,On-Air,,,,Montana Repeater Linking Assoc,Full-time to the  MRLA System .,,MRCC,,"Wide area: Three Forks, Manhattan, Belgrade, Butte, Whitehall, and Townsend.",,,,,,,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.34,-0.6,,NE7WY,Gillette,WY,OPEN,,178.6,SE,,145.34,144.74,,Campbell,,,North East Wyoming DStar,,,,,WRCG,Unknown,,,,,,NE7WY (C),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,123,NE7WY,"Gillette, Antelope Butte",WY,OPEN,,178.6,SE,,147.36,147.96,123,Campbell,On-Air,,,,CCARC,"Full-time to  
+        147.30000 (NE7WY) at Newcastle, Mt Pisgah, WY .
+ 
+
+
+Full-time to  
+        146.79000 (NE7WY) at Sundance, Warren Peak, WY .",,WRCG,,Wide area.,,,Tue at 20:00.,,,,"Autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.45,-0.6,100,W7MRI,"Helena, Hogback Mountain",MT,OPEN,,179.3,WNW,,145.45,144.85,100,Lewis and Clark,On-Air,,http://www.w7tck.org/_repeater/repeater_145.5.html,,Montana Repeater Linking Assoc,Full-time to the  MRLA System .,,,,Wide area. 50 mi radius.,,,,,,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.85,-0.6,146.2,W7CK,"Helena,  Hogback Mountain",MT,OPEN,,179.3,WNW,,146.85,146.25,146.2,Lewis and Clark,,,,,W7CK,,,,Unknown,,,"Transmitter on Hogback Mtn and the receiver on Rogers Mtn. 
+Emergencies only between 22:00 and 06:00.",,,,,Autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.24,0.6,,AA7GS,Great Falls,MT,OPEN,,181.9,NW,,147.24,147.84,,Cascade,On-Air,,http://www.w7eca.net,,AA7GS,,Great Falls Area Amateur Radio Club,MRCC,,40,,,,,,,,,,,Open ↑ / Open ↓,,,,,,,,,,,,,,,,,,,,,,,,
+146.76,-0.6,100,W7DXQ,Glendive,MT,OPEN,,182,E,,146.76,146.16,100,Dawson,On-Air,,,,Lower Yellowstone ARC,,,,,Wide area.,,,,,,,"E-power, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.82,-0.6,100,KD7BN,Dubois,WY,OPEN,,182.5,SSW,,146.82,146.22,100,Fremont,On-Air,,,,Hams for Emergency Radio Communications,Full-time to the  HERC System .,,WRCG,,Wide area.,,HERC repeater map,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.36,0.6,100,W7GMC,Great Falls,MT,OPEN,EI,182.8,NW,,147.36,147.96,100,Cascade,On-Air,5670,,,W7GMC,,Electric City Amateur Radio Club,MRCC,,25,425518,,Mon at 1900.,,,,"Weather, weather alerts",,"number. Dial 73 to disconnect to IRLP-Dial node #. Echolink-* and node # Pound key = #, Star key = * 411 - Play ARRL News # - Stop News # 1 - Play Wx",,,,,,,,,,,,,,,,,,,,,,,,,,
+147.14,0.6,100,AE7HW,great falls,MT,OPEN,,182.9,NW,,147.14,147.74,100,Cascade,On-Air,,,,,,,MRCC,,50,,One mile south of airport.,,,,,E-power,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.35,5,D051,W7ECA,"Great Falls, Gore Hill",MT,OPEN,,184.1,NW,,444.35,449.35,D051,Cascade,On-Air,,,,Great Falls Area ARC,,,MRCC,,,,,,,,,"Open autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,,W7ECA,"Great Falls, Gore Hill",MT,OPEN,,184.1,NW,,147.3,147.9,,Cascade,On-Air,,,,Great Falls Area ARC,,,,,30,,,,,,,"Open autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.68,-0.6,100,AA7GS,Great Falls,MT,OPEN,,184.5,NW,,146.68,146.08,100,Chouteau,On-Air,,,,Montana Repeater Linking Assoc,Linkable to the  Intermountain Intertie System . Full-time to the  MRLA System . Linkable to the  Snowbird Link System . Linkable to the  Utah VHF Society System .,,,,"Great Falls Area, Havre, East Glacier, Helena, and Big Timber. 30 mi radius.",,Snowbird Link drops after 10 minutes of inactivity. Use the remote input of 446.680 to use the Snowbird Link.,,,,,,,Intermountain Intertie: Link 196 On/197 Off.,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.23,-0.6,123,AG7AD,"Great Falls, 1708 6 St NW",MT,OPEN,,184.6,NW,,145.23,144.63,123,,On-Air,,,,John &amp; Sally Greer,,None,,,Great Falls MT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.23,-0.6,100,WA7FDR,"Island Park, Sawtell Peak",ID,OPEN,,186.6,WSW,,145.23,144.63,100,Fremont,On-Air,,,,,"Full-time to  
+        146.85000 (WA7FDR) at Howe, Jumpoff Peak, ID .
+ 
+
+
+Full-time to the  Intermountain Intertie System .",Intermountain Intertie,UVHFS,,"Wide area. Yellowstone, Rexburg, Idaho Falls, and upper Snake River basin.",,100,,,,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.1,0.6,100,WR7HLN,"Helena, Mac Donald Pass Site",MT,OPEN,W,189.6,WNW,,147.1,147.7,100,Lewis and Clark,On-Air,,http://www.wr7hln.org,,Mac Pass Repeater Group,Full-time to the  Mac Pass Repeater Group System .,,MRCC,,75,,"Repeater is Internet Connected at the Repeater on a Mountain at 7,200 feet elevation. Digital will be working when Yaesu gets things working on Auto Mode with Wires, currently as FM",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.125,-5,100,W7HAV,"Havre, Cement Hill",MT,OPEN,,189.6,NNW,,447.125,442.125,100,Hill,On-Air,,,,Havre Amateur Club,,Hi-Line ARC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,5,,K7WES,Helena,MT,OPEN,,189.8,WNW,,443,448,,Lewis and Clark,,,,,WR7AGT,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.32,0.6,,W7MRI,Helena,MT,OPEN,,190.1,WNW,,147.32,147.92,,Lewis and Clark,On-Air,,,,W7MRI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11,-1,,WR7HLN,Helena,MT,OPEN,,190.1,WNW,,53.11,52.11,,Lewis and Clark,,,,,Mac Pass Repeater Group,Full-time to the  Mac Pass Repeater Group System .,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.7,5,100,KE7BBN,"Havre, Old Radar Base",MT,OPEN,,190.3,NNW,,444.7,449.7,100,Hill,Off-Air,,,,KE7BBN,,,MRCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.2,-5,CC1 131.8,WR7HLN,"Boulder, Boulder Hill",MT,OPEN,E,190.6,W,,449.2,444.2,131.8,Jefferson,On-Air,,http://www.wr7hln.org,,WR7AGT  Mac Pass Repeater Group,Full-time to the  Mac Pass Repeater Group System .,Mac Pass Repeater Group,MRCC,,"I15 from Butte to Helena, MT69 to I90 to Cardwell.",449200,DMR Info is available at: http://www.dmr-montana.net,,,,,,131.8,,,,,,,1,BrandMeister,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    TAC 311  1  311  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    BGV  1  31303  PTT    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,Mac Pass Repeater Group,1,1,1,1,1,1,1,1,1,1,2,2,2,1,
+146.985,-0.6,100,NX7Z,"Wright, Pumpkin Butte",WY,OPEN,,191.3,SE,,146.985,146.385,100,Campbell,On-Air,,,,,"Full-time to  
+        146.88000 (NX7Z) at Buffalo, Windy Ridge, WY .
+ 
+
+
+Full-time to  
+        146.73000 (NX7Z) at Sheridan, WY .",,WRCG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.9,-5,CC1 131.8,WR7HLN,"Helena, North Hills",MT,OPEN,E,192.7,WNW,,448.9,443.9,131.8,Lewis and Clark,On-Air,,http://www.wr7hln.org,,Mac Pass Repeater Group,Full-time to the  Mac Pass Repeater Group System .,Mac Pass Repeater Group,MRCC,,"The Helena Valley, North along I90 to Sieben Flats, South to Boulder Hill and Boulder, East to Winston, West to Elliston, and the north and northwest valley.
+Coverage The Helena Valley, North along I90 to Sieben Flats, South to Boulder Hill and Boulder, East to Winston, West to Elliston, and the north and northwest valley.",528525,DMR Info is at our website at http://www.dmr-montana.net,,,,,,131.8,,,,,,,1,BrandMeister,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide English  1  91  Sched    North America  1  93  PTT    Simplex  1  99      TAC 310  1  310  PTT    TAC 311  1  311  PTT    DCI Bridge  1  3100  PTT    Echo Test  1  9990  PTT    Hytera USA Reflector  1  31089  PTT    MPRG 2  1  31302  PTT    BGV  1  31303  PTT    NW7RG-USA  1  31304  PTT    USA - Area 7 4647  1  31607  PTT    Local/Cluster  2  2  Full-Time    Montana  2  3130  Full-Time    MPRG  2  31301  Full-Time  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",,,Mac Pass Repeater Group,1,1,1,1,1,1,1,1,1,1,2,2,2,1,1
+444.7,5,,W7HAV,Havre,MT,OPEN,,192.7,NNW,,444.7,449.7,,Hill,On-Air,,,,,,,,,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.06,0.6,100,NE7WY,"Wright, Little Thunder",WY,OPEN,,200.5,SE,,147.06,147.66,100,Campbell,,,,,,,,WRCG,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.79,-0.6,100,NE7WY,"Sundance, Warren Peak",WY,OPEN,,207.5,SE,,146.79,146.19,100,Crook,On-Air,,,,,"Full-time to  
+        147.30000 (NE7WY) at Newcastle, Mt Pisgah, WY .
+ 
+
+
+Full-time to  
+        147.36000 (NE7WY) at Gillette, Antelope Butte, WY .",,WRCG,,Wide area.,,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449.8,-5,CC1 123.0,W7RAC,"Driggs, Idaho",ID,OPEN,,211.6,SW,,449.8,444.8,123,Idaho,On-Air,,,,Teton Valley Radio Amateur Club,,Teton County ARES,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,
+146.73,-0.6,123,W7TAR,"Teton Village, Rendezvous Mountain",WY,OPEN,I,212.1,SW,,146.73,146.13,123,Teton,On-Air,3464,,,Teton Amateur Radio Repeater Assoc (TARRA),,Jackson Hole Area ARC,WRCG,,Wide area.,,,JHAARC: Mon at 20:00. Also on IRLP Reflector 9454,,,,,118.8,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.91,-0.6,,W7TAR,"Jackson, Snow King Mountain",WY,OPEN,I,214.7,SW,,146.91,146.31,,Teton,On-Air,3464,,,Teton Amateur Radio Repeater Assoc (TARRA),,Jackson Hole Area ARC,WRCG,,Wide Area,,,JHAARC: Mon at 20:00. Also on IRLP Reflector 9454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.7,-5,123,W7TAR,"Jackson, Snow King Mountain",WY,OPEN,I,214.7,SW,,447.7,442.7,123,Teton,On-Air,3464,TARRA,,Teton Amateur Radio Repeater Assoc (TARRA),,Jackson Hole Area ARC,WRCG,,Wide Area,,,JHAARC: Mon at 20:00. Also on IRLP Reflector 9454,,,,Closed IRLP,118.8,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.14,0.6,123,W7RAC,"Driggs, Relay Ridge",ID,OPEN,,220.3,SW,,147.14,147.74,123,Teton,On-Air,,,,Teton Valley Radio Amateur Club,,,,,Teton Valley/North,,,ARES Net: Wed at 1900,,,,,,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,,,,,,,,,,,,,,
+146.94,-0.6,123,K7ENE,"Driggs, Relay Ridge",ID,OPEN,E,220.3,SW,,146.94,146.34,123,Teton,On-Air,,ARES District 6 Nets,,MCCD,,,UVHFS,,,328034,Echolink is only on the repeater frequency during the net. All are welcome to join the net.,RACES/ARES: Thu at 21:00.,,,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447.875,-5,,KB7ITU,"Rexburg, Relay Ridge",ID,OPEN,EI,220.4,SW,,447.875,442.875,,Madison,On-Air,3424,,,W7RUG,,N/A,,,"Blackfoot, Idaho to Island Park, Idaho",667390,,,,,,,100,"IRLP Up = node number. Down = 73 
+EchoLink Up = A then node number. Down = 73",,,,,,,,,,,,,,,,,,,,,,,,,,
+146.7,-0.6,100,N7UNY,"Rexburg, Water Tower",ID,OPEN,,230.8,SW,,146.7,146.1,100,Madison,On-Air,,,,,,,UVHFS,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.6,-5,100,K7WIP,"Rexburg, BYU-Idaho Campus",ID,OPEN,I,231.1,SW,,448.6,443.6,100,Madison,On-Air,7186,http://www.byui.edu/societies/amateur-radio-society/repeaters,,"Peter Stilling, K7WIP",,Brigham Young University Idaho,W7ZRQ,,Portions of Hwy 20 and Hwy 33.,,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145.41,-0.6,100,K7BYI,"Rexburg, BYU-Idaho Campus",ID,OPEN,EI,231.2,SW,,145.41,144.81,100,Madison,On-Air,7186,http://www.byui.edu/societies/amateur-radio-society/repeaters,,"Peter Stilling, K7WIP",,Brigham Young University - Idaho,W7ZRQ,,"Rexburg area, covers portions of US Hwy 20 and State Hwy 33",893936,,BYU-Idaho Amateur Radio Society Net: Tuesday @ 2000,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443.5,5,,N0PL,Scobey,MT,OPEN,,233.9,NNE,,443.5,448.5,,Daniels,,,,,N0PL,,,,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.88,-0.6,100,K7ENE,"Menan, Menan Buttes",ID,OPEN,,239.2,SW,,146.88,146.28,100,Madison,On-Air,,,,ERC,,,UVHFS,,,,,ERC: Wed at 21:00.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,100,W7SWT,"Sunburst, Mount Royal",MT,OPEN,,243.7,NW,,146.64,146.04,100,Liberty,On-Air,,,,,,,,,"Wide area: Southern Alberta and NW Montana, Havre, Great Falls, etc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.8,-5,100,KE7JFA,Roberts,ID,OPEN,EI,248.9,SW,,448.8,443.8,100,Jefferson,On-Air,3628,,,,,,,,Idaho Falls and some surrounding areas.,319230,Email me for list of speed dial commands if needed.,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.64,-0.6,,K7EFZ,"Iona, Iona Hill",ID,OPEN,,250,SW,,146.64,146.04,,Bonneville,On-Air,,,,Eagle Rock ARC,,,UVHFS,,,,Learned this evening that the autopatch has been disabled indefinitely - too much FM radio interference at that location.,,,,,e-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.175,-5,100,K6LOV,"Iona,  Iona Hill",ID,OPEN,,250,SW,,448.175,443.175,100,Bonneville,On-Air,,,,,,,UVHFS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146.74,-0.6,,K7EFZ,"Idaho Falls, Peterson Hill",ID,OPEN,,252,SW,,146.74,146.14,,Bonneville,On-Air,,http://www.erarc.org/,,,,,UVHFS,,Eagle Rock Amateur Radio  (ERARC),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.9,-5,,KG7WZG,Idaho Falls,ID,OPEN,,255.4,SW,,448.9,443.9,,Bonneville,,,,,,,,,Unknown,,,,,,KG7WZG (B),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448.35,-5,,KC7MNI,Plentywood,MT,OPEN,,257.2,NE,,448.35,443.35,,Sheridan,Off-Air,,,,Sheridan Co.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.34,0.6,88.5,KC7MNI,Plentywood,MT,OPEN,,257.2,NE,,147.34,147.94,88.5,Sheridan,Off-Air,,,,Sheridan Co.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147.3,0.6,,KB7QWG,Plentywood,MT,OPEN,,257.2,NE,,147.3,147.9,,Sheridan,On-Air,,,,KB7QWG,,,,,,,,,,,,Linked to Williston.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444.6,5,,KB7QWG,Plentywood,MT,OPEN,,257.4,NE,,444.6,449.6,,Sheridan,Off-Air,,,,KB7QWG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444,5,,KB7QWG,Plentywood,MT,OPEN,,257.4,NE,,444,449,,Sheridan,Off-Air,,,,KB7QWG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,5,100,WA4VRV,"Idaho Falls, Quality Inn",ID,OPEN,,264.5,SW,,443,448,100,Bonneville,On-Air,,,,WA4VRV,,,UVHFS,,Wide area,,,,,,,"E-power, EX (NOAA Weather SAME Alerts)",100,,,Open ↑ / Open ↓,Yes; analog capable.,,,,,,,,,,,,,,,,,,,,,,,
