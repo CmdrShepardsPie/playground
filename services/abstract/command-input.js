@@ -1,4 +1,6 @@
-export default class CommandInput {
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+class CommandInput {
     constructor() {
         this.subscriptions = [];
     }
@@ -21,4 +23,5 @@ export default class CommandInput {
         }
     }
 }
+exports.default = CommandInput;
 //# sourceMappingURL=command-input.js.map

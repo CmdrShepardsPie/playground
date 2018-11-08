@@ -1,16 +1,18 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 console.log("start");
 // const fs = {
 //   writeFile: promisify(_fs.writeFile)
 // };
 // import axios from 'axios';
-import { Strategy as MeetupStrategy } from "passport-meetup";
+const passport_meetup_1 = require("passport-meetup");
 // import * as path from 'path';
-import * as bodyParser from "body-parser";
+const bodyParser = require("body-parser");
 // import * as serveStatic from 'serve-static';
-import * as cookieParser from "cookie-parser";
-import * as express from "express";
-import * as expressSession from "express-session";
-import * as passport from "passport";
+const cookieParser = require("cookie-parser");
+const express = require("express");
+const expressSession = require("express-session");
+const passport = require("passport");
 const app = express();
 // app.use(serveStatic(path.resolve(__dirname, 'static'));
 app.use(cookieParser());
@@ -31,7 +33,7 @@ passport.deserializeUser((user, done) => {
 });
 app.listen(3000);
 let _profile;
-passport.use(new MeetupStrategy({}, (token, tokenSecret, profile, done) => {
+passport.use(new passport_meetup_1.Strategy({}, (token, tokenSecret, profile, done) => {
     console.log("verify", token, tokenSecret, profile, done);
     _profile = profile;
     done(null, profile);

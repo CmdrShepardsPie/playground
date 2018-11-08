@@ -1,15 +1,17 @@
-import * as _csv from "csv";
-import * as _fs from "fs";
-import { promisify } from "util";
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const _csv = require("csv");
+const _fs = require("fs");
+const util_1 = require("util");
 const fs = {
-    exists: promisify(_fs.exists),
-    writeFile: promisify(_fs.writeFile),
-    readFile: promisify(_fs.readFile),
-    readdir: promisify(_fs.readdir),
-    mkdir: promisify(_fs.mkdir),
+    exists: util_1.promisify(_fs.exists),
+    writeFile: util_1.promisify(_fs.writeFile),
+    readFile: util_1.promisify(_fs.readFile),
+    readdir: util_1.promisify(_fs.readdir),
+    mkdir: util_1.promisify(_fs.mkdir),
 };
-const parseAsync = promisify(_csv.parse);
-const stringifyAsync = promisify(_csv.stringify);
+const parseAsync = util_1.promisify(_csv.parse);
+const stringifyAsync = util_1.promisify(_csv.stringify);
 const baseChirp = {
     Location: -1,
     Name: "",
@@ -26,7 +28,7 @@ const baseChirp = {
     TStep: 5,
     Comment: "",
 };
-export default fs.readdir("./")
+exports.default = fs.readdir("./")
     .then(async (files) => {
     const contents = await Promise.all(files.filter((b) => /\.json/.test(b)).map((f) => fs.readFile(`./${f}`)));
     const data = contents.reduce((prev, next) => {

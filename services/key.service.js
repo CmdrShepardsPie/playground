@@ -1,5 +1,7 @@
-import CommandOutput from "./abstract/command-output";
-export default class KeyService extends CommandOutput {
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const command_output_1 = require("./abstract/command-output");
+class KeyService extends command_output_1.default {
     constructor() {
         super();
         const stdin = process.stdin;
@@ -24,4 +26,5 @@ export default class KeyService extends CommandOutput {
         }
     }
 }
+exports.default = KeyService;
 //# sourceMappingURL=key.service.js.map

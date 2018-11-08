@@ -1,4 +1,6 @@
-export var Commands;
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Commands;
 (function (Commands) {
     Commands[Commands["Question"] = 0] = "Question";
     Commands[Commands["Left"] = 1] = "Left";
@@ -23,8 +25,8 @@ export var Commands;
     Commands[Commands["Back"] = 20] = "Back";
     Commands[Commands["Exit"] = 21] = "Exit";
     Commands[Commands["Reset"] = 22] = "Reset";
-})(Commands || (Commands = {}));
-import * as Keys from "./keycodes.json";
+})(Commands = exports.Commands || (exports.Commands = {}));
+const Keys = require("./keycodes.json");
 // "Invert" the key/val pair so we can do a reverse lookup
 Object.entries(Keys).forEach((entry) => {
     const key = entry[0].toString();

@@ -1,10 +1,12 @@
+"use strict";
 // tslint:disable:max-classes-per-file
-import { Subject } from "rxjs/Subject";
-import CommandInput from "./command-input";
-import CommandOutput from "./command-output";
-export default class CommandLink {
+Object.defineProperty(exports, "__esModule", { value: true });
+const Subject_1 = require("rxjs/Subject");
+const command_input_1 = require("./command-input");
+const command_output_1 = require("./command-output");
+class CommandLink {
     constructor() {
-        this.subject = new Subject();
+        this.subject = new Subject_1.Subject();
         this.commandInput = new CommandInputed(this.listen.bind(this));
         this.commandOutput = new CommandOutputed(this.subject);
     }
@@ -24,8 +26,9 @@ export default class CommandLink {
         this.subject && this.subject.next(value);
     }
 }
+exports.default = CommandLink;
 // Make a concrete version of CommandInput to be instantiated in CommandLink above
-class CommandInputed extends CommandInput {
+class CommandInputed extends command_input_1.default {
     constructor(listener) {
         super();
         this.listener = listener;
@@ -35,6 +38,6 @@ class CommandInputed extends CommandInput {
     }
 }
 // Make a concrete version of CommandOutput to be instantiated in CommandLink above
-class CommandOutputed extends CommandOutput {
+class CommandOutputed extends command_output_1.default {
 }
 //# sourceMappingURL=command-link.js.map

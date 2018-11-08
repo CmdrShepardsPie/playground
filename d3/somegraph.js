@@ -1,4 +1,6 @@
-import * as d3 from "d3v4";
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const d3 = require("d3v4");
 // Dimensions of sunburst.
 const width = 750;
 const height = 600;

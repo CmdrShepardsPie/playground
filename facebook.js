@@ -50,7 +50,7 @@ async function nextPage() {
     await clickItem(moreItems);
   } catch (e) { console.log(`nextPage error`, e); }
   window.scrollTo(0, 1000000);
-  setTimeout(nextPage, 500 + (Math.random() * 0));
+  setTimeout(nextPage, 1000 + (Math.random() * 1000));
 }
 
 // Go down each line of your timeline looking for action buttons
@@ -74,12 +74,13 @@ async function changeSharing(row) {
   const sharing = row.querySelector(`[aria-label~="Shared"]`);
   if (sharing) {
     await clickItem(sharing);
-    const onlyMe = await getMenuFor(`Only me`);
-    return await clickItem(onlyMe);
+    await clickItem(await getMenuFor(`Only me (+)`));
+    await clickItem(sharing);
+    return await clickItem(await getMenuFor(`Only me`));
   }
 }
 
-// Look for the the edit item button
+// Look for the edit item button
 async function changeTimeline(row) {
   const edit = row.querySelector(`[aria-label="Edit"]`);
   if (edit) {
@@ -126,7 +127,7 @@ async function changeTimeline(row) {
           case 'delete':
           {
             await clickItem(menuItem);
-            const confirm = await getDialogFor(`Delete Post`);
+            const confirm = await getDialogFor(`Delete`);
             await clickItem(confirm);
             break;
           }
@@ -139,54 +140,49 @@ async function changeTimeline(row) {
 // The untag process has a multi-dialog process that must be navigated to remove yourself,
 //   so this should navigate it and click all the necessary things to remove the tag.
 async function untagFromTimeline() {
-  const report1 = await getDialogFor(`I think it shouldn't be on Facebook`);
-  await clickItem(report1);
-  const continue1 = await getDialogFor(`Continue`);
-  await clickItem(continue1);
+  const stringsToTry = [
+    `I'm in this photo and I don't like it`,
+    `This is a photo of me or my family that I don't want on Facebook`,
+    `I think it's an unauthorized use of my intellectual property`,
+    `I think it shouldn't be on Facebook`,
+    `It's a bad photo of me`,
+    `It's inappropriate`,
+    `It makes me sad`,
+    `It's embarrassing`,
+    `Other`,
+    `Something else`,
+    `It's something else`,
+    `See more options`,
+    `Remove Tag`
+  ];
+  for (let loopCount = 0; loopCount < 10; loopCount++) {
+    for (let tryString of stringsToTry) {
+      console.log(`Trying "${tryString}"`);
+      const report = await getDialogFor(tryString);
+      if (report) {
+        console.log(`Found "${tryString}"`);
+        await clickItem(report);
+        const cont = await getDialogFor(`Continue`);
+        await clickItem(cont);
+        break;
+      }
+    }
+  }
 
-  // "Something else" usually exists
-  const report2a = await getDialogFor(`Something else`);
-  await clickItem(report2a);
-  // Photos have a specific report item
-  const report2b = await getDialogFor(`This is a photo of me or my family that I don't want on Facebook`);
-  await clickItem(report2b);
-  const continue2 = await getDialogFor(`Continue`);
-  await clickItem(continue2);
-
-  // "See more options" exists sometimes
-  const report3a = await getDialogFor(`See more options`);
-  await clickItem(report3a);
-  // "I think it's an unauthorized use of my intellectual property" exists sometimes
-  const report3b = await getDialogFor(`I think it's an unauthorized use of my intellectual property`);
-  await clickItem(report3b);
-  const continue3 = await getDialogFor(`Continue`);
-  await clickItem(continue3);
-
-  // "It's something else" exists sometimes
-  const report4 = await getDialogFor(`It's something else`);
-  await clickItem(report4);
-  const continue4 = await getDialogFor(`Continue`);
-  await clickItem(continue4);
-
-  const report5 = await getDialogFor(`Remove Tag`);
-  await clickItem(report5);
-  const report6 = await getDialogFor(`Remove Tag`);
-  await clickItem(report6);
-  const continue5 = await getDialogFor(`Done`);
-  return await clickItem(continue5);
+  const foundDone = await getDialogFor(`Done`);
+  await clickItem(foundDone);
 }
-
 // Helper to get clickable elements in drop down menus
 async function getMenuFor(text) {
-  console.log('getMenuFor outer', text);
+  // console.log('getMenuFor outer', text);
   return await new Promise(resolve => {
     setTimeout(() => {
       try {
         const menu = document.querySelector(`[role="menu"]`);
         if (menu) {
-          console.log('getMenuFor inner', text);
+          // console.log('getMenuFor inner', text);
           const allMenuItems = [...menu.querySelectorAll(`*`)];
-          const filteredMenuItems = allMenuItems.filter(item => item.innerText === text);
+          const filteredMenuItems = allMenuItems.filter(item => item.innerText.toLowerCase() === text.toLowerCase());
           if (filteredMenuItems.length > 0) {
             return resolve([...filteredMenuItems]);
           } else {
@@ -196,22 +192,22 @@ async function getMenuFor(text) {
           return resolve(null);
         }
       } catch (e) { console.log(`getMenuFor error`, e); return resolve(); }
-    }, 500 + (Math.random() * 0));
+    }, 1000 + (Math.random() * 1000));
   });
 }
 
 // Helper to get clickable elements in pop up dialogs
 async function getDialogFor(text) {
-  console.log('getDialogFor outer', text);
+  // console.log('getDialogFor outer', text);
   return await new Promise(resolve => {
     setTimeout(() => {
       try {
         const dialogs = document.querySelectorAll(`[role="dialog"]`);
         const dialog = dialogs[dialogs.length - 1];
         if (dialog) {
-          console.log('getDialogFor inner', text);
+          // console.log('getDialogFor inner', text);
           const allDialogItems = [...dialog.querySelectorAll(`*`)];
-          const filteredDialogItems = allDialogItems.filter(item => item.innerText === text);
+          const filteredDialogItems = allDialogItems.filter(item => item.innerText.toLowerCase() === text.toLowerCase() && !item.attributes["disabled"] && !item.classList.contains("hidden_elem") && item.computedStyleMap().get("display").value !== "none");
           if (filteredDialogItems.length > 0) {
             return resolve([...filteredDialogItems]);
           } else {
@@ -221,21 +217,21 @@ async function getDialogFor(text) {
           return resolve(null);
         }
       } catch (e) { console.log(`getDialogFor error`, e); return resolve(); }
-    }, 500 + (Math.random() * 0));
+    }, 1000 + (Math.random() * 1000));
   });
 }
 
 // Remove drop down menus when we're down with them because Facebook doesn't
 //   and the hidden HTML grows significantly if we don't.
 async function cleanupMenu() {
-  console.log('cleanupMenu');
+  // console.log('cleanupMenu');
   const menu = document.querySelector(`[role="menu"]`);
   return await cleanupElement(menu);
 }
 
 // Simulate a user clicking an item.
 async function clickItem(item) {
-  console.log('clickItem outer', item);
+  // console.log('clickItem outer', item);
   if (!item || item.length === 0) {
     return;
   }
@@ -250,17 +246,17 @@ async function clickItem(item) {
   return await new Promise(resolve => {
     setTimeout(async () => {
       try {
-        console.log('clickItem inner', item);
+        // console.log('clickItem inner', item);
         item.click();
         resolve();
       } catch (e) { console.log(`clickItem error`, e); return resolve(); }
-    }, 500 + (Math.random() * 0));
+    }, 1000 + (Math.random() * 1000));
   });
 }
 
 // Remove elements from the page so the processing doesn't slow down as much
 async function cleanupElement(item) {
-  console.log('cleanupElement outer', item);
+  // console.log('cleanupElement outer', item);
   if (!item || item.length === 0) {
     return;
   }
@@ -275,11 +271,11 @@ async function cleanupElement(item) {
   return await new Promise(resolve => {
     setTimeout(async () => {
       try {
-        console.log('cleanupElement inner', item);
+        // console.log('cleanupElement inner', item);
         item.parentNode.removeChild(item);
         return resolve();
       } catch (e) { console.log(`removeItemFromPage error`, e); return resolve() }
-    }, 500 + (Math.random() * 0));
+    }, 1000 + (Math.random() * 1000));
   });
 }
 

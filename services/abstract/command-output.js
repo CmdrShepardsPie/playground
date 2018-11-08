@@ -1,9 +1,11 @@
-import "rxjs/add/operator/share";
-import { Subject } from "rxjs/Subject";
-export default class CommandOutput {
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+require("rxjs/add/operator/share");
+const Subject_1 = require("rxjs/Subject");
+class CommandOutput {
     // protected subject: Subject<OutType>;
     // protected observable: Observable<OutType>;
-    constructor(subject = new Subject(), observable = subject.share()) {
+    constructor(subject = new Subject_1.Subject(), observable = subject.share()) {
         this.subject = subject;
         this.observable = observable;
     }
@@ -14,4 +16,5 @@ export default class CommandOutput {
         this.subject && this.subject.next(value);
     }
 }
+exports.default = CommandOutput;
 //# sourceMappingURL=command-output.js.map
