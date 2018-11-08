@@ -3,7 +3,7 @@ import * as _fs from "fs";
 import { promisify } from "util";
 import { save } from "./get-repeaters";
 import { IObject, wait } from "./helper";
-// import * as data from './repeaters/json/Denver, CO.json';
+// import * as data from 'repeaters/json/Denver, CO.json';
 
 const fs = {
   exists: promisify(_fs.exists),
@@ -63,12 +63,12 @@ async function combine() {
 
   console.log("\nGetting directory");
 
-  const allFiles = (await fs.readdir("./repeaters/json")).filter((b) => /\.json/.test(b));
+  const allFiles = (await fs.readdir("repeaters/json")).filter((b) => /\.json/.test(b));
 
   console.log("\nReading files", allFiles);
 
   await Promise.all(allFiles.map(async (file) => {
-    const contents = await fs.readFile(`./repeaters/json/${file}`);
+    const contents = await fs.readFile(`repeaters/json/${file}`);
     const data = JSON.parse(contents.toString());
 
     allData.push(...data.map((d: any) => makeRow(d, "Sponsor")).filter((d: any) => !!d.Comment));

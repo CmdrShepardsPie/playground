@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const _csv = require("csv");
 const _fs = require("fs");
 const util_1 = require("util");
-// import * as data from './repeaters/json/Denver, CO.json';
+// import * as data from 'repeaters/json/Denver, CO.json';
 const fs = {
     exists: util_1.promisify(_fs.exists),
     writeFile: util_1.promisify(_fs.writeFile),
@@ -197,15 +197,15 @@ function makeRow(item) {
 // const count = 128 - 57;
 const count = 200 - 57;
 // const count = 300;
-const allIndividualFiles = fs.readdir("./repeaters/json")
+const allIndividualFiles = fs.readdir("repeaters/json")
     .then((files) => Promise.all(files.filter((b) => /\.json/.test(b)).map((f) => {
-    const name = f.replace("./repeaters/json", "").replace(".json", "");
+    const name = f.replace("repeaters/json", "").replace(".json", "");
     console.log("name", name);
     return read([name], `${name}`, count, 57, "Comment");
 })));
-const allCombinedFiles = fs.readdir("./repeaters/json")
+const allCombinedFiles = fs.readdir("repeaters/json")
     .then((files) => {
-    const cities = files.filter((b) => /\.json/.test(b)).map((f) => f.replace("./repeaters/json", "").replace(".json", ""));
+    const cities = files.filter((b) => /\.json/.test(b)).map((f) => f.replace("repeaters/json", "").replace(".json", ""));
     return read(cities, `_all`, count, 57, "Comment");
 });
 exports.default = (Promise.all([

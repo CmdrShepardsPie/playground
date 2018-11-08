@@ -31,19 +31,19 @@ function say(text, voice, pitch, rate) {
     // console.log('speak end');
   })
 }
-
-function wait(ms, fn) {
-  console.log('wait', ms);
-  return new Promise((resolve, reject) => {
-    window.setTimeout(async () => {
-      try {
-        resolve(fn && await fn());
-      } catch (e) {
-        reject(e);
-      }
-    }, ms);
-  });
-}
+//
+// function wait(ms, fn) {
+//   console.log('wait', ms);
+//   return new Promise((resolve, reject) => {
+//     window.setTimeout(async () => {
+//       try {
+//         resolve(fn && await fn());
+//       } catch (e) {
+//         reject(e);
+//       }
+//     }, ms);
+//   });
+// }
 
 function next(number) {
   const waitFor = number || Math.random() * 60 * 60 * 1000;

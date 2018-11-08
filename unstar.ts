@@ -1,14 +1,14 @@
-function wait(ms, fn) {
-  return new Promise((resolve, reject) => {
-    setTimeout(async () => {
-      try {
-        resolve(fn && (await fn()));
-      } catch (e) {
-        reject(e);
-      }
-    }, ms);
-  });
-}
+// function wait(ms, fn) {
+//   return new Promise((resolve, reject) => {
+//     setTimeout(async () => {
+//       try {
+//         resolve(fn && (await fn()));
+//       } catch (e) {
+//         reject(e);
+//       }
+//     }, ms);
+//   });
+// }
 
 
 async function doit() {

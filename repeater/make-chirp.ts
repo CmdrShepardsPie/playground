@@ -3,7 +3,7 @@ import * as _fs from "fs";
 import { promisify } from "util";
 import { save } from "./get-repeaters";
 import { IObject } from "./helper";
-// import * as data from './repeaters/json/Denver, CO.json';
+// import * as data from 'repeaters/json/Denver, CO.json';
 
 const fs = {
   exists: promisify(_fs.exists),
@@ -241,16 +241,16 @@ function makeRow(item: any) {
 const count = 200 - 57;
 // const count = 300;
 
-const allIndividualFiles = fs.readdir("./repeaters/json")
+const allIndividualFiles = fs.readdir("repeaters/json")
   .then((files) => Promise.all(files.filter((b) => /\.json/.test(b)).map((f) => {
-    const name = f.replace("./repeaters/json", "").replace(".json", "");
+    const name = f.replace("repeaters/json", "").replace(".json", "");
     console.log("name", name);
     return read([name], `${name}`, count, 57, "Comment");
   })));
 
-const allCombinedFiles = fs.readdir("./repeaters/json")
+const allCombinedFiles = fs.readdir("repeaters/json")
   .then((files) => {
-    const cities = files.filter((b) => /\.json/.test(b)).map((f) => f.replace("./repeaters/json", "").replace(".json", ""));
+    const cities = files.filter((b) => /\.json/.test(b)).map((f) => f.replace("repeaters/json", "").replace(".json", ""));
     return read(cities, `_all`, count, 57, "Comment");
   });
 

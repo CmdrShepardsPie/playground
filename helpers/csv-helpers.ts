@@ -1,0 +1,29 @@
+import * as _csv from "csv";
+import { promisify } from "util";
+
+export interface IStringKeys<P> {
+  [index: string]: P;
+}
+
+export const parseAsync = promisify(_csv.parse);
+export const stringifyAsync = promisify(_csv.stringify);
+
+export function fillArrayObjects(inArray: object[]) {
+  const outArray = [...inArray];
+  const keys: IStringKeys<boolean> = {};
+  outArray.forEach((item) => {
+    const entries = Object.entries(item);
+    entries.forEach((entry) => {
+      keys[entry[0]] = true;
+    });
+  });
+  outArray.forEach((item, index) => {
+    item = {...item};
+    outArray[index] = item;
+    Object.keys(keys).forEach((key) => {
+      // @ts-ignore
+      item[key] = item[key];
+    });
+  });
+  return outArray;
+}

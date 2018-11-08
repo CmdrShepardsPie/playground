@@ -4,7 +4,7 @@ const _csv = require("csv");
 const _fs = require("fs");
 const util_1 = require("util");
 const helper_1 = require("./helper");
-// import * as data from './repeaters/json/Denver, CO.json';
+// import * as data from 'repeaters/json/Denver, CO.json';
 const fs = {
     exists: util_1.promisify(_fs.exists),
     writeFile: util_1.promisify(_fs.writeFile),
@@ -39,10 +39,10 @@ async function combine() {
     const aliases = {};
     const allData = [];
     console.log("\nGetting directory");
-    const allFiles = (await fs.readdir("./repeaters/json")).filter((b) => /\.json/.test(b));
+    const allFiles = (await fs.readdir("repeaters/json")).filter((b) => /\.json/.test(b));
     console.log("\nReading files", allFiles);
     await Promise.all(allFiles.map(async (file) => {
-        const contents = await fs.readFile(`./repeaters/json/${file}`);
+        const contents = await fs.readFile(`repeaters/json/${file}`);
         const data = JSON.parse(contents.toString());
         allData.push(...data.map((d) => makeRow(d, "Sponsor")).filter((d) => !!d.Comment));
         allData.push(...data.map((d) => makeRow(d, "Affiliate")).filter((d) => !!d.Comment));

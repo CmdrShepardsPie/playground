@@ -13,7 +13,17 @@
     "strict": true,
     "declaration": false,
     "declarationMap": false,
-    "outDir": "build"
+    "outDir": "build",
+    "baseUrl": "./",
+    "paths": {
+      "@config/*": ["config/*"],
+      "@enums/*": ["enums/*"],
+      "@helpers/*": ["helpers/*"],
+      "@interfaces/*": ["interfaces/*"],
+      "@scripts/*": ["scripts/*"],
+      "@services/*": ["services/*"]
+    }
+
   },
-  "exclude": ["node_modules", "build"]
+  "exclude": ["build"]
 }

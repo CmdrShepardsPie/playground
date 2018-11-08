@@ -1,8 +1,8 @@
-function wait(ms) {
-  return new Promise((resolve) => {
-    window.setTimeout(resolve, ms);
-  });
-}
+// function wait(ms) {
+//   return new Promise((resolve) => {
+//     window.setTimeout(resolve, ms);
+//   });
+// }
 
 async function doIt() {
   const d = document.querySelector(".delete");

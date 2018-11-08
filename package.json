@@ -9,11 +9,20 @@
   },
   "author": "",
   "license": "ISC",
+  "_moduleAliases": {
+    "@config": "build/config",
+    "@enums": "build/enums",
+    "@helpers": "build/helpers",
+    "@interfaces": "build/interfaces",
+    "@scripts": "build/scripts",
+    "@services": "build/services"
+  },
   "dependencies": {
     "axios": "0.18.0",
     "babel-cli": "6.26.0",
     "babel-core": "6.26.3",
     "body-parser": "1.18.3",
+    "chalk": "2.4.1",
     "cookie-parser": "1.4.3",
     "csv": "4.0.0",
     "d3v4": "4.2.2",
