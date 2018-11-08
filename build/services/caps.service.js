@@ -7,4 +7,3 @@ class CapsService extends command_link_1.default {
     }
 }
 exports.default = CapsService;
-//# sourceMappingURL=caps.service.js.map

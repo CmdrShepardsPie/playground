@@ -106,4 +106,3 @@ Spoon = __decorate([
 ], Spoon);
 const its = new Spoon();
 console.log("its", its.saySomething.call({}));
-//# sourceMappingURL=decorator.js.map

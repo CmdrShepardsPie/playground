@@ -7,4 +7,3 @@ class OutputService extends command_input_1.default {
     }
 }
 exports.default = OutputService;
-//# sourceMappingURL=output.service.js.map

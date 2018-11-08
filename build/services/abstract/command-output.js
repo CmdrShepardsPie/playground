@@ -17,4 +17,3 @@ class CommandOutput {
     }
 }
 exports.default = CommandOutput;
-//# sourceMappingURL=command-output.js.map

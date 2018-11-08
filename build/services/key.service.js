@@ -27,4 +27,3 @@ class KeyService extends command_output_1.default {
     }
 }
 exports.default = KeyService;
-//# sourceMappingURL=key.service.js.map

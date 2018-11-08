@@ -24,4 +24,3 @@ class CommandInput {
     }
 }
 exports.default = CommandInput;
-//# sourceMappingURL=command-input.js.map

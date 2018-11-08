@@ -35,4 +35,3 @@ Object.entries(Keys).forEach((entry) => {
         Keys[val] = key;
     }
 });
-//# sourceMappingURL=enums.js.map

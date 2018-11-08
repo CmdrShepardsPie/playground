@@ -96,4 +96,3 @@ class Scraper {
     }
 }
 exports.default = Scraper;
-//# sourceMappingURL=scraper.js.map

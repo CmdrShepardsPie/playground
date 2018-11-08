@@ -7,4 +7,3 @@ class NumberService extends command_link_1.default {
     }
 }
 exports.default = NumberService;
-//# sourceMappingURL=number.service.js.map

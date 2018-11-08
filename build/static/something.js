@@ -31,4 +31,3 @@ function doAnimation() {
         // console.log('last', last);
     }
 }
-//# sourceMappingURL=something.js.map

@@ -40,4 +40,3 @@ class CommandInputed extends command_input_1.default {
 // Make a concrete version of CommandOutput to be instantiated in CommandLink above
 class CommandOutputed extends command_output_1.default {
 }
-//# sourceMappingURL=command-link.js.map

@@ -79,4 +79,3 @@ async function dirExists(path) {
     return exists;
 }
 exports.dirExists = dirExists;
-//# sourceMappingURL=helper.js.map

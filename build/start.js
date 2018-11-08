@@ -178,4 +178,3 @@ const map = new Map();
 // // });
 // //
 // // const event = 0;
-//# sourceMappingURL=start.js.map

@@ -7,4 +7,3 @@ class StringService extends command_link_1.default {
     }
 }
 exports.default = StringService;
-//# sourceMappingURL=string.service.js.map

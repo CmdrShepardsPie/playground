@@ -62,4 +62,3 @@ exports.default = fs.readdir("./")
     const chirpCsv = await stringifyAsync(chirpList, options);
     return fs.writeFile(`./simplex.csv`, chirpCsv);
 });
-//# sourceMappingURL=make-chirp.js.map

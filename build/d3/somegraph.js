@@ -261,4 +261,3 @@ function buildHierarchy(csv) {
     }
     return root;
 }
-//# sourceMappingURL=somegraph.js.map
