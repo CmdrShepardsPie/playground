@@ -43,9 +43,6 @@ exports.default = fs.readdir("./")
             lastIndex = i;
         }
         const shortIndex = ((i - lastIndex) + 1).toString();
-        // if (shortIndex.length > 1) {
-        //   shortIndex = shortIndex[1];
-        // }
         const name = station.Frequency.toString().replace(".", "");
         const Name = `${name}`;
         const chirp = {

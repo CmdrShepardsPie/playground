@@ -10,7 +10,7 @@
     "VOIP": "",
     "Mi": 28,
     "Dir": "S",
-    "": "",
+    "": "yes",
     "Downlink": 146.955,
     "Uplink": 146.355,
     "Uplink Tone": "",
@@ -19,7 +19,7 @@
     "Sponsor": "PCARC",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.76,
@@ -32,7 +32,7 @@
     "VOIP": "EI",
     "Mi": 30,
     "Dir": "E",
-    "": "",
+    "": "yes",
     "Downlink": 146.76,
     "Uplink": 146.16,
     "Uplink Tone": 123,
@@ -43,7 +43,7 @@
     "IRLP": 7349,
     "Notes": "Linked to 146.940 in North Platte and 442.250 south of North Platte",
     "Nets": "Sun at 19:30. \nWed at 20:00.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.295,
@@ -56,7 +56,7 @@
     "VOIP": "",
     "Mi": 55.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.295,
     "Uplink": 144.695,
     "Uplink Tone": "",
@@ -66,7 +66,7 @@
     "Sponsor": "NECARA",
     "Features": "Autopatch, e-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.175,
@@ -79,11 +79,11 @@
     "VOIP": "",
     "Mi": 75.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.175,
     "Uplink": 443.175,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "County": "Morgan",
@@ -92,7 +92,7 @@
     "Affiliate": "Rocky Mountain Ham Radio",
     "Web links": "http://www.rmham.org/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.4,
@@ -105,7 +105,7 @@
     "VOIP": "",
     "Mi": 75.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.4,
     "Uplink": 144.8,
     "Uplink Tone": 88.5,
@@ -118,7 +118,7 @@
     "Notes": "Part of the Colorado Connection system of repeaters",
     "Nets": "Colorado Traffic Net: Daily at 19:30. \nColorado Connection Net (all welcome): Thu at 20:00. \nStatewide ARES: Sun at 20:00.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.835,
@@ -131,14 +131,14 @@
     "VOIP": "",
     "Mi": 78.7,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 146.835,
     "Uplink": 146.235,
     "Uplink Tone": "CSQ",
     "County": "Lincoln",
     "Op Status": "On-Air",
     "Sponsor": "K0KDC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.7,
@@ -151,7 +151,7 @@
     "VOIP": "",
     "Mi": 78.7,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 146.7,
     "Uplink": 146.1,
     "Uplink Tone": "",
@@ -160,7 +160,7 @@
     "Op Status": "Off-Air",
     "Sponsor": "North Platte Progressive Amateur Radio Club",
     "Features": "E-power.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.94,
@@ -173,7 +173,7 @@
     "VOIP": "EI",
     "Mi": 79.1,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 146.94,
     "Uplink": 146.34,
     "Uplink Tone": 123,
@@ -185,7 +185,7 @@
     "IRLP": 7349,
     "Nets": "Sunday Night net: Sun at 20:30 \nWednesday Night net: Wed at 21:00.",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.33,
@@ -198,7 +198,7 @@
     "VOIP": "EI",
     "Mi": 79.1,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.33,
     "Uplink": 147.93,
     "Uplink Tone": 123,
@@ -207,7 +207,7 @@
     "Sponsor": "Randy Allen",
     "EchoLink": 857936,
     "IRLP": 7627,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.4,
@@ -220,7 +220,7 @@
     "VOIP": "EI",
     "Mi": 79.1,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 444.4,
     "Uplink": 449.4,
     "Uplink Tone": 123,
@@ -230,7 +230,7 @@
     "Sponsor": "Randy Allen",
     "EchoLink": 857936,
     "IRLP": 7627,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.25,
@@ -243,7 +243,7 @@
     "VOIP": "EI",
     "Mi": 79.1,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 442.25,
     "Uplink": 447.25,
     "Uplink Tone": 123,
@@ -254,7 +254,7 @@
     "IRLP": 7349,
     "Notes": "Linked to 146.940 in North Platte and 146.760 in Ogallala.",
     "Nets": "Sunt at 20:30 \nWed at 21:00",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.015,
@@ -267,7 +267,7 @@
     "VOIP": "E",
     "Mi": 82.5,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 147.015,
     "Uplink": 147.615,
     "Uplink Tone": "",
@@ -276,7 +276,7 @@
     "Coverage": "Local.",
     "Sponsor": "N2VHZ",
     "EchoLink": 775183,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.715,
@@ -289,7 +289,7 @@
     "VOIP": "",
     "Mi": 84,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 146.715,
     "Uplink": 146.115,
     "Uplink Tone": 103.5,
@@ -297,7 +297,7 @@
     "County": "Box Butte",
     "Op Status": "On-Air",
     "Sponsor": "TriCity",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147,
@@ -310,14 +310,14 @@
     "VOIP": "",
     "Mi": 84.8,
     "Dir": "WNW",
-    "": "",
+    "": "yes",
     "Downlink": 147,
     "Uplink": 146.4,
     "Uplink Tone": 103.5,
     "County": "Banner",
     "Op Status": "On-Air",
     "Sponsor": "Tri-City Radio Amateur Club",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.125,
@@ -330,7 +330,7 @@
     "VOIP": "",
     "Mi": 88.5,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 444.125,
     "Uplink": 449.125,
     "Uplink Tone": 114.8,
@@ -339,7 +339,7 @@
     "Coverage": "Wide area",
     "Sponsor": "SBCEMA",
     "Features": "Linked to Albin (147.165) and Cheyenne (146.775)",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.445,
@@ -352,7 +352,7 @@
     "VOIP": "I",
     "Mi": 92.1,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 146.445,
     "Uplink": 146.445,
     "Uplink Tone": 88.5,
@@ -364,7 +364,7 @@
     "Commands": "Access pre-fix = 5",
     "Notes": "This is a simplex IRLP node. 147.285 rptr is down. 3055 is directly accessed on 146.445 w/88.5 tone. Controlled access. Contact AG0N for access. 147.435/123PL Scottsbluff node 8930 available 24/7 no access code.",
     "Web links": "http://garymcduffie.com",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.2,
@@ -377,11 +377,11 @@
     "VOIP": "",
     "Mi": 95.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.2,
     "Uplink": 443.2,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Northern Colorado  2  721    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -395,7 +395,7 @@
     "Notes": "See the website for more info on Time Slot, Talk Group and Color Code Programming.",
     "Web links": "Rocky Mountain Ham Radio",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.475,
@@ -408,7 +408,7 @@
     "VOIP": "",
     "Mi": 95.5,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 145.475,
     "Uplink": 144.875,
     "Uplink Tone": "",
@@ -417,7 +417,7 @@
     "Coverage": 20,
     "Sponsor": "RWMC",
     "Features": "e-power.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.825,
@@ -430,7 +430,7 @@
     "VOIP": "",
     "Mi": 95.5,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 444.825,
     "Uplink": 449.825,
     "Uplink Tone": "",
@@ -438,7 +438,7 @@
     "Op Status": "On-Air",
     "Sponsor": "W0KAV/KW0R",
     "Features": "Autopatch, e-power.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.075,
@@ -451,14 +451,14 @@
     "VOIP": "",
     "Mi": 97.6,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 147.075,
     "Uplink": 147.675,
     "Uplink Tone": "",
     "County": "Scotts Bluff",
     "Op Status": "On-Air",
     "Sponsor": "Tri-City Radio Amateur Club",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.165,
@@ -471,7 +471,7 @@
     "VOIP": "",
     "Mi": 99.8,
     "Dir": "WNW",
-    "": "",
+    "": "yes",
     "Downlink": 147.165,
     "Uplink": 147.765,
     "Uplink Tone": 114.8,
@@ -481,7 +481,7 @@
     "Features": "E-power.",
     "Links": "Full-time to  \n        147.10500 (KC7SNO) at Cheyenne, North Park, WY .\n \n\n\nFull-time to  \n        146.77500 (KC7SNO) at Cheyenne, Denver Hill, WY .",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.27,
@@ -494,7 +494,7 @@
     "VOIP": "",
     "Mi": 101.6,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 147.27,
     "Uplink": 147.87,
     "Uplink Tone": "",
@@ -504,7 +504,7 @@
     "Sponsor": "McCook ARA",
     "Features": "Fusion Repeater",
     "Nets": "Monday Nights at 7PM",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.8,
@@ -517,7 +517,7 @@
     "VOIP": "",
     "Mi": 101.9,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.8,
     "Uplink": 449.8,
     "Uplink Tone": 162.2,
@@ -528,7 +528,7 @@
     "Affiliate": "Dirt Truckin",
     "Features": "Link Com RLC-1 Controller",
     "Notes": 180,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.5,
@@ -541,7 +541,7 @@
     "VOIP": "",
     "Mi": 101.9,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.5,
     "Uplink": 449.5,
     "Uplink Tone": 151.4,
@@ -552,7 +552,7 @@
     "Affiliate": "Dirt Truckin",
     "Features": "link comm rlc 1",
     "Notes": 16,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 445.1,
@@ -565,7 +565,7 @@
     "VOIP": "I",
     "Mi": 103.7,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 445.1,
     "Uplink": 445.1,
     "Uplink Tone": 100,
@@ -574,7 +574,7 @@
     "Op Status": "On-Air",
     "IRLP": 3942,
     "Notes": "This is a simplex IRLP node.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.03,
@@ -587,7 +587,7 @@
     "VOIP": "I",
     "Mi": 116.6,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 147.03,
     "Uplink": 147.63,
     "Uplink Tone": 88.5,
@@ -598,7 +598,7 @@
     "IRLP": 3769,
     "Notes": "This is the highest (above sea level) amateur repeater in Kansas.",
     "Web links": "SCARE on Facebook",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.895,
@@ -611,7 +611,7 @@
     "VOIP": "E",
     "Mi": 117.8,
     "Dir": "S",
-    "": "",
+    "": "yes",
     "Downlink": 146.895,
     "Uplink": 146.295,
     "Uplink Tone": 103.5,
@@ -621,7 +621,7 @@
     "Sponsor": "Big Sandy ARC",
     "EchoLink": 830619,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.3,
@@ -634,15 +634,15 @@
     "VOIP": "",
     "Mi": 120,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 449.3,
     "Uplink": 444.3,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Laramie",
     "Op Status": "On-Air",
     "Sponsor": "WU7G",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.19,
@@ -655,7 +655,7 @@
     "VOIP": "",
     "Mi": 121.1,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 145.19,
     "Uplink": 144.59,
     "Uplink Tone": "",
@@ -665,7 +665,7 @@
     "Sponsor": "TRI-STATE.",
     "Features": "Linked.",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.135,
@@ -678,7 +678,7 @@
     "VOIP": "",
     "Mi": 124.2,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.135,
     "Uplink": 147.735,
     "Uplink Tone": "",
@@ -687,7 +687,7 @@
     "Sponsor": "Heartland Amateur Radio Association",
     "Features": "E-power.",
     "Nets": "Wed 2030",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.75,
@@ -700,7 +700,7 @@
     "VOIP": "",
     "Mi": 125.7,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 444.75,
     "Uplink": 449.75,
     "Uplink Tone": 162.2,
@@ -713,7 +713,7 @@
     "Notes": "Repeater is intermittently off-air, and the Allstar node is down.",
     "Web links": "K-Link Repeater Network",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.67,
@@ -726,7 +726,7 @@
     "VOIP": "",
     "Mi": 125.7,
     "Dir": "N",
-    "": "",
+    "": "yes",
     "Downlink": 146.67,
     "Uplink": 146.07,
     "Uplink Tone": "CSQ",
@@ -736,7 +736,7 @@
     "Sponsor": "SHARC",
     "Features": "E-power.",
     "Notes": "Working on the transmitter, hope to be back on the air soon.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.82,
@@ -749,7 +749,7 @@
     "VOIP": "I",
     "Mi": 127,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 146.82,
     "Uplink": 146.22,
     "Uplink Tone": 156.7,
@@ -761,7 +761,7 @@
     "Features": "Closed autopatch, e-power.",
     "IRLP": 7552,
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.36,
@@ -774,7 +774,7 @@
     "VOIP": "",
     "Mi": 127.9,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 147.36,
     "Uplink": 147.96,
     "Uplink Tone": 123,
@@ -784,7 +784,7 @@
     "Coverage": "Chadron, Gordon, Alliance, Crawford, Pine Ridge.",
     "Affiliate": "Pine Ridge Amateur Radio Club",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.4,
@@ -797,7 +797,7 @@
     "VOIP": "",
     "Mi": 129,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 444.4,
     "Uplink": 449.4,
     "Uplink Tone": 141.3,
@@ -808,7 +808,7 @@
     "Notes": "Repeater has zero hang-time, which gives the appearance that it's down.  It does work!",
     "Web links": "http://skect.org/default.aspx",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.62,
@@ -821,7 +821,7 @@
     "VOIP": "I",
     "Mi": 132.4,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 145.62,
     "Uplink": 145.62,
     "Uplink Tone": 100,
@@ -832,7 +832,7 @@
     "Sponsor": "Pine Ridge Amateur Radio Club - Ron Cashon -- 308 432-3322",
     "Features": "Voice ID",
     "IRLP": 3936,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.85,
@@ -845,7 +845,7 @@
     "VOIP": "",
     "Mi": 132.5,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 146.85,
     "Uplink": 146.25,
     "Uplink Tone": 123,
@@ -853,7 +853,7 @@
     "County": "Dawson",
     "Op Status": "On-Air",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.3,
@@ -866,7 +866,7 @@
     "VOIP": "",
     "Mi": 132.7,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 446.3,
     "Uplink": 446.3,
     "Uplink Tone": "CSQ",
@@ -874,7 +874,7 @@
     "County": "Dawes",
     "Op Status": "On-Air",
     "Notes": "Simplex link for the 147.360 in Chadron",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.775,
@@ -887,7 +887,7 @@
     "VOIP": "",
     "Mi": 133.4,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 146.775,
     "Uplink": 146.175,
     "Uplink Tone": 114.8,
@@ -898,7 +898,7 @@
     "Links": "Full-time to  \n        147.16500 (KC7SNO) at Albin, WY .",
     "Nets": "Weather Net: Daily at 06:45. \nShy-WY ARC: Sun at 07:00.",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.235,
@@ -911,7 +911,7 @@
     "VOIP": "",
     "Mi": 133.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 145.235,
     "Uplink": 144.635,
     "Uplink Tone": 114.8,
@@ -922,7 +922,7 @@
     "Links": "Full-time to  \n        448.15000 (KB7SWR) at Cheyenne, WY .",
     "Notes": 25,
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.105,
@@ -935,7 +935,7 @@
     "VOIP": "",
     "Mi": 133.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 147.105,
     "Uplink": 147.705,
     "Uplink Tone": 114.8,
@@ -945,7 +945,7 @@
     "Op Status": "On-Air",
     "Sponsor": "ShyWyArc",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.95,
@@ -958,12 +958,12 @@
     "VOIP": "",
     "Mi": 133.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 448.95,
     "Uplink": 443.95,
     "Uplink Tone": 151.4,
     "Downlink Tone": 151.4,
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 15,
     "Wide Network": "",
     "County": "Laramie",
@@ -971,7 +971,7 @@
     "Coverage": "Local",
     "Notes": "Brandmiester and analog.",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.9,
@@ -984,7 +984,7 @@
     "VOIP": "",
     "Mi": 133.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 449.9,
     "Uplink": 444.9,
     "Uplink Tone": 100,
@@ -994,7 +994,7 @@
     "Coverage": "From 5 miles to 25 miles",
     "Sponsor": "N7JJY",
     "Notes": "To be used as a portable repeater for ARES/RACES or as needed for specific needs of the Amateur Community in Laramie County or other areas as needed. Repeater will be on when needed otherwise offline.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.85,
@@ -1007,7 +1007,7 @@
     "VOIP": "",
     "Mi": 133.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.85,
     "Uplink": 146.25,
     "Uplink Tone": 100,
@@ -1017,7 +1017,7 @@
     "Sponsor": "Northern Colorado ARC",
     "Features": "E-power, WX.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.475,
@@ -1030,7 +1030,7 @@
     "VOIP": "I",
     "Mi": 133.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.475,
     "Uplink": 443.475,
     "Uplink Tone": 100,
@@ -1040,7 +1040,7 @@
     "IRLP": 3839,
     "Web links": "http://www.warsco.org/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147,
@@ -1053,12 +1053,12 @@
     "VOIP": "I",
     "Mi": 133.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147,
     "Uplink": 147.6,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Weld",
     "Op Status": "On-Air",
@@ -1068,7 +1068,7 @@
     "Mixed-Mode": "Yes; analog capable.",
     "IRLP": 3839,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.325,
@@ -1081,17 +1081,17 @@
     "VOIP": "",
     "Mi": 133.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.325,
     "Uplink": 444.325,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "WR0AEN (B)",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Weld",
     "Op Status": "On-Air",
     "Sponsor": "Colorado Amateur Repeater Network (CARN)",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.725,
@@ -1104,7 +1104,7 @@
     "VOIP": "",
     "Mi": 134,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.725,
     "Uplink": 444.725,
     "Uplink Tone": 127.3,
@@ -1113,7 +1113,7 @@
     "Sponsor": "K0OJ",
     "Features": "Autopatch, WX.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.7375,
@@ -1126,11 +1126,11 @@
     "VOIP": "",
     "Mi": 135,
     "Dir": "SSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.7375,
     "Uplink": 441.7375,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 8,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Denver Regional  2  720    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -1143,7 +1143,7 @@
     "Affiliate": "RMHam",
     "Notes": "Colorado on TG700 Slot 1\nDenver on TG720 Slot 2",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.06,
@@ -1156,11 +1156,11 @@
     "VOIP": "EIA",
     "Mi": 135.3,
     "Dir": "SSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.06,
     "Uplink": 147.66,
     "Uplink Tone": 103.5,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Lincoln",
     "Op Status": "On-Air",
@@ -1174,7 +1174,7 @@
     "Nets": "Big Sandy Net: Wed 19:00",
     "Web links": "http://www.bigsandyradio.com/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.9375,
@@ -1187,11 +1187,11 @@
     "VOIP": "",
     "Mi": 136.4,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 449.9375,
     "Uplink": 444.9375,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Northern Colorado  2  721    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -1202,7 +1202,7 @@
     "Links": "Full-time to the  Rocky Mountain Ham System .",
     "Web links": "https://www.rmham.org/wordpress/",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.25,
@@ -1215,7 +1215,7 @@
     "VOIP": "EI",
     "Mi": 138.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.25,
     "Uplink": 444.25,
     "Uplink Tone": 123,
@@ -1230,7 +1230,7 @@
     "Commands": "** [StarStar] Prefix for Echolink Node.",
     "Notes": "K0UPS Buster Brown Radio Club. North West of Limon, Colorado.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.06,
@@ -1243,14 +1243,14 @@
     "VOIP": "",
     "Mi": 139.3,
     "Dir": "E",
-    "": "",
+    "": "yes",
     "Downlink": 147.06,
     "Uplink": 147.66,
     "Uplink Tone": "",
     "County": "Custer",
     "Op Status": "On-Air",
     "Sponsor": "KR0A",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.865,
@@ -1263,14 +1263,14 @@
     "VOIP": "",
     "Mi": 139.3,
     "Dir": "E",
-    "": "",
+    "": "yes",
     "Downlink": 146.865,
     "Uplink": 146.265,
     "Uplink Tone": "",
     "County": "Custer",
     "Op Status": "Off-Air",
     "Sponsor": "KR0A",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.745,
@@ -1283,7 +1283,7 @@
     "VOIP": "E",
     "Mi": 139.4,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 146.745,
     "Uplink": 146.145,
     "Uplink Tone": "",
@@ -1291,7 +1291,7 @@
     "Op Status": "On-Air",
     "EchoLink": 882742,
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.2,
@@ -1304,7 +1304,7 @@
     "VOIP": "",
     "Mi": 141,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 447.2,
     "Uplink": 442.2,
     "Uplink Tone": 82.5,
@@ -1312,7 +1312,7 @@
     "Op Status": "On-Air",
     "Sponsor": "N6RFI",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.925,
@@ -1325,7 +1325,7 @@
     "VOIP": "E",
     "Mi": 141.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.925,
     "Uplink": 444.925,
     "Uplink Tone": 114.8,
@@ -1337,7 +1337,7 @@
     "Affiliate": "K0UPS Club",
     "EchoLink": 448035,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.775,
@@ -1350,11 +1350,11 @@
     "VOIP": "",
     "Mi": 141.9,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 446.775,
     "Uplink": 441.775,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 2,
     "Wide Network": "",
     "Talkgroup Network": "BrandMeister US",
@@ -1374,7 +1374,7 @@
     "Notes": "Any additional Brandmeister talk group is available on time slot 1, too many to list here, see website. https://dmrx.net/files/US_BM_User_Guide.pdf",
     "Web links": "W0DMR",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.39,
@@ -1387,11 +1387,11 @@
     "VOIP": "",
     "Mi": 143.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.39,
     "Uplink": 147.99,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 2,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  TAC 310  1  310      DCI Bridge  1  3100      N. Colorado  1  3171      Mountain Reg USA  1  3177      Local/Cluster  2  2    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -1407,7 +1407,7 @@
     "Nets": "Tac 310 Net: Sun at 18:00.",
     "Web links": "Documentation",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.325,
@@ -1420,14 +1420,14 @@
     "VOIP": "",
     "Mi": 144.8,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 448.325,
     "Uplink": 443.325,
     "Uplink Tone": 110.9,
     "County": "Larimer",
     "Op Status": "On-Air",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.625,
@@ -1440,7 +1440,7 @@
     "VOIP": "",
     "Mi": 145.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.625,
     "Uplink": 442.625,
     "Uplink Tone": 100,
@@ -1449,7 +1449,7 @@
     "Coverage": "Local/North Metro",
     "Sponsor": "Intermountain Repeater Group",
     "Web links": "Intermountain Repeater Group",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.025,
@@ -1462,19 +1462,19 @@
     "VOIP": "",
     "Mi": 147.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.025,
     "Uplink": 443.025,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Larimer",
     "Op Status": "On-Air",
     "Sponsor": "Northern Colorado ARC",
     "Mixed-Mode": "Yes; analog capable.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.6,
@@ -1487,7 +1487,7 @@
     "VOIP": "I",
     "Mi": 147.7,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 444.6,
     "Uplink": 449.6,
     "Uplink Tone": 146.2,
@@ -1497,7 +1497,7 @@
     "Sponsor": "WA0VJR",
     "IRLP": 3148,
     "Notes": "Dial 9335 to access K-Link",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.96,
@@ -1510,7 +1510,7 @@
     "VOIP": "",
     "Mi": 147.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 224.96,
     "Uplink": 223.36,
     "Uplink Tone": "CSQ",
@@ -1518,7 +1518,7 @@
     "Op Status": "On-Air",
     "Sponsor": "AC0KC",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.3,
@@ -1531,7 +1531,7 @@
     "VOIP": "EI",
     "Mi": 148.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.3,
     "Uplink": 442.3,
     "Uplink Tone": 107.2,
@@ -1540,7 +1540,7 @@
     "EchoLink": 405804,
     "IRLP": 3887,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447,
@@ -1553,11 +1553,11 @@
     "VOIP": "W",
     "Mi": 148.3,
     "Dir": "SSW",
-    "": "",
+    "": "yes",
     "Downlink": 447,
     "Uplink": 442,
     "Uplink Tone": 103.5,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "WIRES-X": 30534,
     "County": "Lincoln",
@@ -1567,7 +1567,7 @@
     "Sponsor": "Delbert Noakes (KC0VJD)",
     "Features": "APRS repeater &amp; I-Gate / Weather station",
     "Mixed-Mode": "Yes; analog capable.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.895,
@@ -1580,7 +1580,7 @@
     "VOIP": "",
     "Mi": 148.6,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 146.895,
     "Uplink": 146.295,
     "Uplink Tone": 123,
@@ -1590,7 +1590,7 @@
     "Sponsor": "Region 15 ARES/RACES",
     "Features": "E-power.",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.36,
@@ -1603,7 +1603,7 @@
     "VOIP": "",
     "Mi": 149.9,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 147.36,
     "Uplink": 147.96,
     "Uplink Tone": 100,
@@ -1614,7 +1614,7 @@
     "Sponsor": "CO State Univ ARC",
     "Features": "Closed autopatch.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.85,
@@ -1627,7 +1627,7 @@
     "VOIP": "",
     "Mi": 150.1,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 449.85,
     "Uplink": 444.85,
     "Uplink Tone": 100,
@@ -1638,7 +1638,7 @@
     "Sponsor": "CO State Univ ARC",
     "Features": "Closed autopatch.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.8125,
@@ -1651,10 +1651,10 @@
     "VOIP": "",
     "Mi": 150.7,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 446.8125,
     "Uplink": 441.8125,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "W0QEY (B) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Larimer",
@@ -1664,7 +1664,7 @@
     "Features": "D-Star Gateway",
     "Notes": "Free Star",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.725,
@@ -1677,7 +1677,7 @@
     "VOIP": "",
     "Mi": 151.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.725,
     "Uplink": 442.725,
     "Uplink Tone": 131.8,
@@ -1685,7 +1685,7 @@
     "Op Status": "On-Air",
     "Sponsor": "W7RF",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.32,
@@ -1698,7 +1698,7 @@
     "VOIP": "",
     "Mi": 152.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 224.32,
     "Uplink": 222.72,
     "Uplink Tone": 100,
@@ -1708,7 +1708,7 @@
     "Sponsor": "KN6VV",
     "Features": "Closed autopatch, e-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.575,
@@ -1721,7 +1721,7 @@
     "VOIP": "",
     "Mi": 152.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.575,
     "Uplink": 444.575,
     "Uplink Tone": 100,
@@ -1730,7 +1730,7 @@
     "Sponsor": "Loveland Rptr Assoc",
     "Features": "Closed autopatch, e-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.15,
@@ -1743,7 +1743,7 @@
     "VOIP": "",
     "Mi": 154.4,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 448.15,
     "Uplink": 443.15,
     "Uplink Tone": 100,
@@ -1752,7 +1752,7 @@
     "Sponsor": "KB7SWR",
     "Links": "Full-time to  \n        145.23500 (KB7SWR) at Cheyenne, WY .",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 1283.55,
@@ -1765,7 +1765,7 @@
     "VOIP": "",
     "Mi": 154.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 1283.55,
     "Uplink": 1263.55,
     "Uplink Tone": 100,
@@ -1775,7 +1775,7 @@
     "Sponsor": "K1TJ Repeater System",
     "Web links": "http://www.k1tj.com/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.45,
@@ -1788,7 +1788,7 @@
     "VOIP": "E",
     "Mi": 154.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.45,
     "Uplink": 442.45,
     "Uplink Tone": 123,
@@ -1796,7 +1796,7 @@
     "Op Status": "On-Air",
     "EchoLink": 447450,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.7375,
@@ -1809,11 +1809,11 @@
     "VOIP": "",
     "Mi": 154.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.7375,
     "Uplink": 441.7375,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 2,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Worldwide  1  1      North America  1  3      English  1  13      TAC 310  1  310      Local/Cluster  2  2      N. Colorado  2  3171    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -1832,7 +1832,7 @@
     "Nets": "DMR World Wide Net: Sat at 10:00. \nTS 1 Group Call 1 http://www.dmr-marc.net/ \nTac 310 Net: Sun at 18:00, TS 1 Group Call 310 .",
     "Web links": "http://nocodmr.kt0l.net:8080/nocodmr/documentation.htm",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.15,
@@ -1845,7 +1845,7 @@
     "VOIP": "EA",
     "Mi": 154.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.15,
     "Uplink": 443.15,
     "Uplink Tone": 141.3,
@@ -1864,7 +1864,7 @@
     "Web links": "k0jsc.com",
     "Feed": "Listen Live",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.88,
@@ -1877,7 +1877,7 @@
     "VOIP": "I",
     "Mi": 154.9,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 146.88,
     "Uplink": 146.28,
     "Uplink Tone": 162.2,
@@ -1894,7 +1894,7 @@
     "Web links": "K-Link Repeater Network",
     "Feed": "Listen Live",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.195,
@@ -1907,7 +1907,7 @@
     "VOIP": "",
     "Mi": 155.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.195,
     "Uplink": 147.795,
     "Uplink Tone": 100,
@@ -1916,7 +1916,7 @@
     "Sponsor": "Loveland Repeater Assoc",
     "Features": "Closed autopatch, e-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.105,
@@ -1929,7 +1929,7 @@
     "VOIP": "",
     "Mi": 155.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.105,
     "Uplink": 147.705,
     "Uplink Tone": 107.2,
@@ -1943,7 +1943,7 @@
     "Links": "Full-time to  \n        448.42500 (W0CRA) at Larkspur, Westcreek, CO .",
     "Web links": "http://www.w0cra.org/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.265,
@@ -1956,11 +1956,11 @@
     "VOIP": "",
     "Mi": 155.7,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 145.265,
     "Uplink": 144.665,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 2,
     "Wide Network": "",
     "Talkgroup Network": "BrandMeister US",
@@ -1980,7 +1980,7 @@
     "Notes": "Any additional Brandmeister talk group is available on time slot 1, too many to list here, see website. https://dmrx.net/files/US_BM_User_Guide.pdf",
     "Web links": "http://www.w0dmr.org/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.75,
@@ -1993,11 +1993,11 @@
     "VOIP": "",
     "Mi": 155.7,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 446.75,
     "Uplink": 441.75,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Northern Colorado  2  721    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -2010,7 +2010,7 @@
     "Notes": "See website for complete info on color codes/time slot assignment.",
     "Web links": "http://www.rmham.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.825,
@@ -2023,7 +2023,7 @@
     "VOIP": "",
     "Mi": 156.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 927.825,
     "Uplink": 902.825,
     "Uplink Tone": 100,
@@ -2034,7 +2034,7 @@
     "Sponsor": "AB0SF",
     "Notes": "Converted 800 MHz beam antenna pointed directly down Horsetooth Road in Fort Collins.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.115,
@@ -2047,7 +2047,7 @@
     "VOIP": "E",
     "Mi": 156.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 145.115,
     "Uplink": 144.515,
     "Uplink Tone": 100,
@@ -2059,7 +2059,7 @@
     "Features": 7,
     "EchoLink": 4236,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.52,
@@ -2072,7 +2072,7 @@
     "VOIP": "",
     "Mi": 156.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 224.52,
     "Uplink": 222.92,
     "Uplink Tone": 100,
@@ -2082,7 +2082,7 @@
     "Sponsor": "Northern Colorado ARC",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.275,
@@ -2095,7 +2095,7 @@
     "VOIP": "",
     "Mi": 156.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 447.275,
     "Uplink": 442.275,
     "Uplink Tone": 100,
@@ -2106,7 +2106,7 @@
     "Sponsor": "Northern Colorado ARC",
     "Features": "Closed autopatch, e-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.95,
@@ -2119,7 +2119,7 @@
     "VOIP": "",
     "Mi": 156.6,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 927.95,
     "Uplink": 902.95,
     "Uplink Tone": 100,
@@ -2130,7 +2130,7 @@
     "Sponsor": "K1TJ Repeater System",
     "Features": 25,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.88,
@@ -2143,7 +2143,7 @@
     "VOIP": "",
     "Mi": 157.3,
     "Dir": "WNW",
-    "": "",
+    "": "yes",
     "Downlink": 146.88,
     "Uplink": 146.28,
     "Uplink Tone": 100,
@@ -2152,7 +2152,7 @@
     "Op Status": "On-Air",
     "Sponsor": "GPARA",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.8375,
@@ -2165,18 +2165,18 @@
     "VOIP": "",
     "Mi": 157.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 927.8375,
     "Uplink": 902.025,
-    "P25 Digital Enabled": "",
+    "P25 Digital Enabled": "yes",
     "NAC": 294,
-    "Default Reflector": "",
+    "Default Reflector": "yes",
     "County": "Douglas",
     "Op Status": "On-Air",
     "Coverage": "This repeater is east of parker so it covers up in the foothills. You can hilltop into Wyoming &amp; on I-80 west to MM323 The Abraham Lincoln Monument. South I-25 to Fountain MM125. The hills are your friends in the 900 world!",
     "Notes": "Offset is -25.8125 \nIn Nac 294 Out Nac 293",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.68,
@@ -2189,13 +2189,13 @@
     "VOIP": "",
     "Mi": 157.4,
     "Dir": "WNW",
-    "": "",
+    "": "yes",
     "Downlink": 224.68,
     "Uplink": 223.08,
     "Uplink Tone": "",
     "County": "Platte",
     "Op Status": "On-Air",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.625,
@@ -2208,13 +2208,13 @@
     "VOIP": "",
     "Mi": 157.4,
     "Dir": "WNW",
-    "": "",
+    "": "yes",
     "Downlink": 449.625,
     "Uplink": 444.625,
     "Uplink Tone": 151.4,
     "County": "Platte",
     "Op Status": "On-Air",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.8,
@@ -2227,7 +2227,7 @@
     "VOIP": "",
     "Mi": 159.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.8,
     "Uplink": 443.8,
     "Uplink Tone": 88.5,
@@ -2239,7 +2239,7 @@
     "Links": "Linkable to  \n        147.27000 (W0ENO) at Longmont, CO .",
     "Nets": "LARC: Sun at 20:00.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.525,
@@ -2252,7 +2252,7 @@
     "VOIP": "E",
     "Mi": 159.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.525,
     "Uplink": 443.525,
     "Uplink Tone": 151.4,
@@ -2261,7 +2261,7 @@
     "Sponsor": "N0EPA",
     "EchoLink": 223853,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.27,
@@ -2274,7 +2274,7 @@
     "VOIP": "",
     "Mi": 159.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.27,
     "Uplink": 147.87,
     "Uplink Tone": 100,
@@ -2287,7 +2287,7 @@
     "Links": "Linkable to  \n        448.80000 (W0ENO) at Longmont, CO .",
     "Web links": "http://w0eno.org/?q=node/11",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.875,
@@ -2300,7 +2300,7 @@
     "VOIP": "",
     "Mi": 160.6,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 927.875,
     "Uplink": 902.875,
     "Uplink Tone": "D114",
@@ -2310,7 +2310,7 @@
     "Links": "Full-time to  \n        449.42500 (N0ZUQ) at Fort Collins, Christ Mountain, CO .\n \n\n\nFull-time to  \n        927.72500 (WA6IFI) at Colorado Springs, Almagre Mountain, CO .",
     "Notes": "Down due to lightning strike. Scheduled to return end of June 2012.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.425,
@@ -2323,14 +2323,14 @@
     "VOIP": "",
     "Mi": 160.6,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 449.425,
     "Uplink": 444.425,
     "Uplink Tone": 94.8,
     "County": "Larimer",
     "Op Status": "On-Air",
     "Links": "Full-time to  \n        927.87500 (N0ZUQ) at Fort Collins, Christ Mountain, CO .\n \n\n\nFull-time to  \n        927.72500 (WA6IFI) at Colorado Springs, Almagre Mountain, CO .",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.275,
@@ -2343,7 +2343,7 @@
     "VOIP": "",
     "Mi": 160.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.275,
     "Uplink": 443.275,
     "Uplink Tone": 156.7,
@@ -2351,7 +2351,7 @@
     "Op Status": "On-Air",
     "Sponsor": "W0BG",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.825,
@@ -2364,15 +2364,15 @@
     "VOIP": "W",
     "Mi": 160.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.825,
     "Uplink": 443.825,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "WIRES-X": 30584,
     "County": "Arapahoe",
     "Op Status": "On-Air",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.4,
@@ -2385,14 +2385,14 @@
     "VOIP": "",
     "Mi": 160.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.4,
     "Uplink": 443.4,
     "Uplink Tone": 94.8,
     "County": "Arapahoe",
     "Op Status": "On-Air",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.5,
@@ -2405,7 +2405,7 @@
     "VOIP": "",
     "Mi": 160.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.5,
     "Uplink": 443.5,
     "Uplink Tone": 100,
@@ -2416,7 +2416,7 @@
     "Features": "E-power.",
     "Links": "Full-time to  \n        145.40000 (KB0UDD) at Aurora, Smoky Hill, CO .",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.425,
@@ -2429,7 +2429,7 @@
     "VOIP": "A",
     "Mi": 160.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.425,
     "Uplink": 444.425,
     "Uplink Tone": "D023",
@@ -2440,7 +2440,7 @@
     "Sponsor": "K0PWO",
     "AllStar": 29791,
     "Notes": "Colorado SNP (Shared non-protected pair)",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.36,
@@ -2453,7 +2453,7 @@
     "VOIP": "I",
     "Mi": 160.8,
     "Dir": "NE",
-    "": "",
+    "": "yes",
     "Downlink": 147.36,
     "Uplink": 147.96,
     "Uplink Tone": 225.7,
@@ -2467,7 +2467,7 @@
     "IRLP": 3142,
     "Notes": 100,
     "Nets": "Nebraska IRLP Net Sunday night at 8:30 pm local time on 9875 reflector",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.15,
@@ -2480,17 +2480,17 @@
     "VOIP": "",
     "Mi": 161,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.15,
     "Uplink": 444.15,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "WR0AEN (B)",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Arapahoe",
     "Op Status": "On-Air",
     "Sponsor": "Colorado Amateur Repeater Network (CARN)",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.19,
@@ -2503,7 +2503,7 @@
     "VOIP": "E",
     "Mi": 161.5,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.19,
     "Uplink": 144.59,
     "Uplink Tone": 151.4,
@@ -2516,7 +2516,7 @@
     "EchoLink": 10079,
     "Notes": "Please note the PL's! Do not TSQ unless your radio can do split PL's. Otherwise you will not here the system. Regards, Scott",
     "Nets": "\"Tri Lakes Net\" This net is held every Monday at 7:30pm local (except on the third Monday of the month when we have our regular radio club meeting.)",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.4,
@@ -2529,7 +2529,7 @@
     "VOIP": "",
     "Mi": 161.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.4,
     "Uplink": 144.6,
     "Uplink Tone": 100,
@@ -2540,7 +2540,7 @@
     "Features": "Autopatch, e-power.",
     "Links": "Full-time to  \n        448.50000 (KB0UDD) at Aurora, Smokey Hill, CO .",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.7,
@@ -2553,7 +2553,7 @@
     "VOIP": "",
     "Mi": 162.1,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 447.7,
     "Uplink": 442.7,
     "Uplink Tone": 100,
@@ -2564,7 +2564,7 @@
     "Sponsor": "Northern Colorado Amateur Radio Club",
     "Links": "Linkable to  \n        146.62500 (W0UPS) at Fort Collins, Buckhorn Mountain, CO .\n \n\n\nLinkable to  \n        146.85000 (W0UPS) at Greeley, UNC, CO .\n \n\n\nFull-time to  \n        224.84000 (W0UPS) at Fort Collins, Buckhorn Mountain, CO .",
     "Web links": "http://ncarc.net/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.045,
@@ -2577,7 +2577,7 @@
     "VOIP": "",
     "Mi": 162.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.045,
     "Uplink": 147.645,
     "Uplink Tone": 123,
@@ -2587,7 +2587,7 @@
     "Sponsor": "Northglenn RA",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.84,
@@ -2600,7 +2600,7 @@
     "VOIP": "",
     "Mi": 162.2,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 224.84,
     "Uplink": 223.24,
     "Uplink Tone": 100,
@@ -2611,7 +2611,7 @@
     "Sponsor": "Northern Colorado ARC",
     "Features": "E-power, 25 watts.",
     "Links": "Full-time to  \n        447.70000 (W0UPS) at Fort Collins, Buckhorn Mountain, CO .",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.625,
@@ -2624,7 +2624,7 @@
     "VOIP": "",
     "Mi": 162.2,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 146.625,
     "Uplink": 146.025,
     "Uplink Tone": 100,
@@ -2636,7 +2636,7 @@
     "Features": "E-power.",
     "Links": "Linkable to  \n        146.85000 (W0UPS) at Greeley, UNC, CO .\n \n\n\nLinkable to  \n        224.84000 (W0UPS) at Fort Collins, Buckhorn Mountain, CO .",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.205,
@@ -2649,7 +2649,7 @@
     "VOIP": "",
     "Mi": 164.2,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 145.205,
     "Uplink": 144.605,
     "Uplink Tone": "CSQ",
@@ -2659,7 +2659,7 @@
     "Features": "Linked to 444.625 Axtel.",
     "Web links": "http://w0ky.club/",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.76,
@@ -2672,7 +2672,7 @@
     "VOIP": "",
     "Mi": 165,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.76,
     "Uplink": 146.16,
     "Uplink Tone": 100,
@@ -2689,7 +2689,7 @@
     "Lyons": "double beep",
     "Louisville #2": "double beep",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.825,
@@ -2702,7 +2702,7 @@
     "VOIP": "",
     "Mi": 165.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.825,
     "Uplink": 444.825,
     "Uplink Tone": 103.5,
@@ -2714,7 +2714,7 @@
     "Nets": "Colorado WX: Daily at 06:30. \nRMRL: Mod at 20:30. \nAstronomy: Tue at 19:00. \nAmateur Radio Events: Tue at 20:00.",
     "Web links": "Repeater",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.925,
@@ -2727,7 +2727,7 @@
     "VOIP": "",
     "Mi": 165.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.925,
     "Uplink": 443.925,
     "Uplink Tone": 131.8,
@@ -2735,7 +2735,7 @@
     "Op Status": "On-Air",
     "Sponsor": "W0LMA",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.7,
@@ -2748,14 +2748,14 @@
     "VOIP": "",
     "Mi": 166,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.7,
     "Uplink": 443.7,
     "Uplink Tone": 146.2,
     "County": "Douglas",
     "Op Status": "On-Air",
     "Coverage": "Local North Parker only",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.225,
@@ -2768,11 +2768,11 @@
     "VOIP": "",
     "Mi": 166,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 447.225,
     "Uplink": 442.225,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 11,
     "Wide Network": "",
     "Talkgroup Network": "Wyoming DMR Project",
@@ -2785,7 +2785,7 @@
     "Sponsor": "Laramie County EM",
     "Affiliate": "Wyoming DMR Project",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.3,
@@ -2798,7 +2798,7 @@
     "VOIP": "EI",
     "Mi": 166.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.3,
     "Uplink": 444.3,
     "Uplink Tone": 100,
@@ -2808,7 +2808,7 @@
     "EchoLink": 43699,
     "IRLP": 3699,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.9,
@@ -2821,7 +2821,7 @@
     "VOIP": "",
     "Mi": 166.1,
     "Dir": "SSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.9,
     "Uplink": 444.9,
     "Uplink Tone": 107.2,
@@ -2829,7 +2829,7 @@
     "Op Status": "On-Air",
     "Affiliate": "BSAR",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.33,
@@ -2842,14 +2842,14 @@
     "VOIP": "",
     "Mi": 166.4,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 147.33,
     "Uplink": 147.93,
     "Uplink Tone": "",
     "Downlink Tone": "CSQ",
     "County": "Niobrara",
     "Op Status": "On-Air",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147,
@@ -2862,7 +2862,7 @@
     "VOIP": "",
     "Mi": 166.7,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147,
     "Uplink": 146.4,
     "Uplink Tone": 123,
@@ -2873,7 +2873,7 @@
     "Notes": "This is the severe weather operations machine for the Kearney area.",
     "Nets": "Weather nets as needed.",
     "Web links": "http://w0ky.club/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.175,
@@ -2886,7 +2886,7 @@
     "VOIP": "EA",
     "Mi": 166.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.175,
     "Uplink": 442.175,
     "Uplink Tone": 100,
@@ -2898,7 +2898,7 @@
     "AllStar": 29997,
     "Commands": "Standard AllStar Link access commands.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 445.075,
@@ -2911,11 +2911,11 @@
     "VOIP": "",
     "Mi": 166.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 445.075,
     "Uplink": 440.075,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "County": "Douglas",
@@ -2926,7 +2926,7 @@
     "Nets": "Mondays 20:30 MST",
     "Web links": "http://www.parkerradio.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.715,
@@ -2939,7 +2939,7 @@
     "VOIP": "",
     "Mi": 167.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.715,
     "Uplink": 146.115,
     "Uplink Tone": 123,
@@ -2949,7 +2949,7 @@
     "Sponsor": "EARS",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.55,
@@ -2962,7 +2962,7 @@
     "VOIP": "",
     "Mi": 167.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.55,
     "Uplink": 443.55,
     "Uplink Tone": 82.5,
@@ -2971,7 +2971,7 @@
     "Sponsor": "HPRA",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.075,
@@ -2984,7 +2984,7 @@
     "VOIP": "",
     "Mi": 167.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.075,
     "Uplink": 443.075,
     "Uplink Tone": 123,
@@ -2992,7 +2992,7 @@
     "Op Status": "On-Air",
     "Sponsor": "W0IG",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.475,
@@ -3005,7 +3005,7 @@
     "VOIP": "",
     "Mi": 167.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.475,
     "Uplink": 144.875,
     "Uplink Tone": 100,
@@ -3016,7 +3016,7 @@
     "Features": "E-power.",
     "Web links": "Intermountain Repeater Group",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.925,
@@ -3029,7 +3029,7 @@
     "VOIP": "",
     "Mi": 167.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.925,
     "Uplink": 442.925,
     "Uplink Tone": 100,
@@ -3038,7 +3038,7 @@
     "Op Status": "On-Air",
     "Sponsor": "RADOPS El Jebel Shriners",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.65,
@@ -3051,17 +3051,17 @@
     "VOIP": "",
     "Mi": 167.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.65,
     "Uplink": 444.65,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "WR0AEN (B)",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Denver",
     "Op Status": "On-Air",
     "Sponsor": "Colorado Amateur Repeater Network (CARN)",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.675,
@@ -3074,10 +3074,10 @@
     "VOIP": "I",
     "Mi": 167.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.675,
     "Uplink": 444.675,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "WR0AEN (B)",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Denver",
@@ -3085,7 +3085,7 @@
     "Sponsor": "Colorado Amateur Repeater Network (CARN)",
     "IRLP": 7708,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.9,
@@ -3098,7 +3098,7 @@
     "VOIP": "",
     "Mi": 167.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.9,
     "Uplink": 442.9,
     "Uplink Tone": "CSQ",
@@ -3106,7 +3106,7 @@
     "Op Status": "Off-Air",
     "Sponsor": "WB0TPT",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.625,
@@ -3119,7 +3119,7 @@
     "VOIP": "",
     "Mi": 167.5,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 146.625,
     "Uplink": 146.025,
     "Uplink Tone": 123,
@@ -3131,7 +3131,7 @@
     "Nets": "MARC: Every Thursday at 20:15 Local time",
     "Web links": "http://w0ky.club/",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 53.03,
@@ -3144,7 +3144,7 @@
     "VOIP": "",
     "Mi": 167.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 53.03,
     "Uplink": 52.03,
     "Uplink Tone": "",
@@ -3154,7 +3154,7 @@
     "Sponsor": "K7UWR",
     "Features": 8,
     "Web links": "http://www.r-vcr.com/k7uwr/repeater.htm",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.85,
@@ -3167,7 +3167,7 @@
     "VOIP": "",
     "Mi": 167.5,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 444.85,
     "Uplink": 449.85,
     "Uplink Tone": 74.4,
@@ -3177,7 +3177,7 @@
     "Sponsor": "KA0RCZ",
     "Features": "Autopatch, e-power, linked.",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.315,
@@ -3190,7 +3190,7 @@
     "VOIP": "",
     "Mi": 167.5,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.315,
     "Uplink": 147.915,
     "Uplink Tone": 123,
@@ -3203,7 +3203,7 @@
     "Features": "Linked to 444.625 Axtell",
     "Nets": "Buffalo/Dawson Counties ARES net: Tue at 20:15.",
     "Web links": "http://w0ky.club/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.03,
@@ -3216,15 +3216,15 @@
     "VOIP": "",
     "Mi": 167.5,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.03,
     "Uplink": 147.63,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "KD0PBW (C) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Buffalo",
     "Op Status": "On-Air",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.39,
@@ -3237,7 +3237,7 @@
     "VOIP": "",
     "Mi": 167.5,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.39,
     "Uplink": 147.99,
     "Uplink Tone": 123,
@@ -3246,7 +3246,7 @@
     "Op Status": "On-Air",
     "Sponsor": "KA0DBK",
     "Features": "E-power, WX.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.3,
@@ -3259,7 +3259,7 @@
     "VOIP": "",
     "Mi": 168.1,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 444.3,
     "Uplink": 449.3,
     "Uplink Tone": 141.3,
@@ -3272,7 +3272,7 @@
     "Links": "Full-time to the  SKECT System .",
     "Web links": "http://skect.org/default.aspx",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 443.275,
@@ -3285,14 +3285,14 @@
     "VOIP": "",
     "Mi": 168.2,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 443.275,
     "Uplink": 448.275,
     "Uplink Tone": 100,
     "County": "Phillips",
     "Op Status": "On-Air",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.85,
@@ -3305,10 +3305,10 @@
     "VOIP": "",
     "Mi": 168.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.85,
     "Uplink": 441.85,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "K0PRA (B) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Douglas",
@@ -3318,7 +3318,7 @@
     "Features": "D-Star B module",
     "Web links": "http://parkerradio.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.3,
@@ -3331,7 +3331,7 @@
     "VOIP": "I",
     "Mi": 168.5,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 442.3,
     "Uplink": 447.3,
     "Uplink Tone": 162.2,
@@ -3343,7 +3343,7 @@
     "IRLP": 7446,
     "Notes": "For K-Link access dial 9335. \nFor Wes-Kan dial 933. \nTo disconnect dial 73.",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.73,
@@ -3356,7 +3356,7 @@
     "VOIP": "E",
     "Mi": 169.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.73,
     "Uplink": 146.13,
     "Uplink Tone": 91.5,
@@ -3370,7 +3370,7 @@
     "EchoLink": 115482,
     "Web links": "http://www.ked-wireless.com/products1.htm",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.3875,
@@ -3383,10 +3383,10 @@
     "VOIP": "",
     "Mi": 169.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.3875,
     "Uplink": 144.7875,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "KC0DS (C)",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Boulder",
@@ -3396,7 +3396,7 @@
     "Features": "E-power.",
     "Web links": "http://bouldercountyares.org/technical/d-star",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 1283.8625,
@@ -3409,10 +3409,10 @@
     "VOIP": "",
     "Mi": 169.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 1283.8625,
     "Uplink": 1263.8625,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "KC0DS (A) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Boulder",
@@ -3421,7 +3421,7 @@
     "Sponsor": "Boulder County ARES",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.625,
@@ -3434,7 +3434,7 @@
     "VOIP": "",
     "Mi": 170,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 444.625,
     "Uplink": 449.625,
     "Uplink Tone": "",
@@ -3443,7 +3443,7 @@
     "Sponsor": "KA0RCZ",
     "Features": "Linked.",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.525,
@@ -3456,7 +3456,7 @@
     "VOIP": "",
     "Mi": 170.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.525,
     "Uplink": 442.525,
     "Uplink Tone": 203.5,
@@ -3468,7 +3468,7 @@
     "Affiliate": "Colorado ARES",
     "Notes": "Not a ragchew machine. Traffic related to ARES, RACES and administrative and exercise traffic related thereto.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.09,
@@ -3481,14 +3481,14 @@
     "VOIP": "",
     "Mi": 171.3,
     "Dir": "E",
-    "": "",
+    "": "yes",
     "Downlink": 147.09,
     "Uplink": 147.69,
     "Uplink Tone": "",
     "County": "Garfield",
     "Op Status": "On-Air",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.55,
@@ -3501,7 +3501,7 @@
     "VOIP": "E",
     "Mi": 171.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.55,
     "Uplink": 444.55,
     "Uplink Tone": 100,
@@ -3513,7 +3513,7 @@
     "Links": "Full-time to  \n        224.02000 (W0IA) at Boulder, Lee Hill, CO .",
     "EchoLink": 217336,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.4,
@@ -3526,7 +3526,7 @@
     "VOIP": "",
     "Mi": 171.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.4,
     "Uplink": 444.4,
     "Uplink Tone": 91.5,
@@ -3536,7 +3536,7 @@
     "Features": 2,
     "Web links": "http://www.ked-wireless.com/products1.htm",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 1299.5,
@@ -3549,10 +3549,10 @@
     "VOIP": "",
     "Mi": 171.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 1299.5,
     "Uplink": 1279.5,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "W0DK (A) DVAP 24/7",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Boulder",
@@ -3560,7 +3560,7 @@
     "Sponsor": "Boulder County ARES",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.8,
@@ -3573,11 +3573,11 @@
     "VOIP": "",
     "Mi": 171.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.8,
     "Uplink": 441.8,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "County": "Boulder",
@@ -3589,7 +3589,7 @@
     "Notes": "See website for complete information regarding timeslot/colorcode/talkgroup programming.",
     "Web links": "Rocky Mountain Ham Radio",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.8625,
@@ -3602,17 +3602,17 @@
     "VOIP": "",
     "Mi": 171.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.8625,
     "Uplink": 441.8625,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "KC0DS (B)",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Boulder",
     "Op Status": "On-Air",
     "Sponsor": "Boulder County ARES",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.685,
@@ -3625,7 +3625,7 @@
     "VOIP": "EI",
     "Mi": 172.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.685,
     "Uplink": 146.085,
     "Uplink Tone": 123,
@@ -3641,7 +3641,7 @@
     "Notes": "Both Echolink and IRLP are open, IRLP connect is a four digit node number only and '73' to disconnect. Top of Hour time is announced from 0600 to 2200.",
     "Nets": "ARES D-10: Thu at 19:00.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.61,
@@ -3654,7 +3654,7 @@
     "VOIP": "I",
     "Mi": 172.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.61,
     "Uplink": 146.01,
     "Uplink Tone": 100,
@@ -3663,7 +3663,7 @@
     "Sponsor": "Boulder Amateur Radio Club",
     "IRLP": 7007,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.9,
@@ -3676,7 +3676,7 @@
     "VOIP": "",
     "Mi": 172.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.9,
     "Uplink": 443.9,
     "Uplink Tone": 100,
@@ -3686,7 +3686,7 @@
     "Sponsor": "Boulder ARC",
     "Features": 6,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.35,
@@ -3699,10 +3699,10 @@
     "VOIP": "",
     "Mi": 173.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.35,
     "Uplink": 443.35,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Jefferson",
     "Op Status": "On-Air",
@@ -3710,7 +3710,7 @@
     "Sponsor": "Denver Water Amateur Radio Club (DWARC)",
     "Web links": "http://www.DWARC.com",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.21,
@@ -3723,7 +3723,7 @@
     "VOIP": "I",
     "Mi": 173.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.21,
     "Uplink": 147.81,
     "Uplink Tone": 100,
@@ -3734,7 +3734,7 @@
     "Mixed-Mode": "Yes; analog capable.",
     "IRLP": 3241,
     "Web links": "http://www.dwarc.com",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.7,
@@ -3747,7 +3747,7 @@
     "VOIP": "",
     "Mi": 173.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.7,
     "Uplink": 146.1,
     "Uplink Tone": 100,
@@ -3758,7 +3758,7 @@
     "Features": 6,
     "Web links": "BARC Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.95,
@@ -3771,7 +3771,7 @@
     "VOIP": "",
     "Mi": 173.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.95,
     "Uplink": 444.95,
     "Uplink Tone": 77,
@@ -3781,7 +3781,7 @@
     "Coverage": "Primarily to the North along I-25 corridor",
     "Sponsor": "W9SL Owner",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.61,
@@ -3794,11 +3794,11 @@
     "VOIP": "",
     "Mi": 174.1,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 146.61,
     "Uplink": 146.01,
     "Uplink Tone": "",
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Albany",
     "Op Status": "On-Air",
@@ -3807,7 +3807,7 @@
     "Mixed-Mode": "Yes; analog capable.",
     "Web links": "http://www.uwyo.edu/uarc",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.02,
@@ -3820,7 +3820,7 @@
     "VOIP": "E",
     "Mi": 174.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 224.02,
     "Uplink": 222.42,
     "Uplink Tone": "",
@@ -3833,7 +3833,7 @@
     "EchoLink": 217336,
     "Web links": "RMVHS repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.75,
@@ -3846,7 +3846,7 @@
     "VOIP": "I",
     "Mi": 174.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.75,
     "Uplink": 442.75,
     "Uplink Tone": 141.3,
@@ -3857,7 +3857,7 @@
     "Links": "",
     "IRLP": 3450,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.46,
@@ -3870,7 +3870,7 @@
     "VOIP": "EI",
     "Mi": 174.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.46,
     "Uplink": 144.86,
     "Uplink Tone": 107.2,
@@ -3886,7 +3886,7 @@
     "IRLP": 3990,
     "Commands": "Member-only IRLP and Echolink node",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 445.05,
@@ -3899,11 +3899,11 @@
     "VOIP": "",
     "Mi": 174.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 445.05,
     "Uplink": 440.05,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "BrandMeister",
     "Local Network": "BrandMeister US",
@@ -3913,7 +3913,7 @@
     "Sponsor": "Rocky Mountain Ham Radio",
     "Features": "BrandMeister Network",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.975,
@@ -3926,7 +3926,7 @@
     "VOIP": "",
     "Mi": 174.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.975,
     "Uplink": 442.975,
     "Uplink Tone": 107.2,
@@ -3937,7 +3937,7 @@
     "Sponsor": "Colorado Repeater Association (CRA)",
     "Features": "Closed autopatch.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.9875,
@@ -3950,11 +3950,11 @@
     "VOIP": "",
     "Mi": 174.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.9875,
     "Uplink": 441.9875,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "County": "Boulder",
@@ -3962,7 +3962,7 @@
     "Sponsor": "Rocky Mountain Ham Radio",
     "Features": "Linked on Time Slot 2 to  Almagre Mtn  (446.950).",
     "Links": "Full-time to  \n        446.95000 (K7PFJ) at Colorado Springs, Almagre Mountain, CO .\n \n\n\nFull-time to the  Colorado TRBO System .",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.82,
@@ -3975,7 +3975,7 @@
     "VOIP": "",
     "Mi": 174.5,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 146.82,
     "Uplink": 146.22,
     "Uplink Tone": 114.8,
@@ -3985,7 +3985,7 @@
     "Sponsor": "Shy-Wy Amateur Radio Club",
     "Nets": "Shy-WY ARC: Thu at 19:00.",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.825,
@@ -3998,7 +3998,7 @@
     "VOIP": "",
     "Mi": 174.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.825,
     "Uplink": 442.825,
     "Uplink Tone": "D073",
@@ -4008,7 +4008,7 @@
     "Sponsor": "Denver Radio Club",
     "Notes": "Now operating in Narrow Band mode with Digital Code Squelch.\n Please reset your programing to use:\n 12.5 KHz. bandwidth (+/- 2.5 KHz. deviation).",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.75,
@@ -4021,7 +4021,7 @@
     "VOIP": "",
     "Mi": 174.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.75,
     "Uplink": 443.75,
     "Uplink Tone": 100,
@@ -4032,7 +4032,7 @@
     "Affiliate": "N0ELY",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 443.7,
@@ -4045,7 +4045,7 @@
     "VOIP": "A",
     "Mi": 175.1,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 443.7,
     "Uplink": 448.7,
     "Uplink Tone": 162.2,
@@ -4060,7 +4060,7 @@
     "Notes": "Use PL 131.8 for WesKan Intertie \nUse PL 162.2 for K-Link",
     "Web links": "K-Link Repeater Network",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.8,
@@ -4073,7 +4073,7 @@
     "VOIP": "EI",
     "Mi": 175.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.8,
     "Uplink": 444.8,
     "Uplink Tone": 123,
@@ -4089,7 +4089,7 @@
     "Notes": "Both Echolink and IRLP are open, IRLP connect is a four digit node number only and '73' to disconnect. Top of Hour time is announced from 0600 to 2200.",
     "Nets": "ARES D-10: Thu at 19:00.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.175,
@@ -4102,7 +4102,7 @@
     "VOIP": "",
     "Mi": 176.1,
     "Dir": "S",
-    "": "",
+    "": "yes",
     "Downlink": 442.175,
     "Uplink": 447.175,
     "Uplink Tone": 156.7,
@@ -4110,7 +4110,7 @@
     "Op Status": "On-Air",
     "Coverage": "",
     "Sponsor": "WKARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.975,
@@ -4123,11 +4123,11 @@
     "VOIP": "",
     "Mi": 176.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.975,
     "Uplink": 441.975,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 0,
     "Wide Network": "",
     "County": "Jefferson",
@@ -4137,7 +4137,7 @@
     "Commands": "TS 1, CC 2: TG 3171 - Northern Colorado Network, TG 3100 - DCI Bridge, TG 1776 - USA Network, TG 310 - Tac 310.  \n\nTS 2, CC 2: TG 2 - Local",
     "Nets": "Tac 310 Net, Sundays 18:00 Mountain Time, TS1, TG 310.",
     "Web links": "http://www.w0dmr.org/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.38,
@@ -4150,7 +4150,7 @@
     "VOIP": "",
     "Mi": 176.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 224.38,
     "Uplink": 222.78,
     "Uplink Tone": 100,
@@ -4160,7 +4160,7 @@
     "Sponsor": "Denver Radio Club",
     "Web links": "DRC Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.33,
@@ -4173,7 +4173,7 @@
     "VOIP": "",
     "Mi": 176.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.33,
     "Uplink": 147.93,
     "Uplink Tone": 100,
@@ -4186,7 +4186,7 @@
     "Nets": "SATERN: Thu at 19:30.",
     "Web links": "DRC Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.775,
@@ -4199,12 +4199,12 @@
     "VOIP": "",
     "Mi": 176.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.775,
     "Uplink": 444.775,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Jefferson",
     "Op Status": "On-Air",
@@ -4213,7 +4213,7 @@
     "Mixed-Mode": "Yes; analog capable.",
     "Web links": "Denver Radio Club",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.725,
@@ -4226,7 +4226,7 @@
     "VOIP": "I",
     "Mi": 176.6,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 442.725,
     "Uplink": 447.725,
     "Uplink Tone": "",
@@ -4237,7 +4237,7 @@
     "Links": "Full-time to  \n        147.12000 (AA0HJ) at Phillipsburg, KS .",
     "IRLP": 3682,
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.12,
@@ -4250,7 +4250,7 @@
     "VOIP": "",
     "Mi": 176.8,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 147.12,
     "Uplink": 147.72,
     "Uplink Tone": "",
@@ -4261,7 +4261,7 @@
     "Features": "E-power",
     "Links": "Full-time to  \n        442.72500 (KD0ARW) at Phillipsburg, KS .",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.91,
@@ -4274,7 +4274,7 @@
     "VOIP": "",
     "Mi": 177.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.91,
     "Uplink": 147.51,
     "Uplink Tone": 123,
@@ -4286,7 +4286,7 @@
     "Notes": "There is a MOU With BCARES for repeater use.",
     "Nets": "Summer Tue at 19:30P, Winter 19:00.",
     "Web links": "http://goldhilltown.com/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.03,
@@ -4299,7 +4299,7 @@
     "VOIP": "",
     "Mi": 177.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.03,
     "Uplink": 147.63,
     "Uplink Tone": 100,
@@ -4308,7 +4308,7 @@
     "Sponsor": "KI0HG",
     "Affiliate": "Boulder County Amateur Radio Emergency Service",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 53.09,
@@ -4321,7 +4321,7 @@
     "VOIP": "",
     "Mi": 177.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 53.09,
     "Uplink": 51.39,
     "Uplink Tone": 107.2,
@@ -4332,7 +4332,7 @@
     "Features": "E-power.",
     "Web links": "DRC Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.7875,
@@ -4345,7 +4345,7 @@
     "VOIP": "",
     "Mi": 177.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 927.7875,
     "Uplink": 902.7875,
     "Uplink Tone": 156.7,
@@ -4353,7 +4353,7 @@
     "Op Status": "On-Air",
     "Coverage": "Golden and Denver.",
     "Sponsor": "N0PYY",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.125,
@@ -4366,7 +4366,7 @@
     "VOIP": "",
     "Mi": 177.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.125,
     "Uplink": 443.125,
     "Uplink Tone": 107.2,
@@ -4374,7 +4374,7 @@
     "Op Status": "On-Air",
     "Sponsor": "Denver PD EEB",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.975,
@@ -4387,7 +4387,7 @@
     "VOIP": "A",
     "Mi": 177.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.975,
     "Uplink": 443.975,
     "Uplink Tone": 123,
@@ -4398,7 +4398,7 @@
     "Features": "Linkable VHF/UHF Remote Base",
     "AllStar": 42845,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 1299.9,
@@ -4411,17 +4411,17 @@
     "VOIP": "",
     "Mi": 178.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 1299.9,
     "Uplink": 1299.9,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "W0CDS (A) DVAP 24/7",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Jefferson",
     "Op Status": "On-Air",
     "Sponsor": "Colorado D-Star",
     "Web links": "Colorado D-Star",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.25,
@@ -4434,10 +4434,10 @@
     "VOIP": "",
     "Mi": 178.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.25,
     "Uplink": 144.65,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "W0CDS (C) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Jefferson",
@@ -4445,7 +4445,7 @@
     "Sponsor": "Colorado D-Star",
     "Web links": "Colorado D-Star",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.9625,
@@ -4458,10 +4458,10 @@
     "VOIP": "",
     "Mi": 178.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.9625,
     "Uplink": 441.9625,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "W0CDS (B) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Jefferson",
@@ -4469,7 +4469,7 @@
     "Sponsor": "Colorado D-Star",
     "Web links": "Colorado D-Star",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 1283.9625,
@@ -4482,10 +4482,10 @@
     "VOIP": "",
     "Mi": 178.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 1283.9625,
     "Uplink": 1263.9625,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "W0CDS (A) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Jefferson",
@@ -4493,7 +4493,7 @@
     "Sponsor": "Colorado D-Star",
     "Web links": "Colorado D-Star",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.37,
@@ -4506,11 +4506,11 @@
     "VOIP": "",
     "Mi": 178.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.37,
     "Uplink": 144.77,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "County": "Jefferson",
@@ -4519,7 +4519,7 @@
     "Notes": "See the website for programming information.",
     "Web links": "Rocky Mountain Ham Radio",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.8375,
@@ -4532,11 +4532,11 @@
     "VOIP": "",
     "Mi": 178.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.8375,
     "Uplink": 441.8375,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "County": "Jefferson",
@@ -4546,7 +4546,7 @@
     "Links": "Full-time to the  Colorado TRBO System .",
     "Notes": "See website for more info on CC/TS/TG programming.  www.rmham.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.625,
@@ -4559,7 +4559,7 @@
     "VOIP": "I",
     "Mi": 179,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.625,
     "Uplink": 444.625,
     "Uplink Tone": 141.3,
@@ -4570,7 +4570,7 @@
     "Features": "E-power",
     "IRLP": 3750,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.475,
@@ -4583,7 +4583,7 @@
     "VOIP": "I",
     "Mi": 179.6,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 146.475,
     "Uplink": 146.475,
     "Uplink Tone": 146.2,
@@ -4596,7 +4596,7 @@
     "IRLP": 7976,
     "Commands": "IRLP: \nConnect- [node nbr] / Disconnect- 73.",
     "Notes": "Turns itself off every night. More control info on the website.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 53.17,
@@ -4609,7 +4609,7 @@
     "VOIP": "A",
     "Mi": 180.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 53.17,
     "Uplink": 51.47,
     "Uplink Tone": 107.2,
@@ -4622,7 +4622,7 @@
     "Links": "Full-time to the  N6LXX System .",
     "AllStar": 29883,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.875,
@@ -4635,7 +4635,7 @@
     "VOIP": "A",
     "Mi": 180.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.875,
     "Uplink": 442.875,
     "Uplink Tone": 107.2,
@@ -4648,7 +4648,7 @@
     "Links": "Full-time to the  N6LXX System .",
     "AllStar": 29913,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.7,
@@ -4661,7 +4661,7 @@
     "VOIP": "",
     "Mi": 180.1,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 146.7,
     "Uplink": 146.1,
     "Uplink Tone": 146.2,
@@ -4672,7 +4672,7 @@
     "Sponsor": "Hot Springs Amateur Radio Club",
     "Features": "E-power.",
     "Coordination": "SouDak",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.75,
@@ -4685,7 +4685,7 @@
     "VOIP": "",
     "Mi": 181.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.75,
     "Uplink": 444.75,
     "Uplink Tone": 103.5,
@@ -4696,7 +4696,7 @@
     "Features": 8,
     "Web links": "Repeater",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.74,
@@ -4709,7 +4709,7 @@
     "VOIP": "",
     "Mi": 181.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 224.74,
     "Uplink": 223.14,
     "Uplink Tone": 88.5,
@@ -4721,7 +4721,7 @@
     "Nets": "ARA: Wed at 2000.",
     "Web links": "ARA Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.22,
@@ -4734,14 +4734,14 @@
     "VOIP": "",
     "Mi": 181.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.22,
     "Uplink": 144.62,
     "Uplink Tone": 103.5,
     "Downlink Tone": 103.5,
-    "P25 Digital Enabled": "",
+    "P25 Digital Enabled": "yes",
     "NAC": 293,
-    "Default Reflector": "",
+    "Default Reflector": "yes",
     "County": "Jefferson",
     "Op Status": "On-Air",
     "Coverage": "Wide area.",
@@ -4751,7 +4751,7 @@
     "Notes": "Talk-Group of $FFFF.",
     "Web links": "Repeater",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224,
@@ -4764,7 +4764,7 @@
     "VOIP": "",
     "Mi": 181.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 224,
     "Uplink": 222.4,
     "Uplink Tone": 103.5,
@@ -4775,7 +4775,7 @@
     "Features": 8,
     "Web links": "Repeater",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.15,
@@ -4788,7 +4788,7 @@
     "VOIP": "",
     "Mi": 181.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.15,
     "Uplink": 147.75,
     "Uplink Tone": 100,
@@ -4802,7 +4802,7 @@
     "Nets": "ARA: Wed at 20:00.",
     "Web links": "ARA Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.85,
@@ -4815,7 +4815,7 @@
     "VOIP": "",
     "Mi": 181.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.85,
     "Uplink": 443.85,
     "Uplink Tone": 88.5,
@@ -4828,7 +4828,7 @@
     "Nets": "ARA: Wed at 20:00.",
     "Web links": "ARA Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.6,
@@ -4841,7 +4841,7 @@
     "VOIP": "EI",
     "Mi": 182.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.6,
     "Uplink": 444.6,
     "Uplink Tone": 100,
@@ -4852,7 +4852,7 @@
     "IRLP": 3345,
     "Web links": "DRL Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.88,
@@ -4865,7 +4865,7 @@
     "VOIP": "",
     "Mi": 182.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.88,
     "Uplink": 146.28,
     "Uplink Tone": 100,
@@ -4877,7 +4877,7 @@
     "Notes": 6,
     "Web links": "DRL Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.225,
@@ -4890,7 +4890,7 @@
     "VOIP": "",
     "Mi": 182.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.225,
     "Uplink": 444.225,
     "Uplink Tone": 141.3,
@@ -4902,7 +4902,7 @@
     "Features": "Emergency Power",
     "Notes": "Emcomm Affiliated, Open repeater",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.625,
@@ -4915,7 +4915,7 @@
     "VOIP": "EIA",
     "Mi": 182.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.625,
     "Uplink": 442.625,
     "Uplink Tone": 100,
@@ -4929,7 +4929,7 @@
     "EchoLink": 363976,
     "IRLP": 7301,
     "AllStar": 28299,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.31,
@@ -4942,7 +4942,7 @@
     "VOIP": "",
     "Mi": 182.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.31,
     "Uplink": 144.71,
     "Uplink Tone": 88.5,
@@ -4956,7 +4956,7 @@
     "Notes": "Split tone.  The repeater still transmits 123.0 for those wishing to use tone squelch, you must run a split tone 88.5 TX and 123.0 RX",
     "Nets": "Colorado Traffic Net: Daily at 19:30. \nColorado Connection Net (all welcome): Thu at 20:00. \nStatewide ARES: Sun at 20:00.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.82,
@@ -4969,7 +4969,7 @@
     "VOIP": "",
     "Mi": 183.2,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 146.82,
     "Uplink": 146.22,
     "Uplink Tone": 123,
@@ -4982,7 +4982,7 @@
     "Links": "Full-time to  \n        444.47500 (W0WWV) at Campbell, Mid-Rivers E911 Dispatch Center, NE .\n \n\n\nFull-time to the  W0WWV System .",
     "Nets": "ARAN Net: Tue and Thur at 20:00. \nSevere weather nets as needed -linked to National Weather Service office in Hastings/Grand Island, call - WX0GID.",
     "Web links": "http://w0wwv.org/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.7875,
@@ -4995,11 +4995,11 @@
     "VOIP": "",
     "Mi": 183.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.7875,
     "Uplink": 441.7875,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "County": "Jefferson",
@@ -5009,7 +5009,7 @@
     "Commands": "Any Brandmeister talk group is available on time slot 1, too many to list here, see website. https://dmrx.net/files/US_BM_User_Guide.pdf.  TG's are PTT enabled and will timeout after 15 minutes of inactivity.  Time Slot 2 Talk Group 310805 is local repeater only.",
     "Web links": "http://www.w0tx.org/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.8375,
@@ -5022,19 +5022,19 @@
     "VOIP": "A",
     "Mi": 183.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 927.8375,
     "Uplink": 902.025,
-    "P25 Digital Enabled": "",
+    "P25 Digital Enabled": "yes",
     "NAC": 293,
-    "Default Reflector": "",
+    "Default Reflector": "yes",
     "County": "Jefferson",
     "Op Status": "On-Air",
     "Coverage": "Great coverage of the Denver area and I-76 East to Atwood MM112. I-70 East to Agate MM340. West to Idaho Springs MM240. And I-25 from Larkspur MM172 to Longmont MM240 depending on the hills.",
     "AllStar": 45770,
     "Notes": "The offset is -25.8125",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.625,
@@ -5047,7 +5047,7 @@
     "VOIP": "",
     "Mi": 183.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.625,
     "Uplink": 443.625,
     "Uplink Tone": 100,
@@ -5061,7 +5061,7 @@
     "Nets": "DRC: Sun at 20:30.",
     "Web links": "DRC Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.64,
@@ -5074,7 +5074,7 @@
     "VOIP": "",
     "Mi": 183.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.64,
     "Uplink": 146.04,
     "Uplink Tone": 100,
@@ -5086,7 +5086,7 @@
     "Notes": 8,
     "Web links": "DRL Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.985,
@@ -5099,7 +5099,7 @@
     "VOIP": "I",
     "Mi": 183.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.985,
     "Uplink": 146.385,
     "Uplink Tone": 100,
@@ -5111,7 +5111,7 @@
     "IRLP": 3346,
     "Nets": "RADOPS: Sun at 19:00.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.28,
@@ -5124,7 +5124,7 @@
     "VOIP": "",
     "Mi": 183.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.28,
     "Uplink": 144.68,
     "Uplink Tone": 100,
@@ -5137,7 +5137,7 @@
     "Nets": "Sun at 19:30. Everyone welcome.",
     "Web links": "Intermountain Repeater Group",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.525,
@@ -5150,7 +5150,7 @@
     "VOIP": "",
     "Mi": 183.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.525,
     "Uplink": 444.525,
     "Uplink Tone": "CSQ",
@@ -5161,7 +5161,7 @@
     "Links": "Full-time to  \n        145.28000 (KE0SJ) at Golden, Centennial Cone, CO .",
     "Web links": "Intermountain Repeater Group",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.6,
@@ -5174,7 +5174,7 @@
     "VOIP": "",
     "Mi": 185.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 224.6,
     "Uplink": 223,
     "Uplink Tone": 100,
@@ -5182,7 +5182,7 @@
     "On-air": "Unknown",
     "Sponsor": "W0RM",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.7,
@@ -5195,12 +5195,12 @@
     "VOIP": "A",
     "Mi": 186,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 146.7,
     "Uplink": 146.1,
     "Uplink Tone": 141.3,
     "Downlink Tone": 141.3,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Scott",
     "Grid": "DM98",
@@ -5214,7 +5214,7 @@
     "Notes": "Comet GP-6 @ 125'.",
     "Nets": "Tue at 20:30.",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.175,
@@ -5227,12 +5227,12 @@
     "VOIP": "",
     "Mi": 186.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.175,
     "Uplink": 144.575,
     "Uplink Tone": "D073",
     "Downlink Tone": "D073",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "County": "Clear Creek",
@@ -5242,7 +5242,7 @@
     "Notes": "Please check the status of this repeater by going to the web link.  This repeater is capable of being remotely mode/frequency steered for Colorado EmComm/ARES use.",
     "Web links": "Rocky Mountain Ham Radio",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.34,
@@ -5255,7 +5255,7 @@
     "VOIP": "I",
     "Mi": 186.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.34,
     "Uplink": 144.74,
     "Uplink Tone": 103.5,
@@ -5268,7 +5268,7 @@
     "IRLP": 3350,
     "Web links": "Repeater",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.5,
@@ -5281,7 +5281,7 @@
     "VOIP": "",
     "Mi": 186.9,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.5,
     "Uplink": 442.5,
     "Uplink Tone": 88.5,
@@ -5292,7 +5292,7 @@
     "Sponsor": "Aurora Repeater Association",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.95,
@@ -5305,7 +5305,7 @@
     "VOIP": "I",
     "Mi": 187.3,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 444.95,
     "Uplink": 449.95,
     "Uplink Tone": 100,
@@ -5319,7 +5319,7 @@
     "IRLP": 7356,
     "Notes": "IRLP direct dial, 73 to disconnect. \nPlease return to 9335 when finished.",
     "Web links": "http://ks0lnk.net",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.2,
@@ -5332,17 +5332,17 @@
     "VOIP": "",
     "Mi": 188.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.2,
     "Uplink": 442.2,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "El Paso",
     "Op Status": "Testing",
     "Coverage": "Falcon, Black Forest, Peyton Areas",
     "Sponsor": "GGARC",
     "Affiliate": "Garden of the Gods Amateur Radio Club",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.85,
@@ -5355,7 +5355,7 @@
     "VOIP": "A",
     "Mi": 188.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.85,
     "Uplink": 442.85,
     "Uplink Tone": 141.3,
@@ -5368,7 +5368,7 @@
     "Features": "AllStar node repeater providing wide area coverage along the Front Range",
     "AllStar": 29571,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 1287.9,
@@ -5381,7 +5381,7 @@
     "VOIP": "",
     "Mi": 189.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 1287.9,
     "Uplink": 1267.9,
     "Uplink Tone": "CSQ",
@@ -5390,7 +5390,7 @@
     "Coverage": "Fort Collins to Colorado Springs.",
     "Sponsor": "Colorado Repeater Association (CRA)",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.15,
@@ -5403,7 +5403,7 @@
     "VOIP": "",
     "Mi": 189.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.15,
     "Uplink": 442.15,
     "Uplink Tone": 107.2,
@@ -5414,7 +5414,7 @@
     "Sponsor": "Colorado Repeater Association (CRA)",
     "Features": "Closed autopatch, e-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.98,
@@ -5427,7 +5427,7 @@
     "VOIP": "EI",
     "Mi": 189.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 224.98,
     "Uplink": 223.38,
     "Uplink Tone": 107.2,
@@ -5441,7 +5441,7 @@
     "EchoLink": 347086,
     "IRLP": 3990,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.725,
@@ -5454,7 +5454,7 @@
     "VOIP": "",
     "Mi": 190.2,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.725,
     "Uplink": 442.725,
     "Uplink Tone": 100,
@@ -5466,7 +5466,7 @@
     "Features": 30,
     "Web links": "http://www.k0nr.com/wordpress/k0nr-repeater/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.79,
@@ -5479,7 +5479,7 @@
     "VOIP": "A",
     "Mi": 190.3,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 146.79,
     "Uplink": 146.19,
     "Uplink Tone": 162.2,
@@ -5492,7 +5492,7 @@
     "Notes": "DB-222 @ 200 feet.",
     "Web links": "K-Link Repeater Network",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.19,
@@ -5505,7 +5505,7 @@
     "VOIP": "E",
     "Mi": 190.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.19,
     "Uplink": 144.59,
     "Uplink Tone": 131.8,
@@ -5516,7 +5516,7 @@
     "Sponsor": "N0OBA Owner",
     "EchoLink": 10079,
     "Nets": "Tri Lakes Net: Mon at 19:30 (except third Monday of the month which is the regular radio club meeting).",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.475,
@@ -5529,7 +5529,7 @@
     "VOIP": "I",
     "Mi": 191.5,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.475,
     "Uplink": 449.475,
     "Uplink Tone": 123,
@@ -5547,7 +5547,7 @@
     "Nets": "ARAN: Tues &amp; Thurs 20:30 local time. Severe Weather Nets as needed, linked to WX0GID, National Weather Service office in Hastings/Grand Island.",
     "Web links": "Amateur Radio Asscociation of Nebraska",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.05,
@@ -5560,7 +5560,7 @@
     "VOIP": "",
     "Mi": 191.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.05,
     "Uplink": 444.05,
     "Uplink Tone": 107.2,
@@ -5571,7 +5571,7 @@
     "Sponsor": "WG0N",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.7,
@@ -5584,17 +5584,17 @@
     "VOIP": "",
     "Mi": 191.7,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 444.7,
     "Uplink": 449.7,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "N0IP (B) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Hall",
     "Op Status": "On-Air",
     "Coverage": "",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.525,
@@ -5607,7 +5607,7 @@
     "VOIP": "",
     "Mi": 191.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.525,
     "Uplink": 442.525,
     "Uplink Tone": 146.2,
@@ -5619,7 +5619,7 @@
     "Affiliate": "Colorado ARES",
     "Notes": "This is not a ragchew machine. Traffic is limited to ARES, RACES and EmComm administrative, exercise, public service and disaster response.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.925,
@@ -5632,11 +5632,11 @@
     "VOIP": "",
     "Mi": 191.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.925,
     "Uplink": 441.925,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Southern Colorado  1  719      Denver Regional  2  720    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -5648,7 +5648,7 @@
     "Notes": "See the website for programming info.",
     "Web links": "Rocky Mountain Ham Radio",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.12,
@@ -5661,7 +5661,7 @@
     "VOIP": "",
     "Mi": 192.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.12,
     "Uplink": 147.72,
     "Uplink Tone": 88.5,
@@ -5673,7 +5673,7 @@
     "Features": "E-power.",
     "Web links": "http://www.n0ara.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449,
@@ -5686,7 +5686,7 @@
     "VOIP": "",
     "Mi": 192.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449,
     "Uplink": 444,
     "Uplink Tone": 136.5,
@@ -5695,7 +5695,7 @@
     "Op Status": "On-Air",
     "Sponsor": "CARN",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 53.05,
@@ -5708,7 +5708,7 @@
     "VOIP": "",
     "Mi": 192.2,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 53.05,
     "Uplink": 51.35,
     "Uplink Tone": 107.2,
@@ -5719,7 +5719,7 @@
     "Sponsor": "Colorado Repeater Association (CRA)",
     "Features": 10,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.3,
@@ -5732,7 +5732,7 @@
     "VOIP": "",
     "Mi": 192.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.3,
     "Uplink": 147.9,
     "Uplink Tone": 103.5,
@@ -5742,7 +5742,7 @@
     "Coverage": "Wide area.",
     "Sponsor": "Denver PD EEB",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.675,
@@ -5755,7 +5755,7 @@
     "VOIP": "",
     "Mi": 192.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.675,
     "Uplink": 443.675,
     "Uplink Tone": 100,
@@ -5765,7 +5765,7 @@
     "Coverage": "Wide area.",
     "Sponsor": "W0CFI",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.575,
@@ -5778,7 +5778,7 @@
     "VOIP": "EI",
     "Mi": 192.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.575,
     "Uplink": 442.575,
     "Uplink Tone": 107.2,
@@ -5792,7 +5792,7 @@
     "Commands": "Member-only IRLP and Echolink node",
     "Web links": "http://www.w0cra.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.67,
@@ -5805,7 +5805,7 @@
     "VOIP": "",
     "Mi": 192.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.67,
     "Uplink": 146.07,
     "Uplink Tone": 100,
@@ -5817,7 +5817,7 @@
     "Features": 11,
     "Nets": "CRRG/QCWA: Sun at 0930. Southern Metro LDS Ham Group: Sun at 1900. ARES23: Thu at 1930. ARES13: Sun at 2000.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.35,
@@ -5830,7 +5830,7 @@
     "VOIP": "E",
     "Mi": 192.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.35,
     "Uplink": 444.35,
     "Uplink Tone": 100,
@@ -5843,7 +5843,7 @@
     "EchoLink": 4140,
     "Web links": "DRC Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.49,
@@ -5856,7 +5856,7 @@
     "VOIP": "",
     "Mi": 192.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.49,
     "Uplink": 144.89,
     "Uplink Tone": 100,
@@ -5869,7 +5869,7 @@
     "Nets": "DRC: Sun at 20:30.",
     "Web links": "DRC Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.145,
@@ -5882,7 +5882,7 @@
     "VOIP": "",
     "Mi": 192.5,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.145,
     "Uplink": 144.545,
     "Uplink Tone": 107.2,
@@ -5894,7 +5894,7 @@
     "Features": "E-power.",
     "Web links": "http://www.w0cra.org/info/squaw.html#145145",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.94,
@@ -5907,7 +5907,7 @@
     "VOIP": "",
     "Mi": 192.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.94,
     "Uplink": 146.34,
     "Uplink Tone": 103.5,
@@ -5923,7 +5923,7 @@
     "Web links": "Repeater",
     "Feed": "Listen Live",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.225,
@@ -5936,7 +5936,7 @@
     "VOIP": "",
     "Mi": 192.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 448.225,
     "Uplink": 443.225,
     "Uplink Tone": 141.3,
@@ -5946,7 +5946,7 @@
     "Sponsor": "Rocky Mountain Ham Radio",
     "Features": "E-power(gen).",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.45,
@@ -5959,7 +5959,7 @@
     "VOIP": "",
     "Mi": 192.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 449.45,
     "Uplink": 444.45,
     "Uplink Tone": 103.5,
@@ -5972,7 +5972,7 @@
     "Nets": "RMRL: Mon at 20:30.",
     "Web links": "Repeater",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.9375,
@@ -5985,11 +5985,11 @@
     "VOIP": "",
     "Mi": 192.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.9375,
     "Uplink": 441.9375,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroup Network": "RMHAM",
@@ -6005,7 +6005,7 @@
     "Notes": "See the website for programming information.",
     "Web links": "Rocky Mountain Ham Radio",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.425,
@@ -6018,7 +6018,7 @@
     "VOIP": "",
     "Mi": 192.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.425,
     "Uplink": 443.425,
     "Uplink Tone": 107.2,
@@ -6030,7 +6030,7 @@
     "Affiliate": "ARESDEC",
     "Links": "Full-time to  \n        147.10500 (WA0DE) at Simla, CO .",
     "Web links": "http://www.w0cra.org",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.225,
@@ -6043,7 +6043,7 @@
     "VOIP": "EI",
     "Mi": 192.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.225,
     "Uplink": 147.825,
     "Uplink Tone": 107.2,
@@ -6060,7 +6060,7 @@
     "Nets": "CRA Net, Sunday 9AM",
     "Web links": "Colorado Repeater Association",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.975,
@@ -6073,7 +6073,7 @@
     "VOIP": "",
     "Mi": 192.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.975,
     "Uplink": 444.975,
     "Uplink Tone": 100,
@@ -6087,7 +6087,7 @@
     "Notes": "Can be linked to Allstar, Echolink and others by a Sysop",
     "Web links": "The Fun Machine",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.24,
@@ -6100,7 +6100,7 @@
     "VOIP": "I",
     "Mi": 193.4,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.24,
     "Uplink": 147.84,
     "Uplink Tone": 123,
@@ -6109,7 +6109,7 @@
     "Sponsor": "Grand Island Amateur Radio Society (GIARS)",
     "Features": "E-power, linked.",
     "IRLP": 7479,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.015,
@@ -6122,11 +6122,11 @@
     "VOIP": "E",
     "Mi": 193.6,
     "Dir": "W",
-    "": "",
+    "": "yes",
     "Downlink": 147.015,
     "Uplink": 147.615,
     "Uplink Tone": 146.2,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Albany",
     "Op Status": "On-Air",
@@ -6135,7 +6135,7 @@
     "Mixed-Mode": "Yes; analog capable.",
     "EchoLink": 82070,
     "Web links": "http://www.uwyo.edu/uarc/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444,
@@ -6148,7 +6148,7 @@
     "VOIP": "",
     "Mi": 196.2,
     "Dir": "S",
-    "": "",
+    "": "yes",
     "Downlink": 444,
     "Uplink": 449,
     "Uplink Tone": 141.3,
@@ -6161,7 +6161,7 @@
     "Links": "Full-time to the  SKECT System .",
     "Web links": "http://skect.org/default.aspx",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.72,
@@ -6174,7 +6174,7 @@
     "VOIP": "",
     "Mi": 197.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 224.72,
     "Uplink": 223.12,
     "Uplink Tone": 103.5,
@@ -6183,7 +6183,7 @@
     "Op Status": "On-Air",
     "Coverage": "Local",
     "Sponsor": "w0mog",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.415,
@@ -6196,11 +6196,11 @@
     "VOIP": "",
     "Mi": 198.5,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 145.415,
     "Uplink": 144.815,
     "Uplink Tone": 123,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": 23,
     "County": "Hall",
     "Op Status": "On-Air",
@@ -6208,7 +6208,7 @@
     "Sponsor": "Grand Island Amateur Radio Society (GIARS)",
     "Mixed-Mode": "Yes; analog capable.",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.925,
@@ -6221,7 +6221,7 @@
     "VOIP": "",
     "Mi": 198.6,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 444.925,
     "Uplink": 449.925,
     "Uplink Tone": 100,
@@ -6232,7 +6232,7 @@
     "Features": "E-power",
     "Notes": "Replaced repeater.",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.875,
@@ -6245,11 +6245,11 @@
     "VOIP": "",
     "Mi": 199,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.875,
     "Uplink": 441.875,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 6,
     "Wide Network": "",
     "Talkgroup Network": "RMHAM",
@@ -6265,7 +6265,7 @@
     "Links": "Full-time to the  Colorado TRBO System .",
     "Web links": "http://www.rmham.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.45,
@@ -6278,7 +6278,7 @@
     "VOIP": "",
     "Mi": 199,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.45,
     "Uplink": 442.45,
     "Uplink Tone": 103.5,
@@ -6286,7 +6286,7 @@
     "Op Status": "On-Air",
     "Sponsor": "W0IG",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.285,
@@ -6299,7 +6299,7 @@
     "VOIP": "",
     "Mi": 199.1,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.285,
     "Uplink": 147.885,
     "Uplink Tone": 88.5,
@@ -6309,7 +6309,7 @@
     "Sponsor": "Colorado Connection",
     "Links": "Full-time to the  Colorado Connection System .",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.135,
@@ -6322,7 +6322,7 @@
     "VOIP": "",
     "Mi": 200.2,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.135,
     "Uplink": 147.735,
     "Uplink Tone": 100,
@@ -6331,7 +6331,7 @@
     "Sponsor": "AA0L",
     "Features": 6,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.12,
@@ -6344,7 +6344,7 @@
     "VOIP": "",
     "Mi": 200.3,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 147.12,
     "Uplink": 147.72,
     "Uplink Tone": 146.2,
@@ -6356,7 +6356,7 @@
     "Affiliate": "Hot Springs Amateur Radio Club",
     "Notes": "Antenna and feed line upgraded, coverage improved. Reduced receive sensitivity due to local interference. Testing under way. Look for possible frequency change . . .",
     "Coordination": "SouDak",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.27,
@@ -6369,7 +6369,7 @@
     "VOIP": "",
     "Mi": 201.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.27,
     "Uplink": 147.87,
     "Uplink Tone": "",
@@ -6377,7 +6377,7 @@
     "Op Status": "On-Air",
     "Sponsor": "TRA",
     "Features": "E-power.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.91,
@@ -6390,7 +6390,7 @@
     "VOIP": "",
     "Mi": 201.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.91,
     "Uplink": 146.31,
     "Uplink Tone": 151.4,
@@ -6400,7 +6400,7 @@
     "Sponsor": "GGARC",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.85,
@@ -6413,7 +6413,7 @@
     "VOIP": "",
     "Mi": 201.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.85,
     "Uplink": 146.25,
     "Uplink Tone": 103.5,
@@ -6421,7 +6421,7 @@
     "Op Status": "On-Air",
     "Sponsor": "W0RSH",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.39,
@@ -6434,7 +6434,7 @@
     "VOIP": "",
     "Mi": 201.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.39,
     "Uplink": 147.99,
     "Uplink Tone": 103.5,
@@ -6442,7 +6442,7 @@
     "Op Status": "On-Air",
     "Sponsor": "W0MOG",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.55,
@@ -6455,7 +6455,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.55,
     "Uplink": 442.55,
     "Uplink Tone": 123,
@@ -6463,7 +6463,7 @@
     "Op Status": "On-Air",
     "Sponsor": "WA6IFI",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.575,
@@ -6476,7 +6476,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.575,
     "Uplink": 444.575,
     "Uplink Tone": "",
@@ -6484,7 +6484,7 @@
     "Op Status": "On-Air",
     "Sponsor": "RMHARC",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.8,
@@ -6497,7 +6497,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 927.8,
     "Uplink": 902.8,
     "Uplink Tone": "D116",
@@ -6506,7 +6506,7 @@
     "Features": 6,
     "Links": "Full-time to  \n        448.60000 (W0MOG) at Colorado Springs, CO .",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.25,
@@ -6519,7 +6519,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.25,
     "Uplink": 443.25,
     "Uplink Tone": 123,
@@ -6527,7 +6527,7 @@
     "Op Status": "Off-Air",
     "Coverage": "Colorado Springs",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.025,
@@ -6540,7 +6540,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.025,
     "Uplink": 442.025,
     "Uplink Tone": 123,
@@ -6549,7 +6549,7 @@
     "Sponsor": "Colorado Springs ARA",
     "Features": "Closed autopatch, e-power, linked, remote base.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.35,
@@ -6562,7 +6562,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.35,
     "Uplink": 442.35,
     "Uplink Tone": 151.4,
@@ -6571,7 +6571,7 @@
     "Sponsor": "GGARC",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.3,
@@ -6584,7 +6584,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.3,
     "Uplink": 443.3,
     "Uplink Tone": 100,
@@ -6592,7 +6592,7 @@
     "Op Status": "On-Air",
     "Sponsor": "AA0L",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.6,
@@ -6605,7 +6605,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.6,
     "Uplink": 443.6,
     "Uplink Tone": 114.8,
@@ -6614,7 +6614,7 @@
     "Sponsor": "W0MOG",
     "Links": "Full-time to  \n        927.80000 (W0MOG) at Colorado Springs, CO .",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.06,
@@ -6627,7 +6627,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 224.06,
     "Uplink": 222.46,
     "Uplink Tone": "",
@@ -6637,7 +6637,7 @@
     "Sponsor": "Pikes Peak FM Association (PPFMA)",
     "Features": "E-power, linked.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.475,
@@ -6650,7 +6650,7 @@
     "VOIP": "",
     "Mi": 201.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.475,
     "Uplink": 442.475,
     "Uplink Tone": 107.2,
@@ -6661,7 +6661,7 @@
     "Links": "Full-time to  \n        146.68500 (NX0G) at Lake George, Badger Mountain, CO .\n \n\n\nFull-time to  \n        146.82000 (NX0G) at Woodland Park, CO .\n \n\n\nFull-time to  \n        448.65000 (NX0G) at Woodland Park, CO .\n \n\n\nFull-time to  \n        147.01500 (NX0G) at Cripple Creek, CO .",
     "Nets": "MARC/PCRC: Tue at 1930.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.895,
@@ -6674,7 +6674,7 @@
     "VOIP": "A",
     "Mi": 201.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.895,
     "Uplink": 146.295,
     "Uplink Tone": 100,
@@ -6689,7 +6689,7 @@
     "Nets": "Wed at 19:30.",
     "Web links": "Park County Radio Club (PCRC)",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.415,
@@ -6702,7 +6702,7 @@
     "VOIP": "",
     "Mi": 202,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.415,
     "Uplink": 144.815,
     "Uplink Tone": 179.9,
@@ -6711,7 +6711,7 @@
     "Sponsor": "MARC",
     "Features": "Closed autopatch, e-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.025,
@@ -6724,7 +6724,7 @@
     "VOIP": "",
     "Mi": 202,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.025,
     "Uplink": 444.025,
     "Uplink Tone": 141.3,
@@ -6733,7 +6733,7 @@
     "Sponsor": "Mountain Amateur Radio Club (MARC)",
     "Features": "Linked.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.65,
@@ -6746,7 +6746,7 @@
     "VOIP": "",
     "Mi": 202,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.65,
     "Uplink": 443.65,
     "Uplink Tone": 107.2,
@@ -6758,7 +6758,7 @@
     "Links": "Full-time to  \n        146.68500 (NX0G) at Lake George, Badger Mountain, CO .\n \n\n\nFull-time to  \n        146.82000 (NX0G) at Woodland Park, CO .\n \n\n\nFull-time to  \n        147.01500 (NX0G) at Cripple Creek, CO .\n \n\n\nFull-time to  \n        447.47500 (NX0G) at Colorado Springs, CO .",
     "Nets": "MARC/PCRC: Tue at 19:30.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.82,
@@ -6771,7 +6771,7 @@
     "VOIP": "",
     "Mi": 202,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.82,
     "Uplink": 146.22,
     "Uplink Tone": 107.2,
@@ -6782,7 +6782,7 @@
     "Links": "Full-time to  \n        146.68500 (NX0G) at Lake George, Badger Mountain, CO .\n \n\n\nFull-time to  \n        448.65000 (NX0G) at Woodland Park, CO .\n \n\n\nFull-time to  \n        447.47500 (NX0G) at Colorado Springs, CO .\n \n\n\nFull-time to  \n        147.01500 (NX0G) at Cripple Creek, CO .",
     "Nets": "MARC/PCRC: Tue at 19:30.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.9,
@@ -6795,7 +6795,7 @@
     "VOIP": "",
     "Mi": 202.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 927.9,
     "Uplink": 902.9,
     "Uplink Tone": "D205",
@@ -6804,7 +6804,7 @@
     "Op Status": "On-Air",
     "Sponsor": "MARC",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.325,
@@ -6817,7 +6817,7 @@
     "VOIP": "A",
     "Mi": 202.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.325,
     "Uplink": 444.325,
     "Uplink Tone": 103.5,
@@ -6832,7 +6832,7 @@
     "Notes": "Node # 27976",
     "Nets": "Sunday 1500 MST\nTuesday 1730 MST",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.675,
@@ -6845,7 +6845,7 @@
     "VOIP": "",
     "Mi": 202.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.675,
     "Uplink": 442.675,
     "Uplink Tone": 179.9,
@@ -6855,7 +6855,7 @@
     "Sponsor": "Mountain Amateur Radio Club (MARC)",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 443.575,
@@ -6868,7 +6868,7 @@
     "VOIP": "",
     "Mi": 202.7,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 443.575,
     "Uplink": 448.575,
     "Uplink Tone": 162.2,
@@ -6883,7 +6883,7 @@
     "Web links": "K-Link Repeater Network",
     "Feed": "Listen Live",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.82,
@@ -6896,7 +6896,7 @@
     "VOIP": "",
     "Mi": 202.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.82,
     "Uplink": 146.22,
     "Uplink Tone": 123,
@@ -6905,7 +6905,7 @@
     "Sponsor": "GCARA",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.875,
@@ -6918,18 +6918,18 @@
     "VOIP": "",
     "Mi": 202.8,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 446.875,
     "Uplink": 441.875,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": "",
     "Wide Network": "",
     "County": "Clear Creek",
     "Op Status": "On-Air",
     "Affiliate": "RMHAM",
     "Web links": "http://www.rmham.org",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.655,
@@ -6942,17 +6942,17 @@
     "VOIP": "",
     "Mi": 203.2,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 146.655,
     "Uplink": 146.055,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "KD0PBV (C) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Hall",
     "Op Status": "On-Air",
     "Sponsor": "Nebraska Emergency Management Agency",
     "Notes": "Linked to reflector REF002C",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 443.95,
@@ -6965,7 +6965,7 @@
     "VOIP": "",
     "Mi": 203.6,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 443.95,
     "Uplink": 448.95,
     "Uplink Tone": 123,
@@ -6974,7 +6974,7 @@
     "Coverage": "Hall County",
     "Sponsor": "Brian Schmidt",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.09,
@@ -6987,7 +6987,7 @@
     "VOIP": "",
     "Mi": 203.7,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 147.09,
     "Uplink": 147.69,
     "Uplink Tone": 146.2,
@@ -6998,7 +6998,7 @@
     "Sponsor": "Hot Springs Amateur Radio Club",
     "Features": "Autopatch.",
     "Coordination": "SouDak",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 53.35,
@@ -7011,7 +7011,7 @@
     "VOIP": "",
     "Mi": 203.9,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 53.35,
     "Uplink": 51.65,
     "Uplink Tone": "",
@@ -7020,7 +7020,7 @@
     "Coverage": "",
     "Sponsor": "Grand Island Amateur Radio Society (GIARS)",
     "Features": "E-power.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.48,
@@ -7033,7 +7033,7 @@
     "VOIP": "I",
     "Mi": 204.5,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.48,
     "Uplink": 147.48,
     "Uplink Tone": 88.5,
@@ -7046,7 +7046,7 @@
     "IRLP": 3258,
     "Commands": "No special codes. 4-digits to connect, 73 to disconnect.",
     "Web links": "http://w0wwv.org/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.75,
@@ -7059,10 +7059,10 @@
     "VOIP": "",
     "Mi": 204.7,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 444.75,
     "Uplink": 449.75,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Hall",
     "Op Status": "On-Air",
@@ -7070,7 +7070,7 @@
     "Sponsor": "N0DND N0YXV",
     "Affiliate": "N0DND N0YXV",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.94,
@@ -7083,7 +7083,7 @@
     "VOIP": "I",
     "Mi": 204.7,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 146.94,
     "Uplink": 146.34,
     "Uplink Tone": 123,
@@ -7095,7 +7095,7 @@
     "IRLP": 7479,
     "Nets": "Mon, Wed, Fri at 19:00. \nNebraska IRLP Net: Sun at 20:30.",
     "Web links": "http://www.gihams.org",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.725,
@@ -7108,7 +7108,7 @@
     "VOIP": "",
     "Mi": 205.1,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.725,
     "Uplink": 443.725,
     "Uplink Tone": 123,
@@ -7116,7 +7116,7 @@
     "Op Status": "On-Air",
     "Sponsor": "KA0TTF",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.345,
@@ -7129,11 +7129,11 @@
     "VOIP": "EWA",
     "Mi": 205.4,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.345,
     "Uplink": 147.945,
     "Uplink Tone": 123,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": 23,
     "WIRES-X": 21659,
     "County": "Hall",
@@ -7145,7 +7145,7 @@
     "AllStar": 29607,
     "Nets": "Nebraska Ragchew: Tue at 19:30- wires-x NEBRASKA-HUB ROOM 21659 all nodes welcome.",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 443.2,
@@ -7158,7 +7158,7 @@
     "VOIP": "",
     "Mi": 205.6,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 443.2,
     "Uplink": 448.2,
     "Uplink Tone": 123,
@@ -7174,7 +7174,7 @@
     "Nets": "See W0WWV - Campbell",
     "Web links": "http://w0wwv.org/",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.525,
@@ -7187,7 +7187,7 @@
     "VOIP": "EA",
     "Mi": 206,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 147.525,
     "Uplink": 147.525,
     "Uplink Tone": 141.3,
@@ -7199,7 +7199,7 @@
     "AllStar": 27553,
     "Nets": "Nebraska Ragchew Net Tuesdays at 7:30pm",
     "Web links": "http://alertradionebraska.blogspot.com/p/about.html",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.61,
@@ -7212,7 +7212,7 @@
     "VOIP": "",
     "Mi": 206.1,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 146.61,
     "Uplink": 146.01,
     "Uplink Tone": "CSQ",
@@ -7223,7 +7223,7 @@
     "Links": "Full-time to  \n        444.47500 (W0WWV) at Campbell, Mid-Rivers E911 Dispatch Center, NE .\n \n\n\nFull-time to the  W0WWV System .",
     "Nets": "ARES: MON @ 21:00 local",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.13,
@@ -7236,7 +7236,7 @@
     "VOIP": "",
     "Mi": 207.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.13,
     "Uplink": 144.53,
     "Uplink Tone": 88.5,
@@ -7251,7 +7251,7 @@
     "Nets": "Colorado Traffic Net: Daily at 19:00. \nColorado Connection Net (all welcome): Thu at 20:00. \nStatewide ARES: Sun at 20:00. \nColorado Preparedness Net: Sat at 09:30",
     "Feed": "Listen Live",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 53.13,
@@ -7264,7 +7264,7 @@
     "VOIP": "",
     "Mi": 207.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 53.13,
     "Uplink": 51.43,
     "Uplink Tone": 107.2,
@@ -7274,7 +7274,7 @@
     "Sponsor": "Cheyenne Mountain Repeater Group (CMRG)",
     "Web links": "http://www.cmrg.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.85,
@@ -7287,7 +7287,7 @@
     "VOIP": "",
     "Mi": 207.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 927.85,
     "Uplink": 902.85,
     "Uplink Tone": "D114",
@@ -7298,7 +7298,7 @@
     "Links": "Full-time to  \n        147.34500 (KC0CVU) at Colorado Springs, Cheyenne Mountain, CO .\n \n\n\nFull-time to  \n        448.10000 (KC0CVU) at Colorado Springs, Cheyenne Mountain, CO .",
     "Web links": "http://www.cmrg.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 445.0625,
@@ -7311,11 +7311,11 @@
     "VOIP": "",
     "Mi": 207.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 445.0625,
     "Uplink": 440.0625,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Worldwide  1  1      North America  1  3      Local/Cluster  2  2    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -7327,7 +7327,7 @@
     "Sponsor": "Rocky Mountain Ham Radio",
     "Features": "The DMR-MARC Worldwide Network",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.9125,
@@ -7340,17 +7340,17 @@
     "VOIP": "",
     "Mi": 207.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.9125,
     "Uplink": 441.9125,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "KC0CVU (B) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "El Paso",
     "Op Status": "On-Air",
     "Sponsor": "Cheyenne Mountain Repeater Group (CMRG)",
     "Notes": "This DStar repeater is up but not truly functional. It serves as a local repeater presently as it is not connected to the internet for now.",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.375,
@@ -7363,10 +7363,10 @@
     "VOIP": "",
     "Mi": 207.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.375,
     "Uplink": 144.77,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "KC0CVU (C) Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "El Paso",
@@ -7376,7 +7376,7 @@
     "Notes": "Repeater off air for now.",
     "Web links": "http://www.cmrg.org",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.13,
@@ -7389,7 +7389,7 @@
     "VOIP": "",
     "Mi": 207.7,
     "Dir": "ESE",
-    "": "",
+    "": "yes",
     "Downlink": 145.13,
     "Uplink": 144.53,
     "Uplink Tone": 123,
@@ -7403,7 +7403,7 @@
     "Notes": "Linked full-time to W0WWV 444.475 Campbell, W0WWV System.",
     "Web links": "http://w0wwv.org/",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.76,
@@ -7416,7 +7416,7 @@
     "VOIP": "",
     "Mi": 208.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.76,
     "Uplink": 146.16,
     "Uplink Tone": 107.2,
@@ -7426,7 +7426,7 @@
     "Sponsor": "Cheyenne Mountain Repeater Group",
     "Features": "Closed autopatch, e-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.16,
@@ -7439,7 +7439,7 @@
     "VOIP": "EI",
     "Mi": 208.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.16,
     "Uplink": 144.56,
     "Uplink Tone": 107.2,
@@ -7456,7 +7456,7 @@
     "Notes": "Switch to this repeater at mile marker 170 on I-25.",
     "Web links": "http://www.w0cra.org/info/cosprgs.html#145160",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.345,
@@ -7469,7 +7469,7 @@
     "VOIP": "I",
     "Mi": 208.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.345,
     "Uplink": 147.945,
     "Uplink Tone": 107.2,
@@ -7482,7 +7482,7 @@
     "IRLP": 3854,
     "Web links": "http://www.cmrg.org/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.1,
@@ -7495,7 +7495,7 @@
     "VOIP": "",
     "Mi": 208.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.1,
     "Uplink": 443.1,
     "Uplink Tone": 107.2,
@@ -7507,7 +7507,7 @@
     "Links": "Full-time to  \n        927.85000 (KC0CVU) at Colorado Springs, Cheyenne Mountain, CO .",
     "Web links": "CMRG Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448,
@@ -7520,7 +7520,7 @@
     "VOIP": "",
     "Mi": 208.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448,
     "Uplink": 443,
     "Uplink Tone": 107.2,
@@ -7528,7 +7528,7 @@
     "Op Status": "On-Air",
     "Web links": "CMRG Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 443.6,
@@ -7541,12 +7541,12 @@
     "VOIP": "",
     "Mi": 209,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 443.6,
     "Uplink": 448.6,
     "Uplink Tone": 100,
     "Downlink Tone": "CSQ",
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Ellis",
     "Op Status": "On-Air",
@@ -7554,7 +7554,7 @@
     "Sponsor": "ECHO ARC",
     "Mixed-Mode": "Yes; analog capable.",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.97,
@@ -7567,7 +7567,7 @@
     "VOIP": "",
     "Mi": 209,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.97,
     "Uplink": 146.37,
     "Uplink Tone": 100,
@@ -7581,7 +7581,7 @@
     "Nets": "Southern Colorado Traffic: Daily at 2000. \nMidday Severe Weather: Daily 1230 - 1240. \nPPFMA Weekly Info: Sun at 2030. \nARES: Tue at 1900. \nSKYWARN.",
     "Web links": "PPFMA Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.45,
@@ -7594,7 +7594,7 @@
     "VOIP": "",
     "Mi": 209,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.45,
     "Uplink": 443.45,
     "Uplink Tone": 100,
@@ -7606,7 +7606,7 @@
     "Links": "Linkable to  \n        146.97000 (KB0SRJ) at Colorado Springs, Pikes Peak, CO .",
     "Web links": "PPFMA Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.5,
@@ -7619,7 +7619,7 @@
     "VOIP": "I",
     "Mi": 210.1,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 442.5,
     "Uplink": 447.5,
     "Uplink Tone": 141.3,
@@ -7633,7 +7633,7 @@
     "IRLP": 3885,
     "Web links": "http://skect.org/default.aspx",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.725,
@@ -7646,7 +7646,7 @@
     "VOIP": "",
     "Mi": 210.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 927.725,
     "Uplink": 902.725,
     "Uplink Tone": "D114",
@@ -7659,7 +7659,7 @@
     "Links": "Full-time to  \n        449.42500 (N0ZUQ) at Fort Collins, Christ Mountain, CO .\n \n\n\nFull-time to  \n        927.87500 (N0ZUQ) at Fort Collins, Christ Mountain, CO .",
     "Web links": "Yahoo Group",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.18,
@@ -7672,7 +7672,7 @@
     "VOIP": "",
     "Mi": 210.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.18,
     "Uplink": 147.78,
     "Uplink Tone": 100,
@@ -7683,7 +7683,7 @@
     "Features": "E-power (solar).",
     "Notes": "This repeater is available for public service oriented communications with prior coordination. Contact Mike Proctor KB0IAP to coordinate its use.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.95,
@@ -7696,11 +7696,11 @@
     "VOIP": "",
     "Mi": 210.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.95,
     "Uplink": 441.95,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Southern Colorado  2  719    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -7712,7 +7712,7 @@
     "Sponsor": "Rocky Mountain Ham Radio",
     "Affiliate": "RMHAM",
     "Links": "Full-time to  \n        446.98750 (N0SZ) at Boulder, Lee Hill, CO .",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.265,
@@ -7725,12 +7725,12 @@
     "VOIP": "",
     "Mi": 211,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.265,
     "Uplink": 144.665,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "El Paso",
     "Op Status": "Off-Air",
@@ -7741,7 +7741,7 @@
     "Notes": "Repeater has been moved.",
     "Web links": "PPFMA Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.45,
@@ -7754,7 +7754,7 @@
     "VOIP": "A",
     "Mi": 211,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 442.45,
     "Uplink": 447.45,
     "Uplink Tone": 162.2,
@@ -7771,7 +7771,7 @@
     "Web links": "K-Link Repeater Network",
     "Feed": "Listen Live",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.8,
@@ -7784,12 +7784,12 @@
     "VOIP": "",
     "Mi": 211,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.8,
     "Uplink": 443.8,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "El Paso",
     "Op Status": "Off-Air",
@@ -7797,7 +7797,7 @@
     "Mixed-Mode": "Yes; analog capable.",
     "Web links": "PPFMA Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.0375,
@@ -7810,7 +7810,7 @@
     "VOIP": "IA",
     "Mi": 211,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 927.0375,
     "Uplink": 902.0375,
     "Bandwidth": 12.5,
@@ -7824,7 +7824,7 @@
     "IRLP": 3917,
     "AllStar": 2578,
     "Notes": "Allstar 2578",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.045,
@@ -7837,12 +7837,12 @@
     "VOIP": "I",
     "Mi": 211,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 147.045,
     "Uplink": 147.645,
     "Uplink Tone": 131.8,
     "Downlink Tone": 131.8,
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Local or Reflector  1  9  Full-Time    CKRG  1  31204  Full-Time    Local/Cluster  2  2  Full-Time    KansasLink  2  31203  Full-Time  \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -7850,10 +7850,10 @@
     "CKRG": 1,
     "Local/Cluster": 2,
     "KansasLink": 2,
-    "P25 Digital Enabled": "",
+    "P25 Digital Enabled": "yes",
     "NAC": 293,
-    "Default Reflector": "",
-    "YSF Digital Enabled": "",
+    "Default Reflector": "yes",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Ellis",
     "Op Status": "On-Air",
@@ -7865,7 +7865,7 @@
     "IRLP": 3917,
     "Notes": "MMDVM Mixed-mode.",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.28,
@@ -7878,7 +7878,7 @@
     "VOIP": "A",
     "Mi": 211,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 224.28,
     "Uplink": 222.68,
     "Uplink Tone": 131.8,
@@ -7890,7 +7890,7 @@
     "Affiliate": "Western Kansas Intertie",
     "Features": "Internet linking",
     "AllStar": 2351,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444,
@@ -7903,11 +7903,11 @@
     "VOIP": "",
     "Mi": 211.4,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444,
     "Uplink": 449,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  English  1  13      Kansas  2  3120    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -7921,7 +7921,7 @@
     "Notes": "Click here for DMR TG info.",
     "Web links": "http://k0usy.strikingly.com/",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.15,
@@ -7934,13 +7934,13 @@
     "VOIP": "",
     "Mi": 212.1,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 147.15,
     "Uplink": 147.75,
     "Uplink Tone": "",
     "County": "Converse",
     "Op Status": "On-Air",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.875,
@@ -7953,13 +7953,13 @@
     "VOIP": "",
     "Mi": 212.3,
     "Dir": "E",
-    "": "",
+    "": "yes",
     "Downlink": 444.875,
     "Uplink": 449.875,
     "Uplink Tone": 146.2,
     "County": "Holt",
     "Op Status": "On-Air",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.18,
@@ -7972,7 +7972,7 @@
     "VOIP": "",
     "Mi": 212.9,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 147.18,
     "Uplink": 147.78,
     "Uplink Tone": 100,
@@ -7983,7 +7983,7 @@
     "Sponsor": "ELLIS CO",
     "Features": "Autopatch, e-power.",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.85,
@@ -7996,7 +7996,7 @@
     "VOIP": "",
     "Mi": 212.9,
     "Dir": "NNW",
-    "": "",
+    "": "yes",
     "Downlink": 146.85,
     "Uplink": 146.25,
     "Uplink Tone": 146.2,
@@ -8011,7 +8011,7 @@
     "Notes": "Linked system covers the Black Hills, Rapid City, Sturgis, Custer, Hot Springs, Newcastle and Sundance, WY.",
     "Nets": "Black Hills Club: Nightly Weather Net at 21:00 MT. \nSD Link: Wed at 21:00 CT/20:00 MT.",
     "Web links": "NHARC Repeaters",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.825,
@@ -8024,7 +8024,7 @@
     "VOIP": "",
     "Mi": 213.2,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.825,
     "Uplink": 449.825,
     "Uplink Tone": 114.8,
@@ -8033,7 +8033,7 @@
     "Op Status": "On-Air",
     "Coverage": "Local",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.6725,
@@ -8046,18 +8046,18 @@
     "VOIP": "",
     "Mi": 214.4,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.6725,
     "Uplink": 449.6725,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "County": "Ellis",
     "Op Status": "On-Air",
     "Coverage": 18,
     "Links": "Full-time internet linked to the  KS-DMR (3120) System .",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.7,
@@ -8070,7 +8070,7 @@
     "VOIP": "",
     "Mi": 214.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.7,
     "Uplink": 444.7,
     "Uplink Tone": 107.2,
@@ -8078,7 +8078,7 @@
     "On-air": "Unknown",
     "Sponsor": "CMRG",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.375,
@@ -8091,7 +8091,7 @@
     "VOIP": "",
     "Mi": 215.7,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 147.375,
     "Uplink": 147.975,
     "Uplink Tone": 162.2,
@@ -8107,7 +8107,7 @@
     "Web links": "K-Link Repeater Network",
     "Feed": "Listen Live",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.79,
@@ -8120,7 +8120,7 @@
     "VOIP": "",
     "Mi": 216.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.79,
     "Uplink": 146.19,
     "Uplink Tone": 88.5,
@@ -8132,7 +8132,7 @@
     "Features": "E-power.",
     "Web links": "Pueblo Ham Club",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.95,
@@ -8145,7 +8145,7 @@
     "VOIP": "",
     "Mi": 216.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.95,
     "Uplink": 442.95,
     "Uplink Tone": 88.5,
@@ -8157,7 +8157,7 @@
     "Notes": "Dual Mode Analog/DMR DMR is unlinked/stand alone for ARES.",
     "Web links": "Pueblo Ham Club",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.26,
@@ -8170,7 +8170,7 @@
     "VOIP": "",
     "Mi": 216.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 224.26,
     "Uplink": 222.66,
     "Uplink Tone": 88.5,
@@ -8182,7 +8182,7 @@
     "Features": "E-power.",
     "Web links": "PHC repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.685,
@@ -8195,7 +8195,7 @@
     "VOIP": "",
     "Mi": 217.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.685,
     "Uplink": 146.085,
     "Uplink Tone": 107.2,
@@ -8208,7 +8208,7 @@
     "Commands": "Autopatch: 911",
     "Nets": "MARC/PCRC: Tue at 19:30.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.36,
@@ -8221,7 +8221,7 @@
     "VOIP": "I",
     "Mi": 217.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.36,
     "Uplink": 147.96,
     "Uplink Tone": 107.2,
@@ -8233,7 +8233,7 @@
     "IRLP": 3854,
     "Web links": "CMRG Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.4,
@@ -8246,7 +8246,7 @@
     "VOIP": "",
     "Mi": 218.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.4,
     "Uplink": 442.4,
     "Uplink Tone": 67,
@@ -8255,7 +8255,7 @@
     "Sponsor": "WB0WDF",
     "Features": "E-power, Solar, Remote Base",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.46,
@@ -8268,7 +8268,7 @@
     "VOIP": "",
     "Mi": 218.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.46,
     "Uplink": 144.86,
     "Uplink Tone": 67,
@@ -8278,7 +8278,7 @@
     "Affiliate": "RGARC",
     "Features": "E-power, 100% Solar",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224.94,
@@ -8291,14 +8291,14 @@
     "VOIP": "",
     "Mi": 218.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 224.94,
     "Uplink": 223.34,
     "Uplink Tone": 67,
     "County": "Teller",
     "Op Status": "Testing",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 1287.7,
@@ -8311,7 +8311,7 @@
     "VOIP": "",
     "Mi": 218.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 1287.7,
     "Uplink": 1267.7,
     "Uplink Tone": 67,
@@ -8320,7 +8320,7 @@
     "Sponsor": "WB0WDF",
     "Notes": "Testing in Canon City",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.015,
@@ -8333,7 +8333,7 @@
     "VOIP": "",
     "Mi": 218.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.015,
     "Uplink": 147.615,
     "Uplink Tone": 107.2,
@@ -8344,7 +8344,7 @@
     "Links": "Full-time to  \n        146.68500 (NX0G) at Lake George, Badger Mountain, CO .\n \n\n\nFull-time to  \n        146.82000 (NX0G) at Woodland Park, CO .\n \n\n\nFull-time to  \n        448.65000 (NX0G) at Woodland Park, CO .\n \n\n\nFull-time to  \n        447.47500 (NX0G) at Colorado Springs, CO .",
     "Nets": "MARC/PCRC: Tue at 19:30.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.61,
@@ -8357,14 +8357,14 @@
     "VOIP": "I",
     "Mi": 219.5,
     "Dir": "E",
-    "": "",
+    "": "yes",
     "Downlink": 146.61,
     "Uplink": 146.01,
     "Uplink Tone": 131.8,
     "County": "Holt",
     "Op Status": "On-Air",
     "IRLP": 3457,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 52.87,
@@ -8377,7 +8377,7 @@
     "VOIP": "",
     "Mi": 221.2,
     "Dir": "SSE",
-    "": "",
+    "": "yes",
     "Downlink": 52.87,
     "Uplink": 51.17,
     "Uplink Tone": 141.3,
@@ -8387,7 +8387,7 @@
     "Coverage": 30,
     "Sponsor": "SHARC",
     "Notes": 200,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 445.0875,
@@ -8400,11 +8400,11 @@
     "VOIP": "",
     "Mi": 222.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 445.0875,
     "Uplink": 440.0875,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "County": "Fremont",
@@ -8412,7 +8412,7 @@
     "Sponsor": "K2AD",
     "Affiliate": "Rocky Mountain Ham Radio",
     "Web links": "http://www.rmham.org/",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.39,
@@ -8425,7 +8425,7 @@
     "VOIP": "",
     "Mi": 222.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 147.39,
     "Uplink": 147.99,
     "Uplink Tone": 88.5,
@@ -8440,7 +8440,7 @@
     "Nets": "Central Colorado Traffic Net: Daily at 19:30. \nColorado Connection Net (all welcome): Thu at 20:00. \nStatewide ARES: Sun at 20:00.",
     "Web links": "Breckenridge Repeater",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147,
@@ -8453,14 +8453,14 @@
     "VOIP": "",
     "Mi": 223.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147,
     "Uplink": 147.6,
     "County": "Pueblo",
     "Op Status": "On-Air",
     "Sponsor": "Carl Higbee",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.7,
@@ -8473,7 +8473,7 @@
     "VOIP": "I",
     "Mi": 224.6,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 146.7,
     "Uplink": 146.1,
     "Uplink Tone": 107.2,
@@ -8483,7 +8483,7 @@
     "Features": "E-power.",
     "IRLP": 3972,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.88,
@@ -8496,7 +8496,7 @@
     "VOIP": "",
     "Mi": 226.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.88,
     "Uplink": 146.28,
     "Uplink Tone": 88.5,
@@ -8507,7 +8507,7 @@
     "Sponsor": "Pueblo HC",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.115,
@@ -8520,7 +8520,7 @@
     "VOIP": "",
     "Mi": 226.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.115,
     "Uplink": 144.515,
     "Uplink Tone": 88.5,
@@ -8529,7 +8529,7 @@
     "Sponsor": "Pueblo Ham Club",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.725,
@@ -8542,7 +8542,7 @@
     "VOIP": "I",
     "Mi": 226.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.725,
     "Uplink": 444.725,
     "Uplink Tone": 100,
@@ -8551,7 +8551,7 @@
     "Sponsor": "N0PWZ",
     "IRLP": 3043,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.7,
@@ -8564,12 +8564,12 @@
     "VOIP": "IA",
     "Mi": 226.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.7,
     "Uplink": 442.7,
     "Uplink Tone": 210.7,
     "Downlink Tone": 210.7,
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 0,
     "Wide Network": "",
     "County": "Pueblo",
@@ -8578,7 +8578,7 @@
     "IRLP": 7389,
     "AllStar": 29228,
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.655,
@@ -8591,7 +8591,7 @@
     "VOIP": "",
     "Mi": 226.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.655,
     "Uplink": 146.055,
     "Uplink Tone": 123,
@@ -8600,7 +8600,7 @@
     "Op Status": "On-Air",
     "Sponsor": "K0ST",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.975,
@@ -8613,7 +8613,7 @@
     "VOIP": "EIA",
     "Mi": 227.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.975,
     "Uplink": 443.975,
     "Uplink Tone": 100,
@@ -8628,7 +8628,7 @@
     "Web links": "http://www.k0jsc.com",
     "Feed": "Listen Live",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.9875,
@@ -8641,11 +8641,11 @@
     "VOIP": "",
     "Mi": 227.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.9875,
     "Uplink": 441.9875,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 6,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Southern Colorado  2  719    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -8657,7 +8657,7 @@
     "Links": "Full-time to the  Colorado TRBO System .",
     "Web links": "Rocky Mountain Ham Radio",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.24,
@@ -8670,7 +8670,7 @@
     "VOIP": "",
     "Mi": 227.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.24,
     "Uplink": 147.84,
     "Uplink Tone": 103.5,
@@ -8680,7 +8680,7 @@
     "Coverage": "Pueblo and Fremont Counties",
     "Sponsor": "TARA",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.275,
@@ -8693,7 +8693,7 @@
     "VOIP": "",
     "Mi": 227.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.275,
     "Uplink": 442.275,
     "Uplink Tone": 100,
@@ -8707,7 +8707,7 @@
     "Web links": "The Fun Machine",
     "Feed": "Listen Live",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.33,
@@ -8720,7 +8720,7 @@
     "VOIP": "",
     "Mi": 228.5,
     "Dir": "NE",
-    "": "",
+    "": "yes",
     "Downlink": 147.33,
     "Uplink": 147.93,
     "Uplink Tone": 131.8,
@@ -8728,7 +8728,7 @@
     "County": "Boyd",
     "Op Status": "On-Air",
     "Coordination": "WB0CMC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.85,
@@ -8741,7 +8741,7 @@
     "VOIP": "",
     "Mi": 231.1,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 442.85,
     "Uplink": 447.85,
     "Uplink Tone": 141.3,
@@ -8752,7 +8752,7 @@
     "Sponsor": "KC0HFA",
     "Features": "Linked.",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.475,
@@ -8765,12 +8765,12 @@
     "VOIP": "",
     "Mi": 231.7,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 442.475,
     "Uplink": 447.475,
     "Uplink Tone": 131.8,
     "Downlink Tone": 131.8,
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Local or Reflector  1  9  Full-Time    Kansas  1  3120  Full-Time    CKRG  1  31204  Full-Time    Local/Cluster  2  2  Full-Time    KansasLink  2  31203  Full-Time  \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -8779,10 +8779,10 @@
     "CKRG": 1,
     "Local/Cluster": 2,
     "KansasLink": 2,
-    "P25 Digital Enabled": "",
+    "P25 Digital Enabled": "yes",
     "NAC": 293,
-    "Default Reflector": "",
-    "YSF Digital Enabled": "",
+    "Default Reflector": "yes",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Russell",
     "Op Status": "On-Air",
@@ -8793,7 +8793,7 @@
     "Links": "Full-time internet linked to the  CKRG System . Full-time internet linked to the  KansasLink System .",
     "Notes": "MMDVM Mixed-Mode repeater.",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442,
@@ -8806,11 +8806,11 @@
     "VOIP": "",
     "Mi": 231.7,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 442,
     "Uplink": 447,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Local or Reflector  1  9  Full-Time    CKRG  1  31204  Full-Time    Local/Cluster  2  2  Full-Time  \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -8824,7 +8824,7 @@
     "Links": "Full-time internet linked to the  CKRG System .",
     "Notes": "Click here for current TG Info",
     "Web links": "http://www.ckrgclub.com",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.285,
@@ -8837,7 +8837,7 @@
     "VOIP": "",
     "Mi": 232.8,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 147.285,
     "Uplink": 147.885,
     "Uplink Tone": 162.2,
@@ -8853,7 +8853,7 @@
     "Web links": "K-Link Repeater Network",
     "Feed": "Listen Live",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.95,
@@ -8866,7 +8866,7 @@
     "VOIP": "",
     "Mi": 232.8,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.95,
     "Uplink": 449.95,
     "Uplink Tone": 162.2,
@@ -8881,7 +8881,7 @@
     "Web links": "K-Link Repeater Network",
     "Feed": "Listen Live",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.7625,
@@ -8894,11 +8894,11 @@
     "VOIP": "",
     "Mi": 233.2,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.7625,
     "Uplink": 441.7625,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 0,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Denver Regional  2  720    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -8908,7 +8908,7 @@
     "Op Status": "On-Air",
     "Sponsor": "K7PFJ",
     "Affiliate": "RMHAM",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.975,
@@ -8921,7 +8921,7 @@
     "VOIP": "",
     "Mi": 234.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.975,
     "Uplink": 444.975,
     "Uplink Tone": 100,
@@ -8934,7 +8934,7 @@
     "Links": "Full-time to the  The Fun Machine System .",
     "Web links": "http://www.k0jsc.com",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449,
@@ -8947,7 +8947,7 @@
     "VOIP": "",
     "Mi": 235.5,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449,
     "Uplink": 444,
     "Uplink Tone": 67,
@@ -8960,7 +8960,7 @@
     "Notes": "North of the Royal Gorge Bridge.",
     "Web links": "Mega Link",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.125,
@@ -8973,7 +8973,7 @@
     "VOIP": "",
     "Mi": 236.4,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 447.125,
     "Uplink": 442.125,
     "Uplink Tone": 103.5,
@@ -8988,7 +8988,7 @@
     "Notes": "Normally linked via Allstar to 45835 - AB0PC, Bailey, CO.",
     "Nets": "When connected to AB0PC - Bailey: ARES Mon 19:00, Park County Radio Club Wed 19:30.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.975,
@@ -9001,7 +9001,7 @@
     "VOIP": "EIA",
     "Mi": 236.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.975,
     "Uplink": 442.975,
     "Uplink Tone": 100,
@@ -9019,7 +9019,7 @@
     "Web links": "http://www.k0jsc.com",
     "Feed": "Listen Live",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.7,
@@ -9032,7 +9032,7 @@
     "VOIP": "",
     "Mi": 237.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 927.7,
     "Uplink": 902.7,
     "Uplink Tone": "D114",
@@ -9041,7 +9041,7 @@
     "Op Status": "On-Air",
     "Sponsor": "Royal Gorge ARC",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.75,
@@ -9054,12 +9054,12 @@
     "VOIP": "I",
     "Mi": 237.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.75,
     "Uplink": 442.75,
     "Uplink Tone": 103.5,
     "Downlink Tone": 103.5,
-    "Location Photo": "",
+    "Location Photo": "yes",
     "County": "Fremont",
     "Op Status": "On-Air",
     "Sponsor": "RGARC",
@@ -9067,7 +9067,7 @@
     "IRLP": 3081,
     "Web links": "Royal Gorge Amateur Radio Club",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 53.03,
@@ -9080,7 +9080,7 @@
     "VOIP": "",
     "Mi": 237.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 53.03,
     "Uplink": 51.33,
     "Uplink Tone": 88.5,
@@ -9093,7 +9093,7 @@
     "Notes": "Split site Fremont peak transmitter and 8 mile mountain reciever.",
     "Web links": "Http://www.qsl.net/rghc",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.49,
@@ -9106,12 +9106,12 @@
     "VOIP": "",
     "Mi": 237.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.49,
     "Uplink": 144.89,
     "Uplink Tone": 103.5,
     "Downlink Tone": 103.5,
-    "Location Photo": "",
+    "Location Photo": "yes",
     "County": "Fremont",
     "Grid": "DM78ik",
     "Op Status": "On-Air",
@@ -9121,7 +9121,7 @@
     "Nets": "RGARC Net: Wed at 19:00. \nARES Net: Wed at 19:30.",
     "Web links": "Royal Gorge Amateur Radio Club",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 223.96,
@@ -9134,19 +9134,19 @@
     "VOIP": "",
     "Mi": 237.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 223.96,
     "Uplink": 222.36,
     "Uplink Tone": 103.5,
     "Downlink Tone": 103.5,
-    "Location Photo": "",
+    "Location Photo": "yes",
     "County": "Fremont",
     "Op Status": "On-Air",
     "Coverage": "Wide area. \n   Repeater Coverage Map",
     "Sponsor": "RGARC",
     "Features": "E-power (Bat), Remote Base",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.7375,
@@ -9159,17 +9159,17 @@
     "VOIP": "",
     "Mi": 237.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.7375,
     "Uplink": 441.7375,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Southern Colorado  2  719    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
     "Colorado": 1,
     "Southern Colorado": 2,
-    "Location Photo": "",
+    "Location Photo": "yes",
     "County": "Fremont",
     "Grid": "DM78ii",
     "Op Status": "On-Air",
@@ -9180,7 +9180,7 @@
     "Notes": "Talk Slot 2 linked to the RMHAM trbo system/Talk Slot 1 Local.",
     "Web links": "http://www.k0jsc.com",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 447.25,
@@ -9193,12 +9193,12 @@
     "VOIP": "EIA",
     "Mi": 237.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 447.25,
     "Uplink": 442.25,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "Location Photo": "",
+    "Location Photo": "yes",
     "County": "Fremont",
     "Grid": "DM78ik",
     "Op Status": "On-Air",
@@ -9211,7 +9211,7 @@
     "Web links": "K0JSC dot Com",
     "Feed": "Listen Live",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.445,
@@ -9224,7 +9224,7 @@
     "VOIP": "",
     "Mi": 238.3,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 145.445,
     "Uplink": 144.845,
     "Uplink Tone": 88.5,
@@ -9237,7 +9237,7 @@
     "Notes": "At 13,685;, it is one of the highest 2-meter repeaters in North America.",
     "Nets": "Central Colorado Traffic Net: Daily at 19:30. \nColorado Connection Net (all welcome): Thu at 20:00. \nStatewide ARES: Sun at 20:00.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 445.05,
@@ -9250,11 +9250,11 @@
     "VOIP": "",
     "Mi": 238.7,
     "Dir": "WSW",
-    "": "",
+    "": "yes",
     "Downlink": 445.05,
     "Uplink": 440.05,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 7,
     "Wide Network": "",
     "Talkgroup Network": "RMHAM",
@@ -9269,7 +9269,7 @@
     "Affiliate": "Rocky Mountain Ham Radio",
     "Web links": "http://www.rmham.org/",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.94,
@@ -9282,7 +9282,7 @@
     "VOIP": "",
     "Mi": 241.4,
     "Dir": "NNE",
-    "": "",
+    "": "yes",
     "Downlink": 146.94,
     "Uplink": 146.34,
     "Uplink Tone": 146.2,
@@ -9296,7 +9296,7 @@
     "Notes": "Linked to other SDARC repeaters across the state along interstates I-29 and I-90. \nThe 10 largest towns in South Dakota are covered by the SD Link.",
     "Nets": "SD Link: Wed at 21:00CT/20:00 MT.",
     "Web links": "http://www.sdlink.org",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.575,
@@ -9309,7 +9309,7 @@
     "VOIP": "",
     "Mi": 242.7,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.575,
     "Uplink": 443.575,
     "Uplink Tone": 103.5,
@@ -9319,7 +9319,7 @@
     "Coverage": "Western Park County",
     "Links": "Full-time internet linked to  \n        146.89500 (AB0PC) at Bailey, Dick Mountain, CO .",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.135,
@@ -9332,7 +9332,7 @@
     "VOIP": "",
     "Mi": 250.9,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 147.135,
     "Uplink": 147.735,
     "Uplink Tone": 88.5,
@@ -9348,7 +9348,7 @@
     "Web links": "K-Link Repeater Network",
     "Feed": "Listen Live",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 224,
@@ -9361,7 +9361,7 @@
     "VOIP": "A",
     "Mi": 250.9,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 224,
     "Uplink": 222.4,
     "Uplink Tone": 131.8,
@@ -9372,7 +9372,7 @@
     "Affiliate": "Western Kansas Intertie",
     "Features": "Autopatch.",
     "AllStar": 45989,
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.97,
@@ -9385,7 +9385,7 @@
     "VOIP": "",
     "Mi": 251.3,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 146.97,
     "Uplink": 146.37,
     "Uplink Tone": 118.8,
@@ -9395,7 +9395,7 @@
     "Coverage": "Local 35 mi radius.",
     "Sponsor": "K0BHN",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.925,
@@ -9408,12 +9408,12 @@
     "VOIP": "EA",
     "Mi": 251.8,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.925,
     "Uplink": 449.925,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Barton",
     "Op Status": "On-Air",
@@ -9426,7 +9426,7 @@
     "AllStar": 46495,
     "Web links": "http://www.ckrgclub.com",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.06,
@@ -9439,14 +9439,14 @@
     "VOIP": "",
     "Mi": 252.5,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 147.06,
     "Uplink": 147.66,
     "Uplink Tone": 100,
     "County": "Campbell",
     "Op Status": "Off-Air",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.835,
@@ -9459,12 +9459,12 @@
     "VOIP": "",
     "Mi": 253.1,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 146.835,
     "Uplink": 146.235,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Barton",
     "Op Status": "On-Air",
@@ -9473,7 +9473,7 @@
     "Mixed-Mode": "Yes; analog capable.",
     "Web links": "http://www.ckrgclub.com",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.325,
@@ -9486,17 +9486,17 @@
     "VOIP": "",
     "Mi": 256.7,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.325,
     "Uplink": 449.325,
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Local or Reflector  1  9  Full-Time    CKRG  1  31204  Full-Time    Local/Cluster  2  2  Full-Time  \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
     "Local or Reflector": 1,
     "CKRG": 1,
     "Local/Cluster": 2,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "County": "Barton",
     "Op Status": "On-Air",
@@ -9505,7 +9505,7 @@
     "Links": "Full-time internet linked to the  CKRG System .",
     "Web links": "http://www.ckrgclub.com",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.76,
@@ -9518,7 +9518,7 @@
     "VOIP": "",
     "Mi": 259.4,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 146.76,
     "Uplink": 146.16,
     "Uplink Tone": 103.5,
@@ -9531,7 +9531,7 @@
     "Nets": "RACES",
     "Web links": "http://kanoklaintertiesystem.org/",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 442.075,
@@ -9544,11 +9544,11 @@
     "VOIP": "",
     "Mi": 259.5,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 442.075,
     "Uplink": 447.075,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 1,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Local or Reflector  1  9  Full-Time    CKRG  1  31204  Full-Time    Local/Cluster  2  2  Full-Time    BYRG  2  31201  Full-Time  \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -9566,7 +9566,7 @@
     "Notes": "Please Check Webpage for TG Info",
     "Web links": "https://centralksrepeater.wixsite.com/ckrg",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 444.1,
@@ -9579,12 +9579,12 @@
     "VOIP": "W",
     "Mi": 259.9,
     "Dir": "SE",
-    "": "",
+    "": "yes",
     "Downlink": 444.1,
     "Uplink": 449.1,
     "Uplink Tone": 100,
     "Downlink Tone": 100,
-    "YSF Digital Enabled": "",
+    "YSF Digital Enabled": "yes",
     "DG-ID": "Open ↑ / Open ↓",
     "WIRES-X": 40777,
     "County": "Barton",
@@ -9594,7 +9594,7 @@
     "Mixed-Mode": "Yes; analog capable.",
     "Web links": "http://www.ckrgclub.com",
     "Coordination": "Kansas Repeater Council",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.325,
@@ -9607,7 +9607,7 @@
     "VOIP": "",
     "Mi": 260.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.325,
     "Uplink": 443.325,
     "Uplink Tone": 100,
@@ -9616,7 +9616,7 @@
     "Op Status": "On-Air",
     "Affiliate": "The Fun Machine",
     "Links": "Full-time to the  The Fun Machine System .",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 927.775,
@@ -9629,7 +9629,7 @@
     "VOIP": "",
     "Mi": 260.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 927.775,
     "Uplink": 902.775,
     "Uplink Tone": "D116",
@@ -9639,7 +9639,7 @@
     "Sponsor": "Royal Gorge Amateur Radio Club",
     "Notes": "System uses digital PL",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 448.15,
@@ -9652,7 +9652,7 @@
     "VOIP": "",
     "Mi": 260.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 448.15,
     "Uplink": 443.15,
     "Uplink Tone": 103.5,
@@ -9663,7 +9663,7 @@
     "Features": "E-power.",
     "Web links": "http://www.qsl.net/rghc",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.06,
@@ -9676,7 +9676,7 @@
     "VOIP": "",
     "Mi": 260.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.06,
     "Uplink": 147.66,
     "Uplink Tone": 77,
@@ -9686,7 +9686,7 @@
     "Sponsor": "http://www.qsl.net/rghc",
     "Features": "E-power",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 919.1,
@@ -9699,7 +9699,7 @@
     "VOIP": "",
     "Mi": 260.6,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 919.1,
     "Uplink": 894.1,
     "Uplink Tone": 88.5,
@@ -9709,7 +9709,7 @@
     "Coverage": "Wide area.",
     "Sponsor": "Pueblo HC",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.8125,
@@ -9722,11 +9722,11 @@
     "VOIP": "",
     "Mi": 260.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.8125,
     "Uplink": 441.8125,
     "Uplink Tone": "",
-    "DMR Enabled": "",
+    "DMR Enabled": "yes",
     "Color Code": 0,
     "Wide Network": "",
     "Talkgroups": "Open Talkgroup View \n\n\n \n   \n    \n     Assignment \n     TS \n     TG \n     Access \n   \n\n  Colorado  1  700      Southern Colorado  2  719    \n  \n \n \nfunction myFunction(id) {\n    var x = document.getElementById(id);\n    if (x.className.indexOf(\"w3-show\") == -1) {\n        x.className += \" w3-show\";\n    } else {\n        x.className = x.className.replace(\" w3-show\", \"\");\n    }\n}",
@@ -9735,7 +9735,7 @@
     "County": "Chaffee",
     "Op Status": "On-Air",
     "Sponsor": "RMHAM",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 446.975,
@@ -9748,10 +9748,10 @@
     "VOIP": "",
     "Mi": 260.9,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 446.975,
     "Uplink": 441.975,
-    "D-STAR Enabled": "",
+    "D-STAR Enabled": "yes",
     "Node": "KD0QPG (B) Gateway Repeater",
     "Sources": "jfindu lookup \n    /   dstar-users lookup",
     "County": "Chaffee",
@@ -9760,7 +9760,7 @@
     "Affiliate": "Crestone Amateur Radio Emergency Services",
     "Web links": "KD0QPG",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.745,
@@ -9773,7 +9773,7 @@
     "VOIP": "",
     "Mi": 261.3,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 146.745,
     "Uplink": 146.145,
     "Uplink Tone": 100,
@@ -9782,7 +9782,7 @@
     "Sponsor": "CLARA",
     "Features": "E-power.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 146.985,
@@ -9795,7 +9795,7 @@
     "VOIP": "",
     "Mi": 263.5,
     "Dir": "NW",
-    "": "",
+    "": "yes",
     "Downlink": 146.985,
     "Uplink": 146.385,
     "Uplink Tone": 100,
@@ -9803,7 +9803,7 @@
     "Op Status": "On-Air",
     "Links": "Full-time to  \n        146.88000 (NX7Z) at Buffalo, Windy Ridge, WY .\n \n\n\nFull-time to  \n        146.73000 (NX7Z) at Sheridan, WY .",
     "Coordination": "WRCG",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 145.295,
@@ -9816,7 +9816,7 @@
     "VOIP": "",
     "Mi": 264.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 145.295,
     "Uplink": 144.695,
     "Uplink Tone": 107.2,
@@ -9827,7 +9827,7 @@
     "Sponsor": "Cheyenne Mtn Repeater Group",
     "Web links": "CMRG Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 147.285,
@@ -9840,7 +9840,7 @@
     "VOIP": "",
     "Mi": 264.8,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 147.285,
     "Uplink": 147.885,
     "Uplink Tone": 88.5,
@@ -9853,7 +9853,7 @@
     "Links": "Full-time to the  Colorado Connection System .",
     "Nets": "Central Colorado Traffic Net: Daily at 19:30. \nColorado Connection Net (All Welcome): Thu at 20:00. \nStatewide ARES Net: Sun at 20:00.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.925,
@@ -9866,7 +9866,7 @@
     "VOIP": "",
     "Mi": 265.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.925,
     "Uplink": 444.925,
     "Uplink Tone": 103.5,
@@ -9878,7 +9878,7 @@
     "Features": "E-power (Bat)",
     "Notes": "Identifies with an 'M' following WZ0N callsign which identifies the site as Methodist.",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.65,
@@ -9891,7 +9891,7 @@
     "VOIP": "",
     "Mi": 265.4,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.65,
     "Uplink": 444.65,
     "Uplink Tone": 107.2,
@@ -9901,7 +9901,7 @@
     "Features": "E-power.",
     "Web links": "CMRG Repeaters",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   },
   {
     "Frequency": 449.975,
@@ -9914,7 +9914,7 @@
     "VOIP": "EIA",
     "Mi": 265.5,
     "Dir": "SW",
-    "": "",
+    "": "yes",
     "Downlink": 449.975,
     "Uplink": 444.975,
     "Uplink Tone": 100,
@@ -9932,6 +9932,6 @@
     "Nets": "APRS Net: Sun at 19:00. \nRegion 5 District 2 ARES Net: Sun at 19:30. \nStatewide ARES Net: Sun at 20:00. \nRegion 5 District 1 ARES Net: Mon at 19:00. \nRGARC Net: Wed at 19:00.",
     "Web links": "K0JSC.COM",
     "Coordination": "CCARC",
-    "Last update": ""
+    "Last update": "yes"
   }
 ]

@@ -31,3 +31,25 @@ export function getText(el: Element) {
 export interface IObject<T> {
   [index: string]: T;
 }
+
+export function mapDir(dir: string): number {
+  switch (dir) {
+    case "N":
+      return 1;
+    case "NE":
+      return 2;
+    case "E":
+      return 3;
+    case "SE":
+      return 4;
+    case "S":
+      return 5;
+    case "SW":
+      return 6;
+    case "W":
+      return 7;
+    case "NW":
+      return 8;
+  }
+  return 0;
+}

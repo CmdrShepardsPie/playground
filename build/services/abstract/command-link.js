@@ -1,5 +1,4 @@
 "use strict";
-// tslint:disable:max-classes-per-file
 Object.defineProperty(exports, "__esModule", { value: true });
 const Subject_1 = require("rxjs/Subject");
 const command_input_1 = require("./command-input");
@@ -27,7 +26,6 @@ class CommandLink {
     }
 }
 exports.default = CommandLink;
-// Make a concrete version of CommandInput to be instantiated in CommandLink above
 class CommandInputed extends command_input_1.default {
     constructor(listener) {
         super();
@@ -37,6 +35,5 @@ class CommandInputed extends command_input_1.default {
         this.listener && this.listener(value);
     }
 }
-// Make a concrete version of CommandOutput to be instantiated in CommandLink above
 class CommandOutputed extends command_output_1.default {
 }

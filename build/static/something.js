@@ -27,7 +27,5 @@ function doAnimation() {
         last = stuff;
         thing.style.width = `${Math.round(last) * 10}px`;
         text.innerText = `${Math.round(last)}%`;
-        // console.log('currentTime', currentTime);
-        // console.log('last', last);
     }
 }

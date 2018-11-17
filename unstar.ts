@@ -10,7 +10,6 @@
 //   });
 // }
 
-
 async function doit() {
   for (let i = 0; i < 100000; i++) {
     await wait(100);
@@ -36,7 +35,6 @@ async function doit() {
     row.parentNode.removeChild(row);
   }
 }
-
 
 async function unstar() {
   const podcasts = [...document.querySelectorAll(".podcast")].reverse();

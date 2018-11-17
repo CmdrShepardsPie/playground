@@ -9,23 +9,23 @@ const allData = [];
 // MyGMRS
 // const tables = document.querySelectorAll('table.advancedSearchTable');
 // RepeaterBook
-const tables = document.querySelectorAll('table.w3-table.w3-striped.w3-responsive');
+const tables = document.querySelectorAll("table.w3-table.w3-striped.w3-responsive");
 tables.forEach((table, tableIndex) => {
-  const rows = table.querySelectorAll('tbody > tr');
+  const rows = table.querySelectorAll("tbody > tr");
   rows.forEach((row, rowIndex) => {
     const data = {
       Location: allData.length + 1,
       Name: null,
       Frequency: null,
-      Duplex: '',
+      Duplex: "",
       Offset: 0,
       Tone: null,
       rToneFreq: 88.5,
       cToneFreq: 88.5,
       DtcsCode: 23,
       DtscRxCode: 23,
-      DtcsPolarity: 'NN',
-      Mode: 'FM',
+      DtcsPolarity: "NN",
+      Mode: "FM",
       TStep: 5,
       // Skip: null,
       Comment: null,
@@ -35,7 +35,7 @@ tables.forEach((table, tableIndex) => {
       // DVCODE: null
     };
 
-    const cells = row.querySelectorAll('td');
+    const cells = row.querySelectorAll("td");
     cells.forEach((cell, cellIndex) => {
       const Frequency = /([-+]?\d+\.?\d*)/;
       const CC = /CC(\d+)/;
@@ -51,28 +51,28 @@ tables.forEach((table, tableIndex) => {
           const number = getNumber(Frequency, text);
           // Offset
           if (number > 0) {
-            data.Duplex = '+';
+            data.Duplex = "+";
             data.Offset = number;
           } else if (number < 0) {
-            data.Duplex = '-';
+            data.Duplex = "-";
             data.Offset = Math.abs(number);
           }
           break;
         case 2:
           // Tone
           if (CC.test(text)) {
-            data.Mode = 'DIG';
+            data.Mode = "DIG";
           }
           if (DTSC.test(text)) {
             const number = getNumber(DTSC, text);
             data.DtcsCode = number;
             data.DtscRxCode = number;
-            data.Tone = 'DTCS';
+            data.Tone = "DTCS";
           } else if (!CC.test(text) && !DTSC.test(text) && Tone.test(text)) {
             const number = getNumber(Tone, text);
             data.rToneFreq = number;
             data.cToneFreq = number;
-            data.Tone = 'Tone';
+            data.Tone = "Tone";
           }
           break;
         case 3:

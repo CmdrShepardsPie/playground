@@ -6,8 +6,8 @@ import {Body, GetObjectOutput, ListObjectsV2Output} from "aws-sdk/clients/s3";
 import {ManagedUpload} from "aws-sdk/lib/s3/managed_upload";
 import SendData = ManagedUpload.SendData;
 import chalk from "chalk";
-import {createLog} from "./node-logger";
 import * as path from "path";
+import {createLog} from "./node-logger";
 
 // set config for upload.
 AWS.config.update({

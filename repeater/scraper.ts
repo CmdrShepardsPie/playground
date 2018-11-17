@@ -1,15 +1,17 @@
 import {dirExists, makeDirs, readFileAsync, writeFileAsync} from "@helpers/fs-helpers";
 import {wait} from "@helpers/helpers";
-import {createLog} from "@helpers/node-logger";
+import {createLog, createOut, createWrite} from "@helpers/node-logger";
 import Axios from "axios";
 import chalk from "chalk";
 import { JSDOM } from "jsdom";
 import { getText, getTextOrNumber, IObject } from "./helper";
+import {IRepeater} from "./i.repeater";
 
-const log = createLog("Scraper");
+const { log, write } = createOut("Scraper");
+// const write = createWrite("Scraper");
 
 export default class Scraper {
-  private data: Array<IObject<string | number>> = [];
+  private data: IRepeater[] = [];
   private url: string;
 
   constructor(private location: string | number, private distance: number) {
@@ -39,7 +41,7 @@ export default class Scraper {
         const headerCells = [...headerRow.querySelectorAll("th")];
         const headers = headerCells.map((th) => getText(th));
         for (const row of rows) {
-          const data: IObject<string | number> = {};
+          const data: any = {};
           const cells = [...row.querySelectorAll("td")];
           cells.forEach((td, index) => data[headers[index]] = getTextOrNumber(td));
           const link = cells[0].querySelector("a");
@@ -53,7 +55,7 @@ export default class Scraper {
   }
 
   private async getRepeaterDetails(href: string) {
-    log(chalk.green("Get Repeater Details"), href);
+    // log(chalk.green("Get Repeater Details"), href);
 
     const urlParams = href.split("?")[1];
     const keyParts = urlParams.match(/state_id=(\d+)&ID=(\d+)/) || [];
@@ -75,7 +77,7 @@ export default class Scraper {
   }
 
   private async getCache(key: string) {
-    log(chalk.green("Get Cache"), key);
+    // log(chalk.green("Get Cache"), key);
 
     const file = `repeaters/_cache/${key}`;
     if (await dirExists(file)) {
@@ -84,7 +86,7 @@ export default class Scraper {
   }
 
   private async setCache(key: string, value: any) {
-    log(chalk.green("Set Cache"), key);
+    // log(chalk.green("Set Cache"), key);
 
     const file = `repeaters/_cache/${key}`;
     await makeDirs(file);
@@ -92,19 +94,21 @@ export default class Scraper {
   }
 
   private async getUrl(url: string, cacheKey?: string): Promise<string> {
-    log(chalk.green("Get URL"), url, cacheKey);
+    // log(chalk.green("Get URL"), url, cacheKey);
 
     const cache = await this.getCache(cacheKey || url);
     if (cache) {
-      log(chalk.yellow("Cached"), url, cacheKey);
+      // log(chalk.yellow("Cached"), url, cacheKey);
+      write(chalk.green(">"));
       return cache;
     } else {
       const waitTime = (Math.random() * 5000);
 
       await wait(waitTime);
-      log(chalk.yellow("Get"), url);
+      // log(chalk.yellow("Get"), url);
       const request = await Axios.get(url);
-      log(chalk.green("Got"), url);
+      // log(chalk.green("Got"), url);
+      write(chalk.yellow("+"));
 
       const data = request.data;
       await this.setCache(cacheKey || url, data);

@@ -27,7 +27,6 @@ var Commands;
     Commands[Commands["Reset"] = 22] = "Reset";
 })(Commands = exports.Commands || (exports.Commands = {}));
 const Keys = require("./keycodes.json");
-// "Invert" the key/val pair so we can do a reverse lookup
 Object.entries(Keys).forEach((entry) => {
     const key = entry[0].toString();
     const val = entry[1].toString();

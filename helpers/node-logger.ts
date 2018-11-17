@@ -13,22 +13,37 @@ const bgColors = [
   "bgCyan",
   // "bgWhite",
   // "bgBlackBright",
-  "bgRedBright",
-  "bgGreenBright",
-  "bgYellowBright",
-  "bgBlueBright",
-  "bgMagentaBright",
-  "bgCyanBright",
+  // "bgRedBright",
+  // "bgGreenBright",
+  // "bgYellowBright",
+  // "bgBlueBright",
+  // "bgMagentaBright",
+  // "bgCyanBright",
   // "bgWhiteBright",
 ];
 let lastColor = 0;
 
-export function createLog(context: string) {
-  const color = bgColors[lastColor];
-  lastColor += 1;
-  if (lastColor >= bgColors.length) {
-    lastColor = 0;
+export function createOut(context: string, color?: string) {
+  if (!color) {
+    color = bgColors[lastColor];
+    lastColor += 1;
+    if (lastColor >= bgColors.length) {
+      lastColor = 0;
+    }
   }
+  return { log: createLog(context, color), write: createWrite(context, color) };
+}
+
+export function createLog(context: string, color?: string) {
+  if (!color) {
+    color = bgColors[lastColor];
+    lastColor += 1;
+    if (lastColor >= bgColors.length) {
+      lastColor = 0;
+    }
+  }
+  // @ts-ignore
+  const chalkColorFn = chalk[color];
 
   return (...msg: any[]) => {
     msg = msg.map(prepIfJson);
@@ -40,7 +55,7 @@ export function createLog(context: string) {
       createEmptyLine();
     }
 
-    const args = [(chalk as any)[color](`${context}:`), ...msg];
+    const args = [ chalkColorFn(`${context}:`), ...msg ];
 
     console.log(...args);
     lastMessageInline = false;
@@ -48,14 +63,24 @@ export function createLog(context: string) {
   };
 }
 
-export function createWrite(context: string) {
+export function createWrite(context: string, color?: string) {
+  if (!color) {
+    color = bgColors[lastColor];
+    lastColor += 1;
+    if (lastColor >= bgColors.length) {
+      lastColor = 0;
+    }
+  }
+  // @ts-ignore
+  const chalkColorFn = chalk[color];
+
   return (...msg: any[]) => {
     if (!lastMessageInline) {
-      process.stdout.write(chalk.cyan(`${context}: `));
+      process.stdout.write(chalkColorFn(`${context}:`) + " ");
     }
     if (lastMessageInline && lastContext !== context) {
       createEmptyLine();
-      process.stdout.write(chalk.cyan(`${context}: `));
+      process.stdout.write(chalkColorFn(`${context}:`) + " ");
     }
     process.stdout.write(msg.join(" "));
     lastMessageInline = true;
@@ -64,8 +89,16 @@ export function createWrite(context: string) {
 }
 
 export function createThrowError(context: string) {
+  const color = bgColors[lastColor];
+  lastColor += 1;
+  if (lastColor >= bgColors.length) {
+    lastColor = 0;
+  }
+  // @ts-ignore
+  const chalkColorFn = chalk[color];
+
   return (type: string, ...msg: any[]) => {
-    console.log(chalk.cyan(`${context}:`), chalk.red(`${type} Error:`), ...msg);
+    console.log(chalkColorFn(`${context}:`), chalk.red(`${type} Error:`), ...msg);
     process.exit(1);
   };
 }

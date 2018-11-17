@@ -12,21 +12,21 @@ function getText(reg, text) {
   }
 }
 const allData = [];
-const tables = document.querySelectorAll('table.advancedSearchTable');
+const tables = document.querySelectorAll("table.advancedSearchTable");
 tables.forEach((table, tableIndex) => {
   const data = {
     Location: allData.length + 31,
     Name: null,
     Frequency: null,
-    Duplex: '',
+    Duplex: "",
     Offset: 0,
     Tone: null,
     rToneFreq: 88.5,
     cToneFreq: 88.5,
     DtcsCode: 23,
     DtscRxCode: 23,
-    DtcsPolarity: 'NN',
-    Mode: 'FM',
+    DtcsPolarity: "NN",
+    Mode: "FM",
     TStep: 5,
     // Skip: null,
     Comment: null,
@@ -35,10 +35,10 @@ tables.forEach((table, tableIndex) => {
     // RPT2CALL: null,
     // DVCODE: null
   };
-  const rows = table.querySelectorAll('tbody > tr');
+  const rows = table.querySelectorAll("tbody > tr");
   rows.forEach((row, rowIndex) => {
 
-    const cells = row.querySelectorAll('td');
+    const cells = row.querySelectorAll("td");
     cells.forEach((cell, cellIndex) => {
       const subName = /"([^"]*)"/;
       const Frequency = /([-+]?\d+\.?\d*)/;
@@ -66,12 +66,12 @@ tables.forEach((table, tableIndex) => {
             const number = getNumber(DTSC, text);
             data.DtcsCode = number;
             data.DtscRxCode = number;
-            data.Tone = 'DTCS';
+            data.Tone = "DTCS";
           } else if (Tone.test(text)) {
             const number = getNumber(Tone, text);
             data.rToneFreq = number;
             data.cToneFreq = number;
-            data.Tone = 'Tone';
+            data.Tone = "Tone";
           }
           break;
       }

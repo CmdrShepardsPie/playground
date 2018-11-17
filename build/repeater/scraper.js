@@ -7,7 +7,7 @@ const axios_1 = require("axios");
 const chalk_1 = require("chalk");
 const jsdom_1 = require("jsdom");
 const helper_1 = require("./helper");
-const log = node_logger_1.createLog("Scraper");
+const { log, write } = node_logger_1.createOut("Scraper");
 class Scraper {
     constructor(location, distance) {
         this.location = location;
@@ -48,7 +48,6 @@ class Scraper {
         }
     }
     async getRepeaterDetails(href) {
-        log(chalk_1.default.green("Get Repeater Details"), href);
         const urlParams = href.split("?")[1];
         const keyParts = urlParams.match(/state_id=(\d+)&ID=(\d+)/) || [];
         const key = `${keyParts[1]}/${keyParts[2]}.html`;
@@ -68,31 +67,27 @@ class Scraper {
         return data;
     }
     async getCache(key) {
-        log(chalk_1.default.green("Get Cache"), key);
         const file = `repeaters/_cache/${key}`;
         if (await fs_helpers_1.dirExists(file)) {
             return (await fs_helpers_1.readFileAsync(file)).toString();
         }
     }
     async setCache(key, value) {
-        log(chalk_1.default.green("Set Cache"), key);
         const file = `repeaters/_cache/${key}`;
         await fs_helpers_1.makeDirs(file);
         return fs_helpers_1.writeFileAsync(file, value);
     }
     async getUrl(url, cacheKey) {
-        log(chalk_1.default.green("Get URL"), url, cacheKey);
         const cache = await this.getCache(cacheKey || url);
         if (cache) {
-            log(chalk_1.default.yellow("Cached"), url, cacheKey);
+            write(chalk_1.default.green(">"));
             return cache;
         }
         else {
             const waitTime = (Math.random() * 5000);
             await helpers_1.wait(waitTime);
-            log(chalk_1.default.yellow("Get"), url);
             const request = await axios_1.default.get(url);
-            log(chalk_1.default.green("Got"), url);
+            write(chalk_1.default.yellow("+"));
             const data = request.data;
             await this.setCache(cacheKey || url, data);
             return data;

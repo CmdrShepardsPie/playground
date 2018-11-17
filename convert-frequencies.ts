@@ -11,26 +11,26 @@ const base = {
   cToneFreq: 88.5,
   DtcsCode: 23,
   DtscRxCode: 23,
-  DtcsPolarity: 'NN',
-  Mode: 'FM',
+  DtcsPolarity: "NN",
+  Mode: "FM",
   TStep: 5,
-  Comment: 'Colorado Council of Amateur Radio Clubs (CCARC)'
+  Comment: "Colorado Council of Amateur Radio Clubs (CCARC)",
 };
 
 function leadingZeroes(number, count) {
   let num = number.toString();
   while (num.length <= count) {
-    num = '0' + num;
+    num = "0" + num;
   }
   return num;
 }
 
 const allData = [];
-const names = ['2m', '1.25m', '70cm'];
+const names = ["2m", "1.25m", "70cm"];
 
-names.forEach(name => {
-  console.log('Starting', name);
-  let data = JSON.parse(fs.readFileSync(`./${name}.json`));
+names.forEach((name) => {
+  console.log("Starting", name);
+  const data = JSON.parse(fs.readFileSync(`./${name}.json`));
 
   data.sort((a, b) => a.Frequency - b.Frequency);
 
@@ -43,9 +43,7 @@ names.forEach(name => {
     allData.push(d);
   });
 
-  console.log('Finished', name);
+  console.log("Finished", name);
 });
 
 fs.writeFileSync(`./radio-out.json`, JSON.stringify(allData));
-
-

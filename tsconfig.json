@@ -9,6 +9,7 @@
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
     "preserveConstEnums": true,
+    "removeComments": true,
     "pretty": true,
     "strict": true,
     "declaration": false,
@@ -23,7 +24,6 @@
       "@scripts/*": ["scripts/*"],
       "@services/*": ["services/*"]
     }
-
   },
   "exclude": ["build"]
 }

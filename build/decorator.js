@@ -43,41 +43,7 @@ let Something = class Something {
 Something = __decorate([
     LockThis
 ], Something);
-// const something = new Something();
-// console.log(something.doIt.call({}, 'test'));
-//
-// console.log('Something', Something);
-// console.log('const p = new Something()');
-// const p = new Something();
-// console.log('p', p);
-// console.log('p.doIt');
-// console.log(p.doIt);
-// console.log('p.doIt()');
-// console.log(p.doIt());
-// console.log('p.doIt(\'poop\')');
-// console.log(p.doIt('poop'));
-// console.log('p.doIt.call({})');
-// console.log(p.doIt.call({}));
-// console.log('p.doIt.call({}, \'poop2\')');
-// console.log(p.doIt.call({}, 'poop2'));
 let Blah = class Blah {
-    // const something = new Something();
-    // console.log(something.doIt.call({}, 'test'));
-    //
-    // console.log('Something', Something);
-    // console.log('const p = new Something()');
-    // const p = new Something();
-    // console.log('p', p);
-    // console.log('p.doIt');
-    // console.log(p.doIt);
-    // console.log('p.doIt()');
-    // console.log(p.doIt());
-    // console.log('p.doIt(\'poop\')');
-    // console.log(p.doIt('poop'));
-    // console.log('p.doIt.call({})');
-    // console.log(p.doIt.call({}));
-    // console.log('p.doIt.call({}, \'poop2\')');
-    // console.log(p.doIt.call({}, 'poop2'));
     constructor() {
         this.something = "blah";
         this.other = "hello";

@@ -1,25 +1,25 @@
 const synth = window.speechSynthesis;
 const utterThis = new SpeechSynthesisUtterance();
 utterThis.volume = 2;
-const letters = 'QWERTYUIOPASDFGHJKLZXCVBNM';
+const letters = "QWERTYUIOPASDFGHJKLZXCVBNM";
 
 function say(text, voice, pitch, rate) {
-  console.log('say', text, voice, pitch, rate);
-  return new Promise(resolve => {
+  console.log("say", text, voice, pitch, rate);
+  return new Promise((resolve) => {
     utterThis.onend = () => {
-      console.log('say end');
+      console.log("say end");
       resolve();
     };
     utterThis.onpause = () => {
-      console.log('say pause');
+      console.log("say pause");
       resolve();
     };
     utterThis.onerror = () => {
-      console.log('say error');
+      console.log("say error");
       resolve();
     };
     utterThis.onboundary = () => {
-      console.log('say boundary');
+      console.log("say boundary");
       // resolve();
     };
     utterThis.text = text;
@@ -29,7 +29,7 @@ function say(text, voice, pitch, rate) {
     // console.log('speak start');
     synth.speak(utterThis);
     // console.log('speak end');
-  })
+  });
 }
 //
 // function wait(ms, fn) {
@@ -47,7 +47,7 @@ function say(text, voice, pitch, rate) {
 
 function next(number) {
   const waitFor = number || Math.random() * 60 * 60 * 1000;
-  console.log('next', waitFor);
+  console.log("next", waitFor);
   setTimeout(async () => {
     const voices = synth.getVoices();
     const voicenum = Math.floor(Math.random() * voices.length);
@@ -63,18 +63,18 @@ function next(number) {
       let number = Math.floor(Math.random() * Math.random() * Math.random() * 126);
       if (number >= 100) {
         number = letters[number - 100];
-        console.log('Using letter', number);
+        console.log("Using letter", number);
       }
-      if (typeof number === 'number' && Math.floor(Math.random() * 10) === 0) {
+      if (typeof number === "number" && Math.floor(Math.random() * 10) === 0) {
         number = number * -1;
-        console.log('Using negative', number);
+        console.log("Using negative", number);
       }
       if (Math.floor(Math.random() * 10) === 0) {
         number = number + Math.random();
-        if (typeof number === 'number') {
+        if (typeof number === "number") {
           number = number.toFixed(Math.floor(Math.random() * 10));
         }
-        console.log('Using decimal', number);
+        console.log("Using decimal", number);
       }
       if (i === 0 && Math.floor(Math.random() * 10) === 0) {
         number = `Repeat after me`;
@@ -85,7 +85,7 @@ function next(number) {
       words.push(number);
     }
     if (words.length) {
-      await say(words.join('. '), voice, pitch, rate);
+      await say(words.join(". "), voice, pitch, rate);
     }
     // await wait(400);
     next();

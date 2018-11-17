@@ -35,7 +35,7 @@ export async function makeDirs(filePath: string) {
 }
 
 export async function dirExists(filePath: string) {
-  log(chalk.green("Dir Exists"), filePath);
+  // log(chalk.green("Dir Exists"), filePath);
 
   let tempPath = `.`;
   let exists = true;

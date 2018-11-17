@@ -30,6 +30,29 @@ export function stringToNumber(str: string) {
   return str;
 }
 
+export function numberToString(num: number, major?: number, minor?: number) {
+  let str = num.toString();
+  const split = str.split(".");
+  if (major !== undefined) {
+    if (split[0] === undefined) {
+      split[0] = "0";
+    }
+    while (split[0].length < major) {
+      split[0] = "0" + split[0];
+    }
+    str = split.join(".");
+  }
+  if (minor !== undefined) {
+    if (split[1] === undefined) {
+      split[1] = "0";
+    }
+    while (split[1].length < minor) {
+      split[1] = split[1] + "0";
+    }
+    str = split.join(".");
+  }
+  return str;
+}
 // @AlwaysThis is kinda broken as it turns out
 // WARNING: AlwaysThis modifies the object prototype which can cause problems
 // tslint:disable-next-line:ban-types
