@@ -50,7 +50,7 @@ export async function dirExists(filePath: string) {
 }
 
 export async function writeToJsonAndCsv(filename: string, jsonData: any, csvData: any = jsonData) {
-  log(chalk.green("Write to Json and CSV"), filename);
+  // log(chalk.green("Write to Json and CSV"), filename);
 
   const jsonString = JSON.stringify(jsonData, null, 2);
   const jsonName = `${filename}.json`;

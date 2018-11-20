@@ -3,7 +3,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 require("module-alias/register");
 const fs_helpers_1 = require("@helpers/fs-helpers");
 const node_logger_1 = require("@helpers/node-logger");
-const chalk_1 = require("chalk");
 const log = node_logger_1.createLog("Make Chirp");
 const chirp = {
     Location: "",
@@ -25,10 +24,6 @@ async function doIt(file) {
     const fileData = await fs_helpers_1.readFileAsync(`repeaters/${file}.json`);
     const repeaters = JSON.parse(fileData.toString());
     const mapped = repeaters
-        .filter((r) => r.Call && r.Use === "OPEN" && r["Op Status"] === "On-Air" &&
-        r.Frequency > 100 && r.Frequency < 500 &&
-        !r["D-STAR Enabled"] && !r["DMR Enabled"] && !r["P25 Digital Enabled"] && !r["YSF Digital Enabled"] &&
-        !/D\d/.test(r.Tone.toString()))
         .map((d, i) => ({ ...makeRow(d), Location: i }));
     return await fs_helpers_1.writeToJsonAndCsv(`repeaters/chirp/${file}`, mapped);
 }
@@ -36,12 +31,8 @@ function makeRow(item) {
     const DTCS = /D(\d+)/;
     const isDigital = Object.entries(item).filter((a) => /Enabled/.test(a[0])).length > 0;
     const isNarrow = Object.entries(item).filter((a) => /Narrow/i.test(a[1])).length > 0;
-    const Name = item.Call.substr(-2) +
-        item.Location
-            .split(/[ ,]/)
-            .filter((g) => g)
-            .map((g) => g[0].toUpperCase() + g.substr(1).toLowerCase())
-            .join("");
+    const Name = item.Call.substr(-3) + " " +
+        item.Location;
     const Frequency = item.Frequency;
     const Duplex = item.Offset > 0 ? "+" : item.Offset < 0 ? "-" : "";
     const Offset = Math.abs(item.Offset);
@@ -56,6 +47,7 @@ function makeRow(item) {
     const Comment = `${item["ST/PR"]} ${item.County} ${item.Location} ${item.Call} ${item.Frequency}`;
     if (typeof UplinkTone === "number") {
         rToneFreq = UplinkTone;
+        cToneFreq = UplinkTone;
         Tone = "Tone";
     }
     else {
@@ -64,23 +56,20 @@ function makeRow(item) {
             const n = parseInt(d[1], 10);
             if (!isNaN(n)) {
                 DtcsCode = n;
+                DtcsRxCode = n;
                 Tone = "DTCS";
             }
         }
     }
     if (typeof DownlinkTone === "number") {
         cToneFreq = DownlinkTone;
-        Tone = "TSQL";
     }
-    else {
-        if (DownlinkTone !== undefined) {
-            const d = DTCS.exec(DownlinkTone);
-            if (d && d[1]) {
-                const n = parseInt(d[1], 10);
-                if (!isNaN(n)) {
-                    DtcsRxCode = n;
-                    Tone = "DTCS";
-                }
+    else if (DownlinkTone !== undefined) {
+        const d = DTCS.exec(DownlinkTone);
+        if (d && d[1]) {
+            const n = parseInt(d[1], 10);
+            if (!isNaN(n)) {
+                DtcsRxCode = n;
             }
         }
     }
@@ -88,7 +77,6 @@ function makeRow(item) {
         if (!rToneFreq) {
         }
         else {
-            Tone = "Cross";
         }
     }
     cToneFreq = cToneFreq || 88.5;
@@ -109,8 +97,10 @@ function makeRow(item) {
         Mode,
         Comment,
     };
-    log(chalk_1.default.green("Made Row"), row);
     return row;
 }
-doIt("groups/Colorado Springs");
-doIt("data/CO/Colorado Springs");
+async function start() {
+    await doIt("groups/CO/Colorado Springs - Call");
+    await doIt("data/CO/Colorado Springs");
+}
+exports.default = start();

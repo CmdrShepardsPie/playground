@@ -1,0 +1,999 @@
+500,Frequency,Offset,Tone,Call,Location,ST/PR,Use,VOIP,Mi,Dir,,Downlink,Uplink,Uplink Tone,Downlink Tone,County,Op Status,Sponsor,Notes,Coordination,Last update,Coverage,Features,Links,Commands,D-STAR Enabled,Node,Sources,Affiliate,Web links,Grid,AllStar,Mixed-Mode,Nets,EchoLink,IRLP,DMR Enabled,Color Code,Wide Network,Talkgroup Network,Talkgroups,Worldwide,North America,English,Europe,TAC 310,DCI Bridge,Southwest USA,On-air,YSF Digital Enabled,DG-ID,P25 Digital Enabled,NAC,Default Reflector,Bandwidth,WIRES-X,Feed,DTMF,A + [number],B
+,145.175,-0.6,141.3,NM5EM,"Socorro, Socorro Peak",NM,OPEN,,0,ESE,yes,145.175,144.575,141.3,141.3,Socorro,On-Air,New Mexico Emergency Management Association Amateur Radio Club,Emergency &amp; Secondary Repeater. Use W5AQA 146.68-(100) for Primary.,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.24,0.6,100,NM5ML,"Socorro, Socorro Peak",NM,OPEN,,4.1,WNW,yes,147.24,147.84,100,88.5,Socorro,On-Air,New Mexico Mega Link Association,Linked repeater system covering the entire state,NMFCC,yes,Wide area.,7,Full-time to the  Mega-Link System .,Autopatch: 123- New Mexico State Police (Socorro Office).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.5,5,,W5AQA,"Socorro, M Mountain",NM,OPEN,,4.2,WNW,yes,444.5,449.5,,,Socorro,On-Air,Socorro ARA,,,yes,,,,,yes,W5AQA (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.75,5,100,WB5QHS,"Socorro, West Peak",NM,CLOSED,,4.2,WNW,yes,444.75,449.75,100,88.5,Socorro,On-Air,Jack's Peak Amateur Radio Association,Linked club repeater for members only,NMFCC,yes,Jack's Peak,,Full-time to the  Cactus Intertie System .,,,,,Cactus Intertie System,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.68,-0.6,100,W5AQA,"Socorro, M Mountain",NM,OPEN,,4.2,WNW,yes,146.68,146.08,100,123,Socorro,On-Air,Socorro Amateur Radio Association,7,NMFCC,yes,"Wide area; Albuquerque, Belen to Truth or Consequences along I-25.",E-power.,,,,,,Tech Amateur Radio Association,Socorro Amateur Radio Association,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.125,5,123,KC5ORO,"Socorro, West Peak",NM,OPEN,A,4.6,WNW,yes,442.125,447.125,123,123,Socorro,On-Air,"TARA ,  RMHAM ,  SARA , KD0WHB",TARA student radio club 440MHz repeater. Half duplex AllStar link. Located on top of the West Peak west of Socorro.,NMFCC,yes,Socorro County,AllStar link,,,,,,,New Mexico Tech Amateur Radio Association,DM64nb,45499,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.975,-5,114.8,WB5QHS,"T or C, Caballo Pk",NM,PRIVATE,,20,WSW,yes,448.975,443.975,114.8,,Sierra,On-Air,WB5QHS,,NMFCC,yes,"NM, AZ, TX, CA, OR, DC",,,MEMBERS ONLY,,,,Jacks Peak Amateur Radio Association/Cactus Intert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.7,-0.6,100,KC5OUR,Belen,NM,OPEN,,42.3,N,yes,146.7,146.1,100,,Valencia,On-Air,Valencia Co Amateur Radio Association,,,yes,,E-power.,,,,,,,,,,Yes; analog capable.,VCARA: Wed at 20:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.075,5,100,W5NES,Mountainair,NM,OPEN,,49,NE,yes,444.075,449.075,100,,Torrance,On-Air,W5NES,,NMFCC,yes,"Excellent coverage in Albuquerque, up to Santa Fe.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.225,5.1,,N5CUL,Los Lunas,NM,OPEN,,52.4,N,yes,442.225,447.275,,,Valencia,Off-Air,N5CUL,,NMFCC,yes,Los Lunas.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.125,5,100,WA5TSV,Los Lunas,NM,OPEN,,52.4,N,yes,444.125,449.125,100,,Valencia,On-Air,Los Lunas ARA,,NMFCC,yes,,"Closed autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.525,5,,K5URD,"Belen, Capilla Peak",NM,OPEN,,52.5,NNE,yes,444.525,449.525,,,Torrance,On-Air,Upper Rio FM Soc,9,NMFCC,yes,Wide area.,E-power.,,,yes,K5URD (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,URFMS Repeaters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.96,-0.6,100,K5URR,"Belen, Capilla Peak",NM,OPEN,,52.5,NNE,yes,146.96,146.36,100,88.5,Torrance,On-Air,Upper Rio FM Society,,NMFCC,yes,Wide area.,9,,,,,,,http://www.urfmsi.org/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.32,0.6,141.3,NM5EM,"Datil, Madre Mtn.",NM,OPEN,,54.8,W,yes,147.32,147.92,141.3,,Catron,On-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,223.82,-1.6,,WA5VJY,Albuquerque,NM,OPEN,,55.5,NNE,yes,223.82,222.22,,,Bernalillo,Off-Air,NM 220 S,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,29.68,-0.1,100,WS5MR,"White Sands Mountain Range, Salinas Peak",NM,OPEN,,56.4,SSE,yes,29.68,29.58,100,88.5,Sierra,On-Air,Aliens,"Somewhere high in the San Andres mountains of central New Mexico exists a plateau shrouded in mystery and wonder, a place where few men have dared to venture, and fewer stil have returned to tell.",,yes,"Elevation 8,967 ft.",,,,,,,,,DM63rh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.14,0.6,100,NM5ML,"Datil, Luera Peak",NM,OPEN,,58.7,WSW,yes,147.14,147.74,100,,Catron,On-Air,Mega-Link Rptr System,,NMFCC,yes,Wide area.,9,Full-time to the  Mega-Link System .,,,,,,http://www.nm5ml.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.04,0.6,100,AB1Q,Isleta Pueblo,NM,OPEN,,59.8,N,yes,147.04,147.64,100,,Bernalillo,Off-Air,AB1Q,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.15,5,100,AB1Q,"Albuquerque, Isleta Pueblo",NM,OPEN,,59.8,N,yes,442.15,447.15,100,,Bernalillo,Off-Air,AB1Q,,NMFCC,yes,,Autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.04,0.6,100,NM5ML,"Datil, Davenport Lookout",NM,OPEN,,60.4,WNW,yes,147.04,147.64,100,,Catron,On-Air,New Mexico Mega Link Assoc,RX Freq has shifted to 147.05,NMFCC,yes,,9,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.515,-0.6,141.3,NM5EM,"Corona, Gallinas Peak",NM,OPEN,,64.2,E,yes,145.515,144.915,141.3,,Lincoln,On-Air,New Mexico Emergency Services,,,yes,,,,,,,,NMEMA ARC,http://NMEMA.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.28,0.6,100,NM5ML,"Corona, Gallinas Peak",NM,OPEN,,64.2,E,yes,147.28,147.88,100,,Lincoln,On-Air,,,NMFCC,yes,Wide area.,8,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.13,-0.6,141.3,NM5EM,"Caballo (Truth Or Consequences), Caballo Peak",NM,OPEN,,66.9,SSW,yes,145.13,144.53,141.3,,Sierra,On-Air,,,,yes,I-25 (s) El Paso (n) San Antonio &amp; (w) Deming,,,,,,,New Mexico Dept. Of Homeland Security ARES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.175,-5,100,WB5QHS,"T or C, Caballo Pk",NM,PRIVATE,,66.9,SSW,yes,448.175,443.175,100,,Sierra,On-Air,WB5QHS,,,yes,"CA, AZ, NM, TX, OR, DC",,Full-time to the  Cactus Intertie System .,,,,,CACTUS INTERTIE,http://www.jpara.net/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.47,-0.6,141.3,K7EAR,"Caballo (Truth Or Consequences), Caballo Lake",NM,OPEN,EI,66.9,SSW,yes,145.47,144.87,141.3,,Sierra,On-Air,K7EAR,Emergency Power. Linked to 147.06,,yes,"Southern Arizona, Southern New Mexico, El Paso Tx.",,Full-time to the  EAARS-Link System .,,,,,Eastern Arizona Amateur Radio Association,http://www.eaars.com/map/map.html,,,,"Saguaro NTS Traffic, EAARS, Ladies Net, Skywarn",614350,7787,,,,,,,,,,,,,,,,,,,,,,,,
+,448.5,-5,100,NM5C,"T or C, Caballo Lake",NM,OPEN,EI,67.5,SSW,yes,448.5,443.5,100,100,Sierra,On-Air,WB5QHS,,NMFCC,yes,From just South of Socorro to the West side of El Paso (Mesa Street exit).,,,,,,,Linked to El Paso Amigo Link,https://www.facebook.com/SunCityARC.K5WPH,,,,,249171,3409,,,,,,,,,,,,,,,,,,,,,,,,
+,447.275,-5,71.9,KB5VPZ,"McIntosh, McIntosh Post office west",NM,OPEN,E,69.3,NE,yes,447.275,442.275,71.9,71.9,Torrance,On-Air,KB5VPZ,Usually Linked to 146.720 and Sandia Crest wait for courtesy beeps,,yes,All Torrance County. South Hwy 14 from Raven Rd. to Hwy 55. Hwy 55 to Hwy 60. Hwy 60 to Encino Hwy 42 to Corona,E-power (Solar and Wind). Linkable to other sites.,,# then node number to connect #then 73 disconnect,,,,,,,,,,943044,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.25,5,CC1,WA5IHL,Albuquerque,NM,OPEN,,69.5,N,yes,442.25,447.25,,,Bernalillo,On-Air,,,NMFCC,yes,Albuquerque,,,,,,,,http://www.aztrbonet.com/MinimalNetwatch,,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,442.05,5,100,K5BIQ,"Albuquerque, West Mesa",NM,OPEN,A,70.5,N,yes,442.05,447.05,100,100,Bernalillo,On-Air,BERNCO OEM,,NMFCC,yes,,,,,,,,,http://bc-ares.org/wordpress/,,28828,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.55,-5,71.9,K5FIQ,"Albuquerque,  Op Ctr",NM,OPEN,,71.2,NNE,yes,449.55,444.55,71.9,,Bernalillo,On-Air,Upper Rio FM Soc,,NMFCC,yes,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.72,-0.6,100,K5CQH,"Tijeras, Raven Road",NM,OPEN,E,71.2,NNE,yes,146.72,146.12,100,127.3,Bernalillo,On-Air,K5CQH,,NMFCC,yes,Wide area. HT Accessible from Albuquerque,7,,,,,,,,,,,,880130,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.9,-0.6,67,K5FIQ,"Albuquerque, Op Ctr",NM,OPEN,,71.2,NNE,yes,146.9,146.3,67,,Bernalillo,On-Air,Upper Rio FM Society,,NMFCC,yes,Wide area.,5,"Full-time to  
+        147.06000 (K5FIQ) at Clines Corners, Tapia Mesa, NM .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.45,-5,,W5URR,"Albuquerque, Op Center",NM,OPEN,,71.2,NNE,yes,449.45,444.45,,,Bernalillo,On-Air,The Upper Rio FM Society,,NMFCC,yes,,,,,yes,W5URR (B),"jfindu lookup 
+    /   dstar-users lookup",,http://www.urfmsi.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224,-1.6,100,K5CQH,"Tijeras, Raven Road",NM,OPEN,,71.2,NNE,yes,224,222.4,100,,Bernalillo,Off-Air,,,NMFCC,yes,Wide area.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.8,-5,67,K5FIQ,"Albuquerque,  Op Ctr",NM,OPEN,,71.2,NNE,yes,449.8,444.8,67,,Bernalillo,On-Air,Upper Rio FM Soc,,NMFCC,yes,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.92,-0.6,67,KF5ERC,Albuquerque,NM,OPEN,E,71.4,NNE,yes,146.92,146.32,67,,Bernalillo,Off-Air,Mel Watkins,,,yes,,,,,,,,,,,,,,714941,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.45,5,67,K5FIQ,"Albuquerque, Northern Sandia Mountain Top",NM,OPEN,,72.2,N,yes,442.45,447.45,67,67,Bernalillo,On-Air,Upper Rio Grande FM Society,,,yes,,"FM, Autopatch",,,,,,,http://www.urfmsi.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.01,0,,W5SCA,"Albuquerque, Sandia Crest",NM,OPEN,,72.2,N,yes,145.01,145.01,,,Bernalillo,,Sandoval County Amateur Radio Emergency Service,,,yes,wide-area,Packet node W5SCA-11,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,145.29,-0.6,100,WA5IHL,"Albuquerque, Sandia Mnts",NM,OPEN,,72.2,N,yes,145.29,144.69,100,,Bernalillo,On-Air,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.5,-5,123,KE5XE,Albuquerque,NM,OPEN,,72.2,N,yes,443.5,438.5,123,,Bernalillo,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,927.7,-25,210.7,WB5EZO,Albuquerque,NM,OPEN,,72.6,NNE,yes,927.7,902.7,210.7,,Bernalillo,Off-Air,,,,yes,Wide area.,"Closed autopatch, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.1,5,100,KC5ZXW,"Albuquerque, Southeast",NM,OPEN,,72.6,NNE,yes,444.1,449.1,100,,Bernalillo,On-Air,,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,927.65,-25,151.4,KC5ZXW,Albuquerque,NM,OPEN,,72.9,NNE,yes,927.65,902.65,151.4,,Bernalillo,Off-Air,,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.525,5,100,K5PRN,"Albuquerque, UNM Campus",NM,OPEN,,72.9,NNE,yes,442.525,447.525,100,,Bernalillo,On-Air,KE5LOH,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.38,0.6,,N5GU,Albuquerque,NM,OPEN,,74,NNE,yes,147.38,147.98,,,Bernalillo,On-Air,ED&amp;DREW,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.465,0,88.5,W5MHG,Albuquerque,NM,OPEN,EA,74.2,NNE,yes,147.465,147.465,88.5,,Bernalillo,On-Air,,,,yes,,,,,,,,,http://www.w5mhg.com,,28239,,,465010,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.6,5,CC1,N5GU,"Albuquerque, Southeast",NM,OPEN,,74.2,NNE,yes,444.6,449.6,,,Bernalillo,On-Air,Drew J. Riedle,,NMFCC,yes,Albuquerque area,TS 1 Talk Groups *91 World wide *93 North America *3100 USA Nation wide TS 2 Talk Groups *310 TAC 310 *3135 New Mexico State wide *3176 Southwest Region USA,,,,,,,http://brandmeister.network/?page=repeater&amp;id=313509,,,,,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,146.74,-0.6,146.2,KD5MHQ,Albuquerque,NM,OPEN,,75.3,NNE,yes,146.74,146.14,146.2,,Bernalillo,On-Air,KD5MHQ,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.15,-0.6,100,K5BIQ,"Tijeras, Cedro Peak",NM,OPEN,,75.3,NNE,yes,145.15,144.55,100,100,Bernalillo,On-Air,BERNCO OEM,,NMFCC,yes,,,"Full-time to  
+        145.13000 (K5BIQ) at Albuquerque, BCFD Fire Station 35, NM .",,,,,,http://bc-ares.org/wordpress/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.34,0.6,67,NM5ML,"Tijeras, Cedro Peak",NM,OPEN,,75.3,NNE,yes,147.34,147.94,67,,Bernalillo,On-Air,,,NMFCC,yes,Wide area,7,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.36,0.6,100,KB5XE,Albuquerque,NM,OPEN,,76,NNE,yes,147.36,147.96,100,,Bernalillo,Off-Air,KB5XE,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.65,5,CC1,NM5SH,Albuquerque,NM,OPEN,,76.8,N,yes,443.65,448.65,,,Bernalillo,On-Air,NM5SH,,NMFCC,yes,Albuquerque Metro,Brandmeister,,,,,,,NM5SH QSL.net,DM65pd,,,,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,223.9,-1.6,,KB5UGU,Albuquerque,NM,OPEN,E,77,N,yes,223.9,222.3,,,Bernalillo,On-Air,,,,yes,,"E-power (solar), Autopatch, Remote base.",,United States,,,,,,,,,,87120,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.32,0.6,100,K5LXP,Albuquerque,NM,OPEN,,77.4,NNE,yes,147.32,147.92,100,,Bernalillo,On-Air,K5LXP,,NMFCC,yes,,20,,,,,,,K5LXP Repeters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.26,0.6,100,NM5ML,"T Or C, Caballo Peak",NM,OPEN,,77.7,SSW,yes,147.26,147.86,100,,Sierra,On-Air,Mega-Link,,NMFCC,yes,I-25 (s) El Paso Tx (n) San Antonio NM.,,Full-time to the  Mega-Link System .,,,,,,http://www.NM5ML.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.58,-1.6,100,KH6JTM,Albuquerque,NM,OPEN,,77.9,NNE,yes,224.58,222.98,100,,Bernalillo,On-Air,KH6JTM,,NMFCC,yes,,"Autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.375,5,67,NM5ML,"Ruidoso, Buck Mountain",NM,OPEN,,78.1,SE,yes,444.375,449.375,67,,Lincoln,On-Air,,9,NMFCC,yes,Wide area.,E-power.,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.925,5,100,K5RIC,"Ruidoso, Buck Mtn",NM,OPEN,,78.1,SE,yes,443.925,448.925,100,100,Lincoln,On-Air,Amateur Radio Club,,NMFCC,yes,Wide Area.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.85,5,103.5,KC0QIZ,Albuquerque,NM,OPEN,EI,79.1,NNE,yes,443.85,448.85,103.5,,Bernalillo,On-Air,KC0QIZ,,NMFCC,yes,,,,,,,,,,,,,,881226,3818,,,,,,,,,,,,,,,,,,,,,,,,
+,439.4,9,100,K5RIC,"Nogal, Nogal Mesa",NM,OPEN,,79.1,SE,yes,439.4,448.4,100,100,Lincoln,Off-Air,Buffton Amateur Radio Club,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.37,-0.6,162.2,NM5HD,Rio Rancho,NM,OPEN,I,79.3,N,yes,145.37,144.77,162.2,,Sandoval,On-Air,Adrian Miura,,,yes,,,,,,,,,,,,,,,7706,,,,,,,,,,,,,,,,,,,,,,,,
+,145.13,-0.6,100,K5BIQ,"Albuquerque, BCFD Fire Station 35",NM,OPEN,,80,NNE,yes,145.13,144.53,100,100,Bernalillo,On-Air,BERNCO OEM,,NMFCC,yes,,,"Full-time to  
+        145.15000 (K5BIQ) at Tijeras, Cedro Peak, NM .",,,,,,http://bc-ares.org/wordpress/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.48,-1.6,100,K6LIE,"Albuquerque, Northeast Heights area",NM,OPEN,I,81.6,NNE,yes,224.48,222.88,100,,Bernalillo,On-Air,K6LIE,Moved to new location and added PL,NMFCC,yes,Entire Albuquerque Area,,,,,,,High Desert ARC of New Mexico,,,,,,,3285,,,,,,,,,,,,,,,,,,,,,,,,
+,444.7,5,100,K5CPU,"Rio Rancho, Intel Corp",NM,OPEN,,81.7,N,yes,444.7,449.7,100,,Sandoval,On-Air,New Mexico Intel Emergency Amateur Service,,NMFCC,yes,Albuquerque and vicinity,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.4,5,CC4,KG5SLG,"Rio Rancho, NM 528 and Corrales Rd",NM,OPEN,,82.2,N,yes,442.4,447.4,,,Sandoval,On-Air,,Dmr color code 4,NMFCC,yes,"Rio Rancho, Bernalillo,Albuquerque and plus Northeast heights of Albuquerque","Brandmeister, DMR CC 4, D-Star, Fusion",,,,,,,,,,,,,,yes,4,yes,,,,,,,,,,,,,,,,,,,,,
+,224.94,-1.6,,W5AOX,Sandia Park,NM,OPEN,E,82.3,NNE,yes,224.94,223.34,,,Bernalillo,Off-Air,W5AOX,,NMFCC,yes,,Remote base.,"Full-time to  
+        444.15000 (W5AOX) at Sandia park, NM .","CB58 (this selects mem 58, or 146.58.. Enter B and the desired memory number, then unkey) 
+VFO Freq Entry CD14*275D (example is to enter 14.275 MHz) 
+Step Freq UP 1 KHz 
+C2 Step Freq DOWN 1 Khz C1 Select/Toggle through Modes  
+C8 Read Back Current Mode  C0 (Zero) Read Current Freq in CW C4 Activate Remote Base 
+Transmit 587 Remote Base Receive Only 
+576 Toggle RX Preamp 
+C5 Toggle RX 20dB Attenuator 
+C3 Select 80/40M Dipole 
+*1A Select Triband (10-15-20-6M) Beam 
+*1B Select Ringo Ranger 2M vert ant 
+*2A Select 2M + 432 horiz beams 
+*2B Scan Start CA (MUST be in monitor-only mode (576) to scan, Starts from current freq) Scan Stop PTT",,,,,http://www.qsl.net/w5aox/,,,,,3061,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.15,5,100,W5AOX,Sandia park,NM,OPEN,E,82.3,NNE,yes,444.15,449.15,100,,Bernalillo,On-Air,W5AOX,,NMFCC,yes,,,"Full-time to  
+        224.94000 (W5AOX) at Sandia Park, NM .",,,,,,,,,,,3061,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.2,5,CC1,N5QD,Corrales,NM,OPEN,,83.1,N,yes,443.2,448.2,,,Sandoval,On-Air,,,,yes,,Brandmeister,,,,,,,http://brandmeister.network/?page=repeater&amp;id=313513,,,,,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,442.1,5,162.2,KB5GAS,"Albuquerque, Sandia Crest",NM,OPEN,I,83.4,NNE,yes,442.1,447.1,162.2,,Bernalillo,On-Air,Albuquerque Gas Balloon Assoc,,,yes,Wide area.,E-power.,,,,,,,,,,,,,3676,,,,,,,,,,,,,,,,,,,,,,,,
+,444.325,5,100,NM5ML,"Albuquerque, Sandia Crest",NM,OPEN,,83.4,NNE,yes,444.325,449.325,100,,Bernalillo,On-Air,,,NMFCC,yes,Wide area.,10,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444,5,100,W5CSY,"Albuquerque, Sandia Crest",NM,OPEN,,83.4,NNE,yes,444,449,100,,Bernalillo,On-Air,Amateur Radio Caravan Club of New Mexico,,NMFCC,yes,Wide area.,E-power.,"Full-time to  
+        145.33000 (W5CSY) at Albuquerque, Sandia Crest, NM .",,,,,,http://www.caravanradio.org,,,,AACC: Sun at 0900.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.29,-0.6,100,NM5ML,"Albuquerque, Sandia Crest",NM,OPEN,,83.4,NNE,yes,145.29,144.69,100,,Bernalillo,On-Air,New Mexico Mega Link Assoc,,NMFCC,yes,,10,Full-time to the  Mega-Link System .,,,,,,http://nm5ml.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.33,-0.6,100,W5CSY,"Albuquerque, Sandia Crest",NM,OPEN,,83.4,NNE,yes,145.33,144.73,100,,Bernalillo,On-Air,Amateur Radio Caravan Club of New Mexico,,NMFCC,yes,Wide area.,E-power.,"Full-time to  
+        444.00000 (W5CSY) at Albuquerque, Sandia Crest, NM .",,,,,,http://caravanradio.org/,,,,AACC: Sun at 0900.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.75,5,162.2,KC5IPK,"Albuquerque, Sandia Crest",NM,OPEN,I,83.4,NNE,yes,442.75,447.75,162.2,,Bernalillo,On-Air,,,,yes,,10,,,,,,,,,,,,,7855,,,,,,,,,,,,,,,,,,,,,,,,
+,442.6,5,100,K5FSB,"Albuquerque, Sandia Peak",NM,OPEN,,83.4,NNE,yes,442.6,447.6,100,,Bernalillo,On-Air,URFMSI,"Voting receiver. 10,680'",NMFCC,yes,Wide area.,Closed autopatch.,,,,,,,http://www.urfmsi.org/wp/repeaters/analog/gary-diamond-repeater,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.8,5,,W5MPZ,"Albuquerque, Sandia Crest",NM,OPEN,,83.5,NNE,yes,443.8,448.825,,,Bernalillo,On-Air,Sandia National Laboratories ARC,,NMFCC,yes,Wide area;,,,,yes,W5MPZ (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.61,-0.6,100,KC5QVN,Capitan,NM,OPEN,,83.6,SE,yes,146.61,146.01,100,,Lincoln,On-Air,KB5ZFA,,NMFCC,yes,Wide area.,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.9,5,CC7,KA8JMW,"Albuquerque, Sandia Crest",NM,OPEN,,83.7,NNE,yes,442.9,447.9,,,Bernalillo,On-Air,"Rocky Mountain Ham Radio, NM","Colorado Wide: CC 7, TS 1, TG 700 Colorado South: CC 7, TS 2, TG 719",NMFCC,yes,,,Full-time to the  Colorado TRBO System .,,,,,,http://www.rmham.org/wordpress/mototrbo-radio-site-information,,,,,,,yes,7,yes,,,,,,,,,,,,,,,,,,,,,
+,146.76,-0.6,100,N5BL,"T Or C, Caballo Pk",NM,OPEN,,83.8,SSW,yes,146.76,146.16,100,,Sierra,On-Air,MVRC,,NMFCC,yes,Wide area. I-25 (s) El Paso (n) San Antonio.,E-power.,,,,,,,http://n5bl.org/index.html,dm62iw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,51.7,-1,156.7,WB5IUZ,"Albuquerque, Sandia Crest",NM,OPEN,,83.9,NNE,yes,51.7,50.7,156.7,,Bernalillo,Off-Air,K5RKE,Off the air until spring 2014,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.3,5,CC1,K5KRE,"Albuquerque, Sandia Crest",NM,OPEN,,83.9,NNE,yes,443.3,448.3,,,Bernalillo,Testing,K5RKE,Timeslot 1 3135 (New Mexico) 31302 (MPRG 2) Timeslot 2 31301 (MPRG 1),NMFCC,yes,Wide area.,A Motorola SLR5700 on the BrandMeister worldwide network,,,,,,Mac Pass Repeater Group,http://brandmeister.network/?page=repeater&amp;id=313510,,,,,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,443.75,5,100,WA6CCB,"Albuquerque, Sandia Peak",NM,CLOSED,,84,NNE,yes,443.75,448.75,100,,Bernalillo,Off-Air,"WA6CCB, K5RKE",,NMFCC,yes,,,,,,,,,,,,,Bosque Youth Amateur Radio Net: M-F at 17:00.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.92,-0.6,100,KR5NM,"Ruidoso, Alto Crest",NM,OPEN,,84.1,SE,yes,146.92,146.32,100,,Lincoln,On-Air,Sierra Blanca ARC,,NMFCC,yes,Wide area,E-power. Linked with 145.45.,"Full-time to  
+        145.45000 (KR5NM) at Ruidoso, Camelot, NM .",400,,,,,http://sbarcnm.org,DM73dj,,,Lincoln County ARES: Wed at 19:00 Local.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.75,5,162.2,KC5IPK,Rio Rancho,NM,OPEN,EI,84.5,N,yes,442.75,447.75,162.2,,Sandoval,On-Air,KC5IPK,,NMFCC,yes,"Rio Rancho, Albuquerque, Corrales.",E-power.,,,,,,,,,,,,214956,7855,,,,,,,,,,,,,,,,,,,,,,,,
+,443,5,100,NM5RR,"Rio Rancho, Rainbow",NM,OPEN,A,84.5,N,yes,443,448,100,,Sandoval,On-Air,Sandoval Co ARES,,NMFCC,yes,Rio Rancho and parts of Santa Fe.,E-power.,"Full-time to  
+        147.10000 (NM5RR) at Rio Rancho, Rainbow, NM .",,,,,RACES.,http://www.nmscares.org,,27750,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.08,0.6,123,W5TWY,Tularosa,NM,OPEN,,84.5,SE,yes,147.08,147.68,123,,Otero,On-Air,,,NMFCC,yes,Tularosa Basin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.1,0.6,100,NM5RR,"Rio Rancho, Rainbow",NM,OPEN,A,84.5,N,yes,147.1,147.7,100,100,Sandoval,On-Air,Sandoval Co ARES,,NMFCC,yes,,"E-power, remote base, Linked to 443.100 and 147.080.","Full-time to  
+        443.00000 (NM5RR) at Rio Rancho, Rainbow, NM .",,,,,,http://www.nmscares.org,,27749,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.9,5,100,W5TYW,Tularosa,NM,OPEN,,84.6,SE,yes,443.9,448.9,100,,Otero,,W5TYW,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,442.35,5,100,WA5OLD,Rio Rancho,NM,OPEN,,85.5,N,yes,442.35,447.35,100,,Sandoval,On-Air,WA5OLD,,NMFCC,yes,,Autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.6,5,85.4,N5SN,Ruidoso,NM,OPEN,,86.2,SE,yes,443.6,448.6,85.4,,Lincoln,On-Air,Greenville Repeater Assoc,,,yes,,"E-power, EchoLink, remote base.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.98,-0.6,100,K5RIC,"Ruidoso, Buck Mtn",NM,OPEN,,86.2,SE,yes,146.98,146.38,100,100,Lincoln,On-Air,Amateur Radio Club,Damaged Antenna has some RX coverage loss due to dense. Plans to replace Ant soon,NMFCC,yes,Wide area.,E power ARES /RACES Linked Frequency agile Remote Base,,,,,,Amateur Radio Club,,,,,"Sun though Friday 19:00 Pecas Valley ARC Net  Sat 19:00 Sacramento Mtn Net 
+Thurs 20:00 El Paso Amigo Net",,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.45,-0.6,151.4,KR5NM,"Ruidoso, Camelot",NM,OPEN,,87.8,SE,yes,145.45,144.85,151.4,,Lincoln,Off-Air,,,NMFCC,yes,US70 Roswell to Alamogordo US380 Lincoln to Capitan,,"Full-time to  
+        146.92000 (KR5NM) at Ruidoso, Alto Crest, NM .",,,,,,https://sbarcnm.org,,,,Lincoln County ARES: Wed at 19:00.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.64,-0.6,67,K5URR,"Grants, MW Ridge",NM,OPEN,,87.9,NNW,yes,146.64,146.04,67,67,Bernalillo,On-Air,URFMSI,,NMFCC,yes,Wide Area,,,,,,,,http://www.urfmsi.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.08,0.6,100,NM5SC,"Placitas, La Madera",NM,OPEN,A,89.8,NNE,yes,147.08,147.68,100,,Sandoval,On-Air,Sandoval County ARES,25,NMFCC,yes,"Wide area: Sandia Mtns, Edgewood, Moriarty, Madrid, Golden.","Linked, e-power.",,,,,,ARRL,http://www.nmscares.org,,28176,,Sandoval County ARES: Mon at 19:30.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.94,-0.6,100,WB5EKP,"Grants,  Mt Taylor",NM,OPEN,,91.1,NNW,yes,146.94,146.34,100,,Cibola,On-Air,Upper Rio FM Society,,,yes,Wide area.,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.98,-0.6,141.3,NM5EM,"Grants, Mt Taylor",NM,OPEN,,91.7,NNW,yes,146.98,146.38,141.3,141.3,Cibola,On-Air,New Mexico Emergency Management Association Amateur Radio Club,Located inside the state of NM radio building.,,yes,,,,,,,,,,,,Yes; analog capable.,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.4,5,100,K5AKW,"Placitas, Sandia Peak",NM,OPEN,,91.8,NNE,yes,443.4,448.4,100,,Sandoval,On-Air,Sandia Vista ARC,,NMFCC,yes,,,,,,,,,http://sandiavista.net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.95,5,100,KE5FYL,"Grants, La Mosca Peak",NM,OPEN,,91.8,NNW,yes,444.95,449.95,,,Bernalillo,On-Air,Cibola County Amateur Radio Club,,NMFCC,yes,Wide area.,,"Full-time to  
+        147.18000 (KE5FYL) at Grants, NM .",,,,,,,,,,,,,,,,,,,,,,,,,,yes,23,,,,,,,,,
+,444.8,5,67,NM5ML,"Grants, La Mosca",NM,OPEN,,92.9,NW,yes,444.8,449.8,67,,Cibola,On-Air,Mega Link Repeater System,10,NMFCC,yes,Wide area,Full time to the New Mexico MegaLink system,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.975,5,67,K5EMO,"Grants, 515 West High Street",NM,OPEN,,92.9,NW,yes,444.975,449.975,67,67,Cibola,On-Air,Cibola County Emergency Manager,,,yes,Local,Linked to 147.980 NM5EM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.18,0.6,100,KE5FYL,Grants,NM,OPEN,,92.9,NW,yes,147.18,147.78,100,100,Cibola,On-Air,Cibola County Amateur Radio Club,PL 100.0 must but placed on both RX &amp; TX to avoid hearing Digital Traffic noise. linked to 444.950 La Mosca peak,NMFCC,yes,,,"Full-time to  
+        444.95000 (KE5FYL) at Grants, La Mosca Peak, NM .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.65,5,CC1,KE5FYL,"Grants, Rogers Rock",NM,OPEN,,92.9,NW,yes,444.65,449.65,,,Bernalillo,On-Air,Cibola County Amateur Radio Club,,NMFCC,yes,Local,,,,yes,KE5FYL (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,146.66,-0.6,100,NM5ML,"Grants, Microwave Ridge",NM,OPEN,,92.9,NW,yes,146.66,146.06,100,,Cibola,On-Air,Mega-Link Rptr System,,NMFCC,yes,Wide area.,9,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.05,-5,103.5,WB7EGF,"Quemado, Fox Mtn",NM,OPEN,,93.6,WNW,yes,448.05,443.05,103.5,,Catron,On-Air,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.86,-0.6,100,N6CID,Alamogordo,NM,OPEN,,96.4,SE,yes,146.86,146.26,100,,Otero,,N6CID,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,144.96,-0.4,,W6DHS,"Alamogordo, La Luz",NM,OPEN,,96.4,SE,yes,144.96,144.56,,,Otero,On-Air,Tularosa Basin Digital ARC,Elevation 4500',,yes,"Tularosa, La Luz, Alamogordo, Holloman Air Force Base, White Sands National Monument, and the surrounding areas",Split is -0.4,,,yes,W6DHS (C) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.41,5,100,KC5OWL,Alamogordo,NM,OPEN,,96.4,SE,yes,442.41,447.41,100,,Otero,Off-Air,KC5OWL,,NMFCC,yes,,Autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.825,5,67,K5LRW,Alamogordo,NM,OPEN,,96.4,SE,yes,444.825,449.825,67,,Otero,Off-Air,Alamogordo ARC,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.8,-0.6,100,K5LRW,Alamogordo,NM,OPEN,,96.4,SE,yes,146.8,146.2,100,,Otero,On-Air,Alamogordo ARC,25,,yes,Local area,,,,,,,,,,,Yes; analog capable.,,,,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,,,,,
+,53.41,-1,CSQ,KA5BYL,Alamogordo,NM,OPEN,,96.4,SE,yes,53.41,52.41,CSQ,,Otero,On-Air,KA5BYL,,NMFCC,yes,,Autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.6,-1.6,,KA5BYL,Alamogordo,NM,OPEN,,96.4,SE,yes,224.6,223,,,Otero,,KA5BYL,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.9,-0.6,77,KC5OWL,Alamogordo,NM,OPEN,,96.4,SE,yes,146.9,146.3,77,,Otero,On-Air,KC5OWL,,NMFCC,yes,,Autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.8,-5,100,W5AKU,High Rolls,NM,OPEN,E,97.8,SE,yes,442.8,437.8,100,,Otero,On-Air,W5AKU,,NMFCC,yes,"Good coverage of Cloudcroft, High Rolls, Alamogordo, and Holloman AFB",E-power.,,,,,,,,,,,,188100,,,,,,,,,,,,,,,,,,,,,,,,,
+,147,0.6,100,KF5MQH,"High Rolls, Cloudcroft/ Alamogordo",NM,OPEN,,98.1,SE,yes,147,147.6,100,100,Otero,On-Air,W5AKU,,,yes,Western Otero County,,,,,,,,,,,Yes; analog capable.,,,,,,,,,,,,,,,,,yes,1,,,,,,,,,
+,146.66,-0.6,67,WA5IHL,"Roswell, Capitan Peak",NM,OPEN,,98.8,SE,yes,146.66,146.06,67,,Lincoln,On-Air,New Mexico Mega Link Assoc,,NMFCC,yes,Wide area.,10,Full-time to the  Mega-Link System .,,,,,,http://www.nm5ml.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.06,0.6,67,K5FIQ,"Clines Corners, Tapia Mesa",NM,OPEN,,99.1,NE,yes,147.06,147.66,67,,San Miguel,On-Air,Upper Rio FM Society,,NMFCC,yes,,7,"Full-time to  
+        146.90000 (K5FIQ) at Albuquerque, Op Ctr, NM .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.37,-0.6,156.7,NM5EM,"Cloudcroft, Benson Ridge",NM,OPEN,,100.9,SE,yes,145.37,144.77,156.7,,Otero,On-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.35,-0.6,88.5,WA5IHL,"Alamogordo, Long Ridge",NM,OPEN,,102.7,SE,yes,145.35,144.75,88.5,,Otero,On-Air,Mega-Link,,,yes,Wide area.,7,Full-time to the  Mega-Link System .,,,,,,http://www.nm5ml.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.22,0.6,151.4,KE5MIQ,"Alamogordo, Alamo Peak",NM,OPEN,,102.9,SE,yes,147.22,147.82,151.4,151.4,Otero,Off-Air,Sacramento Mountains Radio Club,Link to SMRC system is currently down due to lightning strike. YSF DCS 051.,NMFCC,yes,South central New Mexico and El Paso area.,,"Full-time to  
+        147.34000 (KE5MIQ) at James Ridge Lookout, NM .
+ 
+
+
+Full-time to  
+        146.96000 (KE5MIQ) at Weed, Weed Lookout, NM .",,,,,,Sacramento Mountains Radio Club,,,,Sat @ 19:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.34,0.6,100,KE5MIQ,James Ridge Lookout,NM,OPEN,,105.9,SE,yes,147.34,147.94,100,,Otero,On-Air,Sacramento Mountains Radio Club,,NMFCC,yes,South central New Mexico and El Paso area,,"Full-time to  
+        146.96000 (KE5MIQ) at Weed, Weed Lookout, NM .
+ 
+
+
+Full-time to  
+        147.22000 (KE5MIQ) at Alamogordo, Alamo Peak, NM .",,,,,,Sacramento Mountains Radio Club,,,,Saturday at 1900,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443,5,100,K5YEJ,"San Luis, Cabezon",NM,OPEN,,107.1,N,yes,443,448,100,,Sandoval,On-Air,,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.23,-0.6,123,K5BEN,"Cloudcroft, Benson Ridge",NM,OPEN,,107.3,SE,yes,145.23,144.63,123,,Otero,On-Air,Jacks Peak ARA,,NMFCC,yes,Wide area.,7,,,,,,Cactus Intertie System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.95,5,85.4,N6CID,Alamogordo,NM,OPEN,E,107.3,SE,yes,442.95,447.95,85.4,85.4,Otero,On-Air,N6CID,,NMFCC,yes,,E-power.,,,,,,,,,,,,474106,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.975,5,100,KF5LGO,Alamogordo,NM,OPEN,,107.3,SE,yes,444.975,449.975,100,100,Otero,On-Air,KF5DTM,,,yes,50,,,,,,,NONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.38,0.6,103.5,K5GAR,Reserve,NM,OPEN,,109.6,WSW,yes,147.38,147.98,103.5,,Catron,Off-Air,Gila ARS,,NMFCC,yes,Wide area.,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.34,0.6,141.3,NM5EM,"Reserve, Frisco",NM,OPEN,,109.7,WSW,yes,147.34,147.94,141.3,,Catron,On-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.3,-5,100,WB5QHS,Pinos Altos,NM,OPEN,,112.7,SW,yes,448.3,443.3,100,,Grant,On-Air,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.1,5,100,NM5SC,"San Ysidro, Pajarito Peak",NM,OPEN,A,113.2,N,yes,443.1,448.1,100,,Sandoval,On-Air,Sandoval County ARES,"KNWD TKR-850, RTCM Interface. 25W, 9000' MSL. (Pajarito Peak differs from Pajarito Mountain near Los Alamos)",NMFCC,yes,Wide area - NW NM.,"Linked, e-power.",,,,,,ARRL,http://nmscares.org/,,27748,,Sandoval County ARES: Mon at 19:30.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1293.9,-20,127.3,KC5SJQ,Organ,NM,OPEN,,114.1,S,yes,1293.9,1273.9,127.3,,Dona Ana,On-Air,,,NMFCC,yes,,oslx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.64,-0.6,100,N5BL,Las Cruces,NM,OPEN,,114.5,S,yes,146.64,146.04,100,,Dona Ana,On-Air,Mesilla Valley RC,,NMFCC,yes,,"Closed autopatch, e-power.",,,,,,,http://www.zianet.com/mvrc/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.2,-5,100,N5BL,"Las Cruces, Twin Peaks",NM,OPEN,,114.8,S,yes,448.2,443.2,100,,Dona Ana,On-Air,Mislla Vaaley Radio Club,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.34,-1.6,,KC5SJQ,Dona Ana,NM,OPEN,,115.4,S,yes,224.34,222.74,,,Dona Ana,,KC5SJQ,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.36,0.6,67,NM5ML,"Reserve, Frisco Divide",NM,OPEN,,116.2,W,yes,147.36,147.96,67,,Catron,On-Air,New Mexico Mega Link Assoc,8,NMFCC,yes,,,Full-time to the  Mega-Link System .,,,,,,http://nm5ml.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.115,-0.6,67,NM5ML,Pinos Altos,NM,OPEN,,116.6,SW,yes,145.115,144.515,67,,Grant,On-Air,Mega-Link Rptr System,,NMFCC,yes,,8,Full-time to the  Mega-Link System .,,,,,,http://nm5ml.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.96,-0.6,100,KE5MIQ,"Weed, Weed Lookout",NM,OPEN,,117.5,SE,yes,146.96,146.36,100,,Otero,On-Air,Sacramento Mountains Radio Club,,NMFCC,yes,South central New Mexico and El Paso Texas area,,"Full-time to  
+        147.34000 (KE5MIQ) at James Ridge Lookout, NM .
+ 
+
+
+Full-time to  
+        147.22000 (KE5MIQ) at Alamogordo, Alamo Peak, NM .",,,,,,http://www.sacramentomountainsradioclub.org,,,,Sat at 1900.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.775,-5,103.5,WY5G,"Glenwood,   Brushy Mountain",NM,OPEN,,118.6,W,yes,448.775,443.775,103.5,103.5,Catron,On-Air,WY5G,,NMFCC,yes,,"Linked to 448.8 in Silver City, NM","Full-time to  
+        448.80000 (WY5G) at Silver City, NM .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.8,-5,100,WY5G,Silver City,NM,OPEN,,119.7,SW,yes,448.8,443.8,100,100,Grant,On-Air,WY5G,,NMFCC,yes,,,"Full-time to  
+        448.77500 (WY5G) at Glenwood,   Brushy Mountain, NM .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.98,-0.6,103.5,K5GAR,"Silver City, Black Peak",NM,OPEN,,119.7,SW,yes,146.98,146.38,103.5,,Grant,On-Air,Gila ARS,Used often by SAR teams,NMFCC,yes,Very Wide area.,E-power (solar).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.875,-5,100,WA7ACA,Silver City,NM,OPEN,,119.7,SW,yes,448.875,443.875,100,,Grant,,WA7ACA,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,448.05,-5,103.5,K5GAR,Silver City,NM,OPEN,,119.7,SW,yes,448.05,443.05,103.5,,Grant,On-Air,Gila ARS,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.94,-0.6,,KA5ECS,Las Cruces,NM,OPEN,,120.3,S,yes,146.94,146.34,,,Dona Ana,,KA5ECS,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.38,0.6,100,W7DXX,Las Cruces,NM,OPEN,,120.3,S,yes,147.38,147.98,100,,Dona Ana,,W7DXX,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.51,0,114.8,N5OTY,Las Cruces,NM,OPEN,I,120.3,S,yes,147.51,147.51,114.8,114.8,Dona Ana,On-Air,,7,,yes,"Las Cruces, Radium springs, La Mesa, west mesa",,,node # up 73 down,,,,,,,,,,,3037,,,,,,,,,,,,,,,,,,,,,,,,
+,449.9,-5,,WA8FBN,Las Cruces,NM,OPEN,,120.8,S,yes,449.9,444.9,,,Dona Ana,,WA8FBN,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.18,0.6,100,NM5ML,Las Cruces,NM,OPEN,,120.8,S,yes,147.18,147.78,100,,Dona Ana,On-Air,New Mexico Mega Link Assoc,,NMFCC,yes,,5,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.575,-5,100,KC5EVR,Las Cruces,NM,OPEN,,120.8,S,yes,449.575,444.575,100,,Dona Ana,,KC5EVR,,,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.78,-0.6,100,N5IAC,Las Cruces,NM,OPEN,,120.8,S,yes,146.78,146.18,100,,Dona Ana,,N5IAC,,,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,449.8,-5,100,KC5IEC,Las Cruces,NM,OPEN,,120.8,S,yes,449.8,444.8,100,,Dona Ana,,KC5IEC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,223.94,-1.6,,N5IAC,Las Cruces,NM,OPEN,,120.8,S,yes,223.94,222.34,,,Dona Ana,On-Air,N5IAC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,447.5,-5,,N5IAC,Las Cruces,NM,OPEN,,120.8,S,yes,447.5,442.5,,,Dona Ana,,N5IAC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,449.275,-5,146.2,K9GAJ,Santa Fe,NM,OPEN,I,121.3,NNE,yes,449.275,444.275,146.2,,Santa Fe,On-Air,Fred Homuth,,,yes,,,,,,,,,,,,,,,3939,,,,,,,,,,,,,,,,,,,,,,,,
+,447.775,-5,100,KF5SGT,Santa Fe,NM,OPEN,I,121.3,NNE,yes,447.775,442.775,100,,Santa Fe,On-Air,,,,yes,Santa Fe,,,,,,,,,,,,,,7326,,,,,,,,,,,,,,,,,,,,,,,,
+,146.84,-0.6,,W5GB,Las Cruces,NM,OPEN,,122.5,S,yes,146.84,146.24,,,Dona Ana,On-Air,,,NMFCC,yes,20,,,,yes,W5GB (C),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.2,0.6,162.2,W5SF,"Santa Fe, St Vincent Hospital",NM,OPEN,,122.9,NNE,yes,147.2,147.8,162.2,,Santa Fe,On-Air,Santa Fe ARC,,NMFCC,yes,,E-power. Full time link to Tesuque Peak.,,,,,,,SFARC Repeaters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,53.2,-1,107.2,N9PGQ,La Cueva,NM,OPEN,,124.7,NNE,yes,53.2,52.2,107.2,,Santa Fe,Off-Air,N9PGQ,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.125,5,107.2,N9PGQ,La Cueva,NM,OPEN,,124.7,NNE,yes,442.125,447.125,107.2,,Santa Fe,,,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.84,-0.6,107.2,N9PGQ,La Cueva,NM,OPEN,,124.7,NNE,yes,146.84,146.24,107.2,,Santa Fe,,N9PGQ,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,145.19,-0.6,162.2,,Santa Fe,NM,OPEN,,124.8,NNE,yes,145.19,144.59,162.2,,Bernalillo,On-Air,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.21,-0.6,,W5SF,Santa Fe,NM,OPEN,,124.8,NNE,yes,145.21,144.61,,,Santa Fe,On-Air,W5SF,Soon to move to a better location.,,yes,Local Santa Fe,,,,yes,W5SF (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Santa Fe Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.575,5,,W5SF,Santa Fe,NM,OPEN,,124.8,NNE,yes,444.575,449.575,,,Santa Fe,On-Air,W5SF,Soon to move to a better location,,yes,Local Santa Fe,,,,yes,W5SF (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Santa Fe Amateur Radio CLub,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.41,-0.6,100,W5HO,La Cueva,NM,OPEN,,125.8,N,yes,145.41,144.81,100,,Santa Fe,Off-Air,W5HO,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.19,-0.6,162.2,W5SF,"Los Alamos, Pajarito Mountain",NM,OPEN,,129.4,NNE,yes,145.19,144.59,,,Los Alamos,On-Air,SFARC,W5SF/PAJ - Distinct from the NM5SC repeater near Cuba on Pajarito Peak.,NMFCC,yes,Wide Area,,,,yes,W5SF (C) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,Northern New Mexico Amateur Radio Net: Mon at 20:30.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,223.94,-1.6,CSQ,KB5RX,"Los Alamos, Pajarito Mountain",NM,OPEN,,129.4,NNE,yes,223.94,222.34,CSQ,CSQ,Los Alamos,On-Air,,,NMFCC,yes,,E-power.,,Wide area.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.25,5,CC,NM5BB,Los Alamos,NM,OPEN,,130.1,NNE,yes,442.25,447.225,,,Los Alamos,Off-Air,,TS1 only. Rocky Mountain Ham Radio,NMFCC,yes,,,,,,,,,,,,,,,,yes,,yes,,,,,,,,,,,,,,,,,,,,,
+,442.925,5,CC1,KE8AVN,Los Alamos,NM,OPEN,,130.2,NNE,yes,442.925,447.925,,,Los Alamos,On-Air,,,,yes,,,,,,,,,,,,,,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,927.9,-25,131.8,WD9CMS,Los Alamos,NM,OPEN,,130.2,NNE,yes,927.9,902.9,,,Los Alamos,On-Air,,"Mixed mode analog and digital P25 system, linked with 444.775 WD9CMS",NMFCC,yes,Los Alamos and surrounding areas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,293,yes,,,,,,
+,144.265,0,203.5,KC2HSO,Los Alamos,NM,OPEN,I,130.2,NNE,yes,144.265,144.265,203.5,,Los Alamos,On-Air,,,,yes,,,,,,,,,,,,,,,8039,,,,,,,,,,,,,,,,,,,,,,,,
+,444.775,5,131.8,WD9CMS,Los Alamos,NM,OPEN,,130.7,NNE,yes,444.775,449.775,,,Los Alamos,On-Air,WD9CMS,"Mixed mode analog and digital P25 system, linked with 927.9 WD9CMS",NMFCC,yes,Los Alamos and surrounding areas,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,293,yes,,,,,,
+,442.425,5,,NM5WR,Los Alamos,NM,OPEN,,130.7,NNE,yes,442.425,447.425,,,Los Alamos,On-Air,,,,yes,30,,,,yes,NM5WR (B),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442,5,100,KA5BIW,Los Alamos,NM,OPEN,E,131.3,NNE,yes,442,447,100,,Los Alamos,On-Air,KA5BIW,,,yes,,Linked with 224.04 KA5BIW,,,,,,,http://ka5biw.com/ham_radio/repeater.php,,,,,87566,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.04,-1.6,100,KA5BIW,Los Alamos,NM,OPEN,,131.3,NNE,yes,224.04,222.44,100,100,Los Alamos,On-Air,KA5BIW,linked with 442.0 KA5BIW,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.43,-0.6,162.2,KD5SAR,Zuni,NM,OPEN,,131.4,WNW,yes,145.43,144.83,162.2,,McKinley,On-Air,MCARES,,NMFCC,yes,Wide are: Southern McKinley County.,Closed autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.725,-5,,N5IA,"Alpine,  South Mountain",AZ,CLOSED,,131.4,W,yes,448.725,443.725,,,Apache,On-Air,JPARA,,ARCA,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.27,-0.6,141.3,K7EAR,"Alpine,  South Mountain",AZ,OPEN,,131.4,W,yes,145.27,144.67,141.3,,Apache,On-Air,EAARS - Eastern Arizona Amateur Radio Service,,ARCA,yes,,Linked to EAARS Network,,,,,,,http://www.eaars.com/map/map.html,DM53kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.88,-0.6,CSQ,W5PDO,"Los Alamos, Barranca Mesa",NM,OPEN,,132,NNE,yes,146.88,146.28,CSQ,CSQ,Los Alamos,On-Air,Los Alamos ARC,Located on the Barranca Mesa water tower.,NMFCC,yes,,Autopatch,,"Autopatch: Up- *88, wait for dialtone, and dial phone nbr. Down- #.",,,,,,,,,LAARC: Sun at 2000.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.85,-5,100,N5WSB,Deming,NM,OPEN,,133.4,SSW,yes,449.85,444.85,100,,Luna,,Luna Co ARC,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.08,0.6,,W5JX,Deming,NM,OPEN,,133.4,SSW,yes,147.08,147.68,,,Luna,,W5JX,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.04,0.6,,N5IA,"Deming, Little Florida Mtn",NM,OPEN,,133.4,SSW,yes,147.04,147.64,,,Luna,On-Air,Mimbres Valley Repeater Grp,,NMFCC,yes,,E-power.,"Full-time to  
+        147.02000 (NM5ML) at Deming, Little Florida Mtn, NM .
+ 
+
+
+Full-time to  
+        147.06000 (WD5EZC) at Hurley, Murray Tank, NM .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.475,-5,77,WA6RT,Deming,NM,OPEN,,133.4,SSW,yes,449.475,444.475,77,,Luna,,DARC,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.02,0.6,100,NM5ML,"Deming, Little Florida Mtn",NM,OPEN,,133.4,SSW,yes,147.02,147.62,100,,Luna,On-Air,Mimbres Valley Repeater Group,,NMFCC,yes,,Autopatch.,"Full-time to  
+        147.04000 (N5IA) at Deming, Little Florida Mtn, NM .
+ 
+
+
+Full-time to  
+        147.06000 (WD5EZC) at Hurley, Murray Tank, NM .
+ 
+
+
+Full-time to the  Mega-Link System .",,,,,,,DM62ee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.12,0.6,88.5,NM2J,Deming,NM,OPEN,,133.4,SSW,yes,147.12,147.72,88.5,,Luna,On-Air,NM2J,,NMFCC,yes,,E-power (solar),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.375,5,100,WA5IHL,"Las Vegas, Mesa Apache",NM,CLOSED,,134,NE,yes,444.375,449.375,100,,San Miguel,On-Air,JPARA,,NMFCC,yes,Wide area.,"Closed autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.82,-0.6,162.2,W5SF,"Santa Fe,  Tesuque Peak",NM,OPEN,,134.9,NNE,yes,146.82,146.22,162.2,,Santa Fe,On-Air,Santa Fe ARC,,NMFCC,yes,Wide area.,"Autopatch, e-power.","Full-time to  
+        442.82500 (KB5ZQE) at Santa Fe, Tesuque Peak, NM .",,,,,,SFARC Repeaters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.825,5,131.8,KB5ZQE,"Santa Fe, Tesuque Peak",NM,OPEN,,134.9,NNE,yes,442.825,447.825,131.8,,Santa Fe,On-Air,Santa Fe ARC,,NMFCC,yes,,Autopatch.,"Full-time to  
+        146.82000 (W5SF) at Santa Fe,  Tesuque Peak, NM .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.02,0.6,141.3,NM5EM,"Santa Fe, Tesuque Peak",NM,OPEN,,134.9,NNE,yes,147.02,147.62,141.3,,Santa Fe,On-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.17,-0.6,100,N5IA,"Lordsburg, Jacks Peak",NM,OPEN,,135,SW,yes,145.17,144.57,100,,Hidalgo,On-Air,WB5QHS,,NMFCC,yes,NM Statewide,Permanently Linked  NM5ML,Full-time to the  Mega-Link System .,,,,,New Mexico Mega-Link NM5ML,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.24,0.6,67,NM5ML,"Cuba, Eureka Mesa",NM,OPEN,,135.1,N,yes,147.24,147.84,67,,Sandoval,On-Air,,,NMFCC,yes,Wide area.,9,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.17,-0.6,100,N5IA,"Lordsburg, Jacks Peak",NM,OPEN,,135.1,SW,yes,145.17,144.57,100,,Grant,On-Air,New Mexico Mega Link Assoc .,7,NMFCC,yes,Wide area.,E-power.,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,440.825,5,CC1,N5IA,"Lordsburg, Jack's Peak",NM,OPEN,,135.1,SW,yes,440.825,445.825,,,Hidalgo,On-Air,,Time Slot #1 - Group Call 1 = World Wide Time Slot #1 - Group Call 13 = WW English Time Slot #1 - Group Call 3 = N. America Time Slot #2 = Group Call 2 = AZ/NM Local Time Slot #2 = Group Call 3100 = DCI Bridge Time Slot #2 = Group Call 3176 = Regiona,NMFCC,yes,Southwestern NM/ South Eastern Arizona,,,,,,,,AZ-TRBONET,,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,449.475,-5,77,W5DAR,Little Florida,NM,OPEN,,135.4,SSW,yes,449.475,444.475,77,,Luna,On-Air,,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.85,-5,127.3,W5CF,Little Florida,NM,OPEN,,135.4,SSW,yes,449.85,444.85,127.3,,Luna,On-Air,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.82,-0.6,88.5,W5DAR,"Deming, Little Florida Mtn",NM,OPEN,,135.4,SSW,yes,146.82,146.22,88.5,,Luna,On-Air,Deming ARC,,NMFCC,yes,Wide area. 60 mi radius.,E-power.,,,,,,,,,,,DARC: Thu at 1930.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.725,-5,100,WB5QHS,Little Florida,NM,PRIVATE,,135.4,SSW,yes,448.725,443.725,100,,Luna,On-Air,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.06,0.6,141.3,K7EAR,"Deming, Little Florida Mtn",NM,OPEN,,135.4,SSW,yes,147.06,147.66,141.3,,Luna,On-Air,,,NMFCC,yes,,,Full-time to the  EAARS-Link System .,,,,,,http://www.eaars.com/map/map.html,DM62ee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.175,-0.6,141.3,NM5EM,"Cuba, Eureka Mesa",NM,OPEN,,135.7,N,yes,145.175,144.575,141.3,,Sandoval,Off-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.04,0.6,141.3,NM5EM,"Santa Rosa, Moon Ranch",NM,OPEN,,139.7,E,yes,147.04,147.64,141.3,,Guadalupe,On-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.26,0.6,67,NM5ML,"Pecos, Elk Mountain",NM,OPEN,,140.3,NNE,yes,147.26,147.86,67,,San Miguel,On-Air,,,NMFCC,yes,Wide area.,11,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.3,0.6,162.2,W5SF,"Las Vegas,  Elk Mountain",NM,OPEN,,140.3,NNE,yes,147.3,147.9,162.2,,San Miguel,On-Air,Santa Fe ARC,,NMFCC,yes,Wide area.,"E-power, linked.",,,,,,,SFARC Repeaters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.45,-0.6,,KB5WEZ,Las Vegas,NM,OPEN,,142.2,NE,yes,145.45,144.85,,,San Miguel,Off-Air,KB5WEZ,,NMFCC,yes,Wide area.,"E-power, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.95,5,67,N5ZRF,Anthony,TX,OPEN,,143.2,S,yes,442.95,447.95,67,,El Paso,,,,TVHFS,yes,,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.64,-0.6,100,N5MMI,"ROSWELL, NMMI",NM,OPEN,,143.2,SE,yes,146.64,146.04,100,,Chaves,On-Air,New Mexico Military Institute,,NMFCC,yes,Covers Roswell and Chavez County,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.94,-0.6,,W5BLO,Roswell,NM,OPEN,,143.7,SE,yes,146.94,146.34,,,Chaves,Off-Air,W5BLO,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444,5,100,N5IMJ,"Roswell, Comanche Hill",NM,OPEN,,143.7,SE,yes,444,449,100,,Chaves,On-Air,N5IMJ,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.26,0.6,100,NM5ML,Roswell,NM,OPEN,,143.7,SE,yes,147.26,147.86,100,,Chaves,On-Air,New Mexico Mega Link Assoc,3,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.75,-5,100,KC5WDV,Gallup,NM,OPEN,E,146.1,NW,yes,449.75,444.75,100,,McKinley,On-Air,KC5WDV,,NMFCC,yes,,,,,,,,,,,,,,6810,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.26,0.6,100,KC5WDV,"Gallup, Gibson Peak",NM,OPEN,,147.5,NW,yes,147.26,147.86,100,,McKinley,On-Air,KC5WDV,,NMFCC,yes,,VHF/UHF Remote Bases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.85,5,,WA5JXY,"El Paso, Franklin Mountains",TX,OPEN,EA,150.7,S,yes,443.85,448.85,,,El Paso,Off-Air,,,TVHFS,yes,,3,Full-time to the  TRASH System .,,,,,,,DM61sw,27081,,,375562,,,,,,,,,,,,,,,,,yes,293,yes,,,,,,
+,146.88,-0.6,,K5ELP,El Paso,TX,OPEN,,150.7,S,yes,146.88,146.28,,,El Paso,On-Air,West Texas Repeater Association,,TVHFS,yes,,,,,,,,,http://www.hamradioelpaso.com/home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,52.94,-0.5,100,W5GNB,"Roswell, Comanche Hill",NM,OPEN,,151.3,SE,yes,52.94,52.44,100,,Chaves,,W5GNB,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,444.95,5,179.9,W5GNB,"Roswell, Comanche Hill",NM,OPEN,,151.3,SE,yes,444.95,449.95,179.9,,Chaves,On-Air,W5GNB,,NMFCC,yes,Chavez and Eddy county,52.525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.38,0.6,123,K5CNM,Hope,NM,OPEN,,151.4,SE,yes,147.38,147.98,123,,Eddy,On-Air,KE5JDA,,NMFCC,yes,"Hope, NM and NW Eddy County.",,"Full-time to  
+        147.30000 (K5CNM) at Queen, Queen fire station, NM .
+ 
+
+
+Full-time to  
+        147.36000 (K5CNM) at Loving, NM .
+ 
+
+
+Linkable to  
+        147.28000 (K5CNM) at Carlsbad, NM .
+ 
+
+
+Full-time to  
+        442.45000 (K5CNM) at Artesia, NM .",,,,,Eddy County Skywarn,,,,,"Eddy County Skywarn, as required.",,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.425,5,179.9,W5GNB,"Roswell, Comanche Hill",NM,OPEN,,151.5,SE,yes,444.425,449.425,179.9,179.9,Chaves,On-Air,W5GNB,,,yes,Chaves County,"Telemetry and Data, Open Repeater",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.32,0.6,146.2,W5GNB,Roswell,NM,OPEN,,151.9,SE,yes,147.32,147.92,146.2,146.2,Chaves,On-Air,W5GNB,,NMFCC,yes,"Roswell, Artesia, Ruidoso",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.55,5,162.2,W5GNB,"Roswell, Comanche Hill",NM,OPEN,E,151.9,SE,yes,444.55,449.55,162.2,162.2,Chaves,On-Air,W5GNB,,NMFCC,yes,"Roswell, Artesia, Ruidoso",,,Enter NODE # for Echolink... ## to disconnect,,,,,,,,,,383142,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.04,0.6,141.3,NM5EM,"Abiquiu, Cerro Pelon",NM,OPEN,,151.9,NNE,yes,147.04,147.64,141.3,,Rio Arriba,Off-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.28,0.6,67,KD6CUB,El Paso,TX,OPEN,,152,S,yes,147.28,147.88,67,,El Paso,On-Air,,,TVHFS,yes,,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.85,-5,CC1,N7OEI,"Eager,  Greens Peak",AZ,OPEN,,153.5,W,yes,448.85,443.85,,,Apache,On-Air,,,,yes,Wide Area,,,,,,,BRANDMEISTER,,DM54fc,,,,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,146.72,-0.6,162.2,W7ARA,"Eagar, Greens Peak",AZ,OPEN,,153.5,W,yes,146.72,146.12,162.2,,Apache,On-Air,Arizona Rptr Assoc,,ARCA,yes,,,Full-time to the  Arizona Rptr Assoc (Rimlink) System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.7,-0.6,141.3,K7EAR,"Eagar, Greens Peak",AZ,OPEN,,153.5,W,yes,146.7,146.1,141.3,,Apache,On-Air,,,ARCA,yes,,Linked to EAARS Network,,,,,,,EAARS Repeaters,DM54fc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.62,-0.6,162.2,N7QVU,"Eagar, Greens Peak",AZ,OPEN,,153.5,W,yes,146.62,146.02,162.2,,Apache,On-Air,N7QVU,,ARCA,yes,East AZ &amp; West NM  85 mi radius.,E-Power,,,,,,,N7QVU,DM54fc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.375,-5,100,W7ARA,"Eagar, Greens Peak",AZ,OPEN,,153.5,W,yes,448.375,443.375,100,,Apache,On-Air,Arizona Repeater Assoc,,ARCA,yes,,,Full-time to the  Arizona Rptr Assoc (Rimlink) System .,,,,,,Arizona Repeater Assoc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.31,-0.6,110.9,W7EH,"Eagar,  Greens Peak",AZ,OPEN,,153.5,W,yes,145.31,144.71,110.9,,Apache,On-Air,,,ARCA,yes,,,,,,,,,http://kachinaarc.org/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.35,-5,100,N7QVU,"Eagar, Greens Peak",AZ,OPEN,,153.5,W,yes,449.35,444.35,100,,Apache,On-Air,,,ARCA,yes,,E-power,,,,,,,N7QVU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,927.1625,-25,151.4,W7ARA,"Eagar, Greens Peak",AZ,OPEN,,153.7,W,yes,927.1625,902.1625,151.4,,Apache,On-Air,,,ARCA,yes,,,Full-time to the  Northlink System .,,,,,Arizona Repeater Assoc,Arizona Repeater Assoc,,,,,,,,,,,,,,,,,,,,,,,,,12.5,,,,,
+,440.65,5,,KG5ZPX,El Paso,TX,OPEN,,153.8,S,yes,440.65,445.65,,,El Paso,On-Air,,,,yes,I-10 west side of El Paso TX to Las Cruces NM 25 mi radius.,ircDDB,,,yes,KG5ZPX (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",West Texas Digital Radio Club,,,,,El Paso D-Star Mondays at 7:15 PM,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.14,0.6,100,KB5ZFA,Fort Sumner,NM,OPEN,,153.8,E,yes,147.14,147.74,100,,Debaca,On-Air,,,NMFCC,yes,Wide area.,4,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.49,-0.6,100,NM5SJ,Lybrook,NM,OPEN,,155,NNW,yes,145.49,144.89,100,,Rio Arriba,On-Air,Totah ARC,,NMFCC,yes,,Closed autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.96,-0.6,141.3,WR7GC,"Payson, Mt Ord",AZ,OPEN,,155.6,W,yes,146.96,146.36,141.3,,Gila,On-Air,Gila Co RACES,,ARCA,yes,,E-power.,"Full-time to  
+        449.65000 (WR7GC) at Globe, Signal Peak, AZ .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.24,0.6,162.2,K5WPH,El Paso,TX,OPEN,,156.2,S,yes,147.24,147.84,162.2,,El Paso,On-Air,Sun City Amateur Radio Club (SCARC),,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.41,-0.6,88.5,WX5ELP,El Paso,TX,OPEN,,156.2,S,yes,145.41,144.81,88.5,,El Paso,On-Air,El Paso Skywarn,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.4,5,100,K5WPH,El Paso,TX,OPEN,,156.2,S,yes,443.4,448.4,100,,El Paso,On-Air,The Sun City Amateur Radio Club (SCARC),,TVHFS,yes,,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.33,-0.6,67,K5WPH,El Paso,TX,OPEN,I,156.2,S,yes,145.33,144.73,67,,El Paso,On-Air,,,TVHFS,yes,,Linked.,,,,,,,,,,,,,3097,,,,,,,,,,,,,,,,,,,,,,,,
+,449.625,-5,CC1 114.8,NX7R,"Concho, Volcano Hill",AZ,OPEN,,156.3,W,yes,449.625,444.625,114.8,D754,Apache,On-Air,AF7JQ,BrandMeister,ARCA,yes,"Wide Area: Concho, to St Johns, Show Low and Beyond.",MMDVM,,,,,,BrandMeister,http://www.ttgcommunications.com,,,,Hytera US DMR Net on TG-31089: Thu at 19:30.,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,147.2,0.6,67,K5ELP,El Paso,TX,OPEN,,156.7,S,yes,147.2,147.8,67,,El Paso,On-Air,West Texas Repeater Association,,TVHFS,yes,,Autopatch.,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.82,-1.6,100,KD6CUB,El Paso,TX,OPEN,,156.7,S,yes,224.82,223.22,100,,El Paso,On-Air,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449,-5,100,N5IA,"Lordsburg, Jacks Peak",NM,PRIVATE,,157.5,SW,yes,449,444,100,,Hidalgo,On-Air,WB5QHS,,,yes,"CA, AZ, NM.TX. OR. DC",,,,,,,Cactus Intertie,http://www.jpara.net/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.21,-0.6,141.3,K7EAR,"Lordsburg, Jacks Peak",NM,OPEN,EI,157.5,SW,yes,145.21,144.61,141.3,,Hidalgo,On-Air,Eastern Arizona Amateur Radio Association,,,yes,"Southern Arizona, Southern New Mexico, El Paso TX",,Full-time to the  EAARS-Link System .,,,,,,http://www.eaars.com/map/map.html,,,,"Skywarn, Saguaro NTS Traffic, EAARS, Ladies",614350,7787,,,,,,,,,,,,,,,,,,,,,,,,
+,145.145,-0.6,141.3,NM5EM,"Lordsburg, Jacks Peak",NM,OPEN,,157.5,SW,yes,145.145,144.545,141.3,,Hidalgo,On-Air,NM5EM,,,yes,SW New Mexico,,,,,,,New Mexico Dept. Of Homeland Security ARES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.25,-0.6,88.5,WB5QHS,"Lordsburg, Jacks Peak",NM,OPEN,EI,158,SW,yes,145.25,144.65,88.5,,Hidalgo,On-Air,Jacks Pk ARA,,NMFCC,yes,,,,IRLP commands are standard.,,,,,,,,,,313977,3093,,,,,,,,,,,,,,,,,,,,,,,,
+,147.06,0.6,,WD5EZC,"Hurley, Murray Tank",NM,OPEN,,158.2,SSW,yes,147.06,147.66,,,Grant,,Mimbres Valley Rptr Grp,,NMFCC,yes,,Autopatch.,"Full-time to  
+        147.02000 (NM5ML) at Deming, Little Florida Mtn, NM .
+ 
+
+
+Full-time to  
+        147.04000 (N5IA) at Deming, Little Florida Mtn, NM .",,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.18,0.6,100,KD5PX,"Dixon, Cerro Abajo",NM,OPEN,,158.4,NNE,yes,147.18,147.78,100,100,Rio Arriba,On-Air,,,NMFCC,yes,Dixon Embudo Ojo Sarco St Rd 68 Rio Grande Canyon,,,,,,,,,DM76BF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.7,-0.6,114.8,K5ELP,El Paso,TX,OPEN,A,158.5,S,yes,146.7,146.1,114.8,,El Paso,On-Air,West Texas Repeater Association,,TVHFS,yes,,"Autopatch, linked.",,,,,,,,,27834,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.2,5,100,K5ELP,El Paso,TX,OPEN,,158.5,S,yes,444.2,449.2,100,,El Paso,On-Air,West Texas Repeater Association,,TVHFS,yes,,"Autopatch, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.62,-0.6,,W5ELP,"El Paso, Comanche Peak",TX,OPEN,,158.5,S,yes,146.62,146.02,,,El Paso,On-Air,West Texas Digital Radio Club,,TVHFS,yes,20,,,,yes,W5ELP (C),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.325,5,103.5,W5HFN,"El Paso, Montana Vista",TX,OPEN,,159.5,SSE,yes,444.325,449.325,103.5,,El Paso,On-Air,K5ELP,,TVHFS,yes,,Linked.,Full-time to the  Amigo  System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.4,5,D023,W5WIN,El Paso,TX,OPEN,W,159.7,S,yes,444.4,449.4,D023,D023,El Paso,On-Air,W5WIN,,TVHFS,yes,,,,,,,,Bilingual Digital Radio Club,,,,Yes; analog capable.,,,,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,11298,,,,
+,443.125,5,,W5WIN,El Paso,TX,OPEN,,159.7,S,yes,443.125,448.125,,,El Paso,On-Air,W5WIN,Dstar open repeater for the use of all hams. Located 10 miles east on the Franklin Mountains.,,yes,20,Continuously Linked to DCS D0006X reflector Bilingual/ESP,,,yes,W5WIN (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Bilingual Digital Radio Club (BDRC),https://w5win.webs.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.94,-0.6,123,N6TOC,El Paso,TX,OPEN,W,159.7,S,yes,146.94,146.34,123,123,El Paso,On-Air,BDRC,Located 10 miles East of the Franklin mountains.,,yes,20,,,,,,,The Bilingual Digital Radio Club (BDRC) W5WIN,http://w5win.webs.com,,,Yes; analog capable.,,,,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,21294,,,,
+,444.6,5,,N6TOC,El Paso,TX,OPEN,,159.7,S,yes,444.6,449.6,,,El Paso,On-Air,n6toc,This repeater is open to all Ham radio operators. Located 1.5 miles east of the Frankling Mountains.,,yes,30,Linked continuously to DCS D0006X Bilingual/ESP,,,yes,N6TOC (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",Bilingual Digital Radio Club (BDRC),http://w5win.webs.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.43,-0.6,88.5,W5DAR,Columbus,NM,OPEN,,160.1,SSW,yes,145.43,144.83,88.5,,Luna,,DARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,443.6,5,CC,AE5JR,El Paso,TX,OPEN,,160.4,S,yes,443.6,448.6,,,El Paso,,,,,yes,,,,,,,,,,,,,,,,yes,,yes,,,,,,,,,,Unknown,,,,,,,,,,,
+,441.7,5,100,N5ZFF,El Paso,TX,OPEN,,160.6,S,yes,441.7,446.7,100,,El Paso,,,,TVHFS,yes,,Autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,442.825,5,100,K5ELP,El Paso,TX,OPEN,,160.6,S,yes,442.825,447.825,100,,El Paso,,West Texas Repeater Association,,TVHFS,yes,,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.06,0.6,,KJ5EO,El Paso,TX,CLOSED,,160.6,S,yes,147.06,147.66,,,El Paso,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.32,0.6,162.2,K5KKO,El Paso,TX,OPEN,,160.6,S,yes,147.32,147.92,162.2,,El Paso,On-Air,El Paso Digital Intertie Group,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.14,0.6,67,NM5ML,"El Paso, North Park",TX,OPEN,,160.6,S,yes,147.14,147.74,67,,El Paso,On-Air,,,TVHFS,yes,,3,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.925,5,,KA5CDJ,El Paso,TX,CLOSED,,160.6,S,yes,443.925,448.925,,,El Paso,,M.A.R.I.E.,,TVHFS,yes,,,,,,,,Cactus &amp; Armadillo,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,442.1,5,123,WB5LJO,El Paso,TX,CLOSED,A,160.6,S,yes,442.1,447.1,123,,El Paso,,,,TVHFS,yes,,3,Full-time to the  WIN System .,,,,,,,,27669,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.1,0.6,,KJ5EO,El Paso,TX,CLOSED,,160.6,S,yes,147.1,147.7,,,El Paso,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,442.25,5,100,K5WPH,El Paso,TX,OPEN,,160.6,S,yes,442.25,447.25,100,,El Paso,On-Air,The Sun City Amateur Radio Club (SCARC),,TVHFS,yes,,"E-power (solar), linked.",Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443,5,,KJ5EO,El Paso,TX,CLOSED,,160.6,S,yes,443,448,,,El Paso,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,442.6,5,,KJ5EO,El Paso,TX,CLOSED,,160.6,S,yes,442.6,447.6,,,El Paso,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,443.65,5,,W5DPD,El Paso,TX,CLOSED,,160.6,S,yes,443.65,448.65,,,El Paso,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,443.375,5,100,N6TOC,El Paso,TX,OPEN,,160.6,S,yes,443.375,448.375,100,,El Paso,On-Air,N6TOC,,TVHFS,yes,,"Closed autopatch, remote base, linked",,,,,,W5ES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.55,5,100,WB5LJO,El Paso,TX,OPEN,,160.6,S,yes,442.55,447.55,100,,El Paso,On-Air,Jacks Peak ARA,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.36,0.6,,KE5OIB,El Paso,TX,CLOSED,,160.6,S,yes,147.36,147.96,,,El Paso,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,443.7,5,,WB5LJO,El Paso,TX,CLOSED,,160.6,S,yes,443.7,448.7,,,El Paso,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,53.55,-1,,K5WPH,El Paso,TX,OPEN,,160.7,S,yes,53.55,52.55,,,El Paso,On-Air,Sun City Amateur Radio Club (SCARC),,TVHFS,yes,,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.32,0.6,162.2,W5GNB,"Hagerman, Comanche Hill",NM,OPEN,,161.3,SE,yes,147.32,147.92,162.2,,Chaves,,W5GNB,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.28,0.6,141.3,K7EAR,"Safford, Guthrie Peak",AZ,OPEN,,161.4,WSW,yes,147.28,147.88,141.3,,Greenlee,On-Air,EAARS,,ARCA,yes,,Linked to EAARS Network,,,,,,,http://www.eaars.com/map/map.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.975,-5,,N5IA,"Morenci,  Guthrie Peak",AZ,CLOSED,,161.4,WSW,yes,448.975,443.975,,,Greenlee,On-Air,Jack's Peak ARA,,ARCA,yes,,"Remote base, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,440.075,5,CC1,K7EAR,"Morenci, Guthrie Peak",AZ,OPEN,,161.6,WSW,yes,440.075,445.075,,,Greenlee,On-Air,EAARS,,ARCA,yes,,,,,,,,,http://www.eaars.com/,,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,442.125,5,103.5,N5FAZ,El Paso,TX,OPEN,I,161.8,S,yes,442.125,447.125,103.5,,El Paso,On-Air,The Sun City Amateur Radio Club (SCARC),,TVHFS,yes,,Linked.,,,,,,,,,,,,,3097,,,,,,,,,,,,,,,,,,,,,,,,
+,145.285,1.6,88.5,,Cd. Juarez,CH,OPEN,,165.8,S,yes,145.285,146.885,88.5,88.5,,On-Air,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.22,0.6,67,NM5ML,"Gallup, Deza Bluffs",NM,OPEN,,166.1,NW,yes,147.22,147.82,67,,McKinley,On-Air,New Mexico Mega Link Assoc,,NMFCC,yes,Wide area.,"Closed autopatch, e-power.",Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.29,-0.6,123,K7LEN,Window Rock,NM,OPEN,,166.1,NW,yes,145.29,144.69,123,,McKinley,Off-Air,NARC,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.2,-5,100,KC5WDV,"Gallup, Deza Bluffs",NM,OPEN,,166.1,NW,yes,448.2,443.2,100,,McKinley,On-Air,,,NMFCC,yes,,,,,,,,McKinley County ARES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.975,5,156.7,W5COW,Artesia,NM,OPEN,,166.2,SE,yes,444.975,449.975,156.7,,Eddy,On-Air,W5COW,,NMFCC,yes,Eddy County.,,,,,,,Eddy County ARES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442,5,,KU5J,Artesia,NM,OPEN,,166.2,SE,yes,442,447,,,Eddy,,KU5J,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,442.45,5,162.2,K5CNM,Artesia,NM,OPEN,,166.2,SE,yes,442.45,447.45,162.2,,Eddy,On-Air,KE5JDA,,NMFCC,yes,"Eddy County, NM.",,"Full-time to  
+        147.38000 (K5CNM) at Hope, NM .
+ 
+
+
+Full-time to  
+        147.36000 (K5CNM) at Loving, NM .
+ 
+
+
+Full-time to  
+        147.30000 (K5CNM) at Queen, Queen fire station, NM .
+ 
+
+
+Linkable to  
+        147.28000 (K5CNM) at Carlsbad, NM .",,,,,Eddy County Skywarn,,,,,"Eddy County Skywarn, as required.",,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.875,-5,123,KF5PFO,"Taos, Picuris Peak",NM,OPEN,,166.5,NNE,yes,449.875,444.875,123,,Taos,Off-Air,Taos ARC,,NMFCC,yes,,"Linked to 147.34, E-Power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.12,0.6,67,KF5PFO,"Taos, Picuris Peak",NM,OPEN,E,166.6,NNE,yes,147.12,147.72,67,,Taos,On-Air,Taos Amateur Radio Club,,NMFCC,yes,Wide area.,E-power.,,,,,,ARRL,http://taosarc.org/,,,,,828279,,,,,,,,,,,,,,,,,,,,,,,,,
+,51.5,0,100,KF5PFO,"Taos, Picuris Peak",NM,OPEN,,166.6,NNE,yes,51.5,51.5,100,,Taos,On-Air,Taos ARC,,,yes,,,,,,,,,Taos Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.4,-1.6,225.7,KF5PFO,"Taos, Picuris Peak",NM,OPEN,,166.6,NNE,yes,224.4,222.8,225.7,,Taos,On-Air,Taos ARC,,NMFCC,yes,,,,,,,,,http://taosarc.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.01,0.6,,W5WIN,Socorro,TX,OPEN,,169.6,SSE,yes,147.01,147.61,,,El Paso,On-Air,WA5UFO,,,yes,,,,,yes,W5WIN (C),"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.36,0.6,100,NM5ML,"Conchas Dam, Mesa Rica",NM,OPEN,,172,E,yes,147.36,147.96,100,,San Miguel,On-Air,,,NMFCC,yes,Wide area.,5,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.37,-0.6,141.3,NM5EM,"Wagon Mound, Turkey Mtn",NM,OPEN,,174.3,NE,yes,145.37,144.77,141.3,,Mora,Off-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.2,0.6,67,NM5ML,"Wagon Mound, Turkey Mountain",NM,OPEN,,174.3,NE,yes,147.2,147.8,67,,Mora,On-Air,,,,yes,,8,Full-time to the  Mega-Link System .,,,,,,http://nm5ml.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.05,-5,CC1,AD7W,"Pinetop-Lakeside, Porter Mountain",AZ,OPEN,,174.8,W,yes,449.05,444.05,,,Navajo,On-Air,AD7W,,ARCA,yes,"Pinetop-Lakeside, Show Low, Hondah, Snowflake, Linden, Pinedale, Vernon",E-power,,,,,,Brandmeister,,DM54ae,,,,,,yes,1,yes,,,,,,,,,,,,,,,,,,,,,
+,146.76,-0.6,162.2,AD7W,"Pinetop-Lakeside, Porter Mountain",AZ,OPEN,,174.8,W,yes,146.76,146.16,,,Navajo,On-Air,AD7W,,ARCA,yes,,"E-power, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,,,,,
+,147.3,0.6,123,K5CNM,"Queen, Queen fire station",NM,OPEN,,179,SE,yes,147.3,147.9,123,,Eddy,On-Air,KE5JDA,,NMFCC,yes,"Queen, NM and surrounding mountains.",,"Full-time to  
+        147.38000 (K5CNM) at Hope, NM .
+ 
+
+
+Full-time to  
+        147.36000 (K5CNM) at Loving, NM .
+ 
+
+
+Linkable to  
+        147.28000 (K5CNM) at Carlsbad, NM .
+ 
+
+
+Full-time to  
+        442.45000 (K5CNM) at Artesia, NM .",,,,,Eddy County Skywarn,,,,,"Eddy County Skywarn, as required.",,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.275,-5,67,NM5ML,"Queen, Dark Cyn",NM,OPEN,,179.1,SE,yes,449.275,444.275,67,,Eddy,Off-Air,New Mexico Mega Link Assoc,,NMFCC,yes,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.15,-5,110.9,W7EH,Show Low,AZ,OPEN,,180,W,yes,449.15,444.15,110.9,,Navajo,On-Air,Kachina Amateur Radio Club,,ARCA,yes,60,,,,,,,"ARRL, ARCA",Kachina Amateur Radio Club,DM44xg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.98,-0.6,162.2,W5PDC,Fabens,TX,OPEN,,181.7,SSE,yes,147.98,147.38,162.2,,Hudspeth,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,442.45,5,203.5,W5PDC,Fabens,TX,OPEN,,181.7,SSE,yes,442.45,447.45,203.5,,Hudspeth,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,444.4,5,100,N7JNI,Wagon Mound,NM,OPEN,,182.9,NE,yes,444.4,449.4,100,,Mora,Off-Air,Mora ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,440.75,5,CC1,K7EAR,"Safford, Heliograph Peak",AZ,OPEN,,183.1,WSW,yes,440.75,445.75,,,Graham,On-Air,,Repeater ID: 310407,ARCA,yes,Wide area.,,Full-time to the  AZ-TRBONET System .,,,,,,,,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,147.28,0.6,67,NM5ML,"Bloomfield, Harris Mesa",NM,OPEN,,183.4,NNW,yes,147.28,147.88,67,,San Juan,On-Air,,,NMFCC,yes,Wide area.,6,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.1,0.6,100,KB5ITS,"Bloomfield, Harris mesa",NM,OPEN,,183.7,NNW,yes,147.1,147.7,100,,San Juan,On-Air,San Juan connection,,NMFCC,yes,,,Full-time to the  San Juan Connection System .,,,,,,http://www.sjcham.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.34,0.6,100,N5LEM,"Angel Fire, Agua Fria Peak",NM,OPEN,,185.2,NNE,yes,147.34,147.94,100,,Colfax,On-Air,Taos ARC,,NMFCC,yes,Wide area.,E-power.,,,,,,,Taos Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1292.3,-20,,KF5VBD,"Bloomfield, Harris Mesa",NM,CLOSED,,186.1,NNW,yes,1292.3,1272.3,,,San Juan,On-Air,San Juan County,,NMFCC,yes,,,,,yes,KF5VBD (A) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.175,-0.6,141.3,NM5EM,"Tres Piedras, San Antonio Mtn.",NM,OPEN,,186.3,NNE,yes,145.175,144.575,141.3,,Taos,Off-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.76,-0.6,67,KF5PFO,"Tres Piedras, San Antonio Mountain",NM,OPEN,,186.3,NNE,yes,146.76,146.16,67,,Taos,On-Air,Taos ARC,,,yes,"Wide area: Most of Taos County, Eastern Rio Arriba County and the San Luis Valley in Southern Colorado.",11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.28,0.6,67,NM5ML,Melrose,NM,OPEN,,187.9,ESE,yes,147.28,147.88,67,,Curry,On-Air,Mega-Link,,NMFCC,yes,Wide area.,4,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.25,-0.6,141.3,NM5EM,"Caprock, Caudill Ranch",NM,OPEN,,188.4,SE,yes,145.25,144.65,141.3,,Lea,On-Air,NMEMA ARC,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.18,0.6,100,KB5ZFA,Caprock,NM,OPEN,,188.4,SE,yes,147.18,147.78,100,,Lea,Off-Air,,Repeater has been down for some time due to logistical issues. No known re-activation date at this time.,NMFCC,yes,Wide area.,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.35,5,162.2,N5LEA,Maljamar,NM,OPEN,,189.8,SE,yes,444.35,449.35,162.2,162.2,Lea,On-Air,,,,yes,,,,,,,,Lea County Amateur Radio Group,http://lcarg.net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.28,0.6,123,K5CNM,Carlsbad,NM,OPEN,,191,SE,yes,147.28,147.88,123,,Eddy,On-Air,KE5JDA,,NMFCC,yes,"Carlsbad, NM.",,"Full-time to  
+        147.38000 (K5CNM) at Hope, NM .
+ 
+
+
+Full-time to  
+        147.30000 (K5CNM) at Queen, Queen fire station, NM .
+ 
+
+
+Full-time to  
+        442.45000 (K5CNM) at Artesia, NM .",,,,,Eddy County Skywarn,,,,,"Eddy County Skywarn, as required.",,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.76,-0.6,127.3,KD6WJG,Carlsbad,NM,OPEN,,191,SE,yes,146.76,146.16,127.3,,Eddy,,KD6WJG,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,145.39,-0.6,100,KG5BOM,Carlsbad,NM,OPEN,,191,SE,yes,145.39,144.79,100,100,Eddy,On-Air,KG5BOM,Experimental,,yes,Carlsbad &amp; Otis,E-power (solar).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,53.08,-1,127.3,KD6WJG,Carlsbad,NM,OPEN,,191,SE,yes,53.08,52.08,127.3,,Eddy,,KD6WJG,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.88,-0.6,88.5,N5CNM,Carlsbad,NM,OPEN,,191.1,SE,yes,146.88,146.28,88.5,,Eddy,On-Air,N5MJ,,NMFCC,yes,Carlsbad,E-power (solar).,,,,,,Carlsbad Amateur Radio Club,,,,,Carlsbad Amateur Radio Club: Tue at 18:30.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.975,5,123,N5TSV,"Taos, Wheeler Peak",NM,OPEN,,191.6,NNE,yes,444.975,449.975,123,,Taos,On-Air,N5TSV,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.05,5,,N5SOR,Pine Springs,TX,CLOSED,,192.6,SE,yes,444.05,449.05,,,Culberson,,,,TVHFS,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,145.23,-0.6,110.9,KB7ZIH,Pinedale,AZ,OPEN,,192.8,W,yes,145.23,144.63,110.9,,Navajo,On-Air,,,ARCA,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.92,-0.6,100,K5WXI,Bloomfield,NM,OPEN,,193.3,NNW,yes,146.92,146.32,100,,San Juan,On-Air,San Juan County OEM,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.65,-5,127.3,KB5ITS,Bloomfield,NM,OPEN,,193.4,NNW,yes,448.65,443.65,127.3,,San Juan,On-Air,,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.14,0.6,67,NM5ML,"Taos, Ski Valley",NM,OPEN,,193.5,NNE,yes,147.14,147.74,67,,Taos,On-Air,,,,yes,,11,Full-time to the  Mega-Link System .,,,,,TaosARC,http://www.taosarc.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.46,-1.6,127.3,N5MJ,Carlsbad,NM,OPEN,,193.7,SE,yes,224.46,222.86,127.3,,Eddy,,N5MJ,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,444.45,5,127.3,N5MJ,Carlsbad,NM,OPEN,E,193.7,SE,yes,444.45,449.45,127.3,127.3,Eddy,On-Air,N5MJ,,NMFCC,yes,"Carlsbad, NM","EchoLink, e-power.",,Cnodenum ex. C9999. # to delink.,,,,,,,,,,44167,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.36,0.6,100,KB5ITS,"Navajo Dam, Navajo Lake",NM,OPEN,,193.8,NNW,yes,147.36,147.96,100,,San Juan,On-Air,,,NMFCC,yes,,,Full-time to the  San Juan Connection System .,,,,,,http://www.sjcham.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.84,-0.6,67,KE5RUE,Redlake,NM,OPEN,,194.6,ESE,yes,146.84,146.24,67,,Roosevelt,On-Air,Jeff Burmeister,CROSS BAND LINKED TO 442.250 67 HZ REPEATER,NMFCC,yes,,"batteries, genset backup, xlinked to UHF 442.250+ pl 67",,none,,,,Greyhound ARC (Eastern New Mexico Univ),https://www.qsl.net/ke5rue/,,,,Tuesdays 7:00 pm,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.25,5,67,KE5RUE,Redlake,NM,OPEN,,194.6,ESE,yes,442.25,447.25,67,,Roosevelt,On-Air,Jeff Burmeister,,NMFCC,yes,,"batteries, genset, xlinked to 146.840- 67Hz",,,,,,Greyhound ARC (Eastern New Mexico Univ),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.68,-0.6,,KA7ARZ,Holbrook,AZ,OPEN,,195,WNW,yes,146.68,146.08,,,Navajo,On-Air,Kachina Amateur Radio Club,,ARCA,yes,30,,,,,,,,Kachina Amateur Radio Club,DM44wv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.75,5,,WA5EMA,Tucumcari,NM,OPEN,E,195.8,E,yes,443.75,448.75,,,Quay,On-Air,WA5EMA,EchoLink active during daytime hours.,NMFCC,yes,Local coverage in town.,,,,,,,,,,,,,406798,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.88,-0.6,,WA5EMA,Tucumcari,NM,OPEN,,195.8,E,yes,146.88,146.28,,,Quay,On-Air,WA5EMA,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.98,-1.6,,WA5EMA,Tucumcari,NM,OPEN,,195.8,E,yes,224.98,223.38,,,Quay,,WA5EMA,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.22,0.6,100,NM5ML,"Tucumcari, Tucumcari Mountain",NM,OPEN,,196.2,E,yes,147.22,147.82,100,,Quay,On-Air,Mega-Link Rptr System,,NMFCC,yes,Wide area.,4,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.9,-0.6,141.3,K7EAR,"Safford,  Heliograph Peak",AZ,OPEN,I,196.4,WSW,yes,146.9,146.3,141.3,,Graham,On-Air,,"IRLP and echolink can be moved here by control operators but, normally they are on EAARS Network",ARCA,yes,,"E-power, linked.",,,,,,,http://eaars.com,,,,,,7787,,,,,,,,,,,,,,,,,,,,,,,,
+,447.825,-5,100,K7EAR,"Safford,  Heliograph Peak",AZ,OPEN,,196.4,WSW,yes,447.825,442.825,100,,Graham,On-Air,EAARS,,ARCA,yes,,"E-power, has a closed remote base on an open repeater",,,,,,,http://eaars.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.86,-0.6,141.3,K7EAR,"Safford,  Heliograph Peak",AZ,OPEN,E,196.4,WSW,yes,146.86,146.26,141.3,,Graham,On-Air,,outgoing Echolink does not work.,ARCA,yes,,Linked to EAARS Network,,,,,,"SARCI 
+Linked to  https://www.repeaterbook.com/repeaters/feature_search.php?system=EAARS-Link%20System&amp;state_id=%&amp;type=systems&gt;EAARS&gt;",http://www.eaars.com/map/map.html,,,,,614350,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.675,-5,100,K7JEM,"Safford,  Heliograph Peak",AZ,CLOSED,,196.4,WSW,yes,448.675,443.675,100,,Graham,On-Air,CARBA,,ARCA,yes,,"E-power, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,440.7,5,141.3,K7EAR,"Safford,  Heliograph Peak",AZ,OPEN,EI,196.4,WSW,yes,440.7,445.7,141.3,,Graham,On-Air,,,ARCA,yes,,E-power. Linked to EAARS Network,,,,,,,http://www.eaars.com/map/map.html,DM52bp,,,,614350,7787,,,,,,,,,,,,,,,,,,,,,,,,
+,53.04,-1,141.3,K7EAR,"Safford, Heliograph Peak",AZ,OPEN,,196.5,WSW,yes,53.04,52.04,141.3,,Graham,Off-Air,,146.86,ARCA,yes,,,,,,,,,Eastern Arizona Amateur Radio Society,DM52bp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.08,0.6,162.2,W5SF,"Chama, Overlook Mtn",NM,OPEN,,197.8,N,yes,147.08,147.68,162.2,,Rio Arriba,On-Air,SFARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.39,-0.6,100,KF5PFO,"Red River, Molycorp",NM,OPEN,,197.9,NNE,yes,145.39,144.79,100,,Taos,On-Air,Taos ARC,,NMFCC,yes,Wide area.,"E-power, linked.",,,,,,,Taos Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1291.7,-20,,KF5VBF,"Farmington, Farmington Bluffs",NM,CLOSED,,197.9,NNW,yes,1291.7,1271.7,,,San Juan,On-Air,San Juan County,,NMFCC,yes,,DV only,,,yes,KF5VBF (A) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.115,-0.6,,KF5VBE,Farmington,NM,OPEN,,198.1,NNW,yes,145.115,144.515,,,San Juan,On-Air,,,,yes,,,,,yes,KF5VBE (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1291.1,-20,,KF5VBE,Aztec,NM,CLOSED,,198.1,NNW,yes,1291.1,1271.1,,,Bernalillo,On-Air,San Juan County,,NMFCC,yes,,DV only,,,yes,KF5VBE (A) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.04,0.6,141.3,NM5EM,"Eagle Nest, Touch Me Not",NM,OPEN,,198.5,NNE,yes,147.04,147.64,141.3,,Colfax,On-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.35,5,100,NM5ML,"Eagle Nest, Iron Mountain",NM,OPEN,,198.5,NNE,yes,444.35,449.35,100,,Colfax,On-Air,,11,NMFCC,yes,,,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.14,0.6,67,NM5ML,Maljamar,NM,OPEN,,198.6,SE,yes,147.14,147.74,67,,Lea,On-Air,New Mexico Mega Link Assoc,,NMFCC,yes,"Wide area. Lea, Eddy, Chaves counties.","Closed autopatch, e-power.",Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.075,5,162.2,N5IMJ,Maljamar,NM,OPEN,,198.6,SE,yes,442.075,447.075,162.2,,Lea,On-Air,N5IMJ,,NMFCC,yes,Wide. 60-70 mi. or more.,E-power.,,,,,,West Texas Connection,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.43,-0.6,136.5,NM5SJ,Dulce,NM,OPEN,,198.7,N,yes,145.43,144.83,136.5,,Rio Arriba,On-Air,SJC EMCOMM,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.85,-0.6,100,K5WXI,Farmington,NM,OPEN,,199,NNW,yes,146.85,146.25,100,100,San Juan,On-Air,Totah ARC,,NMFCC,yes,,Closed autopatch.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.15,5,,KF5VBF,Farmington,NM,OPEN,,199,NNW,yes,444.15,449.15,,,San Juan,On-Air,San Juan County,,,yes,,DV only,,,yes,KF5VBF (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147,0.6,100,KB5ITS,Farmington,NM,OPEN,,199,NNW,yes,147,147.6,100,,San Juan,On-Air,,,NMFCC,yes,,"Autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.325,5,CC1,N5UBJ,Farmington,NM,OPEN,,199,NNW,yes,442.325,447.325,,,San Juan,On-Air,,,NMFCC,yes,,AZ-TRBONET,,,,,,,http://www.aztrbonet.com/MinimalNetwatch,,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,53.01,-1,131.8,KB5ITS,Farmington,NM,OPEN,,199,NNW,yes,53.01,52.01,131.8,,San Juan,On-Air,KB5ITS,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449,-5,100,K5WY,Farmington,NM,OPEN,,199,NNW,yes,449,444,100,,San Juan,,K5WY,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.76,-0.6,100,KB5ITS,Farmington,NM,OPEN,,199,NNW,yes,146.76,146.16,100,100,San Juan,On-Air,,,NMFCC,yes,,"Closed autopatch, e-power.",Full-time to the  San Juan Connection System .,,,,,,http://www.sjcham.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.22,0.6,100,NM5ML,"Tres Piedras, San Antonio Mountain",NM,OPEN,,199.7,NNE,yes,147.22,147.82,100,,Rio Arriba,On-Air,New Mexico Mega Link Assoc,,NMFCC,yes,Wide area.,10,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.76,-0.6,67,KF5PFO,"Tres Piedras,  San Antonio Mountain",NM,OPEN,,199.7,NNE,yes,146.76,146.16,67,,Rio Arriba,On-Air,Taos ARC,,,yes,"Most of Taos County, eastern Rio Arriba County and the San Luis Valley in Southern Colorado.",11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,447.45,-5,107.2,KB5ITS,Aztec,NM,OPEN,,200.8,NNW,yes,447.45,442.45,107.2,,San Juan,On-Air,KB5ITS,,NMFCC,yes,,"E-power, remote base.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.25,5,CC1,N5UBJ,Aztec,NM,OPEN,,200.8,NNW,yes,442.25,447.25,,,San Juan,On-Air,,,NMFCC,yes,,,,,,,,,http://www.aztrbonet.com/MinimalNetwatch,,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,146.88,-0.6,100,KB5ITS,"Aztec, Tank Mtn",NM,OPEN,,200.8,NNW,yes,146.88,146.28,100,,San Juan,On-Air,,,NMFCC,yes,,,Full-time to the  San Juan Connection System .,,,,,,http://www.sjcham.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.74,-0.6,100,NM5SJ,Aztec,NM,OPEN,,200.8,NNW,yes,146.74,146.14,100,,San Juan,On-Air,Totah ARC,,NMFCC,yes,,"Closed autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147,0.6,67,W5OMU,"Portales, ENMU Greyhound Stadium",NM,OPEN,,202.6,ESE,yes,147,147.6,67,,Roosevelt,On-Air,Greyhound ARC,,,yes,,,,,,,,,http://org.enmu.edu/enmuarc/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.36,0.6,123,K5CNM,Loving,NM,OPEN,,202.8,SE,yes,147.36,147.96,123,,Eddy,On-Air,KE5JDA,,NMFCC,yes,,,"Full-time to  
+        147.30000 (K5CNM) at Queen, Queen fire station, NM .
+ 
+
+
+Full-time to  
+        147.38000 (K5CNM) at Hope, NM .
+ 
+
+
+Linkable to  
+        147.28000 (K5CNM) at Carlsbad, NM .
+ 
+
+
+Full-time to  
+        442.45000 (K5CNM) at Artesia, NM .",,,,,Eddy County Skywarn,,,,,"Eddy County Skywarn, as required.",,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.21,-0.6,110.9,N5GDR,Cimarron,NM,OPEN,A,202.9,NNE,yes,145.21,144.61,110.9,110.9,Colfax,On-Air,"Gary Reynolds N5GDR, Dale Finley KB5NFT",,NMFCC,yes,,,,,,,,,,,46298,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.35,-0.6,141.3,K7EAR,"Wilcox, West Peak",AZ,OPEN,,203.2,WSW,yes,145.35,144.75,141.3,,Graham,On-Air,,"This is a solar powered, grid independent, repeater, it goes online when accessed and stays connected for 30 minutes after the last access. It gives a couple tones when brought online and a couple more just before going offline. Keying up will reset the timer for another 30 minutes.",ARCA,yes,,"E-power(solar), linked to EAARS Network on demand",,,,,,Intermountain Intertie System,http://www.eaars.com/map/map.html,DM42xr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,443.8,5,,KE5RUE,"PORTALES, EASTERN NEW MEXICO UNIVERSITY",NM,OPEN,,203.7,ESE,yes,443.8,448.8,,,,,JEFF BURMEISTER,,,yes,,EMERGENCY POWER,,,yes,KE5RUE (B) Repeater,"jfindu lookup 
+    /   dstar-users lookup",EASTERN NEW MEXICO UNIVERSITY,https://www.qsl.net/ke5rue/,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.82,-0.6,67,KE5RUE,Portales,NM,OPEN,,203.7,ESE,yes,146.82,146.22,67,,Roosevelt,On-Air,JEFF BURMEISTER,CROSS BAND LINKED TO 442.700 67 HZ,NMFCC,yes,,"Batteries, Genset, XBand linked to 146.81 67 HZ repeater",,,,,,EASTERN NEW MEXICO UNIVERSITY,https://www.qsl.net/ke5rue/,,,,Tuesdays 7:00 PM,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.25,-0.6,123,KF5PFO,"Red River, Valle Vidal",NM,OPEN,,206.8,NNE,yes,145.25,144.65,123,,Taos,On-Air,Taos ARC,,NMFCC,yes,,,,,,,,,Taos Amateur Radio Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.06,0.6,100,NM5SJ,"Nebo, Cedar Hill",NM,OPEN,,206.9,NNW,yes,147.06,147.66,100,,San Juan,On-Air,,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.25,-0.6,100,KB5ITS,"Lukachukai, Roof Butte",AZ,OPEN,,207.4,NW,yes,145.25,144.65,100,,Apache,On-Air,San Juan Connection,,ARCA,yes,,"E-power, linked.",Full-time to the  San Juan Connection System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.82,-0.6,100,NM5SJ,"Lukachukai, Roof Butte",AZ,OPEN,,207.4,NW,yes,146.82,146.22,100,,Apache,On-Air,Totah ARC,,ARCA,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147,0.6,67,KE5RUE,Midway (Portales),NM,OPEN,,209.8,ESE,yes,147,147.6,67,,Roosevelt,,Jeff Burmeister,,,yes,,"batteries, genset",,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.8,-0.6,162.2,W7RIM,Overgaard,AZ,OPEN,E,210.4,W,yes,146.8,146.2,162.2,,Navajo,On-Air,Rim Country ARC,,ARCA,yes,,E-power.,,,,,,,,,,,,525081,,,,,,,,,,,,,,,,,,,,,,,,,
+,446.6,-5,100,N7QVU,Overgaard,AZ,OPEN,IW,210.6,W,yes,446.6,441.6,100,100,Navajo,On-Air,,,,yes,,,,,,,,,,,,Yes; analog capable.,,,7648,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,11613,,,,
+,442.525,5,67,NM5ML,Clovis,NM,OPEN,,211.9,ESE,yes,442.525,447.525,67,,Curry,On-Air,,,NMFCC,yes,,,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.225,5,CC1,N7EOJ,Clovis,NM,OPEN,,211.9,ESE,yes,442.225,447.225,,,Curry,On-Air,N7EOJ,DMR ONLY,NMFCC,yes,,AZ-TRBONET,,,,,,,http://www.aztrbonet.com/MinimalNetwatch,,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,443.45,5,131.8,KA5B,Clovis,NM,OPEN,,211.9,ESE,yes,443.45,448.45,131.8,,Curry,On-Air,Eastern New Mexico ARC,,NMFCC,yes,,"Closed autopatch, e-power.",,,,,,,http://ka5b.org/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.24,0.6,67,KA5B,Clovis,NM,OPEN,,211.9,ESE,yes,147.24,147.84,67,,Curry,On-Air,Eestern New Mexico ARC,,NMFCC,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.37,-0.6,141.3,NM5EM,"Clovis, Claud",NM,OPEN,,211.9,ESE,yes,145.37,144.77,141.3,,Curry,On-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.32,0.6,71.9,WS5D,Clovis,NM,OPEN,,211.9,ESE,yes,147.32,147.92,71.9,71.9,Curry,On-Air,WS5D,,NMFCC,yes,Clovis,,,,,,,ENMARC,,dm84jj,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.45,5,88.5,WS5D,Clovis,NM,OPEN,EI,213.1,ESE,yes,444.45,449.45,88.5,88.5,Curry,On-Air,WS5D,,,yes,"Clovis, NM",,,"#+node for echolink, node for irlp, 73 to disc.",,,,,,,,,,401134,3713,,,,,,,,,,,,,,,,,,,,,,,,
+,147.34,0.6,131.8,K5DST,"Logan, Ute Lake",NM,OPEN,,217.3,E,yes,147.34,147.94,131.8,,Quay,On-Air,Big Water ARA,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,447.475,-5,88.5,W7NAZ,"Payson, Forest Lakes",AZ,OPEN,,224.2,W,yes,447.475,442.475,88.5,,Coconino,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.84,-0.6,,N7RDZ,Winslow,AZ,OPEN,,226.6,WNW,yes,146.84,146.24,,,Navajo,On-Air,N7RDZ,,ARCA,yes,I-40 15 mi radius.,,,,,,,Arizona Traffic And Emergency Net,N7RDZ,DM45pa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.38,0.6,91.5,N7RDZ,Winslow,AZ,OPEN,,226.6,WNW,yes,147.38,147.98,91.5,,Navajo,On-Air,N7RDZ,,ARCA,yes,I-40 15 mi radius.,,,,,,,Arizona Traffic And Emergency Net,N7RDZ,DM45pa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.475,-5,100,W7ARA,"Globe,  Pinal Peak",AZ,OPEN,,232.2,WSW,yes,448.475,443.475,100,,Gila,On-Air,Arizona Repeater Assoc,,ARCA,yes,,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,927.4125,-25,151.4,W7ARA,"Globe, Pinal Peak",AZ,OPEN,,232.2,WSW,yes,927.4125,902.4125,151.4,,Gila,On-Air,Arizona Repeater Assoc,,ARCA,yes,45,E-power.,Full-time to the  Arizona Rptr Assoc (Rimlink) System .,,,,,,Arizona Repeater Assoc,,,,,,,,,,,,,,,,,,,,,,,,,12.5,,,,,
+,448.65,-5,,WA7KUM,"Globe,  Pinal Peak",AZ,CLOSED,,232.2,WSW,yes,448.65,443.65,,,Gila,On-Air,SARBA,,ARCA,yes,,"E-power, remote base, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,927.8375,-25,151.4,N7TWW,"Globe, Pinal Peak",AZ,OPEN,,232.2,WSW,yes,927.8375,902.8375,151.4,,Gila,On-Air,FHART,,ARCA,yes,,Linked.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,445.8625,-5,CC0,N2QWF,"Globe, Pinal Peak",AZ,CLOSED,,232.2,WSW,yes,445.8625,440.8625,,,Gila,On-Air,F.H.A.R.T. AZ-TrboNet Network,,ARCA,yes,Wide Area,,,,,,,,,,,,,,,yes,0,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,448.175,-5,,WB5QHS,"Globe,  Pinal Peak",AZ,CLOSED,,232.2,WSW,yes,448.175,443.175,,,Gila,On-Air,Jack's Peak ARA,,ARCA,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.41,-0.6,141.3,K7EAR,"Globe, Pinal Peak",AZ,OPEN,,232.2,WSW,yes,145.41,144.81,141.3,,Gila,On-Air,,EAARS System,ARCA,yes,,Linked to EAARS Network,"Full-time to  
+        147.16000 (K7EAR) at Tucson, Mt Lemmon, AZ .",,,,,,http://www.eaars.com/map/map.html,DM43og,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.1,-1.6,156.7,N7MK,"Globe,  Pinal Peak",AZ,OPEN,,232.2,WSW,yes,224.1,222.5,156.7,,Gila,On-Air,Chris Radike,,ARCA,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1283.65,-20,100,KD7DR,"Globe, Pinal Peak",AZ,OPEN,,232.2,WSW,yes,1283.65,1263.65,100,,Gila,On-Air,SARBA,,ARCA,yes,,E-power.,"Full-time to  
+        448.42500 (KD7DR) at Globe, Pinal Peak, AZ .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.425,-5,103.5,KD7DR,"Globe, Pinal Peak",AZ,OPEN,,232.2,WSW,yes,448.425,443.425,103.5,,Gila,On-Air,SARBA,,ARCA,yes,,E-power.,"Full-time to  
+        1283.65000 (KD7DR) at Globe, Pinal Peak, AZ .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.2,0.6,162.2,W7ARA,"Globe, Pinal Peak",AZ,OPEN,,232.2,WSW,yes,147.2,147.8,162.2,162.2,Gila,On-Air,Arizona Repeater Assoc,,ARCA,yes,45,,Full-time to the  Arizona Rptr Assoc (Rimlink) System .,,,,,,Arizona Repeater Assoc,,,,"SKYWARN: Tue at 20:00 
+NIghtly: Daily at 21:00.",,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.65,-5,100,WR7GC,"Globe, Signal Peak",AZ,OPEN,,232.8,WSW,yes,449.65,444.65,100,,Gila,On-Air,Gila Co RACES,,ARCA,yes,60,,"Full-time to  
+        146.74000 (WA7HUH) at Globe, Signal Peak, AZ .
+ 
+
+
+Full-time to  
+        146.96000 (WR7GC) at Payson, Mt Ord, AZ .",,,,,Gila County Emergency Communications Group,Tonto Amateur Radio Association,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.25,5,100,N5LEA,Jal,NM,OPEN,,232.8,SE,yes,444.25,449.25,100,100,Lea,On-Air,,,,yes,,,,,,,,Lea County Amateur Radio Group,http://lcarg.net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.74,-0.6,162.2,WA7HUH,"Globe, Signal Peak",AZ,OPEN,,232.8,WSW,yes,146.74,146.14,162.2,,Gila,On-Air,GCR,,ARCA,yes,,,"Full-time to  
+        449.65000 (WR7GC) at Globe, Signal Peak, AZ .",,,,,,,DM43nh,,,SKYWARN: Wed at 20:00.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.22,0.6,127.3,K5INW,Hobbs,NM,OPEN,,234.7,SE,yes,147.22,147.82,127.3,127.3,Lea,Off-Air,,,,yes,,"Linked to 444.15, 450' AGL, 50 Watts.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.15,5,162.2,N5LEA,Hobbs,NM,OPEN,,236,SE,yes,444.15,449.15,162.2,162.2,Lea,On-Air,Lea County Amateur Radio Group,,NMFCC,yes,,"Linked to 147.220, e-power, 50 watts, 450' AGL.",,,,,,,http://lcarg.net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.275,5,162.2,AH2AZ,"Hobbs, Professional Communications Tower",NM,OPEN,,237.5,SE,yes,444.275,449.275,162.2,162.2,Lea,,Lea Co ARES,,,yes,Most of Lea County and parts of West Texas.,,,,,,,Lea County Amateur Radio Group N5LEA,http://www.ah2az.com,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.28,0.6,100,NM5ML,"Raton, Sierra Grande",NM,OPEN,,240.1,NE,yes,147.28,147.88,100,,Colfax,On-Air,,,NMFCC,yes,Wide area.,8,Full-time to the  Mega-Link System .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.9,7,91.5,KB5MWW,Eunice,NM,OPEN,,243,SE,yes,442.9,449.9,91.5,,Lea,Off-Air,KB5MWW,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.22,0.6,,N5NBR,Eunice,NM,OPEN,,243,SE,yes,147.22,147.82,,,Lea,Off-Air,N5NBR,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.92,-0.6,123,AB7CQ,Tombstone,AZ,OPEN,IW,243.7,SW,yes,146.92,146.32,123,123,Cochise,On-Air,Robert W. Krueger - Tombstone Repeater Group,,ARCA,yes,10,Emergency Power,,,,,,,,,,Yes; analog capable.,,,7515,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,28187,,,,
+,448.825,-5,107.2,WA7PIQ,Benson,AZ,OPEN,,244.4,SW,yes,448.825,443.825,107.2,,Cochise,On-Air,WA7PIQ,,ARCA,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.7,-5,,WA7ELN,Oracle,AZ,CLOSED,,245.2,WSW,yes,448.7,443.7,,,Pima,On-Air,WA7ELN,,ARCA,yes,,Remote base.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.6,5,100,AB7CQ,Tombstone,AZ,OPEN,I,245.4,SW,yes,444.6,449.6,100,100,Cochise,On-Air,AB7CQ,The 444.600/449.600 PL 100.0 repeater is now System Fusion IMRS LAN Linked. Requests for DG-ID TX &amp; RX Codes for linking a Fusion IMRS LAN linked repeater to the the AB7CQ/R repeater can be sent to: ab7cq@ebidpal.com.,ARCA,yes,,E-Power,,,,,,,,DM41xr,,Yes; analog capable.,,,7515,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,,,,,
+,147.02,0.6,162.2,K7RDG,"Bisbee,  Mule Mountains",AZ,OPEN,,249.8,SW,yes,147.02,147.62,162.2,,Cochise,On-Air,CARA,(Former SEARS Repeaters now maintained by CARA),ARCA,yes,,"Closed autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.525,-5,100,K7RDG,"Bisbee, Mule Mountains",AZ,OPEN,,249.8,SW,yes,449.525,444.525,100,,Cochise,On-Air,CARA,(Former SEARS Repeaters now maintained by CARA),ARCA,yes,Map,"Closed autopatch, e-power.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.76,-0.6,162.2,K7RDG,"Bisbee,  Mule Mountains",AZ,OPEN,,249.8,SW,yes,146.76,146.16,162.2,,Cochise,On-Air,Cochise ARA,,ARCA,yes,Map,,,,,,,,,,,,CARA: Thu at 19:00.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.25,-0.6,156.7,K7RST,"Tucson, Mt Lemmon",AZ,OPEN,,250.9,WSW,yes,145.25,144.65,156.7,,Pima,On-Air,,,ARCA,yes,,,,,,,,The Radio Society of Tucson,,,,Yes; analog capable.,,,,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,,,,,
+,145.115,-0.6,,K7RST,"Tucson, Bank of America",AZ,OPEN,,250.9,WSW,yes,145.115,144.515,,,Pima,On-Air,,,ARCA,yes,,,,,yes,K7RST (C) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",The Radio Society of Tucson,http://rstclub.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1282.75,-12,131.8,K7SPV,"Tucson, Mt Lemmon, Radio Ridge",AZ,OPEN,,251.2,WSW,yes,1282.75,1270.75,131.8,,Pima,On-Air,San Pedro Valley ARC,,ARCA,yes,,,,,,,,,,DM42ok,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.35,-5,107.2,N1DHS,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,448.35,443.35,107.2,,Pima,On-Air,N1DHS,,ARCA,yes,,,"Full-time to  
+        146.94000 (WD7F) at Tucson, AZ .",,,,,Border Area Repeater Team (BART),http://www.wd7f.com/bart.htm,,,,,,,,,,,,,,,,,,,,,,,,,,,Listen Live,,,
+,146.88,-0.6,110.9,N7OEM,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,146.88,146.28,110.9,,Pima,On-Air,Pima County Office of Emergency Management,,ARCA,yes,85,E-power.,,,,,,"RACES, PCOEM Comm Group",Pima County Office of Emergency Management,DM42ok,,,"VHF Net, Every Saturday 1300hrs",,,,,,,,,,,,,,,,,,,,,,,,,,
+,53.72,-1,136.5,KA7LFX,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,53.72,52.72,136.5,136.5,Pima,On-Air,,Newly replaced Mt Lemmon -1MHz off set,ARCA,yes,85,,,,,,,,,DM42ok,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.975,5,100,KC0LL,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,444.975,449.975,100,,Pima,On-Air,KC0LL,,ARCA,yes,80,E-power.,"Full-time to  
+        444.87500 (KC0LL) at Green Valley, Keystone Peak, AZ .",,,,,SARCI,,DM42ok,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,445.225,-5,103.5,W7ATN,"Tucson,  Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,445.225,440.225,103.5,,Pima,On-Air,AZ Amateur Television Network,,ARCA,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.14,0.6,100,KC0LL,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,147.14,147.74,100,,Pima,On-Air,"KC0LL , Action Communications",Linking to Mule Mt. has been temporary disabled at this time.,ARCA,yes,"Gila Bend &amp; Wickenburg [West], North of Phoenix [North], Lordsburg, NM [East] and Nogales [South]. 
+Easily accessed from many parts of Phoenix with HT's, however in Tucson it is limited in the Northwest near the foothills and close to the base of Mt. Lemmon, due to the shadowing effect of Pusch Ridge.  80 mi radius.",E-power.,,,,,,,,DM42ok,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.55,-5,110.9,N7OEM,"Tucson,  Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,448.55,443.55,110.9,,Pima,On-Air,Pima County Office of Emergency Management,,ARCA,yes,,E-power.,,,,,,PCOEM Comm Group,http://oemcomm.org/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,927.05,-25,D411,N7HND,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,927.05,902.05,D411,,Pima,On-Air,KA7LFX,,ARCA,yes,85,,,,,,,KA7LFX,,DM42ok,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.06,-1.6,156.7,KA7LFX,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,224.06,222.46,156.7,,Pima,On-Air,KA7LFX,,ARCA,yes,"This repeater at 9,100' has an approximate range around Mt. Lemmon of over 130 miles. 130 mi radius.","Linked to Remote Base Radios on; 52.525, 29.600 and 1,294.500 GHz.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147,0.6,110.9,N7HND,"Tucson, Mount Lemmon",AZ,OPEN,,251.3,WSW,yes,147,147.6,110.9,,Pima,On-Air,CARBA,,ARCA,yes,"I-10, I-8, I-19, Hwy 77, Hwy 79 85 mi radius.",,,,,,,,Cholla Amateur Remote Base Association,DM42ok,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,224.5,-1.6,156.7,K6PYP,"Tucson,  Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,224.5,222.9,156.7,,Pima,On-Air,USERS,,ARCA,yes,,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.925,5,D023,KB7ZZY,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,444.925,449.925,D023,D023,Pima,On-Air,,,ARCA,yes,,Fusion Wires-X,,Node 11396 Room 21396,,,,,,,,Yes; analog capable.,,,,,,,,,,,,,,,,,yes,Open ↑ / Open ↓,,,,,,,,,
+,445.875,-5,CC1,N7HND,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,445.875,440.875,,,Pima,On-Air,N7HND,,ARCA,yes,Greater Tucson area.,,,,,,,,,,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,147.16,0.6,141.3,K7EAR,"Tucson, Mt Lemmon",AZ,OPEN,,251.3,WSW,yes,147.16,147.76,141.3,,Pima,On-Air,,,ARCA,yes,,Linked to https://www.repeaterbook.com/repeaters/feature_search.php?system=EAARS-Link%20System&amp;state_id=%&amp;type=systems,"Full-time to  
+        145.41000 (K7EAR) at Globe, Pinal Peak, AZ .",,,,,SARCI,http://www.eaars.com/,DM42ok,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.1,0.6,,N5SVI,Jal,NM,OPEN,,252.8,SE,yes,147.1,147.7,,,Lea,,N5SVI,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,147.08,0.6,141.3,K7EAR,"Bisbee, Mule Mountains",AZ,OPEN,,253,SW,yes,147.08,147.68,141.3,,Cochise,On-Air,,,ARCA,yes,Southern Cochise County,Linked to EAARS Network,,,,,,Linked to  EAARS Network,Eastern Arizona ARS,DM51al,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,444.8,5,77,N5BOP,Des Moines,NM,OPEN,,254,NE,yes,444.8,449.8,77,,Union,Off-Air,Sierra Grande Repeater Club,,NMFCC,yes,Wide area.,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,147.175,0.6,141.3,NM5EM,"Des Moines, Sierra Grande",NM,OPEN,,254,NE,yes,147.175,147.775,141.3,,Union,On-Air,NMEMA ARC,,NMFCC,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.85,-0.6,100,N5BOP,Des Moines,NM,OPEN,,254,NE,yes,146.85,146.25,100,,Union,Off-Air,Sierra Grande RC,,NMFCC,yes,Wide area.,E-power.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,145.37,-0.6,131.8,K7SPV,"Benson, Haystack Mtn",AZ,OPEN,,254.4,SW,yes,145.37,144.77,131.8,,Cochise,On-Air,San Pedro Valley ARC,,ARCA,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,146.94,-0.6,110.9,WD7F,Tucson,AZ,OPEN,EIW,256.3,WSW,yes,146.94,146.34,110.9,,Pima,On-Air,Border Area Repeater Team (BART),,ARCA,yes,30,,"Full-time to  
+        448.35000 (N1DHS) at Tucson, Mt Lemmon, AZ .","IRLP : 
+On- [node #]/Off- 73. 
+ EchoLink : 
+On- 00 + [node #]/Off- *. 
+Status- BB. 
+ WIRES II : 
+On- # + [node #] + D/Off- #9999D 
+Status- #66666.",,,,,,,,,,1125,3892,,,,,,,,,,,,,,,,,,,,,Listen Live,,,
+,927.1375,-25,D411,K6PYP,"Tucson, Mt Lemmon, Radio Ridge",AZ,OPEN,,256.5,WSW,yes,927.1375,902.1375,D411,D411,Pima,On-Air,BART,,ARCA,yes,,,,,,,,BART,BART,DM42oh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,927.1125,-25,D432,K6PYP,Tucson,AZ,OPEN,,258.2,WSW,yes,927.1125,902.1125,D432,D432,Pima,On-Air,,Back on the air as of 8/27/2018,,yes,,,,,,,,,K6PYP,DM42oe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442.45,5,100,K7LTN,"Sierra Vista, Mustang Corners",AZ,OPEN,,258.7,SW,yes,442.45,447.45,100,100,Cochise,On-Air,LANTERN Christian Amateur Radio Club,Telewave ant 80' up tower,ARCA,yes,"Benson, Tombstone, Bisbee, Fort Huachuca, Hereford, portions of I10.",,,,,,,LANTERN Christian Amateur Radio Club,http://www.LANTERNK7LTN.net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,442,5,,N7MUE,Huachuca City,AZ,OPEN,W,261,SW,yes,442,447,,,Cochise,On-Air,Jere M Lading,,,yes,25,"YSF,  WIRES-X",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,449.55,-5,107.2,K7LHR,Vail,AZ,OPEN,,261.2,WSW,yes,449.55,444.55,107.2,,Pima,On-Air,K7LHR,,ARCA,yes,,"E-power, linked.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,441.2,5,88.5,W7DIG,Sierra Vista,AZ,OPEN,IW,262.3,SW,yes,441.2,446.2,,,Cochise,Off-Air,Southern Arizona Amateur Radio Club,"Digital only with WIRES-X, Node 11104, Room 21104",ARCA,yes,City of Sierra Vista,C4FM/FDMA,,"Radio Setup to use D-Star
+Set your radio for 441.200 MHz, +5MHz
+
+UR: Option
+RPT1: W7DIG  B
+RPT2: W7DIG  G
+
+For Analog:
+Use 88.5Hz for Analog",yes,W7DIG (B) Gateway Repeater,"jfindu lookup 
+    /   dstar-users lookup",,W7DIG,,,,,,3952,,,,,,,,,,,,,,,,,,,,,,,,
+,445.85,-5,CC1,N2QWF,"Sierra Vista, Mule Mountain",AZ,OPEN,,262.3,SW,yes,445.85,440.85,,,Cochise,On-Air,FHART,,ARCA,yes,Wide area:,,,,,,,DMR-MARC,,DM41un,,,,,,yes,1,yes,AZ-TrboNet,"Open Talkgroup View 
+
+
+ 
+   
+    
+     Assignment 
+     TS 
+     TG 
+     Access 
+   
+
+  Worldwide  1  1  PTT    North America  1  3  PTT    English  1  13  Full-Time      2    Full-Time    Europe  2  2  Full-Time    TAC 310  2  310  PTT    DCI Bridge  2  3100  PTT    Southwest USA  2  3176  PTT  
+  
+ 
+ 
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf(""w3-show"") == -1) {
+        x.className += "" w3-show"";
+    } else {
+        x.className = x.className.replace("" w3-show"", """");
+    }
+}",1,1,1,2,2,2,2,,,,,,,,,,,,
+,446.55,-5,100,KE7ULC,Vail,AZ,OPEN,I,262.4,WSW,yes,446.55,441.55,100,,Pima,On-Air,,,,yes,Tucson area.,3,,,,,,,,,,,,,4992,,,,,,,,,,,,,,,,,,,,,,,,
+Resets autopatch timer an additional 3 minutes (please only extend once).,1282.5,-20,100,N0NBH,Sierra Vista,AZ,OPEN,E,263,SW,yes,1282.5,1262.5,100,,Cochise,On-Air,N0NBH,,ARCA,yes,,"E-power, open autopatch, 35 watts.","Full-time to  
+        147.36000 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        449.82500 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        927.91250 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        224.96000 (N0NBH) at Sierra Vista, AZ .","Autopatch :
+ 
+     DTMF    DESCRIPTION    
+  A + [number]:  Connects repeaters to the autopatch and dials the number.    
+  500:  Resets autopatch timer an additional 3 minutes (please only extend once).   
+  B:  Disconnect autopatch   
+  
+All 7-digit local and 11-digit toll free are allowed.",,,,,,,,,,235978,,,,,,,,,,,,,,,,,,,,,,,DESCRIPTION,Connects repeaters to the autopatch and dials the number.,Disconnect autopatch
+Resets autopatch timer an additional 3 minutes (please only extend once).,927.9125,-25,100,N0NBH,Sierra Vista,AZ,OPEN,E,263,SW,yes,927.9125,902.9125,100,,Cochise,On-Air,N0NBH,,ARCA,yes,SE Arizona.,Autopatch.,"Full-time to  
+        1282.50000 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        147.36000 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        449.82500 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        224.96000 (N0NBH) at Sierra Vista, AZ .","Autopatch :
+ 
+     DTMF    DESCRIPTION    
+  A + [number]:  Connects repeaters to the autopatch and dials the number.    
+  500:  Resets autopatch timer an additional 3 minutes (please only extend once).   
+  B:  Disconnect autopatch   
+  
+All 7-digit local and 11-digit toll free are allowed.",,,,,http://n0nbh.com,,,,,235978,,,,,,,,,,,,,,,,,,,,,,Listen Live,DESCRIPTION,Connects repeaters to the autopatch and dials the number.,Disconnect autopatch
+Resets autopatch timer an additional 3 minutes (please only extend once).,147.36,0.6,100,N0NBH,Sierra Vista,AZ,OPEN,E,263,SW,yes,147.36,147.96,100,,Cochise,On-Air,N0NBH,50,ARCA,yes,,"E-power, open autopatch.","Full-time to  
+        224.96000 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        449.82500 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        927.91250 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        1282.50000 (N0NBH) at Sierra Vista, AZ .","Autopatch :
+ 
+     DTMF    DESCRIPTION    
+  A + [number]:  Connects repeaters to the autopatch and dials the number.    
+  500:  Resets autopatch timer an additional 3 minutes (please only extend once).   
+  B:  Disconnect autopatch   
+  
+All 7-digit local and 11-digit toll free are allowed.",,,,,,,,,,235978,,,,,,,,,,,,,,,,,,,,,,,DESCRIPTION,Connects repeaters to the autopatch and dials the number.,Disconnect autopatch
+,447.95,-5,100,K7RDG,"Sierra Vista, Green Acres",AZ,OPEN,,263,SW,yes,447.95,442.95,100,,Cochise,On-Air,CARA - Cochise Amateur Radio Association,,ARCA,yes,30,E-power.,,,,,,,CARA,DM41un,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Resets autopatch timer an additional 3 minutes (please only extend once).,449.825,-5,100,N0NBH,Sierra Vista,AZ,OPEN,E,263,SW,yes,449.825,444.825,100,,Cochise,On-Air,N0NBH,30,ARCA,yes,,"E-power, open autopatch.","Full-time to  
+        1282.50000 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        147.36000 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        927.91250 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        224.96000 (N0NBH) at Sierra Vista, AZ .","Autopatch :
+ 
+     DTMF    DESCRIPTION    
+  A + [number]:  Connects repeaters to the autopatch and dials the number.    
+  500:  Resets autopatch timer an additional 3 minutes (please only extend once).   
+  B:  Disconnect autopatch   
+  
+All 7-digit local and 11-digit toll free are allowed. 
+ EchoLink commands",,,,,,,,,,235978,,,,,,,,,,,,,,,,,,,,,,,DESCRIPTION,Connects repeaters to the autopatch and dials the number.,Disconnect autopatch
+Resets autopatch timer an additional 3 minutes (please only extend once).,224.96,-1.6,100,N0NBH,Sierra Vista,AZ,OPEN,E,263,SW,yes,224.96,223.36,100,,Cochise,On-Air,N0NBH,,ARCA,yes,SE Arizona.,Autopatch.,"Full-time to  
+        1282.50000 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        147.36000 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        449.82500 (N0NBH) at Sierra Vista, AZ .
+ 
+
+
+Full-time to  
+        927.91250 (N0NBH) at Sierra Vista, AZ .","Autopatch :
+ 
+     DTMF    DESCRIPTION    
+  A + [number]:  Connects repeaters to the autopatch and dials the number.    
+  500:  Resets autopatch timer an additional 3 minutes (please only extend once).   
+  B:  Disconnect autopatch   
+  
+All 7-digit local and 11-digit toll free are allowed.",,,,,,,,,,235978,,,,,,,,,,,,,,,,,,,,,,,DESCRIPTION,Connects repeaters to the autopatch and dials the number.,Disconnect autopatch
+,448.325,-5,156.7,K7RST,Vail,AZ,OPEN,,264,WSW,yes,448.325,443.325,156.7,156.7,Pima,On-Air,Radio Society of Tucson,,ARCA,yes,15,,,,,,,,http://www.k7rst.org,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,448.5,-5,91.5,K6RCK,Elgin,AZ,OPEN,,268.2,SW,yes,448.5,443.5,91.5,,Santa Cruz,,K6RCK,,ARCA,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,,,,,,,,,,
+,146.64,-0.6,127.3,W7JPI,"Patagonia, Red Mtn",AZ,OPEN,,283.8,SW,yes,146.64,146.04,127.3,,Santa Cruz,On-Air,W7JPI,,ARCA,yes,,"E-power, packet.",,,,,,SARCI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

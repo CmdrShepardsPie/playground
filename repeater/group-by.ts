@@ -1,66 +1,67 @@
 import "module-alias/register";
 
-import {readFileAsync, writeToJsonAndCsv} from "@helpers/fs-helpers";
+import {readdirAsync, readFileAsync, writeToJsonAndCsv} from "@helpers/fs-helpers";
 import {numberToString} from "@helpers/helpers";
 import {createLog} from "@helpers/node-logger";
 import chalk from "chalk";
-import {mapDir} from "./helper";
-import {IRepeater} from "./i.repeater";
+import {IRepeater} from "./modules/i.repeater";
 
-const log = createLog("Get Repeaters");
+const log = createLog("Group By");
 
-async function doIt(file: string) {
-  const fileData = await readFileAsync(`./repeaters/data/CO/${file}.json`); // await getAllFilesFromDirectory("./repeaters/data/CO/", ".json") as IRepeater[];
+async function doIt(groupBy: keyof IRepeater, inFileName: string, outFileName: string) {
+  const fileData = await readFileAsync(inFileName); // await getAllFilesFromDirectory("./repeaters/data/CO/", ".json") as IRepeater[];
   const repeaters = JSON.parse(fileData.toString()) as IRepeater[];
-  const calls: { [index: string]: IRepeater[] } = {};
-  repeaters.forEach((repeater) => {
-    log(chalk.green("Repeater"), repeater.Call);
-    // if (repeater.Call && repeater.Use === "OPEN" && repeater["Op Status"] === "On-Air" &&
-    //   repeater.Frequency > 100 && repeater.Frequency < 500 &&
-    //   !repeater["D-STAR Enabled"] && !repeater["DMR Enabled"] && !repeater["P25 Digital Enabled"] && !repeater["YSF Digital Enabled"] &&
-    //   !/D\d/.test(repeater.Tone.toString())) {
-    if (!calls[repeater.Call]) {
-      calls[repeater.Call] = [];
-    }
-    calls[repeater.Call].push(repeater);
-    // }
-  });
-  const groups = Object.entries(calls);
-  groups.sort((a, b) => {
-    // const aStr = `${numberToString(a[1].length, 3, 3)} ${numberToString(300 - a[1][0].Mi, 3, 3)}`;
-    const aStr = `${numberToString(300 - a[1][0].Mi, 3, 3)} ${numberToString(a[1].length, 3, 3)} `;
-    const bStr = `${numberToString(300 - b[1][0].Mi, 3, 3)} ${numberToString(b[1].length, 3, 3)} `;
-    log(aStr, bStr);
-    return aStr < bStr ? 1 : aStr > bStr ? -1 : 0;
-  });
 
-  groups.forEach((entry) => {
-    // entry[1].sort((a, b) => {
-    //   const aStr = `${mapDir(a.Dir.substr(-2))} ${numberToString(300 - a.Mi, 3, 3)}`;
-    //   const bStr = `${mapDir(b.Dir.substr(-2))} ${numberToString(300 - b.Mi, 3, 3)}`;
-    //   log(aStr, bStr);
-    //   return aStr < bStr ? 1 : aStr > bStr ? -1 : 0;
-    //   // return (mapDir(b.Dir.substr(-2)) * b.Mi) - (mapDir(a.Dir.substr(-2)) * a.Mi);
-    // });
-    const call = entry[0];
-    const matches = entry[1];
-    log(chalk.blue(call), matches.length);
-  });
-  const sorted = groups.reduce((prev, curr) => [...prev, ...curr[1]], [] as IRepeater[]);
-
-  // sorted.forEach((s) => {
-  //   const name = s.Location
-  //     .split(/[ ,]/)
-  //     .filter((g) => g)
-  //     .map((g) => g[0].toUpperCase() + g.substr(1, 4).toLowerCase())
-  //     .join("");
-  //
-  //   // s.Call = `${s.Call.substr(-3)} ${s.Dir.substr(-2)}`;
-  //   // s.Call = `${s.Call.substr(-3)} ${name}`;
-  //   s.Call = `${name}`;
-  // });
-
-  await writeToJsonAndCsv(`repeaters/groups/${file}`, sorted);
+  // Only grouping by the keys in the first row. It's not comprehensive but contains the essentials.
+  // const keys = Object.keys(repeaters[0]) as Array<keyof IRepeater>;
+  // for (const key of keys) {
+  log(chalk.green("Process"), chalk.blue("Group"), groupBy, chalk.yellow("In"), inFileName, chalk.cyan("Out"), outFileName);
+  const grouped = group(groupBy, repeaters);
+  await writeToJsonAndCsv(outFileName, grouped);
+  // }
 }
 
-export default doIt("Colorado Springs");
+function group(groupBy: keyof IRepeater, repeaters: IRepeater[]) {
+  const keyedGroups: { [index: string]: IRepeater[] } = {};
+  repeaters.forEach((repeater) => {
+    const keyVal = repeater[groupBy];
+    if (keyVal !== undefined && keyVal !== null) {
+      if (!keyedGroups[keyVal]) {
+        keyedGroups[keyVal] = [];
+      }
+      keyedGroups[keyVal].push(repeater);
+    }
+  });
+  const sorting = Object.entries(keyedGroups);
+  sorting.sort((a, b) => {
+    const aMi = numberToString(300 - a[1][0].Mi, 3, 3);
+    const bMi = numberToString(300 - b[1][0].Mi, 3, 3);
+    const aNumRepeaters = numberToString(a[1].length, 3, 3);
+    const bNumRepeaters = numberToString(b[1].length, 3, 3);
+    const aGroupName = a[0];
+    const bGroupName = b[0];
+    // Sort by distance, then number of repeaters in group, then group name
+    const aStr = `${aMi} ${aNumRepeaters} ${aGroupName}`;
+    const bStr = `${bMi} ${bNumRepeaters} ${bGroupName}`;
+    // log(aStr, bStr);
+    return aStr < bStr ? 1 : aStr > bStr ? -1 : 0;
+  });
+  return sorting.reduce((prev, curr) => [...prev, ...curr[1]], [] as IRepeater[]);
+}
+
+async function start() {
+  await doIt("Call", "repeaters/data/CO/Colorado Springs.json", "repeaters/groups/CO/Colorado Springs - Call");
+  await doIt("Call", "repeaters/data/CO/Colorado Springs.json", "repeaters/groups/CO/Colorado Springs - Call");
+  // const coFiles = (await readdirAsync("./repeaters/data/CO/")).map((f) => `CO/${f}`);
+  // const utFiles = (await readdirAsync("./repeaters/data/UT/")).map((f) => `UT/${f}`);
+  // const nmFiles = (await readdirAsync("./repeaters/data/NM/")).map((f) => `NM/${f}`);
+  // const allFiles = [...coFiles, ...utFiles, ...nmFiles].filter((f) => /\.json$/.test(f)).map((f) => f.replace(".json", ""));
+  // for (const file of allFiles) {
+  //   await doIt(file);
+  // }
+  // await doIt("Colorado Springs");
+  // await doIt("Denver");
+  // await doIt("Grand Junction");
+}
+
+export default start();

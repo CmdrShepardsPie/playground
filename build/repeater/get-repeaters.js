@@ -1,11 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 require("module-alias/register");
-const csv_helpers_1 = require("@helpers/csv-helpers");
 const fs_helpers_1 = require("@helpers/fs-helpers");
 const node_logger_1 = require("@helpers/node-logger");
 const chalk_1 = require("chalk");
-const scraper_1 = require("./scraper");
+const scraper_1 = require("./modules/scraper");
 const log = node_logger_1.createLog("Get Repeaters");
 async function save(place, distance) {
     log(chalk_1.default.green("Save"), place, distance);
@@ -41,14 +40,8 @@ async function save(place, distance) {
     log(chalk_1.default.yellow("Results"), result.length, subPlace);
     await fs_helpers_1.writeToJsonAndCsv(`repeaters/data/${subPlace}`, result);
 }
-exports.default = (async () => {
-    const countyFileData = await fs_helpers_1.readFileAsync("./repeater/Colorado_County_Seats.csv");
-    const countyData = await csv_helpers_1.parseAsync(countyFileData, { columns: true });
-    const cities = countyData.map((c) => `${c["County Seat"]}, CO`);
-    while (cities.length) {
-        const name = cities.shift();
-        if (name) {
-            await save(name, 200);
-        }
-    }
-})();
+async function start() {
+    await save("Socorro, NM", 200);
+    await save("Moab, UT", 200);
+}
+exports.default = start();

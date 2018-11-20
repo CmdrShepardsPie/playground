@@ -1,10 +1,9 @@
 import "module-alias/register";
 
-import {parseAsync} from "@helpers/csv-helpers";
-import {readFileAsync, writeToJsonAndCsv} from "@helpers/fs-helpers";
+import {writeToJsonAndCsv} from "@helpers/fs-helpers";
 import {createLog} from "@helpers/node-logger";
 import chalk from "chalk";
-import Scraper from "./scraper";
+import Scraper from "./modules/scraper";
 
 const log = createLog("Get Repeaters");
 
@@ -54,15 +53,21 @@ async function save(place: string | number, distance: number) {
   await writeToJsonAndCsv(`repeaters/data/${subPlace}`, result);
 }
 
-export default (async () => {
-  const countyFileData = await readFileAsync("./repeater/Colorado_County_Seats.csv");
-  const countyData = await parseAsync(countyFileData, { columns: true });
-  const cities: string[] = countyData.map((c: any) => `${c["County Seat"]}, CO`);
-  // return;
-  while (cities.length) {
-    const name = cities.shift();
-    if (name) {
-      await save(name, 200);
-    }
-  }
-})();
+async function start() {
+  await save("Socorro, NM", 200);
+  await save("Moab, UT", 200);
+}
+// export default (async () => {
+//   const countyFileData = await readFileAsync("./repeater/Colorado_County_Seats.csv");
+//   const countyData = await parseAsync(countyFileData, { columns: true });
+//   const cities: string[] = countyData.map((c: any) => `${c["County Seat"]}, CO`);
+//   // return;
+//   while (cities.length) {
+//     const name = cities.shift();
+//     if (name) {
+//       await save(name, 200);
+//     }
+//   }
+// })();
+
+export default start();
