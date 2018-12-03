@@ -6,7 +6,7 @@
 
 /*
  * WARNING! This will start immediately, and delete *everything* it can!
- * Don't run if you don't want to lose anything and/or haven't backed it up!
+ * Don"t run if you don"t want to lose anything and/or haven"t backed it up!
  */
 
 /*
@@ -16,7 +16,7 @@
  * (Usually press and hold Mac: Cmd-(Alt/Option)-I or Window: Ctrl-Shift-I)
  *
  * Facebook shows a message in the developer tool console warning you about pasting scripts,
- *   and they're absolutely right, be very careful about pasting things here,
+ *   and they"re absolutely right, be very careful about pasting things here,
  *   as it will have full access to your browser and anything you can do or see.
  *
  * This runs in multiple phases, setting privacy to "Public" or "Public" if it can,
@@ -141,17 +141,17 @@ async function changeTimeline(row: Element) {
 //   so this should navigate it and click all the necessary things to remove the tag.
 // async function untagFromTimeline() {
 //   const stringsToTry = [
-//     `I'm in this photo and I don't like it`,
-//     `This is a photo of me or my family that I don't want on Facebook`,
-//     `I think it's an unauthorized use of my intellectual property`,
-//     `I think it shouldn't be on Facebook`,
-//     `It's a bad photo of me`,
-//     `It's inappropriate`,
+//     `I"m in this photo and I don"t like it`,
+//     `This is a photo of me or my family that I don"t want on Facebook`,
+//     `I think it"s an unauthorized use of my intellectual property`,
+//     `I think it shouldn"t be on Facebook`,
+//     `It"s a bad photo of me`,
+//     `It"s inappropriate`,
 //     `It makes me sad`,
-//     `It's embarrassing`,
+//     `It"s embarrassing`,
 //     `Other`,
 //     `Something else`,
-//     `It's something else`,
+//     `It"s something else`,
 //     `See more options`,
 //     `Remove Tag`,
 //   ];
@@ -174,13 +174,13 @@ async function changeTimeline(row: Element) {
 // }
 // Helper to get clickable elements in drop down menus
 async function getMenuFor(text: string) {
-  // console.log('getMenuFor outer', text);
+  console.log("getMenuFor outer", text);
   return await new Promise((resolve) => {
     setTimeout(() => {
       try {
         const menu = document.querySelector(`[role="menu"]`);
         if (menu) {
-          // console.log('getMenuFor inner', text);
+          console.log("getMenuFor inner", text);
           const allMenuItems = [...menu.querySelectorAll(`*`)] as HTMLElement[];
           const filteredMenuItems = allMenuItems.filter((item) => item.innerText.toLowerCase() === text.toLowerCase());
           if (filteredMenuItems.length > 0) {
@@ -198,14 +198,14 @@ async function getMenuFor(text: string) {
 
 // Helper to get clickable elements in pop up dialogs
 // async function getDialogFor(text: string) {
-//   // console.log('getDialogFor outer', text);
+//   console.log("getDialogFor outer", text);
 //   return await new Promise((resolve) => {
 //     setTimeout(() => {
 //       try {
 //         const dialogs = document.querySelectorAll(`[role="dialog"]`);
 //         const dialog = dialogs[dialogs.length - 1];
 //         if (dialog) {
-//           // console.log('getDialogFor inner', text);
+//           console.log("getDialogFor inner", text);
 //           const allDialogItems = [...dialog.querySelectorAll(`*`)] as HTMLElement[];
 //           const filteredDialogItems = allDialogItems.filter((item) => {
 //             return item.innerText.toLowerCase() === text.toLowerCase() &&
@@ -228,17 +228,17 @@ async function getMenuFor(text: string) {
 //   });
 // }
 
-// Remove drop down menus when we're down with them because Facebook doesn't
-//   and the hidden HTML grows significantly if we don't.
+// Remove drop down menus when we"re down with them because Facebook doesn"t
+//   and the hidden HTML grows significantly if we don"t.
 async function cleanupMenu() {
-  // console.log('cleanupMenu');
+  console.log("cleanupMenu");
   const menu = document.querySelector(`[role="menu"]`);
   return await cleanupElement(menu);
 }
 
 // Simulate a user clicking an item.
 async function clickItem(item: any): Promise<any> {
-  // console.log('clickItem outer', item);
+  console.log("clickItem outer", item);
   if (!item || item.length === 0) {
     return;
   }
@@ -253,7 +253,7 @@ async function clickItem(item: any): Promise<any> {
   return await new Promise((resolve) => {
     setTimeout(async () => {
       try {
-        // console.log('clickItem inner', item);
+        console.log("clickItem inner", item);
         item.click();
         resolve();
       } catch (e) { console.log(`clickItem error`, e); return resolve(); }
@@ -261,9 +261,9 @@ async function clickItem(item: any): Promise<any> {
   });
 }
 
-// Remove elements from the page so the processing doesn't slow down as much
+// Remove elements from the page so the processing doesn"t slow down as much
 async function cleanupElement(item: any): Promise<any> {
-  // console.log('cleanupElement outer', item);
+  console.log("cleanupElement outer", item);
   if (!item || item.length === 0) {
     return;
   }
@@ -278,7 +278,7 @@ async function cleanupElement(item: any): Promise<any> {
   return await new Promise((resolve) => {
     setTimeout(async () => {
       try {
-        // console.log('cleanupElement inner', item);
+        console.log("cleanupElement inner", item);
         item.parentNode.removeChild(item);
         return resolve();
       } catch (e) { console.log(`removeItemFromPage error`, e); return resolve(); }
