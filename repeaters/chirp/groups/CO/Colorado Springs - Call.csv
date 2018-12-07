@@ -1,475 +1,382 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
-0, Colorado Springs,449.575,-,5,,88.5,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs  449.575
-1, Colorado Springs,147.27,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs  147.27
-2, Falcon,447.2,-,5,Tone,151.4,151.4,23,23,NN,DIG,5,CO El Paso Falcon  447.2
-3, Lake George,449.7,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Park Lake George  449.7
-4," Cedaredge, Grand Mesa",447.35,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Delta Cedaredge, Grand Mesa  447.35"
-5, Boise City,147.35,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,OK Cimarron Boise City  147.35
-6,X0G Colorado Springs,447.475,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO El Paso Colorado Springs NX0G 447.475
-7,X0G Woodland Park,448.65,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Teller Woodland Park NX0G 448.65
-8,X0G Woodland Park,146.82,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Teller Woodland Park NX0G 146.82
-9,X0G Cripple Creek,147.015,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Teller Cripple Creek NX0G 147.015
-10,"X0G Lake George, Badger Mountain",146.685,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain NX0G 146.685"
-11,SRJ Colorado Springs,224.06,-,1.6,,88.5,88.5,23,23,NN,FM,5,CO El Paso Colorado Springs KB0SRJ 224.06
-12,SRJ Colorado Springs,145.265,-,0.6,Tone,100,100,23,23,NN,DIG,5,CO El Paso Colorado Springs KB0SRJ 145.265
-13,"SRJ Colorado Springs, UCCS",448.8,-,5,Tone,100,100,23,23,NN,DIG,5,"CO El Paso Colorado Springs, UCCS KB0SRJ 448.8"
-14,"SRJ Colorado Springs, Pikes Peak",448.45,-,5,Tone,100,100,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 448.45"
-15,"SRJ Colorado Springs, Pikes Peak",146.97,-,0.6,Tone,100,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 146.97"
-16,IFI Colorado Springs,447.55,-,5,Tone,123,123,23,23,NN,FM,5,CO El Paso Colorado Springs WA6IFI 447.55
-17,"IFI Colorado Springs, Cheyenne Mountain",53.13,-,1.7,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain WA6IFI 53.13"
-18,"IFI Colorado Springs, Almagre Mountain",927.725,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,"CO Teller Colorado Springs, Almagre Mountain WA6IFI 927.725"
-19,"IFI Trinidad, Raton Pass",145.43,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Las Animas Trinidad, Raton Pass WA6IFI 145.43"
-20,MOG Colorado Springs,927.8,-,25,DTCS,88.5,88.5,116,116,NN,FM,5,CO Teller Colorado Springs W0MOG 927.8
-21,MOG Colorado Springs,448.6,-,5,Tone,114.8,114.8,23,23,NN,FM,5,CO El Paso Colorado Springs W0MOG 448.6
-22,MOG Colorado Springs,147.39,+,0.6,Tone,103.5,103.5,23,23,NN,FM,5,CO El Paso Colorado Springs W0MOG 147.39
-23,MOG Colorado springs,224.72,-,1.6,Tone,103.5,103.5,23,23,NN,FM,5,CO El Paso Colorado springs W0MOG 224.72
-24,IRP Colorado Springs,447.35,-,5,Tone,151.4,151.4,23,23,NN,FM,5,CO El Paso Colorado Springs K0IRP 447.35
-25,IRP Colorado Springs,146.91,-,0.6,Tone,151.4,151.4,23,23,NN,FM,5,CO El Paso Colorado Springs K0IRP 146.91
-26,A0L Colorado Springs,448.3,-,5,Tone,100,100,23,23,NN,FM,5,CO El Paso Colorado Springs AA0L 448.3
-27,A0L Colorado Springs,147.135,+,0.6,Tone,100,100,23,23,NN,FM,5,CO El Paso Colorado Springs AA0L 147.135
-28,"0KG Colorado Springs, Broadmoor Area",448.25,-,5,Tone,123,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Broadmoor Area N0KG 448.25"
-29,0WF Colorado Springs,447.025,-,5,Tone,123,123,23,23,NN,FM,5,CO El Paso Colorado Springs KF0WF 447.025
-30,RSH Colorado Springs,146.85,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,CO El Paso Colorado Springs W0RSH 146.85
-31,"TTF Colorado Springs, Fillmore Hill",448.725,-,5,Tone,123,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Fillmore Hill KA0TTF 448.725"
-32,"0SZ Colorado Springs, Cheyenne Mountain",445.0625,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO El Paso Colorado Springs, Cheyenne Mountain N0SZ 445.0625"
-33,0SZ Westcreek,446.875,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Douglas Westcreek N0SZ 446.875
-34,"0SZ Fairplay, Badger",446.7625,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Park Fairplay, Badger N0SZ 446.7625"
-35,"0SZ Evergreen, Lower Squaw Mountain",145.175,-,0.6,DTCS,88.5,88.5,73,73,NN,DIG,5,"CO Clear Creek Evergreen, Lower Squaw Mountain N0SZ 145.175"
-36,"0SZ Golden, Lookout Mountain",145.37,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain N0SZ 145.37"
-37,"0SZ Salida, Methodist Mountain",446.8125,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Chaffee Salida, Methodist Mountain N0SZ 446.8125"
-38,"0SZ Idaho Springs, Squaw Mountain",448.225,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain N0SZ 448.225"
-39,"0SZ Idaho Springs, Squaw Mountain",446.9375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Clear Creek Idaho Springs, Squaw Mountain N0SZ 446.9375"
-40,"0SZ Breckenridge, Baldy",445.0875,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Fremont Breckenridge, Baldy N0SZ 445.0875"
-41,"0SZ Leadville, Mosquito Pass",445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Lake Leadville, Mosquito Pass N0SZ 445.05"
-42,"0SZ Denver, Thorodin Mountain",449.225,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Gilpin Denver, Thorodin Mountain N0SZ 449.225"
-43,"0SZ Boulder, Mount Thorodin",446.8,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Boulder Boulder, Mount Thorodin N0SZ 446.8"
-44,"0SZ Boulder, Lee Hill",446.9875,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Boulder Boulder, Lee Hill N0SZ 446.9875"
-45,"0SZ Boulder, Lee Hill",447.75,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Boulder Boulder, Lee Hill N0SZ 447.75"
-46,"0SZ Boulder, Lee Hill",445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Boulder Boulder, Lee Hill N0SZ 445.05"
-47,0SZ Vail,445.075,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Eagle Vail N0SZ 445.075
-48,"0SZ Durango, Missionary Ridge",445.1375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO La Plata Durango, Missionary Ridge N0SZ 445.1375"
-49,"0SZ Rangely, Cathedral Bluffs",445.2625,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Rio Blanco Rangely, Cathedral Bluffs N0SZ 445.2625"
-50,"VJJ Colorado Springs, Cheyenne Mountain",145.13,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KB0VJJ 145.13"
-51,"VJJ Salida, Methodist Mountain",147.285,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KB0VJJ 147.285"
-52,"VJJ Breckenridge, Bald Mountain",147.39,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Summit Breckenridge, Bald Mountain KB0VJJ 147.39"
-53,"VJJ Leadville, Mosquito Pass",145.445,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Lake Leadville, Mosquito Pass KB0VJJ 145.445"
-54,"VJJ Boulder, Thorodin Mountain",145.31,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Gilpin Boulder, Thorodin Mountain KB0VJJ 145.31"
-55,"VJJ Winter Park, Winter Park",147.285,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Grand Winter Park, Winter Park KB0VJJ 147.285"
-56,VJJ Vail,147.345,+,0.6,Tone,88.5,123,23,23,NN,FM,5,CO Eagle Vail KB0VJJ 147.345
-57,"VJJ Kremmling, Santoy Peak",147.075,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Grand Kremmling, Santoy Peak KB0VJJ 147.075"
-58,VJJ Akron,145.4,-,0.6,Tone,88.5,123,23,23,NN,FM,5,CO Washington Akron KB0VJJ 145.4
-59,"VJJ Glenwood Springs, Sunlight Peak",146.85,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Sunlight Peak KB0VJJ 146.85"
-60,"VJJ Walden, Peterson Ridge",145.16,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Jackson Walden, Peterson Ridge KB0VJJ 145.16"
-61,VJJ Steamboat Springs,449.625,-,5,Tone,123,123,23,23,NN,FM,5,CO Routt Steamboat Springs KB0VJJ 449.625
-62,VJJ Steamboat Springs,147.165,+,0.6,Tone,88.5,123,23,23,NN,FM,5,CO Routt Steamboat Springs KB0VJJ 147.165
-63,"VJJ Grand Junction, Grand Mesa",145.355,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa KB0VJJ 145.355"
-64,VJJ Craig,146.97,-,0.6,Tone,88.5,123,23,23,NN,FM,5,CO Moffat Craig KB0VJJ 146.97
-65,"VJJ Durango, Missionary Ridge",147.345,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO La Plata Durango, Missionary Ridge KB0VJJ 147.345"
-66,"VJJ Grand Junction, Grand Mesa",147.355,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa KB0VJJ 147.355"
-67,"CVU Colorado Springs, Cheyenne Mountain",927.85,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,"CO Teller Colorado Springs, Cheyenne Mountain KC0CVU 927.85"
-68,"CVU Colorado Springs, Cheyenne Mountain",446.9125,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 446.9125"
-69,"CVU Colorado Springs, Cheyenne Mountain",145.375,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 145.375"
-70,"CVU Colorado Springs, Cheyenne Mountain",147.345,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 147.345"
-71,"CVU Colorado Springs, Cheyenne Mountain",146.76,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 146.76"
-72,"CVU Colorado Springs, Cheyenne Mountain",448.1,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448.1"
-73,"CVU Colorado Springs, Cheyenne Mountain",448,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448"
-74,"CVU Lake George, Badger Mountain",147.36,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain KC0CVU 147.36"
-75,"CVU Pueblo, Deer Peak",449.625,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Custer Pueblo, Deer Peak KC0CVU 449.625"
-76,"CVU Salida, Methodist Mountain",145.295,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 145.295"
-77,"CVU Salida, Methodist Mountain",449.65,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 449.65"
-78,"CVU Trinidad, Raton Pass",449.6,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Las Animas Trinidad, Raton Pass KC0CVU 449.6"
-79,"CRA Colorado Springs, Cheyenne Mountain",145.16,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain W0CRA 145.16"
-80,"CRA Larkspur, Westcreek",448.425,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek W0CRA 448.425"
-81,"CRA Larkspur, Westcreek",147.225,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek W0CRA 147.225"
-82,"CRA Conifer, Conifer Mountain",447.15,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Conifer, Conifer Mountain W0CRA 447.15"
-83,"CRA Conifer, Conifer Mountain",224.98,-,1.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Conifer, Conifer Mountain W0CRA 224.98"
-84,"CRA Conifer, Conifer Mountain",1287.9,-,20,,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Conifer, Conifer Mountain W0CRA 1287.9"
-85,"CRA Conifer, Conifer Mountain",53.05,-,1.7,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Conifer, Conifer Mountain W0CRA 53.05"
-86,"CRA Idaho Springs, Squaw Mountain",145.145,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain W0CRA 145.145"
-87,"CRA Idaho Springs, Squaw Mountain",447.575,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain W0CRA 447.575"
-88,"CRA Boulder, Eldorado Mountain",447.975,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Boulder Boulder, Eldorado Mountain W0CRA 447.975"
-89,"CRA Boulder, Eldorado Mountain",145.46,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Boulder Boulder, Eldorado Mountain W0CRA 145.46"
-90,"PFJ Colorado Springs, Almagre Mountain",446.95,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Teller Colorado Springs, Almagre Mountain K7PFJ 446.95"
-91,"PFJ Granby, Mt Chauncey",446.875,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Clear Creek Granby, Mt Chauncey K7PFJ 446.875"
-92,"PFJ Fort Collins, Horsetooth Mountain",446.75,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins, Horsetooth Mountain K7PFJ 446.75"
-93,"PFJ Cheyenne, South",449.9375,-,5,,88.5,88.5,23,23,NN,DIG,5,"WY Laramie Cheyenne, South K7PFJ 449.9375"
-94,"0SP Colorado Springs, Almagre Mountain",147.18,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO El Paso Colorado Springs, Almagre Mountain AA0SP 147.18"
-95,WUC Woodland Park,449.025,-,5,Tone,141.3,141.3,23,23,NN,FM,5,CO Teller Woodland Park KA0WUC 449.025
-96,WUC Woodland Park,927.9,-,25,DTCS,88.5,88.5,205,205,NN,FM,5,CO Teller Woodland Park KA0WUC 927.9
-97,WUC Woodland Park,145.415,-,0.6,Tone,179.9,179.9,23,23,NN,FM,5,CO Teller Woodland Park KA0WUC 145.415
-98,WUC Woodland Park,447.675,-,5,Tone,179.9,179.9,23,23,NN,FM,5,CO Teller Woodland Park KA0WUC 447.675
-99,"EPS Woodland Park, Paradise Pines",449.325,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Teller Woodland Park, Paradise Pines KA4EPS 449.325"
-100,"0NR Monument, Monument Hill",447.725,-,5,Tone,100,100,23,23,NN,FM,5,"CO El Paso Monument, Monument Hill K0NR 447.725"
-101,"MDP Falcon, Black Forest",447.625,-,5,Tone,100,100,23,23,NN,FM,5,"CO El Paso Falcon, Black Forest KD0MDP 447.625"
-102,WDF Cripple Creek,224.94,-,1.6,Tone,67,67,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 224.94
-103,WDF Cripple Creek,1287.7,-,20,Tone,67,67,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 1287.7
-104,WDF Cripple Creek,145.46,-,0.6,Tone,67,67,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 145.46
-105,WDF Cripple Creek,447.4,-,5,Tone,67,67,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 447.4
-106,"WDF Canon City, eightmile Mountain",449,-,5,Tone,67,67,23,23,NN,FM,5,"CO Fremont Canon City, eightmile Mountain WB0WDF 449"
-107,"WDF Canon City, Fremont Peak",53.03,-,1.7,Tone,88.5,88.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WB0WDF 53.03"
-108,"XLF Palmer Lake, Monument Hill",145.19,-,0.6,Tone,131.8,131.8,23,23,NN,FM,5,"CO Douglas Palmer Lake, Monument Hill N0XLF 145.19"
-109,"JSC Larkspur, Westcreek",449.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek K0JSC 449.975"
-110,"JSC Canon City, Canon City",449.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Canon City K0JSC 449.975"
-111,"JSC Canon City, Colorado",447.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Colorado K0JSC 447.975"
-112,"JSC Canon City, Fremont Peak",446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Fremont Canon City, Fremont Peak K0JSC 446.7375"
-113,"JSC Canon City, Fremont Peak",447.25,-,5,Tone,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak K0JSC 447.25"
-114,JSC Pueblo West,448.975,-,5,Tone,100,100,23,23,NN,FM,5,CO Pueblo Pueblo West K0JSC 448.975
-115,"JSC Pueblo, Metro",447.275,-,5,Tone,100,100,23,23,NN,FM,5,"CO Pueblo Pueblo, Metro K0JSC 447.275"
-116,JSC Pueblo,446.9875,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Pueblo Pueblo K0JSC 446.9875
-117,"JSC Pueblo, Cedarwood",449.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Pueblo Pueblo, Cedarwood K0JSC 449.975"
-118,JSC Westcliffe,448.325,-,5,Tone,100,100,23,23,NN,FM,5,CO Custer Westcliffe K0JSC 448.325
-119,"JSC Salida, Methodist Mountain",449.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain K0JSC 449.975"
-120,"D0Q Pueblo, Baculite Mesa",224.26,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Baculite Mesa ND0Q 224.26"
-121,D0Q Pueblo,447.95,-,5,Tone,88.5,88.5,23,23,NN,FM,5,CO Pueblo Pueblo ND0Q 447.95
-122,"D0Q Pueblo, Baculite Mesa",146.79,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Baculite Mesa ND0Q 146.79"
-123,D0Q Pueblo,145.115,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,CO Pueblo Pueblo ND0Q 145.115
-124,"D0Q Pueblo, Deer Peak",146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Deer Peak ND0Q 146.88"
-125,"D0Q Pueblo, Deer Peak",447.175,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Deer Peak ND0Q 447.175"
-126,"D0Q Walsenburg, Deer Peak",224.32,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Custer Walsenburg, Deer Peak ND0Q 224.32"
-127,"D0Q Westcliffe, Deer Peak",919.1,-,25,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Westcliffe, Deer Peak ND0Q 919.1"
-128,"D0Q Walsenburg, N Rattlesnake Butte",146.73,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Huerfano Walsenburg, N Rattlesnake Butte ND0Q 146.73"
-129,"ESQ Castle Rock, Devils Head",446.925,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Douglas Castle Rock, Devils Head N0ESQ 446.925"
-130,"ESQ Castle Rock, Devils Head (Pike National Forest)",447.525,-,5,Tone,146.2,146.2,23,23,NN,FM,5,"CO Douglas Castle Rock, Devils Head (Pike National Forest) N0ESQ 447.525"
-131,"ESQ Parker, Hess Reservoir",447.525,-,5,Tone,203.5,146.2,23,23,NN,FM,5,"CO Douglas Parker, Hess Reservoir N0ESQ 447.525"
-132,"TUC Canon City, Fremont Peak",927.7,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,"CO Fremont Canon City, Fremont Peak KB0TUC 927.7"
-133,TUC Westcliffe,927.775,-,25,DTCS,88.5,88.5,116,116,NN,FM,5,CO Custer Westcliffe KB0TUC 927.775
-134,TUC Westcliffe,147.06,+,0.6,Tone,77,77,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 147.06
-135,TUC Westcliffe,448.15,-,5,Tone,103.5,103.5,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 448.15
-136,"EKR Canon City, Fremont Peak",223.96,-,1.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 223.96"
-137,"EKR Canon City, Fremont Peak",447.75,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 447.75"
-138,"EKR Canon City, Fremont Peak",145.49,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 145.49"
-139,"E0Z Pueblo, CSU",147,+,0.6,,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, CSU NE0Z 147"
-140,PRA Franktown,446.85,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Douglas Franktown K0PRA 446.85
-141,PRA Parker,445.075,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Douglas Parker K0PRA 445.075
-142,PWZ Palmer Divide,449.725,-,5,Tone,100,100,23,23,NN,FM,5,CO El Paso Palmer Divide N0PWZ 449.725
-143,"0KR Pueblo, Pueblo",447.7,-,5,Tone,210.7,210.7,23,23,NN,DIG,5,"CO Pueblo Pueblo, Pueblo KF0KR 447.7"
-144,"0ST Pueblo, Pueblo",146.655,-,0.6,Tone,123,123,23,23,NN,FM,5,"CO Pueblo Pueblo, Pueblo K0ST 146.655"
-145,J0T Pueblo,147.24,+,0.6,Tone,103.5,103.5,23,23,NN,FM,5,CO Pueblo Pueblo KJ0T 147.24
-146,"9SL Castle Pines, Daniels Park",449.95,-,5,Tone,77,77,23,23,NN,FM,5,"CO Douglas Castle Pines, Daniels Park W9SL 449.95"
-147,0DE Simla,147.105,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Elbert Simla WA0DE 147.105
-148,"OWY Conifer, Critchell Mountain",447.5,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Conifer, Critchell Mountain N0OWY 447.5"
-149,"TUB Centennial, Warren Mountain",146.88,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Centennial, Warren Mountain WB0TUB 146.88"
-150,"TUB Centennial, Warren Mountain",449.6,-,5,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Centennial, Warren Mountain WB0TUB 449.6"
-151,"TUB Golden, Centennial Cone",146.64,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Golden, Centennial Cone WB0TUB 146.64"
-152,Q8M Parker,448.7,-,5,Tone,146.2,146.2,23,23,NN,FM,5,CO Douglas Parker WQ8M 448.7
-153,0HC Parker,927.8375,-,25.8,Tone,100,100,23,23,NN,DIG,5,CO Douglas Parker KI0HC 927.8375
-154,"0HC Golden, Centennial Cone",927.8375,-,25.8,DTCS,88.5,88.5,205,205,NN,DIG,5,"CO Jefferson Golden, Centennial Cone KI0HC 927.8375"
-155,"0PC Bailey, Dick Mountain",146.895,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Park Bailey, Dick Mountain AB0PC 146.895"
-156,"UDD Aurora, Smoky Hill",145.4,-,0.8,Tone,100,100,23,23,NN,FM,5,"CO Arapahoe Aurora, Smoky Hill KB0UDD 145.4"
-157,"UDD Aurora, Smokey Hill",448.5,-,5,Tone,100,100,23,23,NN,FM,5,"CO Denver Aurora, Smokey Hill KB0UDD 448.5"
-158,"UDD Idaho Springs, Squaw Mountain",146.67,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain KB0UDD 146.67"
-159,PWO Centennial,449.425,-,5,DTCS,88.5,88.5,23,23,NN,FM,5,CO Arapahoe Centennial K0PWO 449.425
-160,OBA Aurora,145.19,-,0.6,Tone,151.4,131.8,23,23,NN,FM,5,CO Arapahoe Aurora N0OBA 145.19
-161,"ARA Critchell, Critchell Mountain",147.12,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Critchell, Critchell Mountain N0ARA 147.12"
-162,AEN Aurora,449.15,-,5,Tone,136.5,136.5,23,23,NN,DIG,5,CO Arapahoe Aurora WR0AEN 449.15
-163,AEN Denver,449.65,-,5,Tone,136.5,136.5,23,23,NN,DIG,5,CO Denver Denver WR0AEN 449.65
-164,AEN Denver,449.675,-,5,Tone,136.5,136.5,23,23,NN,DIG,5,CO Denver Denver WR0AEN 449.675
-165,"AEN Idaho Springs, Squaw Mountain",449,-,5,Tone,136.5,136.5,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain WR0AEN 449"
-166,AEN Greeley,449.325,-,5,Tone,136.5,136.5,23,23,NN,DIG,5,CO Weld Greeley WR0AEN 449.325
-167,Z0N Hartsel,448.575,-,5,Tone,103.5,103.5,23,23,NN,FM,5,CO Park Hartsel WZ0N 448.575
-168,"Z0N Salida, Methodist Mountain",449.925,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain WZ0N 449.925"
-169,FSX Punkin Center,449.9,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Lincoln Punkin Center N1FSX 449.9
-170,"0TX Lakewood, Green Mtn",449.775,-,5,Tone,100,100,23,23,NN,DIG,5,"CO Jefferson Lakewood, Green Mtn W0TX 449.775"
-171,"0TX Lakewood, Green Mountain",147.33,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Lakewood, Green Mountain W0TX 147.33"
-172,"0TX Lakewood, Green Mountain",224.38,-,1.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Lakewood, Green Mountain W0TX 224.38"
-173,"0TX Lakewood, Green Mountain",53.09,-,1.7,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Lakewood, Green Mountain W0TX 53.09"
-174,"0TX Lakewood, St Anthony Medical Campus",447.825,-,5,DTCS,88.5,88.5,73,73,NN,NFM,5,"CO Jefferson Lakewood, St Anthony Medical Campus W0TX 447.825"
-175,"0TX Idaho Springs, Centennial Cone",145.49,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Idaho Springs, Centennial Cone W0TX 145.49"
-176,"0TX Idaho Springs, Squaw Mountain",449.35,-,5,Tone,100,100,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain W0TX 449.35"
-177,"0TX Golden, Centennial Cone",448.625,-,5,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Golden, Centennial Cone W0TX 448.625"
-178,"0TX Denver, Centennial Cone",446.7875,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Denver, Centennial Cone W0TX 446.7875"
-179,GUQ Evergreen,145.34,-,0.6,Tone,103.5,127.3,23,23,NN,FM,5,CO Jefferson Evergreen KE4GUQ 145.34
-180,"LXX Morrison, Mt. Morrison",447.875,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Morrison, Mt. Morrison N6LXX 447.875"
-181,"LXX Morrison, Mt. Morrison",53.17,-,1.7,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Morrison, Mt. Morrison N6LXX 53.17"
-182,ZUQ Aurora,448.4,-,5,Tone,94.8,94.8,23,23,NN,FM,5,CO Arapahoe Aurora N0ZUQ 448.4
-183,"ZUQ Fort Collins, Christ Mountain",449.425,-,5,Tone,94.8,94.8,23,23,NN,FM,5,"CO Larimer Fort Collins, Christ Mountain N0ZUQ 449.425"
-184,"ZUQ Fort Collins, Christ Mountain",927.875,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,"CO Larimer Fort Collins, Christ Mountain N0ZUQ 927.875"
-185,ANT Aurora,448.825,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Arapahoe Aurora WN7ANT 448.825
-186,0BG Aurora,448.275,-,5,Tone,156.7,156.7,23,23,NN,FM,5,CO Arapahoe Aurora W0BG 448.275
-187,ELY Lakewood,448.75,-,5,Tone,100,100,23,23,NN,FM,5,CO Jefferson Lakewood N0ELY 448.75
-188,FEZ Denver,447.925,-,5,Tone,100,100,23,23,NN,FM,5,CO Denver Denver K0FEZ 447.925
-189,"FEZ Golden, Centennial Cone",146.985,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Denver Golden, Centennial Cone K0FEZ 146.985"
-190,TPT Denver,447.9,-,5,,88.5,88.5,23,23,NN,FM,5,CO Denver Denver WB0TPT 447.9
-191,"0SJ Boulder, Blue Mountain",145.475,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Boulder, Blue Mountain KE0SJ 145.475"
-192,"0SJ Golden, Centennial Cone",145.28,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Golden, Centennial Cone KE0SJ 145.28"
-193,"0SJ Golden, Centennial Cone",449.525,-,5,,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Golden, Centennial Cone KE0SJ 449.525"
-194,0SJ Lochbuie,447.625,-,5,Tone,100,100,23,23,NN,FM,5,CO Adams Lochbuie KE0SJ 447.625
-195,KIZ Denver,448.55,-,5,Tone,82.5,82.5,23,23,NN,FM,5,CO Denver Denver W0KIZ 448.55
-196,EHP Denver,448.075,-,5,Tone,123,123,23,23,NN,FM,5,CO Denver Denver N5EHP 448.075
-197,JXN Denver,146.715,-,0.6,Tone,123,123,23,23,NN,FM,5,CO Denver Denver N0JXN 146.715
-198,"JRL Denver, Broadway Plaza Lofts",447.175,-,5,Tone,100,100,23,23,NN,FM,5,"CO Denver Denver, Broadway Plaza Lofts W0JRL 447.175"
-199,"SSP Lakewood, Moffat Treatment Plant",448.35,-,5,Tone,225.7,225.7,23,23,NN,DIG,5,"CO Jefferson Lakewood, Moffat Treatment Plant KD0SSP 448.35"
-200,"SSP Lakewood, Moffat Treatment Plant",147.21,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Lakewood, Moffat Treatment Plant KD0SSP 147.21"
-201,"CDS Golden, Lookout Mountain",1299.9,,0,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain W0CDS 1299.9"
-202,"CDS Golden, Lookout Mountain",446.9625,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain W0CDS 446.9625"
-203,"CDS Golden, Lookout Mountain",1283.9625,-,20,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain W0CDS 1283.9625"
-204,"CDS Golden, Lookout Mountain",145.25,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain W0CDS 145.25"
-205,"YZT Golden, Lookout",446.8375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout WA2YZT 446.8375"
-206,"0KU Golden, Lookout Mountain",449.625,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Jefferson Golden, Lookout Mountain W0KU 449.625"
-207,UPS Cedar Point,449.25,-,5,Tone,123,123,23,23,NN,FM,5,CO Elbert Cedar Point K0UPS 449.25
-208,"GUR Denver, Green Valley Ranch",448.15,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Denver Denver, Green Valley Ranch K0GUR 448.15"
-209,"QPG Salida, Methodist Mountain",446.975,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Chaffee Salida, Methodist Mountain KD0QPG 446.975"
-210,PYY Golden,927.7875,-,25,Tone,156.7,156.7,23,23,NN,FM,5,CO Jefferson Golden N0PYY 927.7875
-211,PYY Golden,448.125,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Jefferson Golden N0PYY 448.125
-212,"PYY Evergreen, Squaw Mountain",147.3,+,0.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Clear Creek Evergreen, Squaw Mountain N0PYY 147.3"
-213,0GV Golden,448.975,-,5,Tone,123,123,23,23,NN,FM,5,CO Jefferson Golden W0GV 448.975
-214,"CFI Idaho Springs, Squaw Mountain",448.675,-,5,Tone,100,100,23,23,NN,FM,5,"CO Denver Idaho Springs, Squaw Mountain W0CFI 448.675"
-215,"WYX Idaho Springs, Squaw Mountain",146.94,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain W0WYX 146.94"
-216,WYX Broomfield,449.825,-,5,Tone,103.5,103.5,23,23,NN,FM,5,CO Boulder Broomfield W0WYX 449.825
-217,"DUN Idaho Springs, Squaw Mountain",449.45,-,5,Tone,103.5,127.3,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain K1DUN 449.45"
-218,"VGD Golden, Table Mountain",446.975,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Table Mountain KB0VGD 446.975"
-219,"VGD Fort Collins , Horsetooth Mountain",145.265,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins , Horsetooth Mountain KB0VGD 145.265"
-220,"0KQ Evergreen, Saddleback Mountain",447.85,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Clear Creek Evergreen, Saddleback Mountain AC0KQ 447.85"
-221,UPS Westminster,449.3,-,5,Tone,100,100,23,23,NN,FM,5,CO Adams Westminster N1UPS 449.3
-222,"T0C Golden, Guy Hill",145.22,-,0.6,Tone,103.5,103.5,23,23,NN,DIG,5,"CO Jefferson Golden, Guy Hill WT0C 145.22"
-223,"CBI Golden, Guy Hill",147.15,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill W0CBI 147.15"
-224,"POH Golden, Guy Hill",224.74,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill N0POH 224.74"
-225,"MHU Golden, Guy Hill",224,-,1.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill N0MHU 224"
-226,"0GO Golden, Guy Hill",449.75,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill KI0GO 449.75"
-227,"IBM Golden, Guy Hill",448.85,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill K0IBM 448.85"
-228,"UFO Fairplay, Sacramento Mountain",447.125,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Park Fairplay, Sacramento Mountain KC0UFO 447.125"
-229,"G0N Idaho Springs, Squaw Mountain",449.05,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Denver Idaho Springs, Squaw Mountain WG0N 449.05"
-230,0ML Northglenn,147.045,+,0.6,Tone,123,123,23,23,NN,FM,5,CO Adams Northglenn K0ML 147.045
-231,VJD Hugo,447,-,5,Tone,103.5,103.5,23,23,NN,DIG,5,CO Lincoln Hugo KC0VJD 447
-232,LSD Nathrop,146.745,-,0.6,Tone,100,100,23,23,NN,FM,5,CO Chaffee Nathrop W0LSD 146.745
-233,LMA Broomfield,448.925,-,5,Tone,131.8,131.8,23,23,NN,FM,5,CO Boulder Broomfield W0LMA 448.925
-234,"RTS Genoa, Limon",446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Lincoln Genoa, Limon K0RTS 446.7375"
-235,0AE Genoa,147.06,+,0.6,Tone,103.5,103.5,23,23,NN,DIG,5,CO Lincoln Genoa KE0AE 147.06
-236,0AE Stratton,146.895,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,CO Kit Carson Stratton KE0AE 146.895
-237,QMR Breckenridge,146.7,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Summit Breckenridge WB0QMR 146.7
-238,0KC Fort Lupton,447.3,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Weld Fort Lupton AC0KC 447.3
-239,0KC Fort Lupton,224.96,-,1.6,,88.5,88.5,23,23,NN,FM,5,CO Weld Fort Lupton AC0KC 224.96
-240,0RG Hudson,449.925,-,5,Tone,114.8,114.8,23,23,NN,FM,5,CO Weld Hudson KD0RG 449.925
-241,"0DK Boulder, Table Mesa",448.9,-,5,Tone,100,100,23,23,NN,FM,5,"CO Boulder Boulder, Table Mesa W0DK 448.9"
-242,0DK Boulder,146.61,-,0.6,Tone,100,100,23,23,NN,FM,5,CO Boulder Boulder W0DK 146.61
-243,"0DK Boulder, Table Mountain",146.7,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Boulder Boulder, Table Mountain W0DK 146.7"
-244,0DK Boulder,1299.5,-,20,,88.5,88.5,23,23,NN,DIG,5,CO Boulder Boulder W0DK 1299.5
-245,0RM Rollinsville,224.6,-,1.6,Tone,100,100,23,23,NN,FM,5,CO Gilpin Rollinsville W0RM 224.6
-246,"ZSN Leadville, Quail Mountain",147.24,+,0.6,Tone,156.7,156.7,23,23,NN,FM,5,"CO Lake Leadville, Quail Mountain N0ZSN 147.24"
-247,"ZSN La Veta, Cordova Pass",449.75,-,5,Tone,100,100,23,23,NN,FM,5,"CO Las Animas La Veta, Cordova Pass N0ZSN 449.75"
-248,0IA Boulder,449.55,-,5,Tone,100,100,23,23,NN,FM,5,CO Boulder Boulder W0IA 449.55
-249,"0IA Boulder, Gunbarrel Hill",146.76,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Boulder Boulder, Gunbarrel Hill W0IA 146.76"
-250,"0IA Boulder, Lee Hill",224.02,-,1.6,,88.5,88.5,23,23,NN,FM,5,"CO Boulder Boulder, Lee Hill W0IA 224.02"
-251,0DK Boulder,449.4,-,5,Tone,91.5,91.5,23,23,NN,FM,5,CO Boulder Boulder K0DK 449.4
-252,0DK Boulder,146.73,-,0.6,Tone,91.5,91.5,23,23,NN,FM,5,CO Boulder Boulder K0DK 146.73
-253,0DS Boulder,446.8625,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Boulder Boulder KC0DS 446.8625
-254,0DS Boulder,145.3875,-,0.6,,88.5,88.5,23,23,NN,DIG,5,CO Boulder Boulder KC0DS 145.3875
-255,0DS Boulder,1283.8625,-,20,,88.5,88.5,23,23,NN,DIG,5,CO Boulder Boulder KC0DS 1283.8625
-256,"MRC Maysville, CO",145.325,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Chaffee Maysville, CO KD0MRC 145.325"
-257,0JZ Gold Hill,146.91,+,0.6,Tone,123,127.3,23,23,NN,FM,5,CO Boulder Gold Hill W0JZ 146.91
-258,"ITF La Junta, North La Junta",147.36,+,0.6,,88.5,123,23,23,NN,DIG,5,"CO Otero La Junta, North La Junta KC0ITF 147.36"
-259,"ITF La Junta, North La Junta",446.75,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Otero La Junta, North La Junta KC0ITF 446.75"
-260,JPX La Veta,145.355,-,0.6,Tone,100,100,23,23,NN,FM,5,CO Huerfano La Veta N0JPX 145.355
-261,CCC Winter Park,447.45,-,5,Tone,103.5,103.5,23,23,NN,FM,5,CO Grand Winter Park WA4CCC 447.45
-262,ENO Longmont,448.8,-,5,Tone,88.5,88.5,23,23,NN,FM,5,CO Boulder Longmont W0ENO 448.8
-263,ENO Longmont,147.27,+,0.6,Tone,100,100,23,23,NN,FM,5,CO Boulder Longmont W0ENO 147.27
-264,EPA Longmont,448.525,-,5,Tone,151.4,151.4,23,23,NN,FM,5,CO Boulder Longmont N0EPA 448.525
-265,"YNA Gunnison, W Mountain or Tenderfoot Mountain",447.65,-,5,Tone,151.4,151.4,23,23,NN,FM,5,"CO Gunnison Gunnison, W Mountain or Tenderfoot Mountain KB0YNA 447.65"
-266,"YNA Montrose, Waterdog Peak",448.65,-,5,,88.5,151.4,23,23,NN,FM,5,"CO Montrose Montrose, Waterdog Peak KB0YNA 448.65"
-267,"YNA Grand Junction, Grand Mesa",449.65,-,5,Tone,151.4,151.4,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa KB0YNA 449.65"
-268,"YNA Telluride, Gray Head",449.7,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO San Miguel Telluride, Gray Head KB0YNA 449.7"
-269,"YNA Delta, Uncompahgre Butte",449.4,-,5,Tone,131.8,131.8,23,23,NN,FM,5,"CO Mesa Delta, Uncompahgre Butte KB0YNA 449.4"
-270,"0RV Vail, Bald Mountain",146.61,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Eagle Vail, Bald Mountain K0RV 146.61"
-271,"0HG Allenspark, AFPD Station #5",147.03,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Boulder Allenspark, AFPD Station #5 KI0HG 147.03"
-272,AFO Vail,224.8,-,1.6,,88.5,88.5,23,23,NN,FM,5,CO Eagle Vail N0AFO 224.8
-273,AFO Vail,449.9,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Eagle Vail N0AFO 449.9
-274,0KM Center,146.64,-,0.6,Tone,77,77,23,23,NN,FM,5,CO Rio Grande Center N0KM 146.64
-275,0KM Center,447.1,-,5,Tone,77,77,23,23,NN,FM,5,CO Saguache Center N0KM 447.1
-276,YDW Granby,146.82,-,0.6,Tone,123,123,23,23,NN,FM,5,CO Grand Granby KA0YDW 146.82
-277,"UPS Greeley, UNC",146.85,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Weld Greeley, UNC W0UPS 146.85"
-278,"UPS Loveland, Budweiser Event Center",448.025,-,5,Tone,100,100,23,23,NN,DIG,5,"CO Larimer Loveland, Budweiser Event Center W0UPS 448.025"
-279,"UPS Fort Collins, Horsetooth Mountain",145.115,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain W0UPS 145.115"
-280,"UPS Fort Collins, Horsetooth Mountain",447.275,-,5,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain W0UPS 447.275"
-281,"UPS Fort Collins, Horsetooth Mountain",224.52,-,1.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain W0UPS 224.52"
-282,"UPS Fort Collins, Buckhorn Mountain",447.7,-,5,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Buckhorn Mountain W0UPS 447.7"
-283,"UPS Fort Collins, Buckhorn Mountain",146.625,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Buckhorn Mountain W0UPS 146.625"
-284,"UPS Fort Collins, Buckhorn Mountain",224.84,-,1.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Buckhorn Mountain W0UPS 224.84"
-285,"0OJ Greeley, UNC",449.725,-,5,Tone,127.3,127.3,23,23,NN,FM,5,"CO Weld Greeley, UNC K0OJ 449.725"
-286,"LRA Loveland, Namaqua Hill",449.575,-,5,Tone,100,100,23,23,NN,FM,5,"CO Larimer Loveland, Namaqua Hill W0LRA 449.575"
-287,"LRA Loveland, Namaqua Hill",147.195,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Loveland, Namaqua Hill W0LRA 147.195"
-288,6VV Loveland,224.32,-,1.6,Tone,100,100,23,23,NN,FM,5,CO Larimer Loveland KN6VV 224.32
-289,KWD Greeley,448.475,-,5,Tone,100,100,23,23,NN,FM,5,CO Weld Greeley KC0KWD 448.475
-290,KWD Greeley,147,+,0.6,Tone,100,100,23,23,NN,DIG,5,CO Weld Greeley KC0KWD 147
-291,"0VQ Aspen, Aspen Mountain",447.05,-,5,Tone,136.5,136.5,23,23,NN,FM,5,"CO Pitkin Aspen, Aspen Mountain K0VQ 447.05"
-292,"0VQ Carbondale, Missouri Heights",447.15,-,5,Tone,136.5,136.5,23,23,NN,FM,5,"CO Garfield Carbondale, Missouri Heights K0VQ 447.15"
-293,"0VQ Glenwood Springs, Three Mile Ridge",147.3,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Three Mile Ridge K0VQ 147.3"
-294,0FH Estes Park,146.685,-,0.6,Tone,123,123,23,23,NN,FM,5,CO Larimer Estes Park N0FH 146.685
-295,0FH Estes Park,449.8,-,5,Tone,123,123,23,23,NN,FM,5,CO Larimer Estes Park N0FH 449.8
-296,"0FT Fort Morgan, Fort Morgan EOC",448.2,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Morgan Fort Morgan, Fort Morgan EOC W0FT 448.2"
-297,0FT Akron,448.175,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Morgan Akron W0FT 448.175
-298,VTL Gunnison,147.12,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison W0VTL 147.12
-299,5GF Gunnison,449.95,-,5,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison K5GF 449.95
-300,7RF Fort Collins,447.725,-,5,Tone,131.8,131.8,23,23,NN,FM,5,CO Larimer Fort Collins W7RF 447.725
-301,"5JL Trinidad, Raton Pass",447.375,-,5,Tone,100,100,23,23,NN,DIG,5,"CO Las Animas Trinidad, Raton Pass KG5JL 447.375"
-302,"0BV Trinidad, Raton Pass",147.375,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Las Animas Trinidad, Raton Pass K0BV 147.375"
-303,0CL Snowmass Village,146.67,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Pitkin Snowmass Village K0CL 146.67
-304,"RDI Trinidad, Raton Pass",446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Las Animas Trinidad, Raton Pass KD0RDI 446.775"
-305,"RDI Raton, Raton Pass",446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,"NM Colfax Raton, Raton Pass KD0RDI 446.775"
-306,1TJ Fort Collins,1283.55,-,20,Tone,100,100,23,23,NN,FM,5,CO Larimer Fort Collins K1TJ 1283.55
-307,"1TJ Fort Collins, Horsetooth Mountain",927.95,-,25,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain K1TJ 927.95"
-308,AOL Fort Collins,446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Larimer Fort Collins N0AOL 446.7375
-309,RBT Fort Collins,447.45,-,5,Tone,123,123,23,23,NN,FM,5,CO Larimer Fort Collins KC0RBT 447.45
-310,"DMR Fort Collins, Timnath",147.39,+,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins, Timnath W0DMR 147.39"
-311,"DMR Fort Collins, Timnath",446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins, Timnath W0DMR 446.775"
-312,"0SF Fort Collins, Horsetooth Mountain",927.825,-,25,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain AB0SF 927.825"
-313,"QEY Fort Collins, CSU Durward Hall",147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, CSU Durward Hall W0QEY 147.36"
-314,"QEY Fort Collins, CSU Durward Hall",446.8125,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins, CSU Durward Hall W0QEY 446.8125"
-315,"QEY Fort Collins, CSU Durward Hall",449.85,-,5,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, CSU Durward Hall W0QEY 449.85"
-316,"RFI Severance, Cactus Hill",447.2,-,5,Tone,82.5,82.5,23,23,NN,FM,5,"CO Weld Severance, Cactus Hill N6RFI 447.2"
-317,UPS Wellington,448.325,-,5,Tone,110.9,110.9,23,23,NN,FM,5,CO Larimer Wellington WB7UPS 448.325
-318,0HH Lamar,146.61,-,0.6,Tone,123,123,23,23,NN,FM,5,CO Prowers Lamar KC0HH 146.61
-319,0HH Lamar,449.5,-,5,Tone,123,123,23,23,NN,FM,5,CO Prowers Lamar KC0HH 449.5
-320,0JS Creede,146.925,-,0.6,,88.5,88.5,23,23,NN,FM,5,CO Mineral Creede WA0JS 146.925
-321,"5ML Raton, Sierra Grande",147.28,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Colfax Raton, Sierra Grande NM5ML 147.28"
-322,"5ML Tres Piedras, San Antonio Mountain",147.22,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras, San Antonio Mountain NM5ML 147.22"
-323,"5ML Eagle Nest, Iron Mountain",444.35,+,5,Tone,100,100,23,23,NN,FM,5,"NM Colfax Eagle Nest, Iron Mountain NM5ML 444.35"
-324,"5ML Taos, Ski Valley",147.14,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Taos, Ski Valley NM5ML 147.14"
-325,"5ML Wagon Mound, Turkey Mountain",147.2,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Mora Wagon Mound, Turkey Mountain NM5ML 147.2"
-326,"5ML Bloomfield, Harris Mesa",147.28,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM San Juan Bloomfield, Harris Mesa NM5ML 147.28"
-327,"5ML Cuba, Eureka Mesa",147.24,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Sandoval Cuba, Eureka Mesa NM5ML 147.24"
-328,"SNO Carbondale, Four Mile Ridge",147.39,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Carbondale, Four Mile Ridge K0SNO 147.39"
-329,"ELK Carbondale, Four Mile Ridge",449.725,-,5,Tone,179.9,179.9,23,23,NN,FM,5,"CO Garfield Carbondale, Four Mile Ridge K0ELK 449.725"
-330,"PKT Creede, Bristol Head",449.525,-,5,Tone,100,100,23,23,NN,FM,5,"CO Mineral Creede, Bristol Head N0PKT 449.525"
-331,"HND Glenwood Springs, Lookout Mountain",449.85,-,5,Tone,131.8,131.8,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Lookout Mountain WA4HND 449.85"
-332,"HND Montrose, Waterdog Peak",447.2,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Montrose Montrose, Waterdog Peak WA4HND 447.2"
-333,"HND Parachute, Mount Callahan",449.8,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Parachute, Mount Callahan WA4HND 449.8"
-334,"HND Grand Junction, Grand Mesa",449.3,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa WA4HND 449.3"
-335,"HND Grand Junction, Black Ridge",449.575,-,5,Tone,131.8,131.8,23,23,NN,FM,5,"CO Mesa Grand Junction, Black Ridge WA4HND 449.575"
-336,I0G Glenwood Springs,224.02,-,1.6,,88.5,88.5,23,23,NN,FM,5,CO Garfield Glenwood Springs KI0G 224.02
-337,I0G Glenwood Springs,447.6,-,5,,88.5,88.5,23,23,NN,FM,5,CO Garfield Glenwood Springs KI0G 447.6
-338,"I0G Glenwood Springs, Sunlight Peak",447.1,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Sunlight Peak KI0G 447.1"
-339,"I0G Glenwood Springs, Sunlight Peak",146.88,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Sunlight Peak KI0G 146.88"
-340,"XLI Glenwood Springs, Sunlight Peak",449.6,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Sunlight Peak N0XLI 449.6"
-341,"PFO Red River, Valle Vidal",145.25,-,0.6,Tone,123,123,23,23,NN,FM,5,"NM Taos Red River, Valle Vidal KF5PFO 145.25"
-342,"PFO Tres Piedras,  San Antonio Mountain",146.76,-,0.6,Tone,67,67,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras,  San Antonio Mountain KF5PFO 146.76"
-343,"PFO Red River, Molycorp",145.39,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Taos Red River, Molycorp KF5PFO 145.39"
-344,"PFO Tres Piedras, San Antonio Mountain",146.76,-,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Tres Piedras, San Antonio Mountain KF5PFO 146.76"
-345,"PFO Taos, Picuris Peak",449.875,-,5,Tone,123,123,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 449.875"
-346,"PFO Taos, Picuris Peak",224.4,-,1.6,Tone,225.7,225.7,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 224.4"
-347,"PFO Taos, Picuris Peak",51.5,,0,Tone,100,100,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 51.5"
-348,"PFO Taos, Picuris Peak",147.12,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 147.12"
-349,"ITS Lake City, Hill 71",147.135,-,0.6,Tone,123,123,23,23,NN,FM,5,"CO Hinsdale Lake City, Hill 71 KB5ITS 147.135"
-350,"ITS Ouray, Engineer Mountain",147.27,+,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"CO Ouray Ouray, Engineer Mountain KB5ITS 147.27"
-351,"ITS Silverton, Kendall Mountain",147.375,+,0.6,Tone,156.7,156.7,23,23,NN,FM,5,"CO San Juan Silverton, Kendall Mountain KB5ITS 147.375"
-352,"ITS Silverton, Hazelton",444,+,5,Tone,67,67,23,23,NN,FM,5,"CO San Juan Silverton, Hazelton KB5ITS 444"
-353,ITS Silverton,447.525,-,5,Tone,127.3,127.3,23,23,NN,FM,5,CO San Juan Silverton KB5ITS 447.525
-354,"ITS Silverton, Buffalo Boy",145.325,-,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"CO San Juan Silverton, Buffalo Boy KB5ITS 145.325"
-355,"ITS Ignacio, Spring Creek",147.15,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO La Plata Ignacio, Spring Creek KB5ITS 147.15"
-356,"ITS Durango, Smelter Mountain",147.135,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO La Plata Durango, Smelter Mountain KB5ITS 147.135"
-357,"ITS Navajo Dam, Navajo Lake",147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Navajo Dam, Navajo Lake KB5ITS 147.36"
-358,"ITS Mancos, Caviness Mountain",442.375,+,5,Tone,100,100,23,23,NN,FM,5,"CO Montezuma Mancos, Caviness Mountain KB5ITS 442.375"
-359,"ITS Mancos, Menefee Mountain",145.325,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Montezuma Mancos, Menefee Mountain KB5ITS 145.325"
-360,"ITS Dolores, Summit Ridge",145.19,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Montezuma Dolores, Summit Ridge KB5ITS 145.19"
-361,"ITS Dolores, Summit Ridge",447.275,-,5,Tone,100,100,23,23,NN,FM,5,"CO Montezuma Dolores, Summit Ridge KB5ITS 447.275"
-362,ITS Aztec,447.45,-,5,Tone,107.2,107.2,23,23,NN,FM,5,NM San Juan Aztec KB5ITS 447.45
-363,"ITS Aztec, Tank Mtn",146.88,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Aztec, Tank Mtn KB5ITS 146.88"
-364,"ITS Bloomfield, Harris mesa",147.1,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Bloomfield, Harris mesa KB5ITS 147.1"
-365,ITS Bloomfield,448.65,-,5,Tone,127.3,127.3,23,23,NN,FM,5,NM San Juan Bloomfield KB5ITS 448.65
-366,ITS Farmington,53.01,-,1,Tone,131.8,131.8,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 53.01
-367,ITS Farmington,146.76,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 146.76
-368,ITS Farmington,147,+,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 147
-369,"DEM Pritchett,  Tator Butte",146.64,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Las Animas Pritchett,  Tator Butte KZ0DEM 146.64"
-370,DEM Springfield,449.2,-,5,Tone,118.8,118.8,23,23,NN,FM,5,CO Baca Springfield KZ0DEM 449.2
-371,DEM Springfield,147.09,+,0.6,Tone,118.8,118.8,23,23,NN,FM,5,CO Baca Springfield KZ0DEM 147.09
-372,DEM Springfield,147.33,+,0.6,Tone,118.8,118.8,23,23,NN,FM,5,CO Baca Springfield KZ0DEM 147.33
-373,0MR Paonia,147.33,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Delta Paonia KI0MR 147.33
-374,"7GR Cheyenne, Chalk Bluffs",449.3,-,5,Tone,131.8,131.8,23,23,NN,DIG,5,"WY Laramie Cheyenne, Chalk Bluffs WB7GR 449.3"
-375,"7GR Scottsbluff, Stage Hill",444.125,+,5,Tone,114.8,114.8,23,23,NN,FM,5,"NE Scotts Bluff Scottsbluff, Stage Hill WB7GR 444.125"
-376,"JTB Sterling, CO",145.295,-,0.6,,88.5,88.5,23,23,NN,FM,5,"CO Logan Sterling, CO WA0JTB 145.295"
-377,"5EM Des Moines, Sierra Grande",147.175,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Union Des Moines, Sierra Grande NM5EM 147.175"
-378,"5EM Eagle Nest, Touch Me Not",147.04,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Colfax Eagle Nest, Touch Me Not NM5EM 147.04"
-379,"5EM Tres Piedras, San Antonio Mtn.",145.175,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Taos Tres Piedras, San Antonio Mtn. NM5EM 145.175"
-380,"5EM Wagon Mound, Turkey Mtn",145.37,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Mora Wagon Mound, Turkey Mtn NM5EM 145.37"
-381,"5EM Abiquiu, Cerro Pelon",147.04,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Rio Arriba Abiquiu, Cerro Pelon NM5EM 147.04"
-382,"5EM Cuba, Eureka Mesa",145.175,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Sandoval Cuba, Eureka Mesa NM5EM 145.175"
-383,BOP Des Moines,146.85,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Union Des Moines N5BOP 146.85
-384,BOP Des Moines,444.8,+,5,Tone,77,77,23,23,NN,FM,5,NM Union Des Moines N5BOP 444.8
-385,D0H Steamboat Springs,147.21,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Routt Steamboat Springs KD0H 147.21
-386,"SNO Cheyenne, Denver Hill",146.775,-,0.6,Tone,114.8,114.8,23,23,NN,FM,5,"WY Laramie Cheyenne, Denver Hill KC7SNO 146.775"
-387,"SNO Cheyenne, North Park",147.105,+,0.6,Tone,114.8,91.5,23,23,NN,FM,5,"WY Laramie Cheyenne, North Park KC7SNO 147.105"
-388,"SNO Laramie, Beacon Hill",146.82,-,0.6,Tone,114.8,114.8,23,23,NN,FM,5,"WY Albany Laramie, Beacon Hill KC7SNO 146.82"
-389,SNO Albin,147.165,+,0.6,Tone,114.8,114.8,23,23,NN,FM,5,WY Laramie Albin KC7SNO 147.165
-390,SWR Cheyenne,145.235,-,0.6,Tone,114.8,114.8,23,23,NN,FM,5,WY Laramie Cheyenne KB7SWR 145.235
-391,SWR Cheyenne,448.15,-,5,Tone,100,100,23,23,NN,FM,5,WY Laramie Cheyenne KB7SWR 448.15
-392,JJY Cheyenne,449.9,-,5,Tone,100,100,23,23,NN,FM,5,WY Laramie Cheyenne N7JJY 449.9
-393,"DHF Cheyenne, Old airport control tower",448.95,-,5,Tone,151.4,151.4,23,23,NN,DIG,5,"WY Laramie Cheyenne, Old airport control tower KC7DHF 448.95"
-394,GDR Cimarron,145.21,-,0.6,Tone,110.9,110.9,23,23,NN,FM,5,NM Colfax Cimarron N5GDR 145.21
-395,"TSV Taos, Wheeler Peak",444.975,+,5,Tone,123,123,23,23,NN,FM,5,"NM Taos Taos, Wheeler Peak N5TSV 444.975"
-396,"5SF Chama, Overlook Mtn",147.08,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"NM Rio Arriba Chama, Overlook Mtn W5SF 147.08"
-397,SWE Rifle,146.76,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Garfield Rifle N0SWE 146.76
-398,OPD Montrose,146.79,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Montrose Montrose KD5OPD 146.79
-399,UUX Montrose,146.91,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Montrose Montrose KC0UUX 146.91
-400,ALC Cedaredge,147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,CO Delta Cedaredge W0ALC 147.36
-401,ALC Cedaredge,449.825,-,5,Tone,100,100,23,23,NN,FM,5,CO Delta Cedaredge W0ALC 449.825
-402,"QXX Cedaredge, Cedar Mesa",147.195,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Delta Cedaredge, Cedar Mesa KC0QXX 147.195"
-403,WPM Tribune,442.175,+,5,Tone,156.7,156.7,23,23,NN,FM,5,KS Greeley Tribune K0WPM 442.175
-404,"7UW Laramie, Jelm Mountain",147.015,+,0.6,Tone,146.2,146.2,23,23,NN,DIG,5,"WY Albany Laramie, Jelm Mountain N7UW 147.015"
-405,"7UW Laramie, University",146.61,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"WY Albany Laramie, University N7UW 146.61"
-406,"JSP Pagosa Springs, Oakbrush Hill",146.61,-,0.6,Tone,123,123,23,23,NN,FM,5,"CO Archuleta Pagosa Springs, Oakbrush Hill N0JSP 146.61"
-407,0SW Collbran,449.5,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Mesa Collbran KB0SW 449.5
-408,0SW Grand Junction,449,-,5,,88.5,107.2,23,23,NN,FM,5,CO Mesa Grand Junction KB0SW 449
-409,"EOC Laramie, Pilot Hill",447.225,-,5,,88.5,88.5,23,23,NN,DIG,5,"WY Albany Laramie, Pilot Hill WY7EOC 447.225"
-410,ECT Syracuse,444,+,5,Tone,141.3,141.3,23,23,NN,FM,5,KS Hamilton Syracuse K0ECT 444
-411,ECT Colby,444.4,+,5,Tone,141.3,141.3,23,23,NN,FM,5,KS Thomas Colby K0ECT 444.4
-412,ECT Ulysses,147.06,+,0.6,,88.5,88.5,23,23,NN,FM,5,KS Grant Ulysses K0ECT 147.06
-413,ECT Elkader,444.3,+,5,Tone,141.3,141.3,23,23,NN,FM,5,KS Logan Elkader K0ECT 444.3
-414,"ECT Ulysses, Wagon Bed Springs",444.525,+,5,Tone,141.3,141.3,23,23,NN,FM,5,"KS Grant Ulysses, Wagon Bed Springs K0ECT 444.525"
-415,ECT Liberal,443.1,+,5,Tone,141.3,141.3,23,23,NN,FM,5,KS Seward Liberal K0ECT 443.1
-416,"LEM Angel Fire, Agua Fria Peak",147.34,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Colfax Angel Fire, Agua Fria Peak N5LEM 147.34"
-417,VJR Wallace,444.6,+,5,Tone,146.2,146.2,23,23,NN,FM,5,KS Wallace Wallace WA0VJR 444.6
-418,"UWR Laramie,  Pilot Hill",53.03,-,1,,88.5,88.5,23,23,NN,FM,5,"WY Albany Laramie,  Pilot Hill K7UWR 53.03"
-419,TAO Syracuse,146.775,-,0.6,,88.5,88.5,23,23,NN,FM,5,KS Hamilton Syracuse KA0TAO 146.775
-420,5SJ Dulce,145.43,-,0.6,Tone,136.5,136.5,23,23,NN,FM,5,NM Rio Arriba Dulce NM5SJ 145.43
-421,"5SJ Nebo, Cedar Hill",147.06,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Nebo, Cedar Hill NM5SJ 147.06"
-422,5SJ Aztec,146.74,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Aztec NM5SJ 146.74
-423,5SJ Lybrook,145.49,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Rio Arriba Lybrook NM5SJ 145.49
-424,GLD Goodland,147.03,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,KS Sherman Goodland KS0GLD 147.03
-425,"ITT Silverton, Engineer Mountain",147.27,+,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"CO San Juan Silverton, Engineer Mountain KB5ITT 147.27"
-426,JUN Holyoke,146.955,-,0.6,,88.5,88.5,23,23,NN,FM,5,CO Phillips Holyoke N0JUN 146.955
-427,"0BX Grand Junction, Grand Mesa",446.9125,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Mesa Grand Junction, Grand Mesa W0BX 446.9125"
-428,HAM Craig,145.265,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Moffat Craig WD0HAM 145.265
-429,"0EP Durango, Missionary Ridge",146.7,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO La Plata Durango, Missionary Ridge K0EP 146.7"
-430,0EP Durango,449.85,-,5,Tone,100,100,23,23,NN,FM,5,CO La Plata Durango K0EP 449.85
-431,"0EP Durango, Eagle Pass",146.67,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO La Plata Durango, Eagle Pass K0EP 146.67"
-432,"5PX Dixon, Cerro Abajo",147.18,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Rio Arriba Dixon, Cerro Abajo KD5PX 147.18"
-433,NEB Harrisburg,147,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,NE Banner Harrisburg N0NEB 147
-434,JNI Wagon Mound,444.4,+,5,Tone,100,100,23,23,NN,FM,5,NM Mora Wagon Mound N7JNI 444.4
-435,GJT Grand Junction,448.15,-,5,Tone,100,100,23,23,NN,FM,5,CO Mesa Grand Junction W0GJT 448.15
-436,GJT Grand Junction,146.82,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Mesa Grand Junction W0GJT 146.82
-437,EVE Durango,448.625,-,5,Tone,131.8,131.8,23,23,NN,FM,5,CO La Plata Durango KC5EVE 448.625
-438,"RRZ Grand Junction, GJT",145.175,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, GJT W0RRZ 145.175"
-439,"RRZ Grand Junction, Black Ridge (Above Colorado Ntl Monument)",146.94,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, Black Ridge (Above Colorado Ntl Monument) W0RRZ 146.94"
-440,0TY Grand Junction,145.22,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Mesa Grand Junction KE0TY 145.22
-441,0TY Grand Junction,147.39,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Mesa Grand Junction KE0TY 147.39
-442,SMZ Grand Junction,449.775,-,5,Tone,173.8,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KD0SMZ 449.775
-443,RED Grand Junction,446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Mesa Grand Junction KD0RED 446.775
-444,ARV Grand Junction,447.5,-,5,Tone,114.8,114.8,23,23,NN,FM,5,CO Mesa Grand Junction KC0ARV 447.5
-445,SSI Grand Junction,147.105,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Mesa Grand Junction K0SSI 147.105
-446,OMC Lakin,146.985,-,0.6,Tone,156.7,156.7,23,23,NN,FM,5,KS Kearney Lakin N0OMC 146.985
-447,"V8Q Colby, K-Link",444.75,+,5,Tone,162.2,162.2,23,23,NN,FM,5,"KS Thomas Colby, K-Link NV8Q 444.75"
-448,VIU Hesperus,145.37,-,0.6,Tone,100,100,23,23,NN,FM,5,CO La Plata Hesperus KB0VIU 145.37
-449,W0K Colby,146.82,-,0.6,Tone,156.7,156.7,23,23,NN,FM,5,KS Thomas Colby NW0K 146.82
-450,OQA Scott City,146.7,-,0.6,Tone,141.3,141.3,23,23,NN,DIG,5,KS Scott Scott City WA0OQA 146.7
-451,OQA Garden City,146.91,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,KS Finney Garden City WA0OQA 146.91
-452,"0MI Scott City, K-Link",444.95,+,5,Tone,100,100,23,23,NN,FM,5,"KS Scott Scott City, K-Link W0MI 444.95"
-453,"GCR Rawlins, Elk Mountain",147.24,+,0.6,Tone,100,100,23,23,NN,FM,5,"WY Carbon Rawlins, Elk Mountain N7GCR 147.24"
-454,"UBJ Mancos, Caviness Mountain",446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Montezuma Mancos, Caviness Mountain N5UBJ 446.7375"
-455,UBJ Aztec,442.25,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Aztec N5UBJ 442.25
-456,UBJ Farmington,442.325,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington N5UBJ 442.325
-457,"VBD Bloomfield, Harris Mesa",1292.3,-,20,,88.5,88.5,23,23,NN,DIG,5,"NM San Juan Bloomfield, Harris Mesa KF5VBD 1292.3"
-458,VBE Aztec,1291.1,-,20,,88.5,88.5,23,23,NN,DIG,5,NM Bernalillo Aztec KF5VBE 1291.1
-459,VBE Farmington,145.115,-,0.6,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington KF5VBE 145.115
-460,WXI Bloomfield,146.92,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Bloomfield K5WXI 146.92
-461,WXI Farmington,146.85,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington K5WXI 146.85
-462,UGO Ogallala,146.76,-,0.6,Tone,123,123,23,23,NN,FM,5,NE Keith Ogallala N0UGO 146.76
-463,"LWU Cortez, Downtown",146.79,-,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"CO Montezuma Cortez, Downtown KD5LWU 146.79"
-464,LWU Cortez,449.175,-,5,Tone,127.3,127.3,23,23,NN,FM,5,CO Montezuma Cortez KD5LWU 449.175
-465,DFQ Guymon,444.975,+,5,Tone,88.5,88.5,23,23,NN,FM,5,OK Texas Guymon N5DFQ 444.975
-466,DFQ Guymon,147.15,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,OK Texas Guymon N5DFQ 147.15
-467,DFQ Spearman,442,+,5,Tone,88.5,88.5,23,23,NN,FM,5,TX Hansford Spearman N5DFQ 442
-468,DFQ Spearman,147.04,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,TX Hansford Spearman N5DFQ 147.04
-469,5WY Farmington,449,-,5,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington K5WY 449
-470,VBF Farmington,444.15,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington KF5VBF 444.15
-471,"VBF Farmington, Farmington Bluffs",1291.7,-,20,,88.5,88.5,23,23,NN,DIG,5,"NM San Juan Farmington, Farmington Bluffs KF5VBF 1291.7"
-472,KKS Liberal,146.805,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,KS Seward Liberal W0KKS 146.805
-473,WBK Spearman,443.2,+,5,Tone,88.5,88.5,23,23,NN,FM,5,TX Hansford Spearman KC5WBK 443.2
+0,X0GWoodland Park,448.65,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Teller Woodland Park NX0G 448.65
+1,X0GWoodland Park,146.82,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Teller Woodland Park NX0G 146.82
+2,X0GCripple Creek,147.015,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Teller Cripple Creek NX0G 147.015
+3,"X0GLake George, Badger Mountain",146.685,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain NX0G 146.685"
+4,"SRJColorado Springs, Pikes Peak",448.45,-,5,Tone,100,100,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 448.45"
+5,"SRJColorado Springs, Pikes Peak",146.97,-,0.6,Tone,100,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Pikes Peak KB0SRJ 146.97"
+6,IFIColorado Springs,447.55,-,5,Tone,123,123,23,23,NN,FM,5,CO El Paso Colorado Springs WA6IFI 447.55
+7,"IFIColorado Springs, Cheyenne Mountain",53.13,-,1.7,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain WA6IFI 53.13"
+8,"IFIColorado Springs, Almagre Mountain",927.725,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,"CO Teller Colorado Springs, Almagre Mountain WA6IFI 927.725"
+9,"IFITrinidad, Raton Pass",145.43,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Las Animas Trinidad, Raton Pass WA6IFI 145.43"
+10,MOGColorado Springs,927.8,-,25,DTCS,88.5,88.5,116,116,NN,FM,5,CO Teller Colorado Springs W0MOG 927.8
+11,MOGColorado Springs,147.39,+,0.6,Tone,103.5,103.5,23,23,NN,FM,5,CO El Paso Colorado Springs W0MOG 147.39
+12,MOGColorado springs,224.72,-,1.6,Tone,103.5,103.5,23,23,NN,FM,5,CO El Paso Colorado springs W0MOG 224.72
+13,IRPColorado Springs,447.35,-,5,Tone,151.4,151.4,23,23,NN,FM,5,CO El Paso Colorado Springs K0IRP 447.35
+14,IRPColorado Springs,146.91,-,0.6,Tone,151.4,151.4,23,23,NN,FM,5,CO El Paso Colorado Springs K0IRP 146.91
+15,A0LColorado Springs,448.3,-,5,Tone,100,100,23,23,NN,FM,5,CO El Paso Colorado Springs AA0L 448.3
+16,A0LColorado Springs,147.135,+,0.6,Tone,100,100,23,23,NN,FM,5,CO El Paso Colorado Springs AA0L 147.135
+17,RSHColorado Springs,146.85,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,CO El Paso Colorado Springs W0RSH 146.85
+18,"TTFColorado Springs, Fillmore Hill",448.725,-,5,Tone,123,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Fillmore Hill KA0TTF 448.725"
+19,0SZWestcreek,446.875,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Douglas Westcreek N0SZ 446.875
+20,"0SZFairplay, Badger",446.7625,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Park Fairplay, Badger N0SZ 446.7625"
+21,"0SZGolden, Lookout Mountain",145.37,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain N0SZ 145.37"
+22,"0SZSalida, Methodist Mountain",446.8125,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Chaffee Salida, Methodist Mountain N0SZ 446.8125"
+23,"0SZIdaho Springs, Squaw Mountain",448.225,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain N0SZ 448.225"
+24,"0SZIdaho Springs, Squaw Mountain",446.9375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Clear Creek Idaho Springs, Squaw Mountain N0SZ 446.9375"
+25,"0SZBreckenridge, Baldy",445.0875,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Fremont Breckenridge, Baldy N0SZ 445.0875"
+26,"0SZLeadville, Mosquito Pass",445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Lake Leadville, Mosquito Pass N0SZ 445.05"
+27,"0SZDenver, Thorodin Mountain",449.225,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Gilpin Denver, Thorodin Mountain N0SZ 449.225"
+28,"0SZBoulder, Mount Thorodin",446.8,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Boulder Boulder, Mount Thorodin N0SZ 446.8"
+29,"0SZBoulder, Lee Hill",446.9875,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Boulder Boulder, Lee Hill N0SZ 446.9875"
+30,"0SZBoulder, Lee Hill",447.75,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Boulder Boulder, Lee Hill N0SZ 447.75"
+31,"0SZBoulder, Lee Hill",445.05,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Boulder Boulder, Lee Hill N0SZ 445.05"
+32,0SZVail,445.075,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Eagle Vail N0SZ 445.075
+33,"0SZDurango, Missionary Ridge",445.1375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO La Plata Durango, Missionary Ridge N0SZ 445.1375"
+34,"0SZRangely, Cathedral Bluffs",445.2625,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Rio Blanco Rangely, Cathedral Bluffs N0SZ 445.2625"
+35,"VJJColorado Springs, Cheyenne Mountain",145.13,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KB0VJJ 145.13"
+36,"VJJSalida, Methodist Mountain",147.285,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KB0VJJ 147.285"
+37,"VJJBreckenridge, Bald Mountain",147.39,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Summit Breckenridge, Bald Mountain KB0VJJ 147.39"
+38,"VJJLeadville, Mosquito Pass",145.445,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Lake Leadville, Mosquito Pass KB0VJJ 145.445"
+39,"VJJBoulder, Thorodin Mountain",145.31,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Gilpin Boulder, Thorodin Mountain KB0VJJ 145.31"
+40,"VJJWinter Park, Winter Park",147.285,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Grand Winter Park, Winter Park KB0VJJ 147.285"
+41,VJJVail,147.345,+,0.6,Tone,88.5,123,23,23,NN,FM,5,CO Eagle Vail KB0VJJ 147.345
+42,"VJJKremmling, Santoy Peak",147.075,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Grand Kremmling, Santoy Peak KB0VJJ 147.075"
+43,VJJAkron,145.4,-,0.6,Tone,88.5,123,23,23,NN,FM,5,CO Washington Akron KB0VJJ 145.4
+44,"VJJGlenwood Springs, Sunlight Peak",146.85,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Sunlight Peak KB0VJJ 146.85"
+45,"VJJWalden, Peterson Ridge",145.16,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Jackson Walden, Peterson Ridge KB0VJJ 145.16"
+46,VJJSteamboat Springs,449.625,-,5,Tone,123,123,23,23,NN,FM,5,CO Routt Steamboat Springs KB0VJJ 449.625
+47,VJJSteamboat Springs,147.165,+,0.6,Tone,88.5,123,23,23,NN,FM,5,CO Routt Steamboat Springs KB0VJJ 147.165
+48,"VJJGrand Junction, Grand Mesa",145.355,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa KB0VJJ 145.355"
+49,VJJCraig,146.97,-,0.6,Tone,88.5,123,23,23,NN,FM,5,CO Moffat Craig KB0VJJ 146.97
+50,"VJJDurango, Missionary Ridge",147.345,+,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO La Plata Durango, Missionary Ridge KB0VJJ 147.345"
+51,"VJJGrand Junction, Grand Mesa",147.355,-,0.6,Tone,88.5,123,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa KB0VJJ 147.355"
+52,"CVUColorado Springs, Cheyenne Mountain",927.85,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,"CO Teller Colorado Springs, Cheyenne Mountain KC0CVU 927.85"
+53,"CVUColorado Springs, Cheyenne Mountain",446.9125,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 446.9125"
+54,"CVUColorado Springs, Cheyenne Mountain",147.345,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 147.345"
+55,"CVUColorado Springs, Cheyenne Mountain",146.76,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 146.76"
+56,"CVUColorado Springs, Cheyenne Mountain",448.1,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448.1"
+57,"CVUColorado Springs, Cheyenne Mountain",448,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448"
+58,"CVULake George, Badger Mountain",147.36,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Park Lake George, Badger Mountain KC0CVU 147.36"
+59,"CVUPueblo, Deer Peak",449.625,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Custer Pueblo, Deer Peak KC0CVU 449.625"
+60,"CVUSalida, Methodist Mountain",145.295,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 145.295"
+61,"CVUSalida, Methodist Mountain",449.65,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain KC0CVU 449.65"
+62,"CRAColorado Springs, Cheyenne Mountain",145.16,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO El Paso Colorado Springs, Cheyenne Mountain W0CRA 145.16"
+63,"CRALarkspur, Westcreek",448.425,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek W0CRA 448.425"
+64,"CRALarkspur, Westcreek",147.225,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek W0CRA 147.225"
+65,"CRAIdaho Springs, Squaw Mountain",145.145,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain W0CRA 145.145"
+66,"CRAIdaho Springs, Squaw Mountain",447.575,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain W0CRA 447.575"
+67,"CRABoulder, Eldorado Mountain",447.975,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Boulder Boulder, Eldorado Mountain W0CRA 447.975"
+68,"CRABoulder, Eldorado Mountain",145.46,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Boulder Boulder, Eldorado Mountain W0CRA 145.46"
+69,"PFJColorado Springs, Almagre Mountain",446.95,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Teller Colorado Springs, Almagre Mountain K7PFJ 446.95"
+70,"PFJGranby, Mt Chauncey",446.875,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Clear Creek Granby, Mt Chauncey K7PFJ 446.875"
+71,"PFJFort Collins, Horsetooth Mountain",446.75,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins, Horsetooth Mountain K7PFJ 446.75"
+72,"PFJCheyenne, South",449.9375,-,5,,88.5,88.5,23,23,NN,DIG,5,"WY Laramie Cheyenne, South K7PFJ 449.9375"
+73,WUCWoodland Park,927.9,-,25,DTCS,88.5,88.5,205,205,NN,FM,5,CO Teller Woodland Park KA0WUC 927.9
+74,WUCWoodland Park,447.675,-,5,Tone,179.9,179.9,23,23,NN,FM,5,CO Teller Woodland Park KA0WUC 447.675
+75,"EPSWoodland Park, Paradise Pines",449.325,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Teller Woodland Park, Paradise Pines KA4EPS 449.325"
+76,"0NRMonument, Monument Hill",447.725,-,5,Tone,100,100,23,23,NN,FM,5,"CO El Paso Monument, Monument Hill K0NR 447.725"
+77,"MDPFalcon, Black Forest",447.625,-,5,Tone,100,100,23,23,NN,FM,5,"CO El Paso Falcon, Black Forest KD0MDP 447.625"
+78,WDFCripple Creek,145.46,-,0.6,Tone,67,67,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 145.46
+79,WDFCripple Creek,447.4,-,5,Tone,67,67,23,23,NN,FM,5,CO Teller Cripple Creek WB0WDF 447.4
+80,"WDFCanon City, eightmile Mountain",449,-,5,Tone,67,67,23,23,NN,FM,5,"CO Fremont Canon City, eightmile Mountain WB0WDF 449"
+81,"WDFCanon City, Fremont Peak",53.03,-,1.7,Tone,88.5,88.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WB0WDF 53.03"
+82,"XLFPalmer Lake, Monument Hill",145.19,-,0.6,Tone,131.8,131.8,23,23,NN,FM,5,"CO Douglas Palmer Lake, Monument Hill N0XLF 145.19"
+83,"JSCLarkspur, Westcreek",449.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Douglas Larkspur, Westcreek K0JSC 449.975"
+84,"JSCCanon City, Canon City",449.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Canon City K0JSC 449.975"
+85,"JSCCanon City, Colorado",447.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Colorado K0JSC 447.975"
+86,"JSCCanon City, Fremont Peak",446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Fremont Canon City, Fremont Peak K0JSC 446.7375"
+87,"JSCCanon City, Fremont Peak",447.25,-,5,Tone,100,100,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak K0JSC 447.25"
+88,JSCPueblo West,448.975,-,5,Tone,100,100,23,23,NN,FM,5,CO Pueblo Pueblo West K0JSC 448.975
+89,"JSCPueblo, Metro",447.275,-,5,Tone,100,100,23,23,NN,FM,5,"CO Pueblo Pueblo, Metro K0JSC 447.275"
+90,"JSCPueblo, Cedarwood",449.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Pueblo Pueblo, Cedarwood K0JSC 449.975"
+91,JSCWestcliffe,448.325,-,5,Tone,100,100,23,23,NN,FM,5,CO Custer Westcliffe K0JSC 448.325
+92,"JSCSalida, Methodist Mountain",449.975,-,5,Tone,100,100,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain K0JSC 449.975"
+93,D0QPueblo,447.95,-,5,Tone,88.5,88.5,23,23,NN,FM,5,CO Pueblo Pueblo ND0Q 447.95
+94,"D0QPueblo, Baculite Mesa",146.79,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Baculite Mesa ND0Q 146.79"
+95,"D0QPueblo, Deer Peak",146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Pueblo Pueblo, Deer Peak ND0Q 146.88"
+96,"D0QWalsenburg, N Rattlesnake Butte",146.73,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Huerfano Walsenburg, N Rattlesnake Butte ND0Q 146.73"
+97,"ESQCastle Rock, Devils Head",446.925,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Douglas Castle Rock, Devils Head N0ESQ 446.925"
+98,"ESQCastle Rock, Devils Head (Pike National Forest)",447.525,-,5,Tone,146.2,146.2,23,23,NN,FM,5,"CO Douglas Castle Rock, Devils Head (Pike National Forest) N0ESQ 447.525"
+99,"ESQParker, Hess Reservoir",447.525,-,5,Tone,203.5,146.2,23,23,NN,FM,5,"CO Douglas Parker, Hess Reservoir N0ESQ 447.525"
+100,"TUCCanon City, Fremont Peak",927.7,-,25,DTCS,88.5,88.5,114,114,NN,FM,5,"CO Fremont Canon City, Fremont Peak KB0TUC 927.7"
+101,TUCWestcliffe,927.775,-,25,DTCS,88.5,88.5,116,116,NN,FM,5,CO Custer Westcliffe KB0TUC 927.775
+102,TUCWestcliffe,147.06,+,0.6,Tone,77,77,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 147.06
+103,TUCWestcliffe,448.15,-,5,Tone,103.5,103.5,23,23,NN,FM,5,CO Custer Westcliffe KB0TUC 448.15
+104,"EKRCanon City, Fremont Peak",223.96,-,1.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 223.96"
+105,"EKRCanon City, Fremont Peak",447.75,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 447.75"
+106,"EKRCanon City, Fremont Peak",145.49,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Fremont Canon City, Fremont Peak WD0EKR 145.49"
+107,PRAFranktown,446.85,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Douglas Franktown K0PRA 446.85
+108,PRAParker,445.075,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Douglas Parker K0PRA 445.075
+109,PWZPalmer Divide,449.725,-,5,Tone,100,100,23,23,NN,FM,5,CO El Paso Palmer Divide N0PWZ 449.725
+110,"0STPueblo, Pueblo",146.655,-,0.6,Tone,123,123,23,23,NN,FM,5,"CO Pueblo Pueblo, Pueblo K0ST 146.655"
+111,"9SLCastle Pines, Daniels Park",449.95,-,5,Tone,77,77,23,23,NN,FM,5,"CO Douglas Castle Pines, Daniels Park W9SL 449.95"
+112,0DESimla,147.105,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Elbert Simla WA0DE 147.105
+113,"OWYConifer, Critchell Mountain",447.5,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Conifer, Critchell Mountain N0OWY 447.5"
+114,"TUBCentennial, Warren Mountain",146.88,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Centennial, Warren Mountain WB0TUB 146.88"
+115,"TUBCentennial, Warren Mountain",449.6,-,5,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Centennial, Warren Mountain WB0TUB 449.6"
+116,"TUBGolden, Centennial Cone",146.64,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Golden, Centennial Cone WB0TUB 146.64"
+117,Q8MParker,448.7,-,5,Tone,146.2,146.2,23,23,NN,FM,5,CO Douglas Parker WQ8M 448.7
+118,0HCParker,927.8375,-,25.8,Tone,100,100,23,23,NN,DIG,5,CO Douglas Parker KI0HC 927.8375
+119,"0HCGolden, Centennial Cone",927.8375,-,25.8,DTCS,88.5,88.5,205,205,NN,DIG,5,"CO Jefferson Golden, Centennial Cone KI0HC 927.8375"
+120,"0PCBailey, Dick Mountain",146.895,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Park Bailey, Dick Mountain AB0PC 146.895"
+121,"UDDAurora, Smoky Hill",145.4,-,0.8,Tone,100,100,23,23,NN,FM,5,"CO Arapahoe Aurora, Smoky Hill KB0UDD 145.4"
+122,"UDDAurora, Smokey Hill",448.5,-,5,Tone,100,100,23,23,NN,FM,5,"CO Denver Aurora, Smokey Hill KB0UDD 448.5"
+123,"UDDIdaho Springs, Squaw Mountain",146.67,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain KB0UDD 146.67"
+124,OBAAurora,145.19,-,0.6,Tone,151.4,131.8,23,23,NN,FM,5,CO Arapahoe Aurora N0OBA 145.19
+125,"ARACritchell, Critchell Mountain",147.12,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Critchell, Critchell Mountain N0ARA 147.12"
+126,AENAurora,449.15,-,5,Tone,136.5,136.5,23,23,NN,DIG,5,CO Arapahoe Aurora WR0AEN 449.15
+127,AENDenver,449.65,-,5,Tone,136.5,136.5,23,23,NN,DIG,5,CO Denver Denver WR0AEN 449.65
+128,AENDenver,449.675,-,5,Tone,136.5,136.5,23,23,NN,DIG,5,CO Denver Denver WR0AEN 449.675
+129,"AENIdaho Springs, Squaw Mountain",449,-,5,Tone,136.5,136.5,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain WR0AEN 449"
+130,AENGreeley,449.325,-,5,Tone,136.5,136.5,23,23,NN,DIG,5,CO Weld Greeley WR0AEN 449.325
+131,"Z0NSalida, Methodist Mountain",449.925,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Chaffee Salida, Methodist Mountain WZ0N 449.925"
+132,FSXPunkin Center,449.9,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Lincoln Punkin Center N1FSX 449.9
+133,"0TXLakewood, Green Mtn",449.775,-,5,Tone,100,100,23,23,NN,DIG,5,"CO Jefferson Lakewood, Green Mtn W0TX 449.775"
+134,"0TXLakewood, Green Mountain",147.33,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Lakewood, Green Mountain W0TX 147.33"
+135,"0TXLakewood, Green Mountain",224.38,-,1.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Lakewood, Green Mountain W0TX 224.38"
+136,"0TXLakewood, Green Mountain",53.09,-,1.7,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Lakewood, Green Mountain W0TX 53.09"
+137,"0TXLakewood, St Anthony Medical Campus",447.825,-,5,DTCS,88.5,88.5,73,73,NN,NFM,5,"CO Jefferson Lakewood, St Anthony Medical Campus W0TX 447.825"
+138,"0TXIdaho Springs, Centennial Cone",145.49,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Idaho Springs, Centennial Cone W0TX 145.49"
+139,"0TXIdaho Springs, Squaw Mountain",449.35,-,5,Tone,100,100,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain W0TX 449.35"
+140,"0TXGolden, Centennial Cone",448.625,-,5,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Golden, Centennial Cone W0TX 448.625"
+141,"0TXDenver, Centennial Cone",446.7875,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Denver, Centennial Cone W0TX 446.7875"
+142,GUQEvergreen,145.34,-,0.6,Tone,103.5,127.3,23,23,NN,FM,5,CO Jefferson Evergreen KE4GUQ 145.34
+143,"LXXMorrison, Mt. Morrison",447.875,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Morrison, Mt. Morrison N6LXX 447.875"
+144,"LXXMorrison, Mt. Morrison",53.17,-,1.7,Tone,107.2,107.2,23,23,NN,FM,5,"CO Jefferson Morrison, Mt. Morrison N6LXX 53.17"
+145,ZUQAurora,448.4,-,5,Tone,94.8,94.8,23,23,NN,FM,5,CO Arapahoe Aurora N0ZUQ 448.4
+146,"ZUQFort Collins, Christ Mountain",449.425,-,5,Tone,94.8,94.8,23,23,NN,FM,5,"CO Larimer Fort Collins, Christ Mountain N0ZUQ 449.425"
+147,ANTAurora,448.825,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Arapahoe Aurora WN7ANT 448.825
+148,0BGAurora,448.275,-,5,Tone,156.7,156.7,23,23,NN,FM,5,CO Arapahoe Aurora W0BG 448.275
+149,ELYLakewood,448.75,-,5,Tone,100,100,23,23,NN,FM,5,CO Jefferson Lakewood N0ELY 448.75
+150,FEZDenver,447.925,-,5,Tone,100,100,23,23,NN,FM,5,CO Denver Denver K0FEZ 447.925
+151,"FEZGolden, Centennial Cone",146.985,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Denver Golden, Centennial Cone K0FEZ 146.985"
+152,"0SJBoulder, Blue Mountain",145.475,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Boulder, Blue Mountain KE0SJ 145.475"
+153,"0SJGolden, Centennial Cone",145.28,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Golden, Centennial Cone KE0SJ 145.28"
+154,"0SJGolden, Centennial Cone",449.525,-,5,,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Golden, Centennial Cone KE0SJ 449.525"
+155,0SJLochbuie,447.625,-,5,Tone,100,100,23,23,NN,FM,5,CO Adams Lochbuie KE0SJ 447.625
+156,EHPDenver,448.075,-,5,Tone,123,123,23,23,NN,FM,5,CO Denver Denver N5EHP 448.075
+157,JXNDenver,146.715,-,0.6,Tone,123,123,23,23,NN,FM,5,CO Denver Denver N0JXN 146.715
+158,"JRLDenver, Broadway Plaza Lofts",447.175,-,5,Tone,100,100,23,23,NN,FM,5,"CO Denver Denver, Broadway Plaza Lofts W0JRL 447.175"
+159,"SSPLakewood, Moffat Treatment Plant",448.35,-,5,Tone,225.7,225.7,23,23,NN,DIG,5,"CO Jefferson Lakewood, Moffat Treatment Plant KD0SSP 448.35"
+160,"SSPLakewood, Moffat Treatment Plant",147.21,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Lakewood, Moffat Treatment Plant KD0SSP 147.21"
+161,"CDSGolden, Lookout Mountain",1299.9,,0,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain W0CDS 1299.9"
+162,"CDSGolden, Lookout Mountain",446.9625,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain W0CDS 446.9625"
+163,"CDSGolden, Lookout Mountain",1283.9625,-,20,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain W0CDS 1283.9625"
+164,"CDSGolden, Lookout Mountain",145.25,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout Mountain W0CDS 145.25"
+165,"YZTGolden, Lookout",446.8375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Lookout WA2YZT 446.8375"
+166,"0KUGolden, Lookout Mountain",449.625,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Jefferson Golden, Lookout Mountain W0KU 449.625"
+167,UPSCedar Point,449.25,-,5,Tone,123,123,23,23,NN,FM,5,CO Elbert Cedar Point K0UPS 449.25
+168,"GURDenver, Green Valley Ranch",448.15,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Denver Denver, Green Valley Ranch K0GUR 448.15"
+169,"QPGSalida, Methodist Mountain",446.975,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Chaffee Salida, Methodist Mountain KD0QPG 446.975"
+170,PYYGolden,927.7875,-,25,Tone,156.7,156.7,23,23,NN,FM,5,CO Jefferson Golden N0PYY 927.7875
+171,PYYGolden,448.125,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Jefferson Golden N0PYY 448.125
+172,"PYYEvergreen, Squaw Mountain",147.3,+,0.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Clear Creek Evergreen, Squaw Mountain N0PYY 147.3"
+173,0GVGolden,448.975,-,5,Tone,123,123,23,23,NN,FM,5,CO Jefferson Golden W0GV 448.975
+174,"CFIIdaho Springs, Squaw Mountain",448.675,-,5,Tone,100,100,23,23,NN,FM,5,"CO Denver Idaho Springs, Squaw Mountain W0CFI 448.675"
+175,"WYXIdaho Springs, Squaw Mountain",146.94,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain W0WYX 146.94"
+176,WYXBroomfield,449.825,-,5,Tone,103.5,103.5,23,23,NN,FM,5,CO Boulder Broomfield W0WYX 449.825
+177,"DUNIdaho Springs, Squaw Mountain",449.45,-,5,Tone,103.5,127.3,23,23,NN,FM,5,"CO Clear Creek Idaho Springs, Squaw Mountain K1DUN 449.45"
+178,"VGDGolden, Table Mountain",446.975,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Jefferson Golden, Table Mountain KB0VGD 446.975"
+179,"VGDFort Collins , Horsetooth Mountain",145.265,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins , Horsetooth Mountain KB0VGD 145.265"
+180,"0KQEvergreen, Saddleback Mountain",447.85,-,5,Tone,141.3,141.3,23,23,NN,FM,5,"CO Clear Creek Evergreen, Saddleback Mountain AC0KQ 447.85"
+181,UPSWestminster,449.3,-,5,Tone,100,100,23,23,NN,FM,5,CO Adams Westminster N1UPS 449.3
+182,"T0CGolden, Guy Hill",145.22,-,0.6,Tone,103.5,103.5,23,23,NN,DIG,5,"CO Jefferson Golden, Guy Hill WT0C 145.22"
+183,"CBIGolden, Guy Hill",147.15,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill W0CBI 147.15"
+184,"POHGolden, Guy Hill",224.74,-,1.6,Tone,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill N0POH 224.74"
+185,"MHUGolden, Guy Hill",224,-,1.6,Tone,103.5,103.5,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill N0MHU 224"
+186,"0GOGolden, Guy Hill",449.75,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill KI0GO 449.75"
+187,"IBMGolden, Guy Hill",448.85,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"CO Jefferson Golden, Guy Hill K0IBM 448.85"
+188,"UFOFairplay, Sacramento Mountain",447.125,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"CO Park Fairplay, Sacramento Mountain KC0UFO 447.125"
+189,"G0NIdaho Springs, Squaw Mountain",449.05,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Denver Idaho Springs, Squaw Mountain WG0N 449.05"
+190,0MLNorthglenn,147.045,+,0.6,Tone,123,123,23,23,NN,FM,5,CO Adams Northglenn K0ML 147.045
+191,VJDHugo,447,-,5,Tone,103.5,103.5,23,23,NN,DIG,5,CO Lincoln Hugo KC0VJD 447
+192,LMABroomfield,448.925,-,5,Tone,131.8,131.8,23,23,NN,FM,5,CO Boulder Broomfield W0LMA 448.925
+193,"RTSGenoa, Limon",446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Lincoln Genoa, Limon K0RTS 446.7375"
+194,0AEGenoa,147.06,+,0.6,Tone,103.5,103.5,23,23,NN,DIG,5,CO Lincoln Genoa KE0AE 147.06
+195,0AEStratton,146.895,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,CO Kit Carson Stratton KE0AE 146.895
+196,QMRBreckenridge,146.7,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Summit Breckenridge WB0QMR 146.7
+197,0KCFort Lupton,447.3,-,5,Tone,107.2,107.2,23,23,NN,FM,5,CO Weld Fort Lupton AC0KC 447.3
+198,0KCFort Lupton,224.96,-,1.6,,88.5,88.5,23,23,NN,FM,5,CO Weld Fort Lupton AC0KC 224.96
+199,0RGHudson,449.925,-,5,Tone,114.8,114.8,23,23,NN,FM,5,CO Weld Hudson KD0RG 449.925
+200,"0DKBoulder, Table Mesa",448.9,-,5,Tone,100,100,23,23,NN,FM,5,"CO Boulder Boulder, Table Mesa W0DK 448.9"
+201,"0DKBoulder, Table Mountain",146.7,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Boulder Boulder, Table Mountain W0DK 146.7"
+202,0DKBoulder,1299.5,-,20,,88.5,88.5,23,23,NN,DIG,5,CO Boulder Boulder W0DK 1299.5
+203,"ZSNLa Veta, Cordova Pass",449.75,-,5,Tone,100,100,23,23,NN,FM,5,"CO Las Animas La Veta, Cordova Pass N0ZSN 449.75"
+204,0IABoulder,449.55,-,5,Tone,100,100,23,23,NN,FM,5,CO Boulder Boulder W0IA 449.55
+205,"0IABoulder, Gunbarrel Hill",146.76,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Boulder Boulder, Gunbarrel Hill W0IA 146.76"
+206,"0IABoulder, Lee Hill",224.02,-,1.6,,88.5,88.5,23,23,NN,FM,5,"CO Boulder Boulder, Lee Hill W0IA 224.02"
+207,0DSBoulder,446.8625,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Boulder Boulder KC0DS 446.8625
+208,0DSBoulder,145.3875,-,0.6,,88.5,88.5,23,23,NN,DIG,5,CO Boulder Boulder KC0DS 145.3875
+209,0DSBoulder,1283.8625,-,20,,88.5,88.5,23,23,NN,DIG,5,CO Boulder Boulder KC0DS 1283.8625
+210,"MRCMaysville, CO",145.325,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Chaffee Maysville, CO KD0MRC 145.325"
+211,0JZGold Hill,146.91,+,0.6,Tone,123,127.3,23,23,NN,FM,5,CO Boulder Gold Hill W0JZ 146.91
+212,JPXLa Veta,145.355,-,0.6,Tone,100,100,23,23,NN,FM,5,CO Huerfano La Veta N0JPX 145.355
+213,CCCWinter Park,447.45,-,5,Tone,103.5,103.5,23,23,NN,FM,5,CO Grand Winter Park WA4CCC 447.45
+214,ENOLongmont,448.8,-,5,Tone,88.5,88.5,23,23,NN,FM,5,CO Boulder Longmont W0ENO 448.8
+215,ENOLongmont,147.27,+,0.6,Tone,100,100,23,23,NN,FM,5,CO Boulder Longmont W0ENO 147.27
+216,EPALongmont,448.525,-,5,Tone,151.4,151.4,23,23,NN,FM,5,CO Boulder Longmont N0EPA 448.525
+217,"YNAGunnison, W Mountain or Tenderfoot Mountain",447.65,-,5,Tone,151.4,151.4,23,23,NN,FM,5,"CO Gunnison Gunnison, W Mountain or Tenderfoot Mountain KB0YNA 447.65"
+218,"YNAMontrose, Waterdog Peak",448.65,-,5,,88.5,151.4,23,23,NN,FM,5,"CO Montrose Montrose, Waterdog Peak KB0YNA 448.65"
+219,"YNAGrand Junction, Grand Mesa",449.65,-,5,Tone,151.4,151.4,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa KB0YNA 449.65"
+220,"YNATelluride, Gray Head",449.7,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO San Miguel Telluride, Gray Head KB0YNA 449.7"
+221,"YNADelta, Uncompahgre Butte",449.4,-,5,Tone,131.8,131.8,23,23,NN,FM,5,"CO Mesa Delta, Uncompahgre Butte KB0YNA 449.4"
+222,"0RVVail, Bald Mountain",146.61,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Eagle Vail, Bald Mountain K0RV 146.61"
+223,"0HGAllenspark, AFPD Station #5",147.03,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Boulder Allenspark, AFPD Station #5 KI0HG 147.03"
+224,0KMCenter,146.64,-,0.6,Tone,77,77,23,23,NN,FM,5,CO Rio Grande Center N0KM 146.64
+225,0KMCenter,447.1,-,5,Tone,77,77,23,23,NN,FM,5,CO Saguache Center N0KM 447.1
+226,"UPSGreeley, UNC",146.85,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Weld Greeley, UNC W0UPS 146.85"
+227,"UPSLoveland, Budweiser Event Center",448.025,-,5,Tone,100,100,23,23,NN,DIG,5,"CO Larimer Loveland, Budweiser Event Center W0UPS 448.025"
+228,"UPSFort Collins, Horsetooth Mountain",145.115,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain W0UPS 145.115"
+229,"UPSFort Collins, Horsetooth Mountain",447.275,-,5,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain W0UPS 447.275"
+230,"UPSFort Collins, Buckhorn Mountain",447.7,-,5,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Buckhorn Mountain W0UPS 447.7"
+231,"UPSFort Collins, Buckhorn Mountain",146.625,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Buckhorn Mountain W0UPS 146.625"
+232,"UPSFort Collins, Buckhorn Mountain",224.84,-,1.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Buckhorn Mountain W0UPS 224.84"
+233,"0OJGreeley, UNC",449.725,-,5,Tone,127.3,127.3,23,23,NN,FM,5,"CO Weld Greeley, UNC K0OJ 449.725"
+234,"LRALoveland, Namaqua Hill",449.575,-,5,Tone,100,100,23,23,NN,FM,5,"CO Larimer Loveland, Namaqua Hill W0LRA 449.575"
+235,"LRALoveland, Namaqua Hill",147.195,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Loveland, Namaqua Hill W0LRA 147.195"
+236,KWDGreeley,448.475,-,5,Tone,100,100,23,23,NN,FM,5,CO Weld Greeley KC0KWD 448.475
+237,KWDGreeley,147,+,0.6,Tone,100,100,23,23,NN,DIG,5,CO Weld Greeley KC0KWD 147
+238,"0VQAspen, Aspen Mountain",447.05,-,5,Tone,136.5,136.5,23,23,NN,FM,5,"CO Pitkin Aspen, Aspen Mountain K0VQ 447.05"
+239,"0VQCarbondale, Missouri Heights",447.15,-,5,Tone,136.5,136.5,23,23,NN,FM,5,"CO Garfield Carbondale, Missouri Heights K0VQ 447.15"
+240,0FHEstes Park,146.685,-,0.6,Tone,123,123,23,23,NN,FM,5,CO Larimer Estes Park N0FH 146.685
+241,0FHEstes Park,449.8,-,5,Tone,123,123,23,23,NN,FM,5,CO Larimer Estes Park N0FH 449.8
+242,"0FTFort Morgan, Fort Morgan EOC",448.2,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Morgan Fort Morgan, Fort Morgan EOC W0FT 448.2"
+243,0FTAkron,448.175,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Morgan Akron W0FT 448.175
+244,VTLGunnison,147.12,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Gunnison Gunnison W0VTL 147.12
+245,7RFFort Collins,447.725,-,5,Tone,131.8,131.8,23,23,NN,FM,5,CO Larimer Fort Collins W7RF 447.725
+246,"5JLTrinidad, Raton Pass",447.375,-,5,Tone,100,100,23,23,NN,DIG,5,"CO Las Animas Trinidad, Raton Pass KG5JL 447.375"
+247,0CLSnowmass Village,146.67,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Pitkin Snowmass Village K0CL 146.67
+248,"RDITrinidad, Raton Pass",446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Las Animas Trinidad, Raton Pass KD0RDI 446.775"
+249,"RDIRaton, Raton Pass",446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,"NM Colfax Raton, Raton Pass KD0RDI 446.775"
+250,1TJFort Collins,1283.55,-,20,Tone,100,100,23,23,NN,FM,5,CO Larimer Fort Collins K1TJ 1283.55
+251,"1TJFort Collins, Horsetooth Mountain",927.95,-,25,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain K1TJ 927.95"
+252,AOLFort Collins,446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Larimer Fort Collins N0AOL 446.7375
+253,RBTFort Collins,447.45,-,5,Tone,123,123,23,23,NN,FM,5,CO Larimer Fort Collins KC0RBT 447.45
+254,"DMRFort Collins, Timnath",147.39,+,0.6,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins, Timnath W0DMR 147.39"
+255,"DMRFort Collins, Timnath",446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins, Timnath W0DMR 446.775"
+256,"0SFFort Collins, Horsetooth Mountain",927.825,-,25,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, Horsetooth Mountain AB0SF 927.825"
+257,"QEYFort Collins, CSU Durward Hall",147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, CSU Durward Hall W0QEY 147.36"
+258,"QEYFort Collins, CSU Durward Hall",446.8125,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Larimer Fort Collins, CSU Durward Hall W0QEY 446.8125"
+259,"QEYFort Collins, CSU Durward Hall",449.85,-,5,Tone,100,100,23,23,NN,FM,5,"CO Larimer Fort Collins, CSU Durward Hall W0QEY 449.85"
+260,"RFISeverance, Cactus Hill",447.2,-,5,Tone,82.5,82.5,23,23,NN,FM,5,"CO Weld Severance, Cactus Hill N6RFI 447.2"
+261,UPSWellington,448.325,-,5,Tone,110.9,110.9,23,23,NN,FM,5,CO Larimer Wellington WB7UPS 448.325
+262,0HHLamar,146.61,-,0.6,Tone,123,123,23,23,NN,FM,5,CO Prowers Lamar KC0HH 146.61
+263,0HHLamar,449.5,-,5,Tone,123,123,23,23,NN,FM,5,CO Prowers Lamar KC0HH 449.5
+264,"5MLRaton, Sierra Grande",147.28,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Colfax Raton, Sierra Grande NM5ML 147.28"
+265,"5MLTres Piedras, San Antonio Mountain",147.22,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras, San Antonio Mountain NM5ML 147.22"
+266,"5MLEagle Nest, Iron Mountain",444.35,+,5,Tone,100,100,23,23,NN,FM,5,"NM Colfax Eagle Nest, Iron Mountain NM5ML 444.35"
+267,"5MLTaos, Ski Valley",147.14,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Taos, Ski Valley NM5ML 147.14"
+268,"5MLWagon Mound, Turkey Mountain",147.2,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Mora Wagon Mound, Turkey Mountain NM5ML 147.2"
+269,"5MLBloomfield, Harris Mesa",147.28,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM San Juan Bloomfield, Harris Mesa NM5ML 147.28"
+270,"5MLCuba, Eureka Mesa",147.24,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Sandoval Cuba, Eureka Mesa NM5ML 147.24"
+271,"SNOCarbondale, Four Mile Ridge",147.39,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Carbondale, Four Mile Ridge K0SNO 147.39"
+272,"ELKCarbondale, Four Mile Ridge",449.725,-,5,Tone,179.9,179.9,23,23,NN,FM,5,"CO Garfield Carbondale, Four Mile Ridge K0ELK 449.725"
+273,"PKTCreede, Bristol Head",449.525,-,5,Tone,100,100,23,23,NN,FM,5,"CO Mineral Creede, Bristol Head N0PKT 449.525"
+274,"HNDGlenwood Springs, Lookout Mountain",449.85,-,5,Tone,131.8,131.8,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Lookout Mountain WA4HND 449.85"
+275,"HNDMontrose, Waterdog Peak",447.2,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Montrose Montrose, Waterdog Peak WA4HND 447.2"
+276,"HNDParachute, Mount Callahan",449.8,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Parachute, Mount Callahan WA4HND 449.8"
+277,"HNDGrand Junction, Grand Mesa",449.3,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, Grand Mesa WA4HND 449.3"
+278,"HNDGrand Junction, Black Ridge",449.575,-,5,Tone,131.8,131.8,23,23,NN,FM,5,"CO Mesa Grand Junction, Black Ridge WA4HND 449.575"
+279,"I0GGlenwood Springs, Sunlight Peak",447.1,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Sunlight Peak KI0G 447.1"
+280,"I0GGlenwood Springs, Sunlight Peak",146.88,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Sunlight Peak KI0G 146.88"
+281,"XLIGlenwood Springs, Sunlight Peak",449.6,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"CO Garfield Glenwood Springs, Sunlight Peak N0XLI 449.6"
+282,"PFORed River, Valle Vidal",145.25,-,0.6,Tone,123,123,23,23,NN,FM,5,"NM Taos Red River, Valle Vidal KF5PFO 145.25"
+283,"PFOTres Piedras,  San Antonio Mountain",146.76,-,0.6,Tone,67,67,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras,  San Antonio Mountain KF5PFO 146.76"
+284,"PFORed River, Molycorp",145.39,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Taos Red River, Molycorp KF5PFO 145.39"
+285,"PFOTres Piedras, San Antonio Mountain",146.76,-,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Tres Piedras, San Antonio Mountain KF5PFO 146.76"
+286,"PFOTaos, Picuris Peak",224.4,-,1.6,Tone,225.7,225.7,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 224.4"
+287,"PFOTaos, Picuris Peak",51.5,,0,Tone,100,100,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 51.5"
+288,"PFOTaos, Picuris Peak",147.12,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 147.12"
+289,"ITSLake City, Hill 71",147.135,-,0.6,Tone,123,123,23,23,NN,FM,5,"CO Hinsdale Lake City, Hill 71 KB5ITS 147.135"
+290,"ITSOuray, Engineer Mountain",147.27,+,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"CO Ouray Ouray, Engineer Mountain KB5ITS 147.27"
+291,"ITSSilverton, Kendall Mountain",147.375,+,0.6,Tone,156.7,156.7,23,23,NN,FM,5,"CO San Juan Silverton, Kendall Mountain KB5ITS 147.375"
+292,"ITSSilverton, Hazelton",444,+,5,Tone,67,67,23,23,NN,FM,5,"CO San Juan Silverton, Hazelton KB5ITS 444"
+293,ITSSilverton,447.525,-,5,Tone,127.3,127.3,23,23,NN,FM,5,CO San Juan Silverton KB5ITS 447.525
+294,"ITSSilverton, Buffalo Boy",145.325,-,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"CO San Juan Silverton, Buffalo Boy KB5ITS 145.325"
+295,"ITSIgnacio, Spring Creek",147.15,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO La Plata Ignacio, Spring Creek KB5ITS 147.15"
+296,"ITSDurango, Smelter Mountain",147.135,+,0.6,Tone,100,100,23,23,NN,FM,5,"CO La Plata Durango, Smelter Mountain KB5ITS 147.135"
+297,"ITSNavajo Dam, Navajo Lake",147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Navajo Dam, Navajo Lake KB5ITS 147.36"
+298,"ITSMancos, Caviness Mountain",442.375,+,5,Tone,100,100,23,23,NN,FM,5,"CO Montezuma Mancos, Caviness Mountain KB5ITS 442.375"
+299,"ITSMancos, Menefee Mountain",145.325,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Montezuma Mancos, Menefee Mountain KB5ITS 145.325"
+300,"ITSDolores, Summit Ridge",145.19,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO Montezuma Dolores, Summit Ridge KB5ITS 145.19"
+301,"ITSDolores, Summit Ridge",447.275,-,5,Tone,100,100,23,23,NN,FM,5,"CO Montezuma Dolores, Summit Ridge KB5ITS 447.275"
+302,ITSAztec,447.45,-,5,Tone,107.2,107.2,23,23,NN,FM,5,NM San Juan Aztec KB5ITS 447.45
+303,"ITSAztec, Tank Mtn",146.88,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Aztec, Tank Mtn KB5ITS 146.88"
+304,"ITSBloomfield, Harris mesa",147.1,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Bloomfield, Harris mesa KB5ITS 147.1"
+305,ITSBloomfield,448.65,-,5,Tone,127.3,127.3,23,23,NN,FM,5,NM San Juan Bloomfield KB5ITS 448.65
+306,ITSFarmington,53.01,-,1,Tone,131.8,131.8,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 53.01
+307,ITSFarmington,146.76,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 146.76
+308,ITSFarmington,147,+,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 147
+309,DEMSpringfield,449.2,-,5,Tone,118.8,118.8,23,23,NN,FM,5,CO Baca Springfield KZ0DEM 449.2
+310,0MRPaonia,147.33,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Delta Paonia KI0MR 147.33
+311,"7GRCheyenne, Chalk Bluffs",449.3,-,5,Tone,131.8,131.8,23,23,NN,DIG,5,"WY Laramie Cheyenne, Chalk Bluffs WB7GR 449.3"
+312,"7GRScottsbluff, Stage Hill",444.125,+,5,Tone,114.8,114.8,23,23,NN,FM,5,"NE Scotts Bluff Scottsbluff, Stage Hill WB7GR 444.125"
+313,"JTBSterling, CO",145.295,-,0.6,,88.5,88.5,23,23,NN,FM,5,"CO Logan Sterling, CO WA0JTB 145.295"
+314,"5EMDes Moines, Sierra Grande",147.175,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Union Des Moines, Sierra Grande NM5EM 147.175"
+315,"5EMEagle Nest, Touch Me Not",147.04,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Colfax Eagle Nest, Touch Me Not NM5EM 147.04"
+316,D0HSteamboat Springs,147.21,+,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Routt Steamboat Springs KD0H 147.21
+317,"SNOCheyenne, Denver Hill",146.775,-,0.6,Tone,114.8,114.8,23,23,NN,FM,5,"WY Laramie Cheyenne, Denver Hill KC7SNO 146.775"
+318,"SNOCheyenne, North Park",147.105,+,0.6,Tone,114.8,91.5,23,23,NN,FM,5,"WY Laramie Cheyenne, North Park KC7SNO 147.105"
+319,"SNOLaramie, Beacon Hill",146.82,-,0.6,Tone,114.8,114.8,23,23,NN,FM,5,"WY Albany Laramie, Beacon Hill KC7SNO 146.82"
+320,SNOAlbin,147.165,+,0.6,Tone,114.8,114.8,23,23,NN,FM,5,WY Laramie Albin KC7SNO 147.165
+321,SWRCheyenne,145.235,-,0.6,Tone,114.8,114.8,23,23,NN,FM,5,WY Laramie Cheyenne KB7SWR 145.235
+322,JJYCheyenne,449.9,-,5,Tone,100,100,23,23,NN,FM,5,WY Laramie Cheyenne N7JJY 449.9
+323,"DHFCheyenne, Old airport control tower",448.95,-,5,Tone,151.4,151.4,23,23,NN,DIG,5,"WY Laramie Cheyenne, Old airport control tower KC7DHF 448.95"
+324,GDRCimarron,145.21,-,0.6,Tone,110.9,110.9,23,23,NN,FM,5,NM Colfax Cimarron N5GDR 145.21
+325,"TSVTaos, Wheeler Peak",444.975,+,5,Tone,123,123,23,23,NN,FM,5,"NM Taos Taos, Wheeler Peak N5TSV 444.975"
+326,"5SFChama, Overlook Mtn",147.08,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"NM Rio Arriba Chama, Overlook Mtn W5SF 147.08"
+327,OPDMontrose,146.79,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Montrose Montrose KD5OPD 146.79
+328,UUXMontrose,146.91,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Montrose Montrose KC0UUX 146.91
+329,WPMTribune,442.175,+,5,Tone,156.7,156.7,23,23,NN,FM,5,KS Greeley Tribune K0WPM 442.175
+330,"7UWLaramie, Jelm Mountain",147.015,+,0.6,Tone,146.2,146.2,23,23,NN,DIG,5,"WY Albany Laramie, Jelm Mountain N7UW 147.015"
+331,"7UWLaramie, University",146.61,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"WY Albany Laramie, University N7UW 146.61"
+332,"JSPPagosa Springs, Oakbrush Hill",146.61,-,0.6,Tone,123,123,23,23,NN,FM,5,"CO Archuleta Pagosa Springs, Oakbrush Hill N0JSP 146.61"
+333,ECTSyracuse,444,+,5,Tone,141.3,141.3,23,23,NN,FM,5,KS Hamilton Syracuse K0ECT 444
+334,ECTColby,444.4,+,5,Tone,141.3,141.3,23,23,NN,FM,5,KS Thomas Colby K0ECT 444.4
+335,ECTUlysses,147.06,+,0.6,,88.5,88.5,23,23,NN,FM,5,KS Grant Ulysses K0ECT 147.06
+336,ECTElkader,444.3,+,5,Tone,141.3,141.3,23,23,NN,FM,5,KS Logan Elkader K0ECT 444.3
+337,"ECTUlysses, Wagon Bed Springs",444.525,+,5,Tone,141.3,141.3,23,23,NN,FM,5,"KS Grant Ulysses, Wagon Bed Springs K0ECT 444.525"
+338,ECTLiberal,443.1,+,5,Tone,141.3,141.3,23,23,NN,FM,5,KS Seward Liberal K0ECT 443.1
+339,"LEMAngel Fire, Agua Fria Peak",147.34,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Colfax Angel Fire, Agua Fria Peak N5LEM 147.34"
+340,VJRWallace,444.6,+,5,Tone,146.2,146.2,23,23,NN,FM,5,KS Wallace Wallace WA0VJR 444.6
+341,TAOSyracuse,146.775,-,0.6,,88.5,88.5,23,23,NN,FM,5,KS Hamilton Syracuse KA0TAO 146.775
+342,5SJDulce,145.43,-,0.6,Tone,136.5,136.5,23,23,NN,FM,5,NM Rio Arriba Dulce NM5SJ 145.43
+343,"5SJNebo, Cedar Hill",147.06,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Nebo, Cedar Hill NM5SJ 147.06"
+344,5SJAztec,146.74,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Aztec NM5SJ 146.74
+345,5SJLybrook,145.49,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Rio Arriba Lybrook NM5SJ 145.49
+346,"ITTSilverton, Engineer Mountain",147.27,+,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"CO San Juan Silverton, Engineer Mountain KB5ITT 147.27"
+347,"0BXGrand Junction, Grand Mesa",446.9125,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Mesa Grand Junction, Grand Mesa W0BX 446.9125"
+348,"0EPDurango, Missionary Ridge",146.7,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO La Plata Durango, Missionary Ridge K0EP 146.7"
+349,0EPDurango,449.85,-,5,Tone,100,100,23,23,NN,FM,5,CO La Plata Durango K0EP 449.85
+350,"0EPDurango, Eagle Pass",146.67,-,0.6,Tone,100,100,23,23,NN,FM,5,"CO La Plata Durango, Eagle Pass K0EP 146.67"
+351,"5PXDixon, Cerro Abajo",147.18,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Rio Arriba Dixon, Cerro Abajo KD5PX 147.18"
+352,NEBHarrisburg,147,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,NE Banner Harrisburg N0NEB 147
+353,GJTGrand Junction,448.15,-,5,Tone,100,100,23,23,NN,FM,5,CO Mesa Grand Junction W0GJT 448.15
+354,GJTGrand Junction,146.82,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,CO Mesa Grand Junction W0GJT 146.82
+355,EVEDurango,448.625,-,5,Tone,131.8,131.8,23,23,NN,FM,5,CO La Plata Durango KC5EVE 448.625
+356,"RRZGrand Junction, GJT",145.175,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, GJT W0RRZ 145.175"
+357,"RRZGrand Junction, Black Ridge (Above Colorado Ntl Monument)",146.94,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,"CO Mesa Grand Junction, Black Ridge (Above Colorado Ntl Monument) W0RRZ 146.94"
+358,SMZGrand Junction,449.775,-,5,Tone,173.8,88.5,23,23,NN,FM,5,CO Mesa Grand Junction KD0SMZ 449.775
+359,REDGrand Junction,446.775,-,5,,88.5,88.5,23,23,NN,DIG,5,CO Mesa Grand Junction KD0RED 446.775
+360,SSIGrand Junction,147.105,+,0.6,,88.5,88.5,23,23,NN,FM,5,CO Mesa Grand Junction K0SSI 147.105
+361,OMCLakin,146.985,-,0.6,Tone,156.7,156.7,23,23,NN,FM,5,KS Kearney Lakin N0OMC 146.985
+362,VIUHesperus,145.37,-,0.6,Tone,100,100,23,23,NN,FM,5,CO La Plata Hesperus KB0VIU 145.37
+363,W0KColby,146.82,-,0.6,Tone,156.7,156.7,23,23,NN,FM,5,KS Thomas Colby NW0K 146.82
+364,OQAScott City,146.7,-,0.6,Tone,141.3,141.3,23,23,NN,DIG,5,KS Scott Scott City WA0OQA 146.7
+365,OQAGarden City,146.91,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,KS Finney Garden City WA0OQA 146.91
+366,"0MIScott City, K-Link",444.95,+,5,Tone,100,100,23,23,NN,FM,5,"KS Scott Scott City, K-Link W0MI 444.95"
+367,"GCRRawlins, Elk Mountain",147.24,+,0.6,Tone,100,100,23,23,NN,FM,5,"WY Carbon Rawlins, Elk Mountain N7GCR 147.24"
+368,"UBJMancos, Caviness Mountain",446.7375,-,5,,88.5,88.5,23,23,NN,DIG,5,"CO Montezuma Mancos, Caviness Mountain N5UBJ 446.7375"
+369,UBJAztec,442.25,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Aztec N5UBJ 442.25
+370,UBJFarmington,442.325,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington N5UBJ 442.325
+371,VBEFarmington,145.115,-,0.6,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington KF5VBE 145.115
+372,WXIBloomfield,146.92,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Bloomfield K5WXI 146.92
+373,WXIFarmington,146.85,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington K5WXI 146.85
+374,UGOOgallala,146.76,-,0.6,Tone,123,123,23,23,NN,FM,5,NE Keith Ogallala N0UGO 146.76
+375,"LWUCortez, Downtown",146.79,-,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"CO Montezuma Cortez, Downtown KD5LWU 146.79"
+376,DFQGuymon,444.975,+,5,Tone,88.5,88.5,23,23,NN,FM,5,OK Texas Guymon N5DFQ 444.975
+377,DFQGuymon,147.15,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,OK Texas Guymon N5DFQ 147.15
+378,VBFFarmington,444.15,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington KF5VBF 444.15
+379,KKSLiberal,146.805,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,KS Seward Liberal W0KKS 146.805
+380,WBKSpearman,443.2,+,5,Tone,88.5,88.5,23,23,NN,FM,5,TX Hansford Spearman KC5WBK 443.2

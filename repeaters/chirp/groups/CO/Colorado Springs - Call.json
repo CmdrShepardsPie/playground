@@ -1,119 +1,7 @@
 [
   {
     "Location": 0,
-    "Name": " Colorado Springs",
-    "Frequency": 449.575,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs  449.575"
-  },
-  {
-    "Location": 1,
-    "Name": " Colorado Springs",
-    "Frequency": 147.27,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs  147.27"
-  },
-  {
-    "Location": 2,
-    "Name": " Falcon",
-    "Frequency": 447.2,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 151.4,
-    "cToneFreq": 151.4,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO El Paso Falcon  447.2"
-  },
-  {
-    "Location": 3,
-    "Name": " Lake George",
-    "Frequency": 449.7,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Park Lake George  449.7"
-  },
-  {
-    "Location": 4,
-    "Name": " Cedaredge, Grand Mesa",
-    "Frequency": 447.35,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Delta Cedaredge, Grand Mesa  447.35"
-  },
-  {
-    "Location": 5,
-    "Name": " Boise City",
-    "Frequency": 147.35,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "OK Cimarron Boise City  147.35"
-  },
-  {
-    "Location": 6,
-    "Name": "X0G Colorado Springs",
-    "Frequency": 447.475,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs NX0G 447.475"
-  },
-  {
-    "Location": 7,
-    "Name": "X0G Woodland Park",
+    "Name": "X0GWoodland Park",
     "Frequency": 448.65,
     "Duplex": "-",
     "Offset": 5,
@@ -128,8 +16,8 @@
     "Comment": "CO Teller Woodland Park NX0G 448.65"
   },
   {
-    "Location": 8,
-    "Name": "X0G Woodland Park",
+    "Location": 1,
+    "Name": "X0GWoodland Park",
     "Frequency": 146.82,
     "Duplex": "-",
     "Offset": 0.6,
@@ -144,8 +32,8 @@
     "Comment": "CO Teller Woodland Park NX0G 146.82"
   },
   {
-    "Location": 9,
-    "Name": "X0G Cripple Creek",
+    "Location": 2,
+    "Name": "X0GCripple Creek",
     "Frequency": 147.015,
     "Duplex": "+",
     "Offset": 0.6,
@@ -160,8 +48,8 @@
     "Comment": "CO Teller Cripple Creek NX0G 147.015"
   },
   {
-    "Location": 10,
-    "Name": "X0G Lake George, Badger Mountain",
+    "Location": 3,
+    "Name": "X0GLake George, Badger Mountain",
     "Frequency": 146.685,
     "Duplex": "-",
     "Offset": 0.6,
@@ -176,56 +64,8 @@
     "Comment": "CO Park Lake George, Badger Mountain NX0G 146.685"
   },
   {
-    "Location": 11,
-    "Name": "SRJ Colorado Springs",
-    "Frequency": 224.06,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs KB0SRJ 224.06"
-  },
-  {
-    "Location": 12,
-    "Name": "SRJ Colorado Springs",
-    "Frequency": 145.265,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs KB0SRJ 145.265"
-  },
-  {
-    "Location": 13,
-    "Name": "SRJ Colorado Springs, UCCS",
-    "Frequency": 448.8,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs, UCCS KB0SRJ 448.8"
-  },
-  {
-    "Location": 14,
-    "Name": "SRJ Colorado Springs, Pikes Peak",
+    "Location": 4,
+    "Name": "SRJColorado Springs, Pikes Peak",
     "Frequency": 448.45,
     "Duplex": "-",
     "Offset": 5,
@@ -240,8 +80,8 @@
     "Comment": "CO El Paso Colorado Springs, Pikes Peak KB0SRJ 448.45"
   },
   {
-    "Location": 15,
-    "Name": "SRJ Colorado Springs, Pikes Peak",
+    "Location": 5,
+    "Name": "SRJColorado Springs, Pikes Peak",
     "Frequency": 146.97,
     "Duplex": "-",
     "Offset": 0.6,
@@ -256,8 +96,8 @@
     "Comment": "CO El Paso Colorado Springs, Pikes Peak KB0SRJ 146.97"
   },
   {
-    "Location": 16,
-    "Name": "IFI Colorado Springs",
+    "Location": 6,
+    "Name": "IFIColorado Springs",
     "Frequency": 447.55,
     "Duplex": "-",
     "Offset": 5,
@@ -272,8 +112,8 @@
     "Comment": "CO El Paso Colorado Springs WA6IFI 447.55"
   },
   {
-    "Location": 17,
-    "Name": "IFI Colorado Springs, Cheyenne Mountain",
+    "Location": 7,
+    "Name": "IFIColorado Springs, Cheyenne Mountain",
     "Frequency": 53.13,
     "Duplex": "-",
     "Offset": 1.7,
@@ -288,8 +128,8 @@
     "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain WA6IFI 53.13"
   },
   {
-    "Location": 18,
-    "Name": "IFI Colorado Springs, Almagre Mountain",
+    "Location": 8,
+    "Name": "IFIColorado Springs, Almagre Mountain",
     "Frequency": 927.725,
     "Duplex": "-",
     "Offset": 25,
@@ -304,8 +144,8 @@
     "Comment": "CO Teller Colorado Springs, Almagre Mountain WA6IFI 927.725"
   },
   {
-    "Location": 19,
-    "Name": "IFI Trinidad, Raton Pass",
+    "Location": 9,
+    "Name": "IFITrinidad, Raton Pass",
     "Frequency": 145.43,
     "Duplex": "-",
     "Offset": 0.6,
@@ -320,8 +160,8 @@
     "Comment": "CO Las Animas Trinidad, Raton Pass WA6IFI 145.43"
   },
   {
-    "Location": 20,
-    "Name": "MOG Colorado Springs",
+    "Location": 10,
+    "Name": "MOGColorado Springs",
     "Frequency": 927.8,
     "Duplex": "-",
     "Offset": 25,
@@ -336,24 +176,8 @@
     "Comment": "CO Teller Colorado Springs W0MOG 927.8"
   },
   {
-    "Location": 21,
-    "Name": "MOG Colorado Springs",
-    "Frequency": 448.6,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 114.8,
-    "cToneFreq": 114.8,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs W0MOG 448.6"
-  },
-  {
-    "Location": 22,
-    "Name": "MOG Colorado Springs",
+    "Location": 11,
+    "Name": "MOGColorado Springs",
     "Frequency": 147.39,
     "Duplex": "+",
     "Offset": 0.6,
@@ -368,8 +192,8 @@
     "Comment": "CO El Paso Colorado Springs W0MOG 147.39"
   },
   {
-    "Location": 23,
-    "Name": "MOG Colorado springs",
+    "Location": 12,
+    "Name": "MOGColorado springs",
     "Frequency": 224.72,
     "Duplex": "-",
     "Offset": 1.6,
@@ -384,8 +208,8 @@
     "Comment": "CO El Paso Colorado springs W0MOG 224.72"
   },
   {
-    "Location": 24,
-    "Name": "IRP Colorado Springs",
+    "Location": 13,
+    "Name": "IRPColorado Springs",
     "Frequency": 447.35,
     "Duplex": "-",
     "Offset": 5,
@@ -400,8 +224,8 @@
     "Comment": "CO El Paso Colorado Springs K0IRP 447.35"
   },
   {
-    "Location": 25,
-    "Name": "IRP Colorado Springs",
+    "Location": 14,
+    "Name": "IRPColorado Springs",
     "Frequency": 146.91,
     "Duplex": "-",
     "Offset": 0.6,
@@ -416,8 +240,8 @@
     "Comment": "CO El Paso Colorado Springs K0IRP 146.91"
   },
   {
-    "Location": 26,
-    "Name": "A0L Colorado Springs",
+    "Location": 15,
+    "Name": "A0LColorado Springs",
     "Frequency": 448.3,
     "Duplex": "-",
     "Offset": 5,
@@ -432,8 +256,8 @@
     "Comment": "CO El Paso Colorado Springs AA0L 448.3"
   },
   {
-    "Location": 27,
-    "Name": "A0L Colorado Springs",
+    "Location": 16,
+    "Name": "A0LColorado Springs",
     "Frequency": 147.135,
     "Duplex": "+",
     "Offset": 0.6,
@@ -448,40 +272,8 @@
     "Comment": "CO El Paso Colorado Springs AA0L 147.135"
   },
   {
-    "Location": 28,
-    "Name": "0KG Colorado Springs, Broadmoor Area",
-    "Frequency": 448.25,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 123,
-    "cToneFreq": 123,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs, Broadmoor Area N0KG 448.25"
-  },
-  {
-    "Location": 29,
-    "Name": "0WF Colorado Springs",
-    "Frequency": 447.025,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 123,
-    "cToneFreq": 123,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs KF0WF 447.025"
-  },
-  {
-    "Location": 30,
-    "Name": "RSH Colorado Springs",
+    "Location": 17,
+    "Name": "RSHColorado Springs",
     "Frequency": 146.85,
     "Duplex": "-",
     "Offset": 0.6,
@@ -496,8 +288,8 @@
     "Comment": "CO El Paso Colorado Springs W0RSH 146.85"
   },
   {
-    "Location": 31,
-    "Name": "TTF Colorado Springs, Fillmore Hill",
+    "Location": 18,
+    "Name": "TTFColorado Springs, Fillmore Hill",
     "Frequency": 448.725,
     "Duplex": "-",
     "Offset": 5,
@@ -512,24 +304,8 @@
     "Comment": "CO El Paso Colorado Springs, Fillmore Hill KA0TTF 448.725"
   },
   {
-    "Location": 32,
-    "Name": "0SZ Colorado Springs, Cheyenne Mountain",
-    "Frequency": 445.0625,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain N0SZ 445.0625"
-  },
-  {
-    "Location": 33,
-    "Name": "0SZ Westcreek",
+    "Location": 19,
+    "Name": "0SZWestcreek",
     "Frequency": 446.875,
     "Duplex": "-",
     "Offset": 5,
@@ -544,8 +320,8 @@
     "Comment": "CO Douglas Westcreek N0SZ 446.875"
   },
   {
-    "Location": 34,
-    "Name": "0SZ Fairplay, Badger",
+    "Location": 20,
+    "Name": "0SZFairplay, Badger",
     "Frequency": 446.7625,
     "Duplex": "-",
     "Offset": 5,
@@ -560,24 +336,8 @@
     "Comment": "CO Park Fairplay, Badger N0SZ 446.7625"
   },
   {
-    "Location": 35,
-    "Name": "0SZ Evergreen, Lower Squaw Mountain",
-    "Frequency": 145.175,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "DTCS",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 73,
-    "DtcsRxCode": 73,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO Clear Creek Evergreen, Lower Squaw Mountain N0SZ 145.175"
-  },
-  {
-    "Location": 36,
-    "Name": "0SZ Golden, Lookout Mountain",
+    "Location": 21,
+    "Name": "0SZGolden, Lookout Mountain",
     "Frequency": 145.37,
     "Duplex": "-",
     "Offset": 0.6,
@@ -592,8 +352,8 @@
     "Comment": "CO Jefferson Golden, Lookout Mountain N0SZ 145.37"
   },
   {
-    "Location": 37,
-    "Name": "0SZ Salida, Methodist Mountain",
+    "Location": 22,
+    "Name": "0SZSalida, Methodist Mountain",
     "Frequency": 446.8125,
     "Duplex": "-",
     "Offset": 5,
@@ -608,8 +368,8 @@
     "Comment": "CO Chaffee Salida, Methodist Mountain N0SZ 446.8125"
   },
   {
-    "Location": 38,
-    "Name": "0SZ Idaho Springs, Squaw Mountain",
+    "Location": 23,
+    "Name": "0SZIdaho Springs, Squaw Mountain",
     "Frequency": 448.225,
     "Duplex": "-",
     "Offset": 5,
@@ -624,8 +384,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain N0SZ 448.225"
   },
   {
-    "Location": 39,
-    "Name": "0SZ Idaho Springs, Squaw Mountain",
+    "Location": 24,
+    "Name": "0SZIdaho Springs, Squaw Mountain",
     "Frequency": 446.9375,
     "Duplex": "-",
     "Offset": 5,
@@ -640,8 +400,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain N0SZ 446.9375"
   },
   {
-    "Location": 40,
-    "Name": "0SZ Breckenridge, Baldy",
+    "Location": 25,
+    "Name": "0SZBreckenridge, Baldy",
     "Frequency": 445.0875,
     "Duplex": "-",
     "Offset": 5,
@@ -656,8 +416,8 @@
     "Comment": "CO Fremont Breckenridge, Baldy N0SZ 445.0875"
   },
   {
-    "Location": 41,
-    "Name": "0SZ Leadville, Mosquito Pass",
+    "Location": 26,
+    "Name": "0SZLeadville, Mosquito Pass",
     "Frequency": 445.05,
     "Duplex": "-",
     "Offset": 5,
@@ -672,8 +432,8 @@
     "Comment": "CO Lake Leadville, Mosquito Pass N0SZ 445.05"
   },
   {
-    "Location": 42,
-    "Name": "0SZ Denver, Thorodin Mountain",
+    "Location": 27,
+    "Name": "0SZDenver, Thorodin Mountain",
     "Frequency": 449.225,
     "Duplex": "-",
     "Offset": 5,
@@ -688,8 +448,8 @@
     "Comment": "CO Gilpin Denver, Thorodin Mountain N0SZ 449.225"
   },
   {
-    "Location": 43,
-    "Name": "0SZ Boulder, Mount Thorodin",
+    "Location": 28,
+    "Name": "0SZBoulder, Mount Thorodin",
     "Frequency": 446.8,
     "Duplex": "-",
     "Offset": 5,
@@ -704,8 +464,8 @@
     "Comment": "CO Boulder Boulder, Mount Thorodin N0SZ 446.8"
   },
   {
-    "Location": 44,
-    "Name": "0SZ Boulder, Lee Hill",
+    "Location": 29,
+    "Name": "0SZBoulder, Lee Hill",
     "Frequency": 446.9875,
     "Duplex": "-",
     "Offset": 5,
@@ -720,8 +480,8 @@
     "Comment": "CO Boulder Boulder, Lee Hill N0SZ 446.9875"
   },
   {
-    "Location": 45,
-    "Name": "0SZ Boulder, Lee Hill",
+    "Location": 30,
+    "Name": "0SZBoulder, Lee Hill",
     "Frequency": 447.75,
     "Duplex": "-",
     "Offset": 5,
@@ -736,8 +496,8 @@
     "Comment": "CO Boulder Boulder, Lee Hill N0SZ 447.75"
   },
   {
-    "Location": 46,
-    "Name": "0SZ Boulder, Lee Hill",
+    "Location": 31,
+    "Name": "0SZBoulder, Lee Hill",
     "Frequency": 445.05,
     "Duplex": "-",
     "Offset": 5,
@@ -752,8 +512,8 @@
     "Comment": "CO Boulder Boulder, Lee Hill N0SZ 445.05"
   },
   {
-    "Location": 47,
-    "Name": "0SZ Vail",
+    "Location": 32,
+    "Name": "0SZVail",
     "Frequency": 445.075,
     "Duplex": "-",
     "Offset": 5,
@@ -768,8 +528,8 @@
     "Comment": "CO Eagle Vail N0SZ 445.075"
   },
   {
-    "Location": 48,
-    "Name": "0SZ Durango, Missionary Ridge",
+    "Location": 33,
+    "Name": "0SZDurango, Missionary Ridge",
     "Frequency": 445.1375,
     "Duplex": "-",
     "Offset": 5,
@@ -784,8 +544,8 @@
     "Comment": "CO La Plata Durango, Missionary Ridge N0SZ 445.1375"
   },
   {
-    "Location": 49,
-    "Name": "0SZ Rangely, Cathedral Bluffs",
+    "Location": 34,
+    "Name": "0SZRangely, Cathedral Bluffs",
     "Frequency": 445.2625,
     "Duplex": "-",
     "Offset": 5,
@@ -800,8 +560,8 @@
     "Comment": "CO Rio Blanco Rangely, Cathedral Bluffs N0SZ 445.2625"
   },
   {
-    "Location": 50,
-    "Name": "VJJ Colorado Springs, Cheyenne Mountain",
+    "Location": 35,
+    "Name": "VJJColorado Springs, Cheyenne Mountain",
     "Frequency": 145.13,
     "Duplex": "-",
     "Offset": 0.6,
@@ -816,8 +576,8 @@
     "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain KB0VJJ 145.13"
   },
   {
-    "Location": 51,
-    "Name": "VJJ Salida, Methodist Mountain",
+    "Location": 36,
+    "Name": "VJJSalida, Methodist Mountain",
     "Frequency": 147.285,
     "Duplex": "+",
     "Offset": 0.6,
@@ -832,8 +592,8 @@
     "Comment": "CO Chaffee Salida, Methodist Mountain KB0VJJ 147.285"
   },
   {
-    "Location": 52,
-    "Name": "VJJ Breckenridge, Bald Mountain",
+    "Location": 37,
+    "Name": "VJJBreckenridge, Bald Mountain",
     "Frequency": 147.39,
     "Duplex": "+",
     "Offset": 0.6,
@@ -848,8 +608,8 @@
     "Comment": "CO Summit Breckenridge, Bald Mountain KB0VJJ 147.39"
   },
   {
-    "Location": 53,
-    "Name": "VJJ Leadville, Mosquito Pass",
+    "Location": 38,
+    "Name": "VJJLeadville, Mosquito Pass",
     "Frequency": 145.445,
     "Duplex": "-",
     "Offset": 0.6,
@@ -864,8 +624,8 @@
     "Comment": "CO Lake Leadville, Mosquito Pass KB0VJJ 145.445"
   },
   {
-    "Location": 54,
-    "Name": "VJJ Boulder, Thorodin Mountain",
+    "Location": 39,
+    "Name": "VJJBoulder, Thorodin Mountain",
     "Frequency": 145.31,
     "Duplex": "-",
     "Offset": 0.6,
@@ -880,8 +640,8 @@
     "Comment": "CO Gilpin Boulder, Thorodin Mountain KB0VJJ 145.31"
   },
   {
-    "Location": 55,
-    "Name": "VJJ Winter Park, Winter Park",
+    "Location": 40,
+    "Name": "VJJWinter Park, Winter Park",
     "Frequency": 147.285,
     "Duplex": "+",
     "Offset": 0.6,
@@ -896,8 +656,8 @@
     "Comment": "CO Grand Winter Park, Winter Park KB0VJJ 147.285"
   },
   {
-    "Location": 56,
-    "Name": "VJJ Vail",
+    "Location": 41,
+    "Name": "VJJVail",
     "Frequency": 147.345,
     "Duplex": "+",
     "Offset": 0.6,
@@ -912,8 +672,8 @@
     "Comment": "CO Eagle Vail KB0VJJ 147.345"
   },
   {
-    "Location": 57,
-    "Name": "VJJ Kremmling, Santoy Peak",
+    "Location": 42,
+    "Name": "VJJKremmling, Santoy Peak",
     "Frequency": 147.075,
     "Duplex": "+",
     "Offset": 0.6,
@@ -928,8 +688,8 @@
     "Comment": "CO Grand Kremmling, Santoy Peak KB0VJJ 147.075"
   },
   {
-    "Location": 58,
-    "Name": "VJJ Akron",
+    "Location": 43,
+    "Name": "VJJAkron",
     "Frequency": 145.4,
     "Duplex": "-",
     "Offset": 0.6,
@@ -944,8 +704,8 @@
     "Comment": "CO Washington Akron KB0VJJ 145.4"
   },
   {
-    "Location": 59,
-    "Name": "VJJ Glenwood Springs, Sunlight Peak",
+    "Location": 44,
+    "Name": "VJJGlenwood Springs, Sunlight Peak",
     "Frequency": 146.85,
     "Duplex": "-",
     "Offset": 0.6,
@@ -960,8 +720,8 @@
     "Comment": "CO Garfield Glenwood Springs, Sunlight Peak KB0VJJ 146.85"
   },
   {
-    "Location": 60,
-    "Name": "VJJ Walden, Peterson Ridge",
+    "Location": 45,
+    "Name": "VJJWalden, Peterson Ridge",
     "Frequency": 145.16,
     "Duplex": "-",
     "Offset": 0.6,
@@ -976,8 +736,8 @@
     "Comment": "CO Jackson Walden, Peterson Ridge KB0VJJ 145.16"
   },
   {
-    "Location": 61,
-    "Name": "VJJ Steamboat Springs",
+    "Location": 46,
+    "Name": "VJJSteamboat Springs",
     "Frequency": 449.625,
     "Duplex": "-",
     "Offset": 5,
@@ -992,8 +752,8 @@
     "Comment": "CO Routt Steamboat Springs KB0VJJ 449.625"
   },
   {
-    "Location": 62,
-    "Name": "VJJ Steamboat Springs",
+    "Location": 47,
+    "Name": "VJJSteamboat Springs",
     "Frequency": 147.165,
     "Duplex": "+",
     "Offset": 0.6,
@@ -1008,8 +768,8 @@
     "Comment": "CO Routt Steamboat Springs KB0VJJ 147.165"
   },
   {
-    "Location": 63,
-    "Name": "VJJ Grand Junction, Grand Mesa",
+    "Location": 48,
+    "Name": "VJJGrand Junction, Grand Mesa",
     "Frequency": 145.355,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1024,8 +784,8 @@
     "Comment": "CO Mesa Grand Junction, Grand Mesa KB0VJJ 145.355"
   },
   {
-    "Location": 64,
-    "Name": "VJJ Craig",
+    "Location": 49,
+    "Name": "VJJCraig",
     "Frequency": 146.97,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1040,8 +800,8 @@
     "Comment": "CO Moffat Craig KB0VJJ 146.97"
   },
   {
-    "Location": 65,
-    "Name": "VJJ Durango, Missionary Ridge",
+    "Location": 50,
+    "Name": "VJJDurango, Missionary Ridge",
     "Frequency": 147.345,
     "Duplex": "+",
     "Offset": 0.6,
@@ -1056,8 +816,8 @@
     "Comment": "CO La Plata Durango, Missionary Ridge KB0VJJ 147.345"
   },
   {
-    "Location": 66,
-    "Name": "VJJ Grand Junction, Grand Mesa",
+    "Location": 51,
+    "Name": "VJJGrand Junction, Grand Mesa",
     "Frequency": 147.355,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1072,8 +832,8 @@
     "Comment": "CO Mesa Grand Junction, Grand Mesa KB0VJJ 147.355"
   },
   {
-    "Location": 67,
-    "Name": "CVU Colorado Springs, Cheyenne Mountain",
+    "Location": 52,
+    "Name": "CVUColorado Springs, Cheyenne Mountain",
     "Frequency": 927.85,
     "Duplex": "-",
     "Offset": 25,
@@ -1088,8 +848,8 @@
     "Comment": "CO Teller Colorado Springs, Cheyenne Mountain KC0CVU 927.85"
   },
   {
-    "Location": 68,
-    "Name": "CVU Colorado Springs, Cheyenne Mountain",
+    "Location": 53,
+    "Name": "CVUColorado Springs, Cheyenne Mountain",
     "Frequency": 446.9125,
     "Duplex": "-",
     "Offset": 5,
@@ -1104,24 +864,8 @@
     "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 446.9125"
   },
   {
-    "Location": 69,
-    "Name": "CVU Colorado Springs, Cheyenne Mountain",
-    "Frequency": 145.375,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 145.375"
-  },
-  {
-    "Location": 70,
-    "Name": "CVU Colorado Springs, Cheyenne Mountain",
+    "Location": 54,
+    "Name": "CVUColorado Springs, Cheyenne Mountain",
     "Frequency": 147.345,
     "Duplex": "+",
     "Offset": 0.6,
@@ -1136,8 +880,8 @@
     "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 147.345"
   },
   {
-    "Location": 71,
-    "Name": "CVU Colorado Springs, Cheyenne Mountain",
+    "Location": 55,
+    "Name": "CVUColorado Springs, Cheyenne Mountain",
     "Frequency": 146.76,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1152,8 +896,8 @@
     "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 146.76"
   },
   {
-    "Location": 72,
-    "Name": "CVU Colorado Springs, Cheyenne Mountain",
+    "Location": 56,
+    "Name": "CVUColorado Springs, Cheyenne Mountain",
     "Frequency": 448.1,
     "Duplex": "-",
     "Offset": 5,
@@ -1168,8 +912,8 @@
     "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448.1"
   },
   {
-    "Location": 73,
-    "Name": "CVU Colorado Springs, Cheyenne Mountain",
+    "Location": 57,
+    "Name": "CVUColorado Springs, Cheyenne Mountain",
     "Frequency": 448,
     "Duplex": "-",
     "Offset": 5,
@@ -1184,8 +928,8 @@
     "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain KC0CVU 448"
   },
   {
-    "Location": 74,
-    "Name": "CVU Lake George, Badger Mountain",
+    "Location": 58,
+    "Name": "CVULake George, Badger Mountain",
     "Frequency": 147.36,
     "Duplex": "+",
     "Offset": 0.6,
@@ -1200,8 +944,8 @@
     "Comment": "CO Park Lake George, Badger Mountain KC0CVU 147.36"
   },
   {
-    "Location": 75,
-    "Name": "CVU Pueblo, Deer Peak",
+    "Location": 59,
+    "Name": "CVUPueblo, Deer Peak",
     "Frequency": 449.625,
     "Duplex": "-",
     "Offset": 5,
@@ -1216,8 +960,8 @@
     "Comment": "CO Custer Pueblo, Deer Peak KC0CVU 449.625"
   },
   {
-    "Location": 76,
-    "Name": "CVU Salida, Methodist Mountain",
+    "Location": 60,
+    "Name": "CVUSalida, Methodist Mountain",
     "Frequency": 145.295,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1232,8 +976,8 @@
     "Comment": "CO Chaffee Salida, Methodist Mountain KC0CVU 145.295"
   },
   {
-    "Location": 77,
-    "Name": "CVU Salida, Methodist Mountain",
+    "Location": 61,
+    "Name": "CVUSalida, Methodist Mountain",
     "Frequency": 449.65,
     "Duplex": "-",
     "Offset": 5,
@@ -1248,24 +992,8 @@
     "Comment": "CO Chaffee Salida, Methodist Mountain KC0CVU 449.65"
   },
   {
-    "Location": 78,
-    "Name": "CVU Trinidad, Raton Pass",
-    "Frequency": 449.6,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Las Animas Trinidad, Raton Pass KC0CVU 449.6"
-  },
-  {
-    "Location": 79,
-    "Name": "CRA Colorado Springs, Cheyenne Mountain",
+    "Location": 62,
+    "Name": "CRAColorado Springs, Cheyenne Mountain",
     "Frequency": 145.16,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1280,8 +1008,8 @@
     "Comment": "CO El Paso Colorado Springs, Cheyenne Mountain W0CRA 145.16"
   },
   {
-    "Location": 80,
-    "Name": "CRA Larkspur, Westcreek",
+    "Location": 63,
+    "Name": "CRALarkspur, Westcreek",
     "Frequency": 448.425,
     "Duplex": "-",
     "Offset": 5,
@@ -1296,8 +1024,8 @@
     "Comment": "CO Douglas Larkspur, Westcreek W0CRA 448.425"
   },
   {
-    "Location": 81,
-    "Name": "CRA Larkspur, Westcreek",
+    "Location": 64,
+    "Name": "CRALarkspur, Westcreek",
     "Frequency": 147.225,
     "Duplex": "+",
     "Offset": 0.6,
@@ -1312,72 +1040,8 @@
     "Comment": "CO Douglas Larkspur, Westcreek W0CRA 147.225"
   },
   {
-    "Location": 82,
-    "Name": "CRA Conifer, Conifer Mountain",
-    "Frequency": 447.15,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Jefferson Conifer, Conifer Mountain W0CRA 447.15"
-  },
-  {
-    "Location": 83,
-    "Name": "CRA Conifer, Conifer Mountain",
-    "Frequency": 224.98,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Jefferson Conifer, Conifer Mountain W0CRA 224.98"
-  },
-  {
-    "Location": 84,
-    "Name": "CRA Conifer, Conifer Mountain",
-    "Frequency": 1287.9,
-    "Duplex": "-",
-    "Offset": 20,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Jefferson Conifer, Conifer Mountain W0CRA 1287.9"
-  },
-  {
-    "Location": 85,
-    "Name": "CRA Conifer, Conifer Mountain",
-    "Frequency": 53.05,
-    "Duplex": "-",
-    "Offset": 1.7,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Jefferson Conifer, Conifer Mountain W0CRA 53.05"
-  },
-  {
-    "Location": 86,
-    "Name": "CRA Idaho Springs, Squaw Mountain",
+    "Location": 65,
+    "Name": "CRAIdaho Springs, Squaw Mountain",
     "Frequency": 145.145,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1392,8 +1056,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain W0CRA 145.145"
   },
   {
-    "Location": 87,
-    "Name": "CRA Idaho Springs, Squaw Mountain",
+    "Location": 66,
+    "Name": "CRAIdaho Springs, Squaw Mountain",
     "Frequency": 447.575,
     "Duplex": "-",
     "Offset": 5,
@@ -1408,8 +1072,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain W0CRA 447.575"
   },
   {
-    "Location": 88,
-    "Name": "CRA Boulder, Eldorado Mountain",
+    "Location": 67,
+    "Name": "CRABoulder, Eldorado Mountain",
     "Frequency": 447.975,
     "Duplex": "-",
     "Offset": 5,
@@ -1424,8 +1088,8 @@
     "Comment": "CO Boulder Boulder, Eldorado Mountain W0CRA 447.975"
   },
   {
-    "Location": 89,
-    "Name": "CRA Boulder, Eldorado Mountain",
+    "Location": 68,
+    "Name": "CRABoulder, Eldorado Mountain",
     "Frequency": 145.46,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1440,8 +1104,8 @@
     "Comment": "CO Boulder Boulder, Eldorado Mountain W0CRA 145.46"
   },
   {
-    "Location": 90,
-    "Name": "PFJ Colorado Springs, Almagre Mountain",
+    "Location": 69,
+    "Name": "PFJColorado Springs, Almagre Mountain",
     "Frequency": 446.95,
     "Duplex": "-",
     "Offset": 5,
@@ -1456,8 +1120,8 @@
     "Comment": "CO Teller Colorado Springs, Almagre Mountain K7PFJ 446.95"
   },
   {
-    "Location": 91,
-    "Name": "PFJ Granby, Mt Chauncey",
+    "Location": 70,
+    "Name": "PFJGranby, Mt Chauncey",
     "Frequency": 446.875,
     "Duplex": "-",
     "Offset": 5,
@@ -1472,8 +1136,8 @@
     "Comment": "CO Clear Creek Granby, Mt Chauncey K7PFJ 446.875"
   },
   {
-    "Location": 92,
-    "Name": "PFJ Fort Collins, Horsetooth Mountain",
+    "Location": 71,
+    "Name": "PFJFort Collins, Horsetooth Mountain",
     "Frequency": 446.75,
     "Duplex": "-",
     "Offset": 5,
@@ -1488,8 +1152,8 @@
     "Comment": "CO Larimer Fort Collins, Horsetooth Mountain K7PFJ 446.75"
   },
   {
-    "Location": 93,
-    "Name": "PFJ Cheyenne, South",
+    "Location": 72,
+    "Name": "PFJCheyenne, South",
     "Frequency": 449.9375,
     "Duplex": "-",
     "Offset": 5,
@@ -1504,40 +1168,8 @@
     "Comment": "WY Laramie Cheyenne, South K7PFJ 449.9375"
   },
   {
-    "Location": 94,
-    "Name": "0SP Colorado Springs, Almagre Mountain",
-    "Frequency": 147.18,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO El Paso Colorado Springs, Almagre Mountain AA0SP 147.18"
-  },
-  {
-    "Location": 95,
-    "Name": "WUC Woodland Park",
-    "Frequency": 449.025,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 141.3,
-    "cToneFreq": 141.3,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Teller Woodland Park KA0WUC 449.025"
-  },
-  {
-    "Location": 96,
-    "Name": "WUC Woodland Park",
+    "Location": 73,
+    "Name": "WUCWoodland Park",
     "Frequency": 927.9,
     "Duplex": "-",
     "Offset": 25,
@@ -1552,24 +1184,8 @@
     "Comment": "CO Teller Woodland Park KA0WUC 927.9"
   },
   {
-    "Location": 97,
-    "Name": "WUC Woodland Park",
-    "Frequency": 145.415,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 179.9,
-    "cToneFreq": 179.9,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Teller Woodland Park KA0WUC 145.415"
-  },
-  {
-    "Location": 98,
-    "Name": "WUC Woodland Park",
+    "Location": 74,
+    "Name": "WUCWoodland Park",
     "Frequency": 447.675,
     "Duplex": "-",
     "Offset": 5,
@@ -1584,8 +1200,8 @@
     "Comment": "CO Teller Woodland Park KA0WUC 447.675"
   },
   {
-    "Location": 99,
-    "Name": "EPS Woodland Park, Paradise Pines",
+    "Location": 75,
+    "Name": "EPSWoodland Park, Paradise Pines",
     "Frequency": 449.325,
     "Duplex": "-",
     "Offset": 5,
@@ -1600,8 +1216,8 @@
     "Comment": "CO Teller Woodland Park, Paradise Pines KA4EPS 449.325"
   },
   {
-    "Location": 100,
-    "Name": "0NR Monument, Monument Hill",
+    "Location": 76,
+    "Name": "0NRMonument, Monument Hill",
     "Frequency": 447.725,
     "Duplex": "-",
     "Offset": 5,
@@ -1616,8 +1232,8 @@
     "Comment": "CO El Paso Monument, Monument Hill K0NR 447.725"
   },
   {
-    "Location": 101,
-    "Name": "MDP Falcon, Black Forest",
+    "Location": 77,
+    "Name": "MDPFalcon, Black Forest",
     "Frequency": 447.625,
     "Duplex": "-",
     "Offset": 5,
@@ -1632,40 +1248,8 @@
     "Comment": "CO El Paso Falcon, Black Forest KD0MDP 447.625"
   },
   {
-    "Location": 102,
-    "Name": "WDF Cripple Creek",
-    "Frequency": 224.94,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "Tone",
-    "rToneFreq": 67,
-    "cToneFreq": 67,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Teller Cripple Creek WB0WDF 224.94"
-  },
-  {
-    "Location": 103,
-    "Name": "WDF Cripple Creek",
-    "Frequency": 1287.7,
-    "Duplex": "-",
-    "Offset": 20,
-    "Tone": "Tone",
-    "rToneFreq": 67,
-    "cToneFreq": 67,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Teller Cripple Creek WB0WDF 1287.7"
-  },
-  {
-    "Location": 104,
-    "Name": "WDF Cripple Creek",
+    "Location": 78,
+    "Name": "WDFCripple Creek",
     "Frequency": 145.46,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1680,8 +1264,8 @@
     "Comment": "CO Teller Cripple Creek WB0WDF 145.46"
   },
   {
-    "Location": 105,
-    "Name": "WDF Cripple Creek",
+    "Location": 79,
+    "Name": "WDFCripple Creek",
     "Frequency": 447.4,
     "Duplex": "-",
     "Offset": 5,
@@ -1696,8 +1280,8 @@
     "Comment": "CO Teller Cripple Creek WB0WDF 447.4"
   },
   {
-    "Location": 106,
-    "Name": "WDF Canon City, eightmile Mountain",
+    "Location": 80,
+    "Name": "WDFCanon City, eightmile Mountain",
     "Frequency": 449,
     "Duplex": "-",
     "Offset": 5,
@@ -1712,8 +1296,8 @@
     "Comment": "CO Fremont Canon City, eightmile Mountain WB0WDF 449"
   },
   {
-    "Location": 107,
-    "Name": "WDF Canon City, Fremont Peak",
+    "Location": 81,
+    "Name": "WDFCanon City, Fremont Peak",
     "Frequency": 53.03,
     "Duplex": "-",
     "Offset": 1.7,
@@ -1728,8 +1312,8 @@
     "Comment": "CO Fremont Canon City, Fremont Peak WB0WDF 53.03"
   },
   {
-    "Location": 108,
-    "Name": "XLF Palmer Lake, Monument Hill",
+    "Location": 82,
+    "Name": "XLFPalmer Lake, Monument Hill",
     "Frequency": 145.19,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1744,8 +1328,8 @@
     "Comment": "CO Douglas Palmer Lake, Monument Hill N0XLF 145.19"
   },
   {
-    "Location": 109,
-    "Name": "JSC Larkspur, Westcreek",
+    "Location": 83,
+    "Name": "JSCLarkspur, Westcreek",
     "Frequency": 449.975,
     "Duplex": "-",
     "Offset": 5,
@@ -1760,8 +1344,8 @@
     "Comment": "CO Douglas Larkspur, Westcreek K0JSC 449.975"
   },
   {
-    "Location": 110,
-    "Name": "JSC Canon City, Canon City",
+    "Location": 84,
+    "Name": "JSCCanon City, Canon City",
     "Frequency": 449.975,
     "Duplex": "-",
     "Offset": 5,
@@ -1776,8 +1360,8 @@
     "Comment": "CO Fremont Canon City, Canon City K0JSC 449.975"
   },
   {
-    "Location": 111,
-    "Name": "JSC Canon City, Colorado",
+    "Location": 85,
+    "Name": "JSCCanon City, Colorado",
     "Frequency": 447.975,
     "Duplex": "-",
     "Offset": 5,
@@ -1792,8 +1376,8 @@
     "Comment": "CO Fremont Canon City, Colorado K0JSC 447.975"
   },
   {
-    "Location": 112,
-    "Name": "JSC Canon City, Fremont Peak",
+    "Location": 86,
+    "Name": "JSCCanon City, Fremont Peak",
     "Frequency": 446.7375,
     "Duplex": "-",
     "Offset": 5,
@@ -1808,8 +1392,8 @@
     "Comment": "CO Fremont Canon City, Fremont Peak K0JSC 446.7375"
   },
   {
-    "Location": 113,
-    "Name": "JSC Canon City, Fremont Peak",
+    "Location": 87,
+    "Name": "JSCCanon City, Fremont Peak",
     "Frequency": 447.25,
     "Duplex": "-",
     "Offset": 5,
@@ -1824,8 +1408,8 @@
     "Comment": "CO Fremont Canon City, Fremont Peak K0JSC 447.25"
   },
   {
-    "Location": 114,
-    "Name": "JSC Pueblo West",
+    "Location": 88,
+    "Name": "JSCPueblo West",
     "Frequency": 448.975,
     "Duplex": "-",
     "Offset": 5,
@@ -1840,8 +1424,8 @@
     "Comment": "CO Pueblo Pueblo West K0JSC 448.975"
   },
   {
-    "Location": 115,
-    "Name": "JSC Pueblo, Metro",
+    "Location": 89,
+    "Name": "JSCPueblo, Metro",
     "Frequency": 447.275,
     "Duplex": "-",
     "Offset": 5,
@@ -1856,24 +1440,8 @@
     "Comment": "CO Pueblo Pueblo, Metro K0JSC 447.275"
   },
   {
-    "Location": 116,
-    "Name": "JSC Pueblo",
-    "Frequency": 446.9875,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO Pueblo Pueblo K0JSC 446.9875"
-  },
-  {
-    "Location": 117,
-    "Name": "JSC Pueblo, Cedarwood",
+    "Location": 90,
+    "Name": "JSCPueblo, Cedarwood",
     "Frequency": 449.975,
     "Duplex": "-",
     "Offset": 5,
@@ -1888,8 +1456,8 @@
     "Comment": "CO Pueblo Pueblo, Cedarwood K0JSC 449.975"
   },
   {
-    "Location": 118,
-    "Name": "JSC Westcliffe",
+    "Location": 91,
+    "Name": "JSCWestcliffe",
     "Frequency": 448.325,
     "Duplex": "-",
     "Offset": 5,
@@ -1904,8 +1472,8 @@
     "Comment": "CO Custer Westcliffe K0JSC 448.325"
   },
   {
-    "Location": 119,
-    "Name": "JSC Salida, Methodist Mountain",
+    "Location": 92,
+    "Name": "JSCSalida, Methodist Mountain",
     "Frequency": 449.975,
     "Duplex": "-",
     "Offset": 5,
@@ -1920,24 +1488,8 @@
     "Comment": "CO Chaffee Salida, Methodist Mountain K0JSC 449.975"
   },
   {
-    "Location": 120,
-    "Name": "D0Q Pueblo, Baculite Mesa",
-    "Frequency": 224.26,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Pueblo Pueblo, Baculite Mesa ND0Q 224.26"
-  },
-  {
-    "Location": 121,
-    "Name": "D0Q Pueblo",
+    "Location": 93,
+    "Name": "D0QPueblo",
     "Frequency": 447.95,
     "Duplex": "-",
     "Offset": 5,
@@ -1952,8 +1504,8 @@
     "Comment": "CO Pueblo Pueblo ND0Q 447.95"
   },
   {
-    "Location": 122,
-    "Name": "D0Q Pueblo, Baculite Mesa",
+    "Location": 94,
+    "Name": "D0QPueblo, Baculite Mesa",
     "Frequency": 146.79,
     "Duplex": "-",
     "Offset": 0.6,
@@ -1968,24 +1520,8 @@
     "Comment": "CO Pueblo Pueblo, Baculite Mesa ND0Q 146.79"
   },
   {
-    "Location": 123,
-    "Name": "D0Q Pueblo",
-    "Frequency": 145.115,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Pueblo Pueblo ND0Q 145.115"
-  },
-  {
-    "Location": 124,
-    "Name": "D0Q Pueblo, Deer Peak",
+    "Location": 95,
+    "Name": "D0QPueblo, Deer Peak",
     "Frequency": 146.88,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2000,56 +1536,8 @@
     "Comment": "CO Pueblo Pueblo, Deer Peak ND0Q 146.88"
   },
   {
-    "Location": 125,
-    "Name": "D0Q Pueblo, Deer Peak",
-    "Frequency": 447.175,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Pueblo Pueblo, Deer Peak ND0Q 447.175"
-  },
-  {
-    "Location": 126,
-    "Name": "D0Q Walsenburg, Deer Peak",
-    "Frequency": 224.32,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Custer Walsenburg, Deer Peak ND0Q 224.32"
-  },
-  {
-    "Location": 127,
-    "Name": "D0Q Westcliffe, Deer Peak",
-    "Frequency": 919.1,
-    "Duplex": "-",
-    "Offset": 25,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Pueblo Westcliffe, Deer Peak ND0Q 919.1"
-  },
-  {
-    "Location": 128,
-    "Name": "D0Q Walsenburg, N Rattlesnake Butte",
+    "Location": 96,
+    "Name": "D0QWalsenburg, N Rattlesnake Butte",
     "Frequency": 146.73,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2064,8 +1552,8 @@
     "Comment": "CO Huerfano Walsenburg, N Rattlesnake Butte ND0Q 146.73"
   },
   {
-    "Location": 129,
-    "Name": "ESQ Castle Rock, Devils Head",
+    "Location": 97,
+    "Name": "ESQCastle Rock, Devils Head",
     "Frequency": 446.925,
     "Duplex": "-",
     "Offset": 5,
@@ -2080,8 +1568,8 @@
     "Comment": "CO Douglas Castle Rock, Devils Head N0ESQ 446.925"
   },
   {
-    "Location": 130,
-    "Name": "ESQ Castle Rock, Devils Head (Pike National Forest)",
+    "Location": 98,
+    "Name": "ESQCastle Rock, Devils Head (Pike National Forest)",
     "Frequency": 447.525,
     "Duplex": "-",
     "Offset": 5,
@@ -2096,8 +1584,8 @@
     "Comment": "CO Douglas Castle Rock, Devils Head (Pike National Forest) N0ESQ 447.525"
   },
   {
-    "Location": 131,
-    "Name": "ESQ Parker, Hess Reservoir",
+    "Location": 99,
+    "Name": "ESQParker, Hess Reservoir",
     "Frequency": 447.525,
     "Duplex": "-",
     "Offset": 5,
@@ -2112,8 +1600,8 @@
     "Comment": "CO Douglas Parker, Hess Reservoir N0ESQ 447.525"
   },
   {
-    "Location": 132,
-    "Name": "TUC Canon City, Fremont Peak",
+    "Location": 100,
+    "Name": "TUCCanon City, Fremont Peak",
     "Frequency": 927.7,
     "Duplex": "-",
     "Offset": 25,
@@ -2128,8 +1616,8 @@
     "Comment": "CO Fremont Canon City, Fremont Peak KB0TUC 927.7"
   },
   {
-    "Location": 133,
-    "Name": "TUC Westcliffe",
+    "Location": 101,
+    "Name": "TUCWestcliffe",
     "Frequency": 927.775,
     "Duplex": "-",
     "Offset": 25,
@@ -2144,8 +1632,8 @@
     "Comment": "CO Custer Westcliffe KB0TUC 927.775"
   },
   {
-    "Location": 134,
-    "Name": "TUC Westcliffe",
+    "Location": 102,
+    "Name": "TUCWestcliffe",
     "Frequency": 147.06,
     "Duplex": "+",
     "Offset": 0.6,
@@ -2160,8 +1648,8 @@
     "Comment": "CO Custer Westcliffe KB0TUC 147.06"
   },
   {
-    "Location": 135,
-    "Name": "TUC Westcliffe",
+    "Location": 103,
+    "Name": "TUCWestcliffe",
     "Frequency": 448.15,
     "Duplex": "-",
     "Offset": 5,
@@ -2176,8 +1664,8 @@
     "Comment": "CO Custer Westcliffe KB0TUC 448.15"
   },
   {
-    "Location": 136,
-    "Name": "EKR Canon City, Fremont Peak",
+    "Location": 104,
+    "Name": "EKRCanon City, Fremont Peak",
     "Frequency": 223.96,
     "Duplex": "-",
     "Offset": 1.6,
@@ -2192,8 +1680,8 @@
     "Comment": "CO Fremont Canon City, Fremont Peak WD0EKR 223.96"
   },
   {
-    "Location": 137,
-    "Name": "EKR Canon City, Fremont Peak",
+    "Location": 105,
+    "Name": "EKRCanon City, Fremont Peak",
     "Frequency": 447.75,
     "Duplex": "-",
     "Offset": 5,
@@ -2208,8 +1696,8 @@
     "Comment": "CO Fremont Canon City, Fremont Peak WD0EKR 447.75"
   },
   {
-    "Location": 138,
-    "Name": "EKR Canon City, Fremont Peak",
+    "Location": 106,
+    "Name": "EKRCanon City, Fremont Peak",
     "Frequency": 145.49,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2224,24 +1712,8 @@
     "Comment": "CO Fremont Canon City, Fremont Peak WD0EKR 145.49"
   },
   {
-    "Location": 139,
-    "Name": "E0Z Pueblo, CSU",
-    "Frequency": 147,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Pueblo Pueblo, CSU NE0Z 147"
-  },
-  {
-    "Location": 140,
-    "Name": "PRA Franktown",
+    "Location": 107,
+    "Name": "PRAFranktown",
     "Frequency": 446.85,
     "Duplex": "-",
     "Offset": 5,
@@ -2256,8 +1728,8 @@
     "Comment": "CO Douglas Franktown K0PRA 446.85"
   },
   {
-    "Location": 141,
-    "Name": "PRA Parker",
+    "Location": 108,
+    "Name": "PRAParker",
     "Frequency": 445.075,
     "Duplex": "-",
     "Offset": 5,
@@ -2272,8 +1744,8 @@
     "Comment": "CO Douglas Parker K0PRA 445.075"
   },
   {
-    "Location": 142,
-    "Name": "PWZ Palmer Divide",
+    "Location": 109,
+    "Name": "PWZPalmer Divide",
     "Frequency": 449.725,
     "Duplex": "-",
     "Offset": 5,
@@ -2288,24 +1760,8 @@
     "Comment": "CO El Paso Palmer Divide N0PWZ 449.725"
   },
   {
-    "Location": 143,
-    "Name": "0KR Pueblo, Pueblo",
-    "Frequency": 447.7,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 210.7,
-    "cToneFreq": 210.7,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO Pueblo Pueblo, Pueblo KF0KR 447.7"
-  },
-  {
-    "Location": 144,
-    "Name": "0ST Pueblo, Pueblo",
+    "Location": 110,
+    "Name": "0STPueblo, Pueblo",
     "Frequency": 146.655,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2320,24 +1776,8 @@
     "Comment": "CO Pueblo Pueblo, Pueblo K0ST 146.655"
   },
   {
-    "Location": 145,
-    "Name": "J0T Pueblo",
-    "Frequency": 147.24,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 103.5,
-    "cToneFreq": 103.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Pueblo Pueblo KJ0T 147.24"
-  },
-  {
-    "Location": 146,
-    "Name": "9SL Castle Pines, Daniels Park",
+    "Location": 111,
+    "Name": "9SLCastle Pines, Daniels Park",
     "Frequency": 449.95,
     "Duplex": "-",
     "Offset": 5,
@@ -2352,8 +1792,8 @@
     "Comment": "CO Douglas Castle Pines, Daniels Park W9SL 449.95"
   },
   {
-    "Location": 147,
-    "Name": "0DE Simla",
+    "Location": 112,
+    "Name": "0DESimla",
     "Frequency": 147.105,
     "Duplex": "+",
     "Offset": 0.6,
@@ -2368,8 +1808,8 @@
     "Comment": "CO Elbert Simla WA0DE 147.105"
   },
   {
-    "Location": 148,
-    "Name": "OWY Conifer, Critchell Mountain",
+    "Location": 113,
+    "Name": "OWYConifer, Critchell Mountain",
     "Frequency": 447.5,
     "Duplex": "-",
     "Offset": 5,
@@ -2384,8 +1824,8 @@
     "Comment": "CO Jefferson Conifer, Critchell Mountain N0OWY 447.5"
   },
   {
-    "Location": 149,
-    "Name": "TUB Centennial, Warren Mountain",
+    "Location": 114,
+    "Name": "TUBCentennial, Warren Mountain",
     "Frequency": 146.88,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2400,8 +1840,8 @@
     "Comment": "CO Jefferson Centennial, Warren Mountain WB0TUB 146.88"
   },
   {
-    "Location": 150,
-    "Name": "TUB Centennial, Warren Mountain",
+    "Location": 115,
+    "Name": "TUBCentennial, Warren Mountain",
     "Frequency": 449.6,
     "Duplex": "-",
     "Offset": 5,
@@ -2416,8 +1856,8 @@
     "Comment": "CO Jefferson Centennial, Warren Mountain WB0TUB 449.6"
   },
   {
-    "Location": 151,
-    "Name": "TUB Golden, Centennial Cone",
+    "Location": 116,
+    "Name": "TUBGolden, Centennial Cone",
     "Frequency": 146.64,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2432,8 +1872,8 @@
     "Comment": "CO Jefferson Golden, Centennial Cone WB0TUB 146.64"
   },
   {
-    "Location": 152,
-    "Name": "Q8M Parker",
+    "Location": 117,
+    "Name": "Q8MParker",
     "Frequency": 448.7,
     "Duplex": "-",
     "Offset": 5,
@@ -2448,8 +1888,8 @@
     "Comment": "CO Douglas Parker WQ8M 448.7"
   },
   {
-    "Location": 153,
-    "Name": "0HC Parker",
+    "Location": 118,
+    "Name": "0HCParker",
     "Frequency": 927.8375,
     "Duplex": "-",
     "Offset": 25.8,
@@ -2464,8 +1904,8 @@
     "Comment": "CO Douglas Parker KI0HC 927.8375"
   },
   {
-    "Location": 154,
-    "Name": "0HC Golden, Centennial Cone",
+    "Location": 119,
+    "Name": "0HCGolden, Centennial Cone",
     "Frequency": 927.8375,
     "Duplex": "-",
     "Offset": 25.8,
@@ -2480,8 +1920,8 @@
     "Comment": "CO Jefferson Golden, Centennial Cone KI0HC 927.8375"
   },
   {
-    "Location": 155,
-    "Name": "0PC Bailey, Dick Mountain",
+    "Location": 120,
+    "Name": "0PCBailey, Dick Mountain",
     "Frequency": 146.895,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2496,8 +1936,8 @@
     "Comment": "CO Park Bailey, Dick Mountain AB0PC 146.895"
   },
   {
-    "Location": 156,
-    "Name": "UDD Aurora, Smoky Hill",
+    "Location": 121,
+    "Name": "UDDAurora, Smoky Hill",
     "Frequency": 145.4,
     "Duplex": "-",
     "Offset": 0.8,
@@ -2512,8 +1952,8 @@
     "Comment": "CO Arapahoe Aurora, Smoky Hill KB0UDD 145.4"
   },
   {
-    "Location": 157,
-    "Name": "UDD Aurora, Smokey Hill",
+    "Location": 122,
+    "Name": "UDDAurora, Smokey Hill",
     "Frequency": 448.5,
     "Duplex": "-",
     "Offset": 5,
@@ -2528,8 +1968,8 @@
     "Comment": "CO Denver Aurora, Smokey Hill KB0UDD 448.5"
   },
   {
-    "Location": 158,
-    "Name": "UDD Idaho Springs, Squaw Mountain",
+    "Location": 123,
+    "Name": "UDDIdaho Springs, Squaw Mountain",
     "Frequency": 146.67,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2544,24 +1984,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain KB0UDD 146.67"
   },
   {
-    "Location": 159,
-    "Name": "PWO Centennial",
-    "Frequency": 449.425,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "DTCS",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Arapahoe Centennial K0PWO 449.425"
-  },
-  {
-    "Location": 160,
-    "Name": "OBA Aurora",
+    "Location": 124,
+    "Name": "OBAAurora",
     "Frequency": 145.19,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2576,8 +2000,8 @@
     "Comment": "CO Arapahoe Aurora N0OBA 145.19"
   },
   {
-    "Location": 161,
-    "Name": "ARA Critchell, Critchell Mountain",
+    "Location": 125,
+    "Name": "ARACritchell, Critchell Mountain",
     "Frequency": 147.12,
     "Duplex": "+",
     "Offset": 0.6,
@@ -2592,8 +2016,8 @@
     "Comment": "CO Jefferson Critchell, Critchell Mountain N0ARA 147.12"
   },
   {
-    "Location": 162,
-    "Name": "AEN Aurora",
+    "Location": 126,
+    "Name": "AENAurora",
     "Frequency": 449.15,
     "Duplex": "-",
     "Offset": 5,
@@ -2608,8 +2032,8 @@
     "Comment": "CO Arapahoe Aurora WR0AEN 449.15"
   },
   {
-    "Location": 163,
-    "Name": "AEN Denver",
+    "Location": 127,
+    "Name": "AENDenver",
     "Frequency": 449.65,
     "Duplex": "-",
     "Offset": 5,
@@ -2624,8 +2048,8 @@
     "Comment": "CO Denver Denver WR0AEN 449.65"
   },
   {
-    "Location": 164,
-    "Name": "AEN Denver",
+    "Location": 128,
+    "Name": "AENDenver",
     "Frequency": 449.675,
     "Duplex": "-",
     "Offset": 5,
@@ -2640,8 +2064,8 @@
     "Comment": "CO Denver Denver WR0AEN 449.675"
   },
   {
-    "Location": 165,
-    "Name": "AEN Idaho Springs, Squaw Mountain",
+    "Location": 129,
+    "Name": "AENIdaho Springs, Squaw Mountain",
     "Frequency": 449,
     "Duplex": "-",
     "Offset": 5,
@@ -2656,8 +2080,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain WR0AEN 449"
   },
   {
-    "Location": 166,
-    "Name": "AEN Greeley",
+    "Location": 130,
+    "Name": "AENGreeley",
     "Frequency": 449.325,
     "Duplex": "-",
     "Offset": 5,
@@ -2672,24 +2096,8 @@
     "Comment": "CO Weld Greeley WR0AEN 449.325"
   },
   {
-    "Location": 167,
-    "Name": "Z0N Hartsel",
-    "Frequency": 448.575,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 103.5,
-    "cToneFreq": 103.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Park Hartsel WZ0N 448.575"
-  },
-  {
-    "Location": 168,
-    "Name": "Z0N Salida, Methodist Mountain",
+    "Location": 131,
+    "Name": "Z0NSalida, Methodist Mountain",
     "Frequency": 449.925,
     "Duplex": "-",
     "Offset": 5,
@@ -2704,8 +2112,8 @@
     "Comment": "CO Chaffee Salida, Methodist Mountain WZ0N 449.925"
   },
   {
-    "Location": 169,
-    "Name": "FSX Punkin Center",
+    "Location": 132,
+    "Name": "FSXPunkin Center",
     "Frequency": 449.9,
     "Duplex": "-",
     "Offset": 5,
@@ -2720,8 +2128,8 @@
     "Comment": "CO Lincoln Punkin Center N1FSX 449.9"
   },
   {
-    "Location": 170,
-    "Name": "0TX Lakewood, Green Mtn",
+    "Location": 133,
+    "Name": "0TXLakewood, Green Mtn",
     "Frequency": 449.775,
     "Duplex": "-",
     "Offset": 5,
@@ -2736,8 +2144,8 @@
     "Comment": "CO Jefferson Lakewood, Green Mtn W0TX 449.775"
   },
   {
-    "Location": 171,
-    "Name": "0TX Lakewood, Green Mountain",
+    "Location": 134,
+    "Name": "0TXLakewood, Green Mountain",
     "Frequency": 147.33,
     "Duplex": "+",
     "Offset": 0.6,
@@ -2752,8 +2160,8 @@
     "Comment": "CO Jefferson Lakewood, Green Mountain W0TX 147.33"
   },
   {
-    "Location": 172,
-    "Name": "0TX Lakewood, Green Mountain",
+    "Location": 135,
+    "Name": "0TXLakewood, Green Mountain",
     "Frequency": 224.38,
     "Duplex": "-",
     "Offset": 1.6,
@@ -2768,8 +2176,8 @@
     "Comment": "CO Jefferson Lakewood, Green Mountain W0TX 224.38"
   },
   {
-    "Location": 173,
-    "Name": "0TX Lakewood, Green Mountain",
+    "Location": 136,
+    "Name": "0TXLakewood, Green Mountain",
     "Frequency": 53.09,
     "Duplex": "-",
     "Offset": 1.7,
@@ -2784,8 +2192,8 @@
     "Comment": "CO Jefferson Lakewood, Green Mountain W0TX 53.09"
   },
   {
-    "Location": 174,
-    "Name": "0TX Lakewood, St Anthony Medical Campus",
+    "Location": 137,
+    "Name": "0TXLakewood, St Anthony Medical Campus",
     "Frequency": 447.825,
     "Duplex": "-",
     "Offset": 5,
@@ -2800,8 +2208,8 @@
     "Comment": "CO Jefferson Lakewood, St Anthony Medical Campus W0TX 447.825"
   },
   {
-    "Location": 175,
-    "Name": "0TX Idaho Springs, Centennial Cone",
+    "Location": 138,
+    "Name": "0TXIdaho Springs, Centennial Cone",
     "Frequency": 145.49,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2816,8 +2224,8 @@
     "Comment": "CO Jefferson Idaho Springs, Centennial Cone W0TX 145.49"
   },
   {
-    "Location": 176,
-    "Name": "0TX Idaho Springs, Squaw Mountain",
+    "Location": 139,
+    "Name": "0TXIdaho Springs, Squaw Mountain",
     "Frequency": 449.35,
     "Duplex": "-",
     "Offset": 5,
@@ -2832,8 +2240,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain W0TX 449.35"
   },
   {
-    "Location": 177,
-    "Name": "0TX Golden, Centennial Cone",
+    "Location": 140,
+    "Name": "0TXGolden, Centennial Cone",
     "Frequency": 448.625,
     "Duplex": "-",
     "Offset": 5,
@@ -2848,8 +2256,8 @@
     "Comment": "CO Jefferson Golden, Centennial Cone W0TX 448.625"
   },
   {
-    "Location": 178,
-    "Name": "0TX Denver, Centennial Cone",
+    "Location": 141,
+    "Name": "0TXDenver, Centennial Cone",
     "Frequency": 446.7875,
     "Duplex": "-",
     "Offset": 5,
@@ -2864,8 +2272,8 @@
     "Comment": "CO Jefferson Denver, Centennial Cone W0TX 446.7875"
   },
   {
-    "Location": 179,
-    "Name": "GUQ Evergreen",
+    "Location": 142,
+    "Name": "GUQEvergreen",
     "Frequency": 145.34,
     "Duplex": "-",
     "Offset": 0.6,
@@ -2880,8 +2288,8 @@
     "Comment": "CO Jefferson Evergreen KE4GUQ 145.34"
   },
   {
-    "Location": 180,
-    "Name": "LXX Morrison, Mt. Morrison",
+    "Location": 143,
+    "Name": "LXXMorrison, Mt. Morrison",
     "Frequency": 447.875,
     "Duplex": "-",
     "Offset": 5,
@@ -2896,8 +2304,8 @@
     "Comment": "CO Jefferson Morrison, Mt. Morrison N6LXX 447.875"
   },
   {
-    "Location": 181,
-    "Name": "LXX Morrison, Mt. Morrison",
+    "Location": 144,
+    "Name": "LXXMorrison, Mt. Morrison",
     "Frequency": 53.17,
     "Duplex": "-",
     "Offset": 1.7,
@@ -2912,8 +2320,8 @@
     "Comment": "CO Jefferson Morrison, Mt. Morrison N6LXX 53.17"
   },
   {
-    "Location": 182,
-    "Name": "ZUQ Aurora",
+    "Location": 145,
+    "Name": "ZUQAurora",
     "Frequency": 448.4,
     "Duplex": "-",
     "Offset": 5,
@@ -2928,8 +2336,8 @@
     "Comment": "CO Arapahoe Aurora N0ZUQ 448.4"
   },
   {
-    "Location": 183,
-    "Name": "ZUQ Fort Collins, Christ Mountain",
+    "Location": 146,
+    "Name": "ZUQFort Collins, Christ Mountain",
     "Frequency": 449.425,
     "Duplex": "-",
     "Offset": 5,
@@ -2944,24 +2352,8 @@
     "Comment": "CO Larimer Fort Collins, Christ Mountain N0ZUQ 449.425"
   },
   {
-    "Location": 184,
-    "Name": "ZUQ Fort Collins, Christ Mountain",
-    "Frequency": 927.875,
-    "Duplex": "-",
-    "Offset": 25,
-    "Tone": "DTCS",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 114,
-    "DtcsRxCode": 114,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Larimer Fort Collins, Christ Mountain N0ZUQ 927.875"
-  },
-  {
-    "Location": 185,
-    "Name": "ANT Aurora",
+    "Location": 147,
+    "Name": "ANTAurora",
     "Frequency": 448.825,
     "Duplex": "-",
     "Offset": 5,
@@ -2976,8 +2368,8 @@
     "Comment": "CO Arapahoe Aurora WN7ANT 448.825"
   },
   {
-    "Location": 186,
-    "Name": "0BG Aurora",
+    "Location": 148,
+    "Name": "0BGAurora",
     "Frequency": 448.275,
     "Duplex": "-",
     "Offset": 5,
@@ -2992,8 +2384,8 @@
     "Comment": "CO Arapahoe Aurora W0BG 448.275"
   },
   {
-    "Location": 187,
-    "Name": "ELY Lakewood",
+    "Location": 149,
+    "Name": "ELYLakewood",
     "Frequency": 448.75,
     "Duplex": "-",
     "Offset": 5,
@@ -3008,8 +2400,8 @@
     "Comment": "CO Jefferson Lakewood N0ELY 448.75"
   },
   {
-    "Location": 188,
-    "Name": "FEZ Denver",
+    "Location": 150,
+    "Name": "FEZDenver",
     "Frequency": 447.925,
     "Duplex": "-",
     "Offset": 5,
@@ -3024,8 +2416,8 @@
     "Comment": "CO Denver Denver K0FEZ 447.925"
   },
   {
-    "Location": 189,
-    "Name": "FEZ Golden, Centennial Cone",
+    "Location": 151,
+    "Name": "FEZGolden, Centennial Cone",
     "Frequency": 146.985,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3040,24 +2432,8 @@
     "Comment": "CO Denver Golden, Centennial Cone K0FEZ 146.985"
   },
   {
-    "Location": 190,
-    "Name": "TPT Denver",
-    "Frequency": 447.9,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Denver Denver WB0TPT 447.9"
-  },
-  {
-    "Location": 191,
-    "Name": "0SJ Boulder, Blue Mountain",
+    "Location": 152,
+    "Name": "0SJBoulder, Blue Mountain",
     "Frequency": 145.475,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3072,8 +2448,8 @@
     "Comment": "CO Jefferson Boulder, Blue Mountain KE0SJ 145.475"
   },
   {
-    "Location": 192,
-    "Name": "0SJ Golden, Centennial Cone",
+    "Location": 153,
+    "Name": "0SJGolden, Centennial Cone",
     "Frequency": 145.28,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3088,8 +2464,8 @@
     "Comment": "CO Jefferson Golden, Centennial Cone KE0SJ 145.28"
   },
   {
-    "Location": 193,
-    "Name": "0SJ Golden, Centennial Cone",
+    "Location": 154,
+    "Name": "0SJGolden, Centennial Cone",
     "Frequency": 449.525,
     "Duplex": "-",
     "Offset": 5,
@@ -3104,8 +2480,8 @@
     "Comment": "CO Jefferson Golden, Centennial Cone KE0SJ 449.525"
   },
   {
-    "Location": 194,
-    "Name": "0SJ Lochbuie",
+    "Location": 155,
+    "Name": "0SJLochbuie",
     "Frequency": 447.625,
     "Duplex": "-",
     "Offset": 5,
@@ -3120,24 +2496,8 @@
     "Comment": "CO Adams Lochbuie KE0SJ 447.625"
   },
   {
-    "Location": 195,
-    "Name": "KIZ Denver",
-    "Frequency": 448.55,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 82.5,
-    "cToneFreq": 82.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Denver Denver W0KIZ 448.55"
-  },
-  {
-    "Location": 196,
-    "Name": "EHP Denver",
+    "Location": 156,
+    "Name": "EHPDenver",
     "Frequency": 448.075,
     "Duplex": "-",
     "Offset": 5,
@@ -3152,8 +2512,8 @@
     "Comment": "CO Denver Denver N5EHP 448.075"
   },
   {
-    "Location": 197,
-    "Name": "JXN Denver",
+    "Location": 157,
+    "Name": "JXNDenver",
     "Frequency": 146.715,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3168,8 +2528,8 @@
     "Comment": "CO Denver Denver N0JXN 146.715"
   },
   {
-    "Location": 198,
-    "Name": "JRL Denver, Broadway Plaza Lofts",
+    "Location": 158,
+    "Name": "JRLDenver, Broadway Plaza Lofts",
     "Frequency": 447.175,
     "Duplex": "-",
     "Offset": 5,
@@ -3184,8 +2544,8 @@
     "Comment": "CO Denver Denver, Broadway Plaza Lofts W0JRL 447.175"
   },
   {
-    "Location": 199,
-    "Name": "SSP Lakewood, Moffat Treatment Plant",
+    "Location": 159,
+    "Name": "SSPLakewood, Moffat Treatment Plant",
     "Frequency": 448.35,
     "Duplex": "-",
     "Offset": 5,
@@ -3200,8 +2560,8 @@
     "Comment": "CO Jefferson Lakewood, Moffat Treatment Plant KD0SSP 448.35"
   },
   {
-    "Location": 200,
-    "Name": "SSP Lakewood, Moffat Treatment Plant",
+    "Location": 160,
+    "Name": "SSPLakewood, Moffat Treatment Plant",
     "Frequency": 147.21,
     "Duplex": "+",
     "Offset": 0.6,
@@ -3216,8 +2576,8 @@
     "Comment": "CO Jefferson Lakewood, Moffat Treatment Plant KD0SSP 147.21"
   },
   {
-    "Location": 201,
-    "Name": "CDS Golden, Lookout Mountain",
+    "Location": 161,
+    "Name": "CDSGolden, Lookout Mountain",
     "Frequency": 1299.9,
     "Duplex": "",
     "Offset": 0,
@@ -3232,8 +2592,8 @@
     "Comment": "CO Jefferson Golden, Lookout Mountain W0CDS 1299.9"
   },
   {
-    "Location": 202,
-    "Name": "CDS Golden, Lookout Mountain",
+    "Location": 162,
+    "Name": "CDSGolden, Lookout Mountain",
     "Frequency": 446.9625,
     "Duplex": "-",
     "Offset": 5,
@@ -3248,8 +2608,8 @@
     "Comment": "CO Jefferson Golden, Lookout Mountain W0CDS 446.9625"
   },
   {
-    "Location": 203,
-    "Name": "CDS Golden, Lookout Mountain",
+    "Location": 163,
+    "Name": "CDSGolden, Lookout Mountain",
     "Frequency": 1283.9625,
     "Duplex": "-",
     "Offset": 20,
@@ -3264,8 +2624,8 @@
     "Comment": "CO Jefferson Golden, Lookout Mountain W0CDS 1283.9625"
   },
   {
-    "Location": 204,
-    "Name": "CDS Golden, Lookout Mountain",
+    "Location": 164,
+    "Name": "CDSGolden, Lookout Mountain",
     "Frequency": 145.25,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3280,8 +2640,8 @@
     "Comment": "CO Jefferson Golden, Lookout Mountain W0CDS 145.25"
   },
   {
-    "Location": 205,
-    "Name": "YZT Golden, Lookout",
+    "Location": 165,
+    "Name": "YZTGolden, Lookout",
     "Frequency": 446.8375,
     "Duplex": "-",
     "Offset": 5,
@@ -3296,8 +2656,8 @@
     "Comment": "CO Jefferson Golden, Lookout WA2YZT 446.8375"
   },
   {
-    "Location": 206,
-    "Name": "0KU Golden, Lookout Mountain",
+    "Location": 166,
+    "Name": "0KUGolden, Lookout Mountain",
     "Frequency": 449.625,
     "Duplex": "-",
     "Offset": 5,
@@ -3312,8 +2672,8 @@
     "Comment": "CO Jefferson Golden, Lookout Mountain W0KU 449.625"
   },
   {
-    "Location": 207,
-    "Name": "UPS Cedar Point",
+    "Location": 167,
+    "Name": "UPSCedar Point",
     "Frequency": 449.25,
     "Duplex": "-",
     "Offset": 5,
@@ -3328,8 +2688,8 @@
     "Comment": "CO Elbert Cedar Point K0UPS 449.25"
   },
   {
-    "Location": 208,
-    "Name": "GUR Denver, Green Valley Ranch",
+    "Location": 168,
+    "Name": "GURDenver, Green Valley Ranch",
     "Frequency": 448.15,
     "Duplex": "-",
     "Offset": 5,
@@ -3344,8 +2704,8 @@
     "Comment": "CO Denver Denver, Green Valley Ranch K0GUR 448.15"
   },
   {
-    "Location": 209,
-    "Name": "QPG Salida, Methodist Mountain",
+    "Location": 169,
+    "Name": "QPGSalida, Methodist Mountain",
     "Frequency": 446.975,
     "Duplex": "-",
     "Offset": 5,
@@ -3360,8 +2720,8 @@
     "Comment": "CO Chaffee Salida, Methodist Mountain KD0QPG 446.975"
   },
   {
-    "Location": 210,
-    "Name": "PYY Golden",
+    "Location": 170,
+    "Name": "PYYGolden",
     "Frequency": 927.7875,
     "Duplex": "-",
     "Offset": 25,
@@ -3376,8 +2736,8 @@
     "Comment": "CO Jefferson Golden N0PYY 927.7875"
   },
   {
-    "Location": 211,
-    "Name": "PYY Golden",
+    "Location": 171,
+    "Name": "PYYGolden",
     "Frequency": 448.125,
     "Duplex": "-",
     "Offset": 5,
@@ -3392,8 +2752,8 @@
     "Comment": "CO Jefferson Golden N0PYY 448.125"
   },
   {
-    "Location": 212,
-    "Name": "PYY Evergreen, Squaw Mountain",
+    "Location": 172,
+    "Name": "PYYEvergreen, Squaw Mountain",
     "Frequency": 147.3,
     "Duplex": "+",
     "Offset": 0.6,
@@ -3408,8 +2768,8 @@
     "Comment": "CO Clear Creek Evergreen, Squaw Mountain N0PYY 147.3"
   },
   {
-    "Location": 213,
-    "Name": "0GV Golden",
+    "Location": 173,
+    "Name": "0GVGolden",
     "Frequency": 448.975,
     "Duplex": "-",
     "Offset": 5,
@@ -3424,8 +2784,8 @@
     "Comment": "CO Jefferson Golden W0GV 448.975"
   },
   {
-    "Location": 214,
-    "Name": "CFI Idaho Springs, Squaw Mountain",
+    "Location": 174,
+    "Name": "CFIIdaho Springs, Squaw Mountain",
     "Frequency": 448.675,
     "Duplex": "-",
     "Offset": 5,
@@ -3440,8 +2800,8 @@
     "Comment": "CO Denver Idaho Springs, Squaw Mountain W0CFI 448.675"
   },
   {
-    "Location": 215,
-    "Name": "WYX Idaho Springs, Squaw Mountain",
+    "Location": 175,
+    "Name": "WYXIdaho Springs, Squaw Mountain",
     "Frequency": 146.94,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3456,8 +2816,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain W0WYX 146.94"
   },
   {
-    "Location": 216,
-    "Name": "WYX Broomfield",
+    "Location": 176,
+    "Name": "WYXBroomfield",
     "Frequency": 449.825,
     "Duplex": "-",
     "Offset": 5,
@@ -3472,8 +2832,8 @@
     "Comment": "CO Boulder Broomfield W0WYX 449.825"
   },
   {
-    "Location": 217,
-    "Name": "DUN Idaho Springs, Squaw Mountain",
+    "Location": 177,
+    "Name": "DUNIdaho Springs, Squaw Mountain",
     "Frequency": 449.45,
     "Duplex": "-",
     "Offset": 5,
@@ -3488,8 +2848,8 @@
     "Comment": "CO Clear Creek Idaho Springs, Squaw Mountain K1DUN 449.45"
   },
   {
-    "Location": 218,
-    "Name": "VGD Golden, Table Mountain",
+    "Location": 178,
+    "Name": "VGDGolden, Table Mountain",
     "Frequency": 446.975,
     "Duplex": "-",
     "Offset": 5,
@@ -3504,8 +2864,8 @@
     "Comment": "CO Jefferson Golden, Table Mountain KB0VGD 446.975"
   },
   {
-    "Location": 219,
-    "Name": "VGD Fort Collins , Horsetooth Mountain",
+    "Location": 179,
+    "Name": "VGDFort Collins , Horsetooth Mountain",
     "Frequency": 145.265,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3520,8 +2880,8 @@
     "Comment": "CO Larimer Fort Collins , Horsetooth Mountain KB0VGD 145.265"
   },
   {
-    "Location": 220,
-    "Name": "0KQ Evergreen, Saddleback Mountain",
+    "Location": 180,
+    "Name": "0KQEvergreen, Saddleback Mountain",
     "Frequency": 447.85,
     "Duplex": "-",
     "Offset": 5,
@@ -3536,8 +2896,8 @@
     "Comment": "CO Clear Creek Evergreen, Saddleback Mountain AC0KQ 447.85"
   },
   {
-    "Location": 221,
-    "Name": "UPS Westminster",
+    "Location": 181,
+    "Name": "UPSWestminster",
     "Frequency": 449.3,
     "Duplex": "-",
     "Offset": 5,
@@ -3552,8 +2912,8 @@
     "Comment": "CO Adams Westminster N1UPS 449.3"
   },
   {
-    "Location": 222,
-    "Name": "T0C Golden, Guy Hill",
+    "Location": 182,
+    "Name": "T0CGolden, Guy Hill",
     "Frequency": 145.22,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3568,8 +2928,8 @@
     "Comment": "CO Jefferson Golden, Guy Hill WT0C 145.22"
   },
   {
-    "Location": 223,
-    "Name": "CBI Golden, Guy Hill",
+    "Location": 183,
+    "Name": "CBIGolden, Guy Hill",
     "Frequency": 147.15,
     "Duplex": "+",
     "Offset": 0.6,
@@ -3584,8 +2944,8 @@
     "Comment": "CO Jefferson Golden, Guy Hill W0CBI 147.15"
   },
   {
-    "Location": 224,
-    "Name": "POH Golden, Guy Hill",
+    "Location": 184,
+    "Name": "POHGolden, Guy Hill",
     "Frequency": 224.74,
     "Duplex": "-",
     "Offset": 1.6,
@@ -3600,8 +2960,8 @@
     "Comment": "CO Jefferson Golden, Guy Hill N0POH 224.74"
   },
   {
-    "Location": 225,
-    "Name": "MHU Golden, Guy Hill",
+    "Location": 185,
+    "Name": "MHUGolden, Guy Hill",
     "Frequency": 224,
     "Duplex": "-",
     "Offset": 1.6,
@@ -3616,8 +2976,8 @@
     "Comment": "CO Jefferson Golden, Guy Hill N0MHU 224"
   },
   {
-    "Location": 226,
-    "Name": "0GO Golden, Guy Hill",
+    "Location": 186,
+    "Name": "0GOGolden, Guy Hill",
     "Frequency": 449.75,
     "Duplex": "-",
     "Offset": 5,
@@ -3632,8 +2992,8 @@
     "Comment": "CO Jefferson Golden, Guy Hill KI0GO 449.75"
   },
   {
-    "Location": 227,
-    "Name": "IBM Golden, Guy Hill",
+    "Location": 187,
+    "Name": "IBMGolden, Guy Hill",
     "Frequency": 448.85,
     "Duplex": "-",
     "Offset": 5,
@@ -3648,8 +3008,8 @@
     "Comment": "CO Jefferson Golden, Guy Hill K0IBM 448.85"
   },
   {
-    "Location": 228,
-    "Name": "UFO Fairplay, Sacramento Mountain",
+    "Location": 188,
+    "Name": "UFOFairplay, Sacramento Mountain",
     "Frequency": 447.125,
     "Duplex": "-",
     "Offset": 5,
@@ -3664,8 +3024,8 @@
     "Comment": "CO Park Fairplay, Sacramento Mountain KC0UFO 447.125"
   },
   {
-    "Location": 229,
-    "Name": "G0N Idaho Springs, Squaw Mountain",
+    "Location": 189,
+    "Name": "G0NIdaho Springs, Squaw Mountain",
     "Frequency": 449.05,
     "Duplex": "-",
     "Offset": 5,
@@ -3680,8 +3040,8 @@
     "Comment": "CO Denver Idaho Springs, Squaw Mountain WG0N 449.05"
   },
   {
-    "Location": 230,
-    "Name": "0ML Northglenn",
+    "Location": 190,
+    "Name": "0MLNorthglenn",
     "Frequency": 147.045,
     "Duplex": "+",
     "Offset": 0.6,
@@ -3696,8 +3056,8 @@
     "Comment": "CO Adams Northglenn K0ML 147.045"
   },
   {
-    "Location": 231,
-    "Name": "VJD Hugo",
+    "Location": 191,
+    "Name": "VJDHugo",
     "Frequency": 447,
     "Duplex": "-",
     "Offset": 5,
@@ -3712,24 +3072,8 @@
     "Comment": "CO Lincoln Hugo KC0VJD 447"
   },
   {
-    "Location": 232,
-    "Name": "LSD Nathrop",
-    "Frequency": 146.745,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Chaffee Nathrop W0LSD 146.745"
-  },
-  {
-    "Location": 233,
-    "Name": "LMA Broomfield",
+    "Location": 192,
+    "Name": "LMABroomfield",
     "Frequency": 448.925,
     "Duplex": "-",
     "Offset": 5,
@@ -3744,8 +3088,8 @@
     "Comment": "CO Boulder Broomfield W0LMA 448.925"
   },
   {
-    "Location": 234,
-    "Name": "RTS Genoa, Limon",
+    "Location": 193,
+    "Name": "RTSGenoa, Limon",
     "Frequency": 446.7375,
     "Duplex": "-",
     "Offset": 5,
@@ -3760,8 +3104,8 @@
     "Comment": "CO Lincoln Genoa, Limon K0RTS 446.7375"
   },
   {
-    "Location": 235,
-    "Name": "0AE Genoa",
+    "Location": 194,
+    "Name": "0AEGenoa",
     "Frequency": 147.06,
     "Duplex": "+",
     "Offset": 0.6,
@@ -3776,8 +3120,8 @@
     "Comment": "CO Lincoln Genoa KE0AE 147.06"
   },
   {
-    "Location": 236,
-    "Name": "0AE Stratton",
+    "Location": 195,
+    "Name": "0AEStratton",
     "Frequency": 146.895,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3792,8 +3136,8 @@
     "Comment": "CO Kit Carson Stratton KE0AE 146.895"
   },
   {
-    "Location": 237,
-    "Name": "QMR Breckenridge",
+    "Location": 196,
+    "Name": "QMRBreckenridge",
     "Frequency": 146.7,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3808,8 +3152,8 @@
     "Comment": "CO Summit Breckenridge WB0QMR 146.7"
   },
   {
-    "Location": 238,
-    "Name": "0KC Fort Lupton",
+    "Location": 197,
+    "Name": "0KCFort Lupton",
     "Frequency": 447.3,
     "Duplex": "-",
     "Offset": 5,
@@ -3824,8 +3168,8 @@
     "Comment": "CO Weld Fort Lupton AC0KC 447.3"
   },
   {
-    "Location": 239,
-    "Name": "0KC Fort Lupton",
+    "Location": 198,
+    "Name": "0KCFort Lupton",
     "Frequency": 224.96,
     "Duplex": "-",
     "Offset": 1.6,
@@ -3840,8 +3184,8 @@
     "Comment": "CO Weld Fort Lupton AC0KC 224.96"
   },
   {
-    "Location": 240,
-    "Name": "0RG Hudson",
+    "Location": 199,
+    "Name": "0RGHudson",
     "Frequency": 449.925,
     "Duplex": "-",
     "Offset": 5,
@@ -3856,8 +3200,8 @@
     "Comment": "CO Weld Hudson KD0RG 449.925"
   },
   {
-    "Location": 241,
-    "Name": "0DK Boulder, Table Mesa",
+    "Location": 200,
+    "Name": "0DKBoulder, Table Mesa",
     "Frequency": 448.9,
     "Duplex": "-",
     "Offset": 5,
@@ -3872,24 +3216,8 @@
     "Comment": "CO Boulder Boulder, Table Mesa W0DK 448.9"
   },
   {
-    "Location": 242,
-    "Name": "0DK Boulder",
-    "Frequency": 146.61,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Boulder Boulder W0DK 146.61"
-  },
-  {
-    "Location": 243,
-    "Name": "0DK Boulder, Table Mountain",
+    "Location": 201,
+    "Name": "0DKBoulder, Table Mountain",
     "Frequency": 146.7,
     "Duplex": "-",
     "Offset": 0.6,
@@ -3904,8 +3232,8 @@
     "Comment": "CO Boulder Boulder, Table Mountain W0DK 146.7"
   },
   {
-    "Location": 244,
-    "Name": "0DK Boulder",
+    "Location": 202,
+    "Name": "0DKBoulder",
     "Frequency": 1299.5,
     "Duplex": "-",
     "Offset": 20,
@@ -3920,40 +3248,8 @@
     "Comment": "CO Boulder Boulder W0DK 1299.5"
   },
   {
-    "Location": 245,
-    "Name": "0RM Rollinsville",
-    "Frequency": 224.6,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Gilpin Rollinsville W0RM 224.6"
-  },
-  {
-    "Location": 246,
-    "Name": "ZSN Leadville, Quail Mountain",
-    "Frequency": 147.24,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 156.7,
-    "cToneFreq": 156.7,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Lake Leadville, Quail Mountain N0ZSN 147.24"
-  },
-  {
-    "Location": 247,
-    "Name": "ZSN La Veta, Cordova Pass",
+    "Location": 203,
+    "Name": "ZSNLa Veta, Cordova Pass",
     "Frequency": 449.75,
     "Duplex": "-",
     "Offset": 5,
@@ -3968,8 +3264,8 @@
     "Comment": "CO Las Animas La Veta, Cordova Pass N0ZSN 449.75"
   },
   {
-    "Location": 248,
-    "Name": "0IA Boulder",
+    "Location": 204,
+    "Name": "0IABoulder",
     "Frequency": 449.55,
     "Duplex": "-",
     "Offset": 5,
@@ -3984,8 +3280,8 @@
     "Comment": "CO Boulder Boulder W0IA 449.55"
   },
   {
-    "Location": 249,
-    "Name": "0IA Boulder, Gunbarrel Hill",
+    "Location": 205,
+    "Name": "0IABoulder, Gunbarrel Hill",
     "Frequency": 146.76,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4000,8 +3296,8 @@
     "Comment": "CO Boulder Boulder, Gunbarrel Hill W0IA 146.76"
   },
   {
-    "Location": 250,
-    "Name": "0IA Boulder, Lee Hill",
+    "Location": 206,
+    "Name": "0IABoulder, Lee Hill",
     "Frequency": 224.02,
     "Duplex": "-",
     "Offset": 1.6,
@@ -4016,40 +3312,8 @@
     "Comment": "CO Boulder Boulder, Lee Hill W0IA 224.02"
   },
   {
-    "Location": 251,
-    "Name": "0DK Boulder",
-    "Frequency": 449.4,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 91.5,
-    "cToneFreq": 91.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Boulder Boulder K0DK 449.4"
-  },
-  {
-    "Location": 252,
-    "Name": "0DK Boulder",
-    "Frequency": 146.73,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 91.5,
-    "cToneFreq": 91.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Boulder Boulder K0DK 146.73"
-  },
-  {
-    "Location": 253,
-    "Name": "0DS Boulder",
+    "Location": 207,
+    "Name": "0DSBoulder",
     "Frequency": 446.8625,
     "Duplex": "-",
     "Offset": 5,
@@ -4064,8 +3328,8 @@
     "Comment": "CO Boulder Boulder KC0DS 446.8625"
   },
   {
-    "Location": 254,
-    "Name": "0DS Boulder",
+    "Location": 208,
+    "Name": "0DSBoulder",
     "Frequency": 145.3875,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4080,8 +3344,8 @@
     "Comment": "CO Boulder Boulder KC0DS 145.3875"
   },
   {
-    "Location": 255,
-    "Name": "0DS Boulder",
+    "Location": 209,
+    "Name": "0DSBoulder",
     "Frequency": 1283.8625,
     "Duplex": "-",
     "Offset": 20,
@@ -4096,8 +3360,8 @@
     "Comment": "CO Boulder Boulder KC0DS 1283.8625"
   },
   {
-    "Location": 256,
-    "Name": "MRC Maysville, CO",
+    "Location": 210,
+    "Name": "MRCMaysville, CO",
     "Frequency": 145.325,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4112,8 +3376,8 @@
     "Comment": "CO Chaffee Maysville, CO KD0MRC 145.325"
   },
   {
-    "Location": 257,
-    "Name": "0JZ Gold Hill",
+    "Location": 211,
+    "Name": "0JZGold Hill",
     "Frequency": 146.91,
     "Duplex": "+",
     "Offset": 0.6,
@@ -4128,40 +3392,8 @@
     "Comment": "CO Boulder Gold Hill W0JZ 146.91"
   },
   {
-    "Location": 258,
-    "Name": "ITF La Junta, North La Junta",
-    "Frequency": 147.36,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 123,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO Otero La Junta, North La Junta KC0ITF 147.36"
-  },
-  {
-    "Location": 259,
-    "Name": "ITF La Junta, North La Junta",
-    "Frequency": 446.75,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "CO Otero La Junta, North La Junta KC0ITF 446.75"
-  },
-  {
-    "Location": 260,
-    "Name": "JPX La Veta",
+    "Location": 212,
+    "Name": "JPXLa Veta",
     "Frequency": 145.355,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4176,8 +3408,8 @@
     "Comment": "CO Huerfano La Veta N0JPX 145.355"
   },
   {
-    "Location": 261,
-    "Name": "CCC Winter Park",
+    "Location": 213,
+    "Name": "CCCWinter Park",
     "Frequency": 447.45,
     "Duplex": "-",
     "Offset": 5,
@@ -4192,8 +3424,8 @@
     "Comment": "CO Grand Winter Park WA4CCC 447.45"
   },
   {
-    "Location": 262,
-    "Name": "ENO Longmont",
+    "Location": 214,
+    "Name": "ENOLongmont",
     "Frequency": 448.8,
     "Duplex": "-",
     "Offset": 5,
@@ -4208,8 +3440,8 @@
     "Comment": "CO Boulder Longmont W0ENO 448.8"
   },
   {
-    "Location": 263,
-    "Name": "ENO Longmont",
+    "Location": 215,
+    "Name": "ENOLongmont",
     "Frequency": 147.27,
     "Duplex": "+",
     "Offset": 0.6,
@@ -4224,8 +3456,8 @@
     "Comment": "CO Boulder Longmont W0ENO 147.27"
   },
   {
-    "Location": 264,
-    "Name": "EPA Longmont",
+    "Location": 216,
+    "Name": "EPALongmont",
     "Frequency": 448.525,
     "Duplex": "-",
     "Offset": 5,
@@ -4240,8 +3472,8 @@
     "Comment": "CO Boulder Longmont N0EPA 448.525"
   },
   {
-    "Location": 265,
-    "Name": "YNA Gunnison, W Mountain or Tenderfoot Mountain",
+    "Location": 217,
+    "Name": "YNAGunnison, W Mountain or Tenderfoot Mountain",
     "Frequency": 447.65,
     "Duplex": "-",
     "Offset": 5,
@@ -4256,8 +3488,8 @@
     "Comment": "CO Gunnison Gunnison, W Mountain or Tenderfoot Mountain KB0YNA 447.65"
   },
   {
-    "Location": 266,
-    "Name": "YNA Montrose, Waterdog Peak",
+    "Location": 218,
+    "Name": "YNAMontrose, Waterdog Peak",
     "Frequency": 448.65,
     "Duplex": "-",
     "Offset": 5,
@@ -4272,8 +3504,8 @@
     "Comment": "CO Montrose Montrose, Waterdog Peak KB0YNA 448.65"
   },
   {
-    "Location": 267,
-    "Name": "YNA Grand Junction, Grand Mesa",
+    "Location": 219,
+    "Name": "YNAGrand Junction, Grand Mesa",
     "Frequency": 449.65,
     "Duplex": "-",
     "Offset": 5,
@@ -4288,8 +3520,8 @@
     "Comment": "CO Mesa Grand Junction, Grand Mesa KB0YNA 449.65"
   },
   {
-    "Location": 268,
-    "Name": "YNA Telluride, Gray Head",
+    "Location": 220,
+    "Name": "YNATelluride, Gray Head",
     "Frequency": 449.7,
     "Duplex": "-",
     "Offset": 5,
@@ -4304,8 +3536,8 @@
     "Comment": "CO San Miguel Telluride, Gray Head KB0YNA 449.7"
   },
   {
-    "Location": 269,
-    "Name": "YNA Delta, Uncompahgre Butte",
+    "Location": 221,
+    "Name": "YNADelta, Uncompahgre Butte",
     "Frequency": 449.4,
     "Duplex": "-",
     "Offset": 5,
@@ -4320,8 +3552,8 @@
     "Comment": "CO Mesa Delta, Uncompahgre Butte KB0YNA 449.4"
   },
   {
-    "Location": 270,
-    "Name": "0RV Vail, Bald Mountain",
+    "Location": 222,
+    "Name": "0RVVail, Bald Mountain",
     "Frequency": 146.61,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4336,8 +3568,8 @@
     "Comment": "CO Eagle Vail, Bald Mountain K0RV 146.61"
   },
   {
-    "Location": 271,
-    "Name": "0HG Allenspark, AFPD Station #5",
+    "Location": 223,
+    "Name": "0HGAllenspark, AFPD Station #5",
     "Frequency": 147.03,
     "Duplex": "+",
     "Offset": 0.6,
@@ -4352,40 +3584,8 @@
     "Comment": "CO Boulder Allenspark, AFPD Station #5 KI0HG 147.03"
   },
   {
-    "Location": 272,
-    "Name": "AFO Vail",
-    "Frequency": 224.8,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Eagle Vail N0AFO 224.8"
-  },
-  {
-    "Location": 273,
-    "Name": "AFO Vail",
-    "Frequency": 449.9,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Eagle Vail N0AFO 449.9"
-  },
-  {
-    "Location": 274,
-    "Name": "0KM Center",
+    "Location": 224,
+    "Name": "0KMCenter",
     "Frequency": 146.64,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4400,8 +3600,8 @@
     "Comment": "CO Rio Grande Center N0KM 146.64"
   },
   {
-    "Location": 275,
-    "Name": "0KM Center",
+    "Location": 225,
+    "Name": "0KMCenter",
     "Frequency": 447.1,
     "Duplex": "-",
     "Offset": 5,
@@ -4416,24 +3616,8 @@
     "Comment": "CO Saguache Center N0KM 447.1"
   },
   {
-    "Location": 276,
-    "Name": "YDW Granby",
-    "Frequency": 146.82,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 123,
-    "cToneFreq": 123,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Grand Granby KA0YDW 146.82"
-  },
-  {
-    "Location": 277,
-    "Name": "UPS Greeley, UNC",
+    "Location": 226,
+    "Name": "UPSGreeley, UNC",
     "Frequency": 146.85,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4448,8 +3632,8 @@
     "Comment": "CO Weld Greeley, UNC W0UPS 146.85"
   },
   {
-    "Location": 278,
-    "Name": "UPS Loveland, Budweiser Event Center",
+    "Location": 227,
+    "Name": "UPSLoveland, Budweiser Event Center",
     "Frequency": 448.025,
     "Duplex": "-",
     "Offset": 5,
@@ -4464,8 +3648,8 @@
     "Comment": "CO Larimer Loveland, Budweiser Event Center W0UPS 448.025"
   },
   {
-    "Location": 279,
-    "Name": "UPS Fort Collins, Horsetooth Mountain",
+    "Location": 228,
+    "Name": "UPSFort Collins, Horsetooth Mountain",
     "Frequency": 145.115,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4480,8 +3664,8 @@
     "Comment": "CO Larimer Fort Collins, Horsetooth Mountain W0UPS 145.115"
   },
   {
-    "Location": 280,
-    "Name": "UPS Fort Collins, Horsetooth Mountain",
+    "Location": 229,
+    "Name": "UPSFort Collins, Horsetooth Mountain",
     "Frequency": 447.275,
     "Duplex": "-",
     "Offset": 5,
@@ -4496,24 +3680,8 @@
     "Comment": "CO Larimer Fort Collins, Horsetooth Mountain W0UPS 447.275"
   },
   {
-    "Location": 281,
-    "Name": "UPS Fort Collins, Horsetooth Mountain",
-    "Frequency": 224.52,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Larimer Fort Collins, Horsetooth Mountain W0UPS 224.52"
-  },
-  {
-    "Location": 282,
-    "Name": "UPS Fort Collins, Buckhorn Mountain",
+    "Location": 230,
+    "Name": "UPSFort Collins, Buckhorn Mountain",
     "Frequency": 447.7,
     "Duplex": "-",
     "Offset": 5,
@@ -4528,8 +3696,8 @@
     "Comment": "CO Larimer Fort Collins, Buckhorn Mountain W0UPS 447.7"
   },
   {
-    "Location": 283,
-    "Name": "UPS Fort Collins, Buckhorn Mountain",
+    "Location": 231,
+    "Name": "UPSFort Collins, Buckhorn Mountain",
     "Frequency": 146.625,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4544,8 +3712,8 @@
     "Comment": "CO Larimer Fort Collins, Buckhorn Mountain W0UPS 146.625"
   },
   {
-    "Location": 284,
-    "Name": "UPS Fort Collins, Buckhorn Mountain",
+    "Location": 232,
+    "Name": "UPSFort Collins, Buckhorn Mountain",
     "Frequency": 224.84,
     "Duplex": "-",
     "Offset": 1.6,
@@ -4560,8 +3728,8 @@
     "Comment": "CO Larimer Fort Collins, Buckhorn Mountain W0UPS 224.84"
   },
   {
-    "Location": 285,
-    "Name": "0OJ Greeley, UNC",
+    "Location": 233,
+    "Name": "0OJGreeley, UNC",
     "Frequency": 449.725,
     "Duplex": "-",
     "Offset": 5,
@@ -4576,8 +3744,8 @@
     "Comment": "CO Weld Greeley, UNC K0OJ 449.725"
   },
   {
-    "Location": 286,
-    "Name": "LRA Loveland, Namaqua Hill",
+    "Location": 234,
+    "Name": "LRALoveland, Namaqua Hill",
     "Frequency": 449.575,
     "Duplex": "-",
     "Offset": 5,
@@ -4592,8 +3760,8 @@
     "Comment": "CO Larimer Loveland, Namaqua Hill W0LRA 449.575"
   },
   {
-    "Location": 287,
-    "Name": "LRA Loveland, Namaqua Hill",
+    "Location": 235,
+    "Name": "LRALoveland, Namaqua Hill",
     "Frequency": 147.195,
     "Duplex": "+",
     "Offset": 0.6,
@@ -4608,24 +3776,8 @@
     "Comment": "CO Larimer Loveland, Namaqua Hill W0LRA 147.195"
   },
   {
-    "Location": 288,
-    "Name": "6VV Loveland",
-    "Frequency": 224.32,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Larimer Loveland KN6VV 224.32"
-  },
-  {
-    "Location": 289,
-    "Name": "KWD Greeley",
+    "Location": 236,
+    "Name": "KWDGreeley",
     "Frequency": 448.475,
     "Duplex": "-",
     "Offset": 5,
@@ -4640,8 +3792,8 @@
     "Comment": "CO Weld Greeley KC0KWD 448.475"
   },
   {
-    "Location": 290,
-    "Name": "KWD Greeley",
+    "Location": 237,
+    "Name": "KWDGreeley",
     "Frequency": 147,
     "Duplex": "+",
     "Offset": 0.6,
@@ -4656,8 +3808,8 @@
     "Comment": "CO Weld Greeley KC0KWD 147"
   },
   {
-    "Location": 291,
-    "Name": "0VQ Aspen, Aspen Mountain",
+    "Location": 238,
+    "Name": "0VQAspen, Aspen Mountain",
     "Frequency": 447.05,
     "Duplex": "-",
     "Offset": 5,
@@ -4672,8 +3824,8 @@
     "Comment": "CO Pitkin Aspen, Aspen Mountain K0VQ 447.05"
   },
   {
-    "Location": 292,
-    "Name": "0VQ Carbondale, Missouri Heights",
+    "Location": 239,
+    "Name": "0VQCarbondale, Missouri Heights",
     "Frequency": 447.15,
     "Duplex": "-",
     "Offset": 5,
@@ -4688,24 +3840,8 @@
     "Comment": "CO Garfield Carbondale, Missouri Heights K0VQ 447.15"
   },
   {
-    "Location": 293,
-    "Name": "0VQ Glenwood Springs, Three Mile Ridge",
-    "Frequency": 147.3,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Garfield Glenwood Springs, Three Mile Ridge K0VQ 147.3"
-  },
-  {
-    "Location": 294,
-    "Name": "0FH Estes Park",
+    "Location": 240,
+    "Name": "0FHEstes Park",
     "Frequency": 146.685,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4720,8 +3856,8 @@
     "Comment": "CO Larimer Estes Park N0FH 146.685"
   },
   {
-    "Location": 295,
-    "Name": "0FH Estes Park",
+    "Location": 241,
+    "Name": "0FHEstes Park",
     "Frequency": 449.8,
     "Duplex": "-",
     "Offset": 5,
@@ -4736,8 +3872,8 @@
     "Comment": "CO Larimer Estes Park N0FH 449.8"
   },
   {
-    "Location": 296,
-    "Name": "0FT Fort Morgan, Fort Morgan EOC",
+    "Location": 242,
+    "Name": "0FTFort Morgan, Fort Morgan EOC",
     "Frequency": 448.2,
     "Duplex": "-",
     "Offset": 5,
@@ -4752,8 +3888,8 @@
     "Comment": "CO Morgan Fort Morgan, Fort Morgan EOC W0FT 448.2"
   },
   {
-    "Location": 297,
-    "Name": "0FT Akron",
+    "Location": 243,
+    "Name": "0FTAkron",
     "Frequency": 448.175,
     "Duplex": "-",
     "Offset": 5,
@@ -4768,8 +3904,8 @@
     "Comment": "CO Morgan Akron W0FT 448.175"
   },
   {
-    "Location": 298,
-    "Name": "VTL Gunnison",
+    "Location": 244,
+    "Name": "VTLGunnison",
     "Frequency": 147.12,
     "Duplex": "+",
     "Offset": 0.6,
@@ -4784,24 +3920,8 @@
     "Comment": "CO Gunnison Gunnison W0VTL 147.12"
   },
   {
-    "Location": 299,
-    "Name": "5GF Gunnison",
-    "Frequency": 449.95,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Gunnison Gunnison K5GF 449.95"
-  },
-  {
-    "Location": 300,
-    "Name": "7RF Fort Collins",
+    "Location": 245,
+    "Name": "7RFFort Collins",
     "Frequency": 447.725,
     "Duplex": "-",
     "Offset": 5,
@@ -4816,8 +3936,8 @@
     "Comment": "CO Larimer Fort Collins W7RF 447.725"
   },
   {
-    "Location": 301,
-    "Name": "5JL Trinidad, Raton Pass",
+    "Location": 246,
+    "Name": "5JLTrinidad, Raton Pass",
     "Frequency": 447.375,
     "Duplex": "-",
     "Offset": 5,
@@ -4832,24 +3952,8 @@
     "Comment": "CO Las Animas Trinidad, Raton Pass KG5JL 447.375"
   },
   {
-    "Location": 302,
-    "Name": "0BV Trinidad, Raton Pass",
-    "Frequency": 147.375,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Las Animas Trinidad, Raton Pass K0BV 147.375"
-  },
-  {
-    "Location": 303,
-    "Name": "0CL Snowmass Village",
+    "Location": 247,
+    "Name": "0CLSnowmass Village",
     "Frequency": 146.67,
     "Duplex": "-",
     "Offset": 0.6,
@@ -4864,8 +3968,8 @@
     "Comment": "CO Pitkin Snowmass Village K0CL 146.67"
   },
   {
-    "Location": 304,
-    "Name": "RDI Trinidad, Raton Pass",
+    "Location": 248,
+    "Name": "RDITrinidad, Raton Pass",
     "Frequency": 446.775,
     "Duplex": "-",
     "Offset": 5,
@@ -4880,8 +3984,8 @@
     "Comment": "CO Las Animas Trinidad, Raton Pass KD0RDI 446.775"
   },
   {
-    "Location": 305,
-    "Name": "RDI Raton, Raton Pass",
+    "Location": 249,
+    "Name": "RDIRaton, Raton Pass",
     "Frequency": 446.775,
     "Duplex": "-",
     "Offset": 5,
@@ -4896,8 +4000,8 @@
     "Comment": "NM Colfax Raton, Raton Pass KD0RDI 446.775"
   },
   {
-    "Location": 306,
-    "Name": "1TJ Fort Collins",
+    "Location": 250,
+    "Name": "1TJFort Collins",
     "Frequency": 1283.55,
     "Duplex": "-",
     "Offset": 20,
@@ -4912,8 +4016,8 @@
     "Comment": "CO Larimer Fort Collins K1TJ 1283.55"
   },
   {
-    "Location": 307,
-    "Name": "1TJ Fort Collins, Horsetooth Mountain",
+    "Location": 251,
+    "Name": "1TJFort Collins, Horsetooth Mountain",
     "Frequency": 927.95,
     "Duplex": "-",
     "Offset": 25,
@@ -4928,8 +4032,8 @@
     "Comment": "CO Larimer Fort Collins, Horsetooth Mountain K1TJ 927.95"
   },
   {
-    "Location": 308,
-    "Name": "AOL Fort Collins",
+    "Location": 252,
+    "Name": "AOLFort Collins",
     "Frequency": 446.7375,
     "Duplex": "-",
     "Offset": 5,
@@ -4944,8 +4048,8 @@
     "Comment": "CO Larimer Fort Collins N0AOL 446.7375"
   },
   {
-    "Location": 309,
-    "Name": "RBT Fort Collins",
+    "Location": 253,
+    "Name": "RBTFort Collins",
     "Frequency": 447.45,
     "Duplex": "-",
     "Offset": 5,
@@ -4960,8 +4064,8 @@
     "Comment": "CO Larimer Fort Collins KC0RBT 447.45"
   },
   {
-    "Location": 310,
-    "Name": "DMR Fort Collins, Timnath",
+    "Location": 254,
+    "Name": "DMRFort Collins, Timnath",
     "Frequency": 147.39,
     "Duplex": "+",
     "Offset": 0.6,
@@ -4976,8 +4080,8 @@
     "Comment": "CO Larimer Fort Collins, Timnath W0DMR 147.39"
   },
   {
-    "Location": 311,
-    "Name": "DMR Fort Collins, Timnath",
+    "Location": 255,
+    "Name": "DMRFort Collins, Timnath",
     "Frequency": 446.775,
     "Duplex": "-",
     "Offset": 5,
@@ -4992,8 +4096,8 @@
     "Comment": "CO Larimer Fort Collins, Timnath W0DMR 446.775"
   },
   {
-    "Location": 312,
-    "Name": "0SF Fort Collins, Horsetooth Mountain",
+    "Location": 256,
+    "Name": "0SFFort Collins, Horsetooth Mountain",
     "Frequency": 927.825,
     "Duplex": "-",
     "Offset": 25,
@@ -5008,8 +4112,8 @@
     "Comment": "CO Larimer Fort Collins, Horsetooth Mountain AB0SF 927.825"
   },
   {
-    "Location": 313,
-    "Name": "QEY Fort Collins, CSU Durward Hall",
+    "Location": 257,
+    "Name": "QEYFort Collins, CSU Durward Hall",
     "Frequency": 147.36,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5024,8 +4128,8 @@
     "Comment": "CO Larimer Fort Collins, CSU Durward Hall W0QEY 147.36"
   },
   {
-    "Location": 314,
-    "Name": "QEY Fort Collins, CSU Durward Hall",
+    "Location": 258,
+    "Name": "QEYFort Collins, CSU Durward Hall",
     "Frequency": 446.8125,
     "Duplex": "-",
     "Offset": 5,
@@ -5040,8 +4144,8 @@
     "Comment": "CO Larimer Fort Collins, CSU Durward Hall W0QEY 446.8125"
   },
   {
-    "Location": 315,
-    "Name": "QEY Fort Collins, CSU Durward Hall",
+    "Location": 259,
+    "Name": "QEYFort Collins, CSU Durward Hall",
     "Frequency": 449.85,
     "Duplex": "-",
     "Offset": 5,
@@ -5056,8 +4160,8 @@
     "Comment": "CO Larimer Fort Collins, CSU Durward Hall W0QEY 449.85"
   },
   {
-    "Location": 316,
-    "Name": "RFI Severance, Cactus Hill",
+    "Location": 260,
+    "Name": "RFISeverance, Cactus Hill",
     "Frequency": 447.2,
     "Duplex": "-",
     "Offset": 5,
@@ -5072,8 +4176,8 @@
     "Comment": "CO Weld Severance, Cactus Hill N6RFI 447.2"
   },
   {
-    "Location": 317,
-    "Name": "UPS Wellington",
+    "Location": 261,
+    "Name": "UPSWellington",
     "Frequency": 448.325,
     "Duplex": "-",
     "Offset": 5,
@@ -5088,8 +4192,8 @@
     "Comment": "CO Larimer Wellington WB7UPS 448.325"
   },
   {
-    "Location": 318,
-    "Name": "0HH Lamar",
+    "Location": 262,
+    "Name": "0HHLamar",
     "Frequency": 146.61,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5104,8 +4208,8 @@
     "Comment": "CO Prowers Lamar KC0HH 146.61"
   },
   {
-    "Location": 319,
-    "Name": "0HH Lamar",
+    "Location": 263,
+    "Name": "0HHLamar",
     "Frequency": 449.5,
     "Duplex": "-",
     "Offset": 5,
@@ -5120,24 +4224,8 @@
     "Comment": "CO Prowers Lamar KC0HH 449.5"
   },
   {
-    "Location": 320,
-    "Name": "0JS Creede",
-    "Frequency": 146.925,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Mineral Creede WA0JS 146.925"
-  },
-  {
-    "Location": 321,
-    "Name": "5ML Raton, Sierra Grande",
+    "Location": 264,
+    "Name": "5MLRaton, Sierra Grande",
     "Frequency": 147.28,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5152,8 +4240,8 @@
     "Comment": "NM Colfax Raton, Sierra Grande NM5ML 147.28"
   },
   {
-    "Location": 322,
-    "Name": "5ML Tres Piedras, San Antonio Mountain",
+    "Location": 265,
+    "Name": "5MLTres Piedras, San Antonio Mountain",
     "Frequency": 147.22,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5168,8 +4256,8 @@
     "Comment": "NM Rio Arriba Tres Piedras, San Antonio Mountain NM5ML 147.22"
   },
   {
-    "Location": 323,
-    "Name": "5ML Eagle Nest, Iron Mountain",
+    "Location": 266,
+    "Name": "5MLEagle Nest, Iron Mountain",
     "Frequency": 444.35,
     "Duplex": "+",
     "Offset": 5,
@@ -5184,8 +4272,8 @@
     "Comment": "NM Colfax Eagle Nest, Iron Mountain NM5ML 444.35"
   },
   {
-    "Location": 324,
-    "Name": "5ML Taos, Ski Valley",
+    "Location": 267,
+    "Name": "5MLTaos, Ski Valley",
     "Frequency": 147.14,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5200,8 +4288,8 @@
     "Comment": "NM Taos Taos, Ski Valley NM5ML 147.14"
   },
   {
-    "Location": 325,
-    "Name": "5ML Wagon Mound, Turkey Mountain",
+    "Location": 268,
+    "Name": "5MLWagon Mound, Turkey Mountain",
     "Frequency": 147.2,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5216,8 +4304,8 @@
     "Comment": "NM Mora Wagon Mound, Turkey Mountain NM5ML 147.2"
   },
   {
-    "Location": 326,
-    "Name": "5ML Bloomfield, Harris Mesa",
+    "Location": 269,
+    "Name": "5MLBloomfield, Harris Mesa",
     "Frequency": 147.28,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5232,8 +4320,8 @@
     "Comment": "NM San Juan Bloomfield, Harris Mesa NM5ML 147.28"
   },
   {
-    "Location": 327,
-    "Name": "5ML Cuba, Eureka Mesa",
+    "Location": 270,
+    "Name": "5MLCuba, Eureka Mesa",
     "Frequency": 147.24,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5248,8 +4336,8 @@
     "Comment": "NM Sandoval Cuba, Eureka Mesa NM5ML 147.24"
   },
   {
-    "Location": 328,
-    "Name": "SNO Carbondale, Four Mile Ridge",
+    "Location": 271,
+    "Name": "SNOCarbondale, Four Mile Ridge",
     "Frequency": 147.39,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5264,8 +4352,8 @@
     "Comment": "CO Garfield Carbondale, Four Mile Ridge K0SNO 147.39"
   },
   {
-    "Location": 329,
-    "Name": "ELK Carbondale, Four Mile Ridge",
+    "Location": 272,
+    "Name": "ELKCarbondale, Four Mile Ridge",
     "Frequency": 449.725,
     "Duplex": "-",
     "Offset": 5,
@@ -5280,8 +4368,8 @@
     "Comment": "CO Garfield Carbondale, Four Mile Ridge K0ELK 449.725"
   },
   {
-    "Location": 330,
-    "Name": "PKT Creede, Bristol Head",
+    "Location": 273,
+    "Name": "PKTCreede, Bristol Head",
     "Frequency": 449.525,
     "Duplex": "-",
     "Offset": 5,
@@ -5296,8 +4384,8 @@
     "Comment": "CO Mineral Creede, Bristol Head N0PKT 449.525"
   },
   {
-    "Location": 331,
-    "Name": "HND Glenwood Springs, Lookout Mountain",
+    "Location": 274,
+    "Name": "HNDGlenwood Springs, Lookout Mountain",
     "Frequency": 449.85,
     "Duplex": "-",
     "Offset": 5,
@@ -5312,8 +4400,8 @@
     "Comment": "CO Garfield Glenwood Springs, Lookout Mountain WA4HND 449.85"
   },
   {
-    "Location": 332,
-    "Name": "HND Montrose, Waterdog Peak",
+    "Location": 275,
+    "Name": "HNDMontrose, Waterdog Peak",
     "Frequency": 447.2,
     "Duplex": "-",
     "Offset": 5,
@@ -5328,8 +4416,8 @@
     "Comment": "CO Montrose Montrose, Waterdog Peak WA4HND 447.2"
   },
   {
-    "Location": 333,
-    "Name": "HND Parachute, Mount Callahan",
+    "Location": 276,
+    "Name": "HNDParachute, Mount Callahan",
     "Frequency": 449.8,
     "Duplex": "-",
     "Offset": 5,
@@ -5344,8 +4432,8 @@
     "Comment": "CO Garfield Parachute, Mount Callahan WA4HND 449.8"
   },
   {
-    "Location": 334,
-    "Name": "HND Grand Junction, Grand Mesa",
+    "Location": 277,
+    "Name": "HNDGrand Junction, Grand Mesa",
     "Frequency": 449.3,
     "Duplex": "-",
     "Offset": 5,
@@ -5360,8 +4448,8 @@
     "Comment": "CO Mesa Grand Junction, Grand Mesa WA4HND 449.3"
   },
   {
-    "Location": 335,
-    "Name": "HND Grand Junction, Black Ridge",
+    "Location": 278,
+    "Name": "HNDGrand Junction, Black Ridge",
     "Frequency": 449.575,
     "Duplex": "-",
     "Offset": 5,
@@ -5376,40 +4464,8 @@
     "Comment": "CO Mesa Grand Junction, Black Ridge WA4HND 449.575"
   },
   {
-    "Location": 336,
-    "Name": "I0G Glenwood Springs",
-    "Frequency": 224.02,
-    "Duplex": "-",
-    "Offset": 1.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Garfield Glenwood Springs KI0G 224.02"
-  },
-  {
-    "Location": 337,
-    "Name": "I0G Glenwood Springs",
-    "Frequency": 447.6,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Garfield Glenwood Springs KI0G 447.6"
-  },
-  {
-    "Location": 338,
-    "Name": "I0G Glenwood Springs, Sunlight Peak",
+    "Location": 279,
+    "Name": "I0GGlenwood Springs, Sunlight Peak",
     "Frequency": 447.1,
     "Duplex": "-",
     "Offset": 5,
@@ -5424,8 +4480,8 @@
     "Comment": "CO Garfield Glenwood Springs, Sunlight Peak KI0G 447.1"
   },
   {
-    "Location": 339,
-    "Name": "I0G Glenwood Springs, Sunlight Peak",
+    "Location": 280,
+    "Name": "I0GGlenwood Springs, Sunlight Peak",
     "Frequency": 146.88,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5440,8 +4496,8 @@
     "Comment": "CO Garfield Glenwood Springs, Sunlight Peak KI0G 146.88"
   },
   {
-    "Location": 340,
-    "Name": "XLI Glenwood Springs, Sunlight Peak",
+    "Location": 281,
+    "Name": "XLIGlenwood Springs, Sunlight Peak",
     "Frequency": 449.6,
     "Duplex": "-",
     "Offset": 5,
@@ -5456,8 +4512,8 @@
     "Comment": "CO Garfield Glenwood Springs, Sunlight Peak N0XLI 449.6"
   },
   {
-    "Location": 341,
-    "Name": "PFO Red River, Valle Vidal",
+    "Location": 282,
+    "Name": "PFORed River, Valle Vidal",
     "Frequency": 145.25,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5472,8 +4528,8 @@
     "Comment": "NM Taos Red River, Valle Vidal KF5PFO 145.25"
   },
   {
-    "Location": 342,
-    "Name": "PFO Tres Piedras,  San Antonio Mountain",
+    "Location": 283,
+    "Name": "PFOTres Piedras,  San Antonio Mountain",
     "Frequency": 146.76,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5488,8 +4544,8 @@
     "Comment": "NM Rio Arriba Tres Piedras,  San Antonio Mountain KF5PFO 146.76"
   },
   {
-    "Location": 343,
-    "Name": "PFO Red River, Molycorp",
+    "Location": 284,
+    "Name": "PFORed River, Molycorp",
     "Frequency": 145.39,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5504,8 +4560,8 @@
     "Comment": "NM Taos Red River, Molycorp KF5PFO 145.39"
   },
   {
-    "Location": 344,
-    "Name": "PFO Tres Piedras, San Antonio Mountain",
+    "Location": 285,
+    "Name": "PFOTres Piedras, San Antonio Mountain",
     "Frequency": 146.76,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5520,24 +4576,8 @@
     "Comment": "NM Taos Tres Piedras, San Antonio Mountain KF5PFO 146.76"
   },
   {
-    "Location": 345,
-    "Name": "PFO Taos, Picuris Peak",
-    "Frequency": 449.875,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 123,
-    "cToneFreq": 123,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM Taos Taos, Picuris Peak KF5PFO 449.875"
-  },
-  {
-    "Location": 346,
-    "Name": "PFO Taos, Picuris Peak",
+    "Location": 286,
+    "Name": "PFOTaos, Picuris Peak",
     "Frequency": 224.4,
     "Duplex": "-",
     "Offset": 1.6,
@@ -5552,8 +4592,8 @@
     "Comment": "NM Taos Taos, Picuris Peak KF5PFO 224.4"
   },
   {
-    "Location": 347,
-    "Name": "PFO Taos, Picuris Peak",
+    "Location": 287,
+    "Name": "PFOTaos, Picuris Peak",
     "Frequency": 51.5,
     "Duplex": "",
     "Offset": 0,
@@ -5568,8 +4608,8 @@
     "Comment": "NM Taos Taos, Picuris Peak KF5PFO 51.5"
   },
   {
-    "Location": 348,
-    "Name": "PFO Taos, Picuris Peak",
+    "Location": 288,
+    "Name": "PFOTaos, Picuris Peak",
     "Frequency": 147.12,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5584,8 +4624,8 @@
     "Comment": "NM Taos Taos, Picuris Peak KF5PFO 147.12"
   },
   {
-    "Location": 349,
-    "Name": "ITS Lake City, Hill 71",
+    "Location": 289,
+    "Name": "ITSLake City, Hill 71",
     "Frequency": 147.135,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5600,8 +4640,8 @@
     "Comment": "CO Hinsdale Lake City, Hill 71 KB5ITS 147.135"
   },
   {
-    "Location": 350,
-    "Name": "ITS Ouray, Engineer Mountain",
+    "Location": 290,
+    "Name": "ITSOuray, Engineer Mountain",
     "Frequency": 147.27,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5616,8 +4656,8 @@
     "Comment": "CO Ouray Ouray, Engineer Mountain KB5ITS 147.27"
   },
   {
-    "Location": 351,
-    "Name": "ITS Silverton, Kendall Mountain",
+    "Location": 291,
+    "Name": "ITSSilverton, Kendall Mountain",
     "Frequency": 147.375,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5632,8 +4672,8 @@
     "Comment": "CO San Juan Silverton, Kendall Mountain KB5ITS 147.375"
   },
   {
-    "Location": 352,
-    "Name": "ITS Silverton, Hazelton",
+    "Location": 292,
+    "Name": "ITSSilverton, Hazelton",
     "Frequency": 444,
     "Duplex": "+",
     "Offset": 5,
@@ -5648,8 +4688,8 @@
     "Comment": "CO San Juan Silverton, Hazelton KB5ITS 444"
   },
   {
-    "Location": 353,
-    "Name": "ITS Silverton",
+    "Location": 293,
+    "Name": "ITSSilverton",
     "Frequency": 447.525,
     "Duplex": "-",
     "Offset": 5,
@@ -5664,8 +4704,8 @@
     "Comment": "CO San Juan Silverton KB5ITS 447.525"
   },
   {
-    "Location": 354,
-    "Name": "ITS Silverton, Buffalo Boy",
+    "Location": 294,
+    "Name": "ITSSilverton, Buffalo Boy",
     "Frequency": 145.325,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5680,8 +4720,8 @@
     "Comment": "CO San Juan Silverton, Buffalo Boy KB5ITS 145.325"
   },
   {
-    "Location": 355,
-    "Name": "ITS Ignacio, Spring Creek",
+    "Location": 295,
+    "Name": "ITSIgnacio, Spring Creek",
     "Frequency": 147.15,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5696,8 +4736,8 @@
     "Comment": "CO La Plata Ignacio, Spring Creek KB5ITS 147.15"
   },
   {
-    "Location": 356,
-    "Name": "ITS Durango, Smelter Mountain",
+    "Location": 296,
+    "Name": "ITSDurango, Smelter Mountain",
     "Frequency": 147.135,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5712,8 +4752,8 @@
     "Comment": "CO La Plata Durango, Smelter Mountain KB5ITS 147.135"
   },
   {
-    "Location": 357,
-    "Name": "ITS Navajo Dam, Navajo Lake",
+    "Location": 297,
+    "Name": "ITSNavajo Dam, Navajo Lake",
     "Frequency": 147.36,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5728,8 +4768,8 @@
     "Comment": "NM San Juan Navajo Dam, Navajo Lake KB5ITS 147.36"
   },
   {
-    "Location": 358,
-    "Name": "ITS Mancos, Caviness Mountain",
+    "Location": 298,
+    "Name": "ITSMancos, Caviness Mountain",
     "Frequency": 442.375,
     "Duplex": "+",
     "Offset": 5,
@@ -5744,8 +4784,8 @@
     "Comment": "CO Montezuma Mancos, Caviness Mountain KB5ITS 442.375"
   },
   {
-    "Location": 359,
-    "Name": "ITS Mancos, Menefee Mountain",
+    "Location": 299,
+    "Name": "ITSMancos, Menefee Mountain",
     "Frequency": 145.325,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5760,8 +4800,8 @@
     "Comment": "CO Montezuma Mancos, Menefee Mountain KB5ITS 145.325"
   },
   {
-    "Location": 360,
-    "Name": "ITS Dolores, Summit Ridge",
+    "Location": 300,
+    "Name": "ITSDolores, Summit Ridge",
     "Frequency": 145.19,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5776,8 +4816,8 @@
     "Comment": "CO Montezuma Dolores, Summit Ridge KB5ITS 145.19"
   },
   {
-    "Location": 361,
-    "Name": "ITS Dolores, Summit Ridge",
+    "Location": 301,
+    "Name": "ITSDolores, Summit Ridge",
     "Frequency": 447.275,
     "Duplex": "-",
     "Offset": 5,
@@ -5792,8 +4832,8 @@
     "Comment": "CO Montezuma Dolores, Summit Ridge KB5ITS 447.275"
   },
   {
-    "Location": 362,
-    "Name": "ITS Aztec",
+    "Location": 302,
+    "Name": "ITSAztec",
     "Frequency": 447.45,
     "Duplex": "-",
     "Offset": 5,
@@ -5808,8 +4848,8 @@
     "Comment": "NM San Juan Aztec KB5ITS 447.45"
   },
   {
-    "Location": 363,
-    "Name": "ITS Aztec, Tank Mtn",
+    "Location": 303,
+    "Name": "ITSAztec, Tank Mtn",
     "Frequency": 146.88,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5824,8 +4864,8 @@
     "Comment": "NM San Juan Aztec, Tank Mtn KB5ITS 146.88"
   },
   {
-    "Location": 364,
-    "Name": "ITS Bloomfield, Harris mesa",
+    "Location": 304,
+    "Name": "ITSBloomfield, Harris mesa",
     "Frequency": 147.1,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5840,8 +4880,8 @@
     "Comment": "NM San Juan Bloomfield, Harris mesa KB5ITS 147.1"
   },
   {
-    "Location": 365,
-    "Name": "ITS Bloomfield",
+    "Location": 305,
+    "Name": "ITSBloomfield",
     "Frequency": 448.65,
     "Duplex": "-",
     "Offset": 5,
@@ -5856,8 +4896,8 @@
     "Comment": "NM San Juan Bloomfield KB5ITS 448.65"
   },
   {
-    "Location": 366,
-    "Name": "ITS Farmington",
+    "Location": 306,
+    "Name": "ITSFarmington",
     "Frequency": 53.01,
     "Duplex": "-",
     "Offset": 1,
@@ -5872,8 +4912,8 @@
     "Comment": "NM San Juan Farmington KB5ITS 53.01"
   },
   {
-    "Location": 367,
-    "Name": "ITS Farmington",
+    "Location": 307,
+    "Name": "ITSFarmington",
     "Frequency": 146.76,
     "Duplex": "-",
     "Offset": 0.6,
@@ -5888,8 +4928,8 @@
     "Comment": "NM San Juan Farmington KB5ITS 146.76"
   },
   {
-    "Location": 368,
-    "Name": "ITS Farmington",
+    "Location": 308,
+    "Name": "ITSFarmington",
     "Frequency": 147,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5904,24 +4944,8 @@
     "Comment": "NM San Juan Farmington KB5ITS 147"
   },
   {
-    "Location": 369,
-    "Name": "DEM Pritchett,  Tator Butte",
-    "Frequency": 146.64,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Las Animas Pritchett,  Tator Butte KZ0DEM 146.64"
-  },
-  {
-    "Location": 370,
-    "Name": "DEM Springfield",
+    "Location": 309,
+    "Name": "DEMSpringfield",
     "Frequency": 449.2,
     "Duplex": "-",
     "Offset": 5,
@@ -5936,40 +4960,8 @@
     "Comment": "CO Baca Springfield KZ0DEM 449.2"
   },
   {
-    "Location": 371,
-    "Name": "DEM Springfield",
-    "Frequency": 147.09,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 118.8,
-    "cToneFreq": 118.8,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Baca Springfield KZ0DEM 147.09"
-  },
-  {
-    "Location": 372,
-    "Name": "DEM Springfield",
-    "Frequency": 147.33,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 118.8,
-    "cToneFreq": 118.8,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Baca Springfield KZ0DEM 147.33"
-  },
-  {
-    "Location": 373,
-    "Name": "0MR Paonia",
+    "Location": 310,
+    "Name": "0MRPaonia",
     "Frequency": 147.33,
     "Duplex": "+",
     "Offset": 0.6,
@@ -5984,8 +4976,8 @@
     "Comment": "CO Delta Paonia KI0MR 147.33"
   },
   {
-    "Location": 374,
-    "Name": "7GR Cheyenne, Chalk Bluffs",
+    "Location": 311,
+    "Name": "7GRCheyenne, Chalk Bluffs",
     "Frequency": 449.3,
     "Duplex": "-",
     "Offset": 5,
@@ -6000,8 +4992,8 @@
     "Comment": "WY Laramie Cheyenne, Chalk Bluffs WB7GR 449.3"
   },
   {
-    "Location": 375,
-    "Name": "7GR Scottsbluff, Stage Hill",
+    "Location": 312,
+    "Name": "7GRScottsbluff, Stage Hill",
     "Frequency": 444.125,
     "Duplex": "+",
     "Offset": 5,
@@ -6016,8 +5008,8 @@
     "Comment": "NE Scotts Bluff Scottsbluff, Stage Hill WB7GR 444.125"
   },
   {
-    "Location": 376,
-    "Name": "JTB Sterling, CO",
+    "Location": 313,
+    "Name": "JTBSterling, CO",
     "Frequency": 145.295,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6032,8 +5024,8 @@
     "Comment": "CO Logan Sterling, CO WA0JTB 145.295"
   },
   {
-    "Location": 377,
-    "Name": "5EM Des Moines, Sierra Grande",
+    "Location": 314,
+    "Name": "5EMDes Moines, Sierra Grande",
     "Frequency": 147.175,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6048,8 +5040,8 @@
     "Comment": "NM Union Des Moines, Sierra Grande NM5EM 147.175"
   },
   {
-    "Location": 378,
-    "Name": "5EM Eagle Nest, Touch Me Not",
+    "Location": 315,
+    "Name": "5EMEagle Nest, Touch Me Not",
     "Frequency": 147.04,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6064,104 +5056,8 @@
     "Comment": "NM Colfax Eagle Nest, Touch Me Not NM5EM 147.04"
   },
   {
-    "Location": 379,
-    "Name": "5EM Tres Piedras, San Antonio Mtn.",
-    "Frequency": 145.175,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 141.3,
-    "cToneFreq": 141.3,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM Taos Tres Piedras, San Antonio Mtn. NM5EM 145.175"
-  },
-  {
-    "Location": 380,
-    "Name": "5EM Wagon Mound, Turkey Mtn",
-    "Frequency": 145.37,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 141.3,
-    "cToneFreq": 141.3,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM Mora Wagon Mound, Turkey Mtn NM5EM 145.37"
-  },
-  {
-    "Location": 381,
-    "Name": "5EM Abiquiu, Cerro Pelon",
-    "Frequency": 147.04,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 141.3,
-    "cToneFreq": 141.3,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM Rio Arriba Abiquiu, Cerro Pelon NM5EM 147.04"
-  },
-  {
-    "Location": 382,
-    "Name": "5EM Cuba, Eureka Mesa",
-    "Frequency": 145.175,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 141.3,
-    "cToneFreq": 141.3,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM Sandoval Cuba, Eureka Mesa NM5EM 145.175"
-  },
-  {
-    "Location": 383,
-    "Name": "BOP Des Moines",
-    "Frequency": 146.85,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM Union Des Moines N5BOP 146.85"
-  },
-  {
-    "Location": 384,
-    "Name": "BOP Des Moines",
-    "Frequency": 444.8,
-    "Duplex": "+",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 77,
-    "cToneFreq": 77,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM Union Des Moines N5BOP 444.8"
-  },
-  {
-    "Location": 385,
-    "Name": "D0H Steamboat Springs",
+    "Location": 316,
+    "Name": "D0HSteamboat Springs",
     "Frequency": 147.21,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6176,8 +5072,8 @@
     "Comment": "CO Routt Steamboat Springs KD0H 147.21"
   },
   {
-    "Location": 386,
-    "Name": "SNO Cheyenne, Denver Hill",
+    "Location": 317,
+    "Name": "SNOCheyenne, Denver Hill",
     "Frequency": 146.775,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6192,8 +5088,8 @@
     "Comment": "WY Laramie Cheyenne, Denver Hill KC7SNO 146.775"
   },
   {
-    "Location": 387,
-    "Name": "SNO Cheyenne, North Park",
+    "Location": 318,
+    "Name": "SNOCheyenne, North Park",
     "Frequency": 147.105,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6208,8 +5104,8 @@
     "Comment": "WY Laramie Cheyenne, North Park KC7SNO 147.105"
   },
   {
-    "Location": 388,
-    "Name": "SNO Laramie, Beacon Hill",
+    "Location": 319,
+    "Name": "SNOLaramie, Beacon Hill",
     "Frequency": 146.82,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6224,8 +5120,8 @@
     "Comment": "WY Albany Laramie, Beacon Hill KC7SNO 146.82"
   },
   {
-    "Location": 389,
-    "Name": "SNO Albin",
+    "Location": 320,
+    "Name": "SNOAlbin",
     "Frequency": 147.165,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6240,8 +5136,8 @@
     "Comment": "WY Laramie Albin KC7SNO 147.165"
   },
   {
-    "Location": 390,
-    "Name": "SWR Cheyenne",
+    "Location": 321,
+    "Name": "SWRCheyenne",
     "Frequency": 145.235,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6256,24 +5152,8 @@
     "Comment": "WY Laramie Cheyenne KB7SWR 145.235"
   },
   {
-    "Location": 391,
-    "Name": "SWR Cheyenne",
-    "Frequency": 448.15,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "WY Laramie Cheyenne KB7SWR 448.15"
-  },
-  {
-    "Location": 392,
-    "Name": "JJY Cheyenne",
+    "Location": 322,
+    "Name": "JJYCheyenne",
     "Frequency": 449.9,
     "Duplex": "-",
     "Offset": 5,
@@ -6288,8 +5168,8 @@
     "Comment": "WY Laramie Cheyenne N7JJY 449.9"
   },
   {
-    "Location": 393,
-    "Name": "DHF Cheyenne, Old airport control tower",
+    "Location": 323,
+    "Name": "DHFCheyenne, Old airport control tower",
     "Frequency": 448.95,
     "Duplex": "-",
     "Offset": 5,
@@ -6304,8 +5184,8 @@
     "Comment": "WY Laramie Cheyenne, Old airport control tower KC7DHF 448.95"
   },
   {
-    "Location": 394,
-    "Name": "GDR Cimarron",
+    "Location": 324,
+    "Name": "GDRCimarron",
     "Frequency": 145.21,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6320,8 +5200,8 @@
     "Comment": "NM Colfax Cimarron N5GDR 145.21"
   },
   {
-    "Location": 395,
-    "Name": "TSV Taos, Wheeler Peak",
+    "Location": 325,
+    "Name": "TSVTaos, Wheeler Peak",
     "Frequency": 444.975,
     "Duplex": "+",
     "Offset": 5,
@@ -6336,8 +5216,8 @@
     "Comment": "NM Taos Taos, Wheeler Peak N5TSV 444.975"
   },
   {
-    "Location": 396,
-    "Name": "5SF Chama, Overlook Mtn",
+    "Location": 326,
+    "Name": "5SFChama, Overlook Mtn",
     "Frequency": 147.08,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6352,24 +5232,8 @@
     "Comment": "NM Rio Arriba Chama, Overlook Mtn W5SF 147.08"
   },
   {
-    "Location": 397,
-    "Name": "SWE Rifle",
-    "Frequency": 146.76,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Garfield Rifle N0SWE 146.76"
-  },
-  {
-    "Location": 398,
-    "Name": "OPD Montrose",
+    "Location": 327,
+    "Name": "OPDMontrose",
     "Frequency": 146.79,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6384,8 +5248,8 @@
     "Comment": "CO Montrose Montrose KD5OPD 146.79"
   },
   {
-    "Location": 399,
-    "Name": "UUX Montrose",
+    "Location": 328,
+    "Name": "UUXMontrose",
     "Frequency": 146.91,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6400,56 +5264,8 @@
     "Comment": "CO Montrose Montrose KC0UUX 146.91"
   },
   {
-    "Location": 400,
-    "Name": "ALC Cedaredge",
-    "Frequency": 147.36,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Delta Cedaredge W0ALC 147.36"
-  },
-  {
-    "Location": 401,
-    "Name": "ALC Cedaredge",
-    "Frequency": 449.825,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Delta Cedaredge W0ALC 449.825"
-  },
-  {
-    "Location": 402,
-    "Name": "QXX Cedaredge, Cedar Mesa",
-    "Frequency": 147.195,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Delta Cedaredge, Cedar Mesa KC0QXX 147.195"
-  },
-  {
-    "Location": 403,
-    "Name": "WPM Tribune",
+    "Location": 329,
+    "Name": "WPMTribune",
     "Frequency": 442.175,
     "Duplex": "+",
     "Offset": 5,
@@ -6464,8 +5280,8 @@
     "Comment": "KS Greeley Tribune K0WPM 442.175"
   },
   {
-    "Location": 404,
-    "Name": "7UW Laramie, Jelm Mountain",
+    "Location": 330,
+    "Name": "7UWLaramie, Jelm Mountain",
     "Frequency": 147.015,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6480,8 +5296,8 @@
     "Comment": "WY Albany Laramie, Jelm Mountain N7UW 147.015"
   },
   {
-    "Location": 405,
-    "Name": "7UW Laramie, University",
+    "Location": 331,
+    "Name": "7UWLaramie, University",
     "Frequency": 146.61,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6496,8 +5312,8 @@
     "Comment": "WY Albany Laramie, University N7UW 146.61"
   },
   {
-    "Location": 406,
-    "Name": "JSP Pagosa Springs, Oakbrush Hill",
+    "Location": 332,
+    "Name": "JSPPagosa Springs, Oakbrush Hill",
     "Frequency": 146.61,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6512,56 +5328,8 @@
     "Comment": "CO Archuleta Pagosa Springs, Oakbrush Hill N0JSP 146.61"
   },
   {
-    "Location": 407,
-    "Name": "0SW Collbran",
-    "Frequency": 449.5,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Mesa Collbran KB0SW 449.5"
-  },
-  {
-    "Location": 408,
-    "Name": "0SW Grand Junction",
-    "Frequency": 449,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Mesa Grand Junction KB0SW 449"
-  },
-  {
-    "Location": 409,
-    "Name": "EOC Laramie, Pilot Hill",
-    "Frequency": 447.225,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "WY Albany Laramie, Pilot Hill WY7EOC 447.225"
-  },
-  {
-    "Location": 410,
-    "Name": "ECT Syracuse",
+    "Location": 333,
+    "Name": "ECTSyracuse",
     "Frequency": 444,
     "Duplex": "+",
     "Offset": 5,
@@ -6576,8 +5344,8 @@
     "Comment": "KS Hamilton Syracuse K0ECT 444"
   },
   {
-    "Location": 411,
-    "Name": "ECT Colby",
+    "Location": 334,
+    "Name": "ECTColby",
     "Frequency": 444.4,
     "Duplex": "+",
     "Offset": 5,
@@ -6592,8 +5360,8 @@
     "Comment": "KS Thomas Colby K0ECT 444.4"
   },
   {
-    "Location": 412,
-    "Name": "ECT Ulysses",
+    "Location": 335,
+    "Name": "ECTUlysses",
     "Frequency": 147.06,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6608,8 +5376,8 @@
     "Comment": "KS Grant Ulysses K0ECT 147.06"
   },
   {
-    "Location": 413,
-    "Name": "ECT Elkader",
+    "Location": 336,
+    "Name": "ECTElkader",
     "Frequency": 444.3,
     "Duplex": "+",
     "Offset": 5,
@@ -6624,8 +5392,8 @@
     "Comment": "KS Logan Elkader K0ECT 444.3"
   },
   {
-    "Location": 414,
-    "Name": "ECT Ulysses, Wagon Bed Springs",
+    "Location": 337,
+    "Name": "ECTUlysses, Wagon Bed Springs",
     "Frequency": 444.525,
     "Duplex": "+",
     "Offset": 5,
@@ -6640,8 +5408,8 @@
     "Comment": "KS Grant Ulysses, Wagon Bed Springs K0ECT 444.525"
   },
   {
-    "Location": 415,
-    "Name": "ECT Liberal",
+    "Location": 338,
+    "Name": "ECTLiberal",
     "Frequency": 443.1,
     "Duplex": "+",
     "Offset": 5,
@@ -6656,8 +5424,8 @@
     "Comment": "KS Seward Liberal K0ECT 443.1"
   },
   {
-    "Location": 416,
-    "Name": "LEM Angel Fire, Agua Fria Peak",
+    "Location": 339,
+    "Name": "LEMAngel Fire, Agua Fria Peak",
     "Frequency": 147.34,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6672,8 +5440,8 @@
     "Comment": "NM Colfax Angel Fire, Agua Fria Peak N5LEM 147.34"
   },
   {
-    "Location": 417,
-    "Name": "VJR Wallace",
+    "Location": 340,
+    "Name": "VJRWallace",
     "Frequency": 444.6,
     "Duplex": "+",
     "Offset": 5,
@@ -6688,24 +5456,8 @@
     "Comment": "KS Wallace Wallace WA0VJR 444.6"
   },
   {
-    "Location": 418,
-    "Name": "UWR Laramie,  Pilot Hill",
-    "Frequency": 53.03,
-    "Duplex": "-",
-    "Offset": 1,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "WY Albany Laramie,  Pilot Hill K7UWR 53.03"
-  },
-  {
-    "Location": 419,
-    "Name": "TAO Syracuse",
+    "Location": 341,
+    "Name": "TAOSyracuse",
     "Frequency": 146.775,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6720,8 +5472,8 @@
     "Comment": "KS Hamilton Syracuse KA0TAO 146.775"
   },
   {
-    "Location": 420,
-    "Name": "5SJ Dulce",
+    "Location": 342,
+    "Name": "5SJDulce",
     "Frequency": 145.43,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6736,8 +5488,8 @@
     "Comment": "NM Rio Arriba Dulce NM5SJ 145.43"
   },
   {
-    "Location": 421,
-    "Name": "5SJ Nebo, Cedar Hill",
+    "Location": 343,
+    "Name": "5SJNebo, Cedar Hill",
     "Frequency": 147.06,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6752,8 +5504,8 @@
     "Comment": "NM San Juan Nebo, Cedar Hill NM5SJ 147.06"
   },
   {
-    "Location": 422,
-    "Name": "5SJ Aztec",
+    "Location": 344,
+    "Name": "5SJAztec",
     "Frequency": 146.74,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6768,8 +5520,8 @@
     "Comment": "NM San Juan Aztec NM5SJ 146.74"
   },
   {
-    "Location": 423,
-    "Name": "5SJ Lybrook",
+    "Location": 345,
+    "Name": "5SJLybrook",
     "Frequency": 145.49,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6784,24 +5536,8 @@
     "Comment": "NM Rio Arriba Lybrook NM5SJ 145.49"
   },
   {
-    "Location": 424,
-    "Name": "GLD Goodland",
-    "Frequency": 147.03,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "KS Sherman Goodland KS0GLD 147.03"
-  },
-  {
-    "Location": 425,
-    "Name": "ITT Silverton, Engineer Mountain",
+    "Location": 346,
+    "Name": "ITTSilverton, Engineer Mountain",
     "Frequency": 147.27,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6816,24 +5552,8 @@
     "Comment": "CO San Juan Silverton, Engineer Mountain KB5ITT 147.27"
   },
   {
-    "Location": 426,
-    "Name": "JUN Holyoke",
-    "Frequency": 146.955,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Phillips Holyoke N0JUN 146.955"
-  },
-  {
-    "Location": 427,
-    "Name": "0BX Grand Junction, Grand Mesa",
+    "Location": 347,
+    "Name": "0BXGrand Junction, Grand Mesa",
     "Frequency": 446.9125,
     "Duplex": "-",
     "Offset": 5,
@@ -6848,24 +5568,8 @@
     "Comment": "CO Mesa Grand Junction, Grand Mesa W0BX 446.9125"
   },
   {
-    "Location": 428,
-    "Name": "HAM Craig",
-    "Frequency": 145.265,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Moffat Craig WD0HAM 145.265"
-  },
-  {
-    "Location": 429,
-    "Name": "0EP Durango, Missionary Ridge",
+    "Location": 348,
+    "Name": "0EPDurango, Missionary Ridge",
     "Frequency": 146.7,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6880,8 +5584,8 @@
     "Comment": "CO La Plata Durango, Missionary Ridge K0EP 146.7"
   },
   {
-    "Location": 430,
-    "Name": "0EP Durango",
+    "Location": 349,
+    "Name": "0EPDurango",
     "Frequency": 449.85,
     "Duplex": "-",
     "Offset": 5,
@@ -6896,8 +5600,8 @@
     "Comment": "CO La Plata Durango K0EP 449.85"
   },
   {
-    "Location": 431,
-    "Name": "0EP Durango, Eagle Pass",
+    "Location": 350,
+    "Name": "0EPDurango, Eagle Pass",
     "Frequency": 146.67,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6912,8 +5616,8 @@
     "Comment": "CO La Plata Durango, Eagle Pass K0EP 146.67"
   },
   {
-    "Location": 432,
-    "Name": "5PX Dixon, Cerro Abajo",
+    "Location": 351,
+    "Name": "5PXDixon, Cerro Abajo",
     "Frequency": 147.18,
     "Duplex": "+",
     "Offset": 0.6,
@@ -6928,8 +5632,8 @@
     "Comment": "NM Rio Arriba Dixon, Cerro Abajo KD5PX 147.18"
   },
   {
-    "Location": 433,
-    "Name": "NEB Harrisburg",
+    "Location": 352,
+    "Name": "NEBHarrisburg",
     "Frequency": 147,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6944,24 +5648,8 @@
     "Comment": "NE Banner Harrisburg N0NEB 147"
   },
   {
-    "Location": 434,
-    "Name": "JNI Wagon Mound",
-    "Frequency": 444.4,
-    "Duplex": "+",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM Mora Wagon Mound N7JNI 444.4"
-  },
-  {
-    "Location": 435,
-    "Name": "GJT Grand Junction",
+    "Location": 353,
+    "Name": "GJTGrand Junction",
     "Frequency": 448.15,
     "Duplex": "-",
     "Offset": 5,
@@ -6976,8 +5664,8 @@
     "Comment": "CO Mesa Grand Junction W0GJT 448.15"
   },
   {
-    "Location": 436,
-    "Name": "GJT Grand Junction",
+    "Location": 354,
+    "Name": "GJTGrand Junction",
     "Frequency": 146.82,
     "Duplex": "-",
     "Offset": 0.6,
@@ -6992,8 +5680,8 @@
     "Comment": "CO Mesa Grand Junction W0GJT 146.82"
   },
   {
-    "Location": 437,
-    "Name": "EVE Durango",
+    "Location": 355,
+    "Name": "EVEDurango",
     "Frequency": 448.625,
     "Duplex": "-",
     "Offset": 5,
@@ -7008,8 +5696,8 @@
     "Comment": "CO La Plata Durango KC5EVE 448.625"
   },
   {
-    "Location": 438,
-    "Name": "RRZ Grand Junction, GJT",
+    "Location": 356,
+    "Name": "RRZGrand Junction, GJT",
     "Frequency": 145.175,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7024,8 +5712,8 @@
     "Comment": "CO Mesa Grand Junction, GJT W0RRZ 145.175"
   },
   {
-    "Location": 439,
-    "Name": "RRZ Grand Junction, Black Ridge (Above Colorado Ntl Monument)",
+    "Location": 357,
+    "Name": "RRZGrand Junction, Black Ridge (Above Colorado Ntl Monument)",
     "Frequency": 146.94,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7040,40 +5728,8 @@
     "Comment": "CO Mesa Grand Junction, Black Ridge (Above Colorado Ntl Monument) W0RRZ 146.94"
   },
   {
-    "Location": 440,
-    "Name": "0TY Grand Junction",
-    "Frequency": 145.22,
-    "Duplex": "-",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Mesa Grand Junction KE0TY 145.22"
-  },
-  {
-    "Location": 441,
-    "Name": "0TY Grand Junction",
-    "Frequency": 147.39,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 107.2,
-    "cToneFreq": 107.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Mesa Grand Junction KE0TY 147.39"
-  },
-  {
-    "Location": 442,
-    "Name": "SMZ Grand Junction",
+    "Location": 358,
+    "Name": "SMZGrand Junction",
     "Frequency": 449.775,
     "Duplex": "-",
     "Offset": 5,
@@ -7088,8 +5744,8 @@
     "Comment": "CO Mesa Grand Junction KD0SMZ 449.775"
   },
   {
-    "Location": 443,
-    "Name": "RED Grand Junction",
+    "Location": 359,
+    "Name": "REDGrand Junction",
     "Frequency": 446.775,
     "Duplex": "-",
     "Offset": 5,
@@ -7104,24 +5760,8 @@
     "Comment": "CO Mesa Grand Junction KD0RED 446.775"
   },
   {
-    "Location": 444,
-    "Name": "ARV Grand Junction",
-    "Frequency": 447.5,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 114.8,
-    "cToneFreq": 114.8,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Mesa Grand Junction KC0ARV 447.5"
-  },
-  {
-    "Location": 445,
-    "Name": "SSI Grand Junction",
+    "Location": 360,
+    "Name": "SSIGrand Junction",
     "Frequency": 147.105,
     "Duplex": "+",
     "Offset": 0.6,
@@ -7136,8 +5776,8 @@
     "Comment": "CO Mesa Grand Junction K0SSI 147.105"
   },
   {
-    "Location": 446,
-    "Name": "OMC Lakin",
+    "Location": 361,
+    "Name": "OMCLakin",
     "Frequency": 146.985,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7152,24 +5792,8 @@
     "Comment": "KS Kearney Lakin N0OMC 146.985"
   },
   {
-    "Location": 447,
-    "Name": "V8Q Colby, K-Link",
-    "Frequency": 444.75,
-    "Duplex": "+",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 162.2,
-    "cToneFreq": 162.2,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "KS Thomas Colby, K-Link NV8Q 444.75"
-  },
-  {
-    "Location": 448,
-    "Name": "VIU Hesperus",
+    "Location": 362,
+    "Name": "VIUHesperus",
     "Frequency": 145.37,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7184,8 +5808,8 @@
     "Comment": "CO La Plata Hesperus KB0VIU 145.37"
   },
   {
-    "Location": 449,
-    "Name": "W0K Colby",
+    "Location": 363,
+    "Name": "W0KColby",
     "Frequency": 146.82,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7200,8 +5824,8 @@
     "Comment": "KS Thomas Colby NW0K 146.82"
   },
   {
-    "Location": 450,
-    "Name": "OQA Scott City",
+    "Location": 364,
+    "Name": "OQAScott City",
     "Frequency": 146.7,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7216,8 +5840,8 @@
     "Comment": "KS Scott Scott City WA0OQA 146.7"
   },
   {
-    "Location": 451,
-    "Name": "OQA Garden City",
+    "Location": 365,
+    "Name": "OQAGarden City",
     "Frequency": 146.91,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7232,8 +5856,8 @@
     "Comment": "KS Finney Garden City WA0OQA 146.91"
   },
   {
-    "Location": 452,
-    "Name": "0MI Scott City, K-Link",
+    "Location": 366,
+    "Name": "0MIScott City, K-Link",
     "Frequency": 444.95,
     "Duplex": "+",
     "Offset": 5,
@@ -7248,8 +5872,8 @@
     "Comment": "KS Scott Scott City, K-Link W0MI 444.95"
   },
   {
-    "Location": 453,
-    "Name": "GCR Rawlins, Elk Mountain",
+    "Location": 367,
+    "Name": "GCRRawlins, Elk Mountain",
     "Frequency": 147.24,
     "Duplex": "+",
     "Offset": 0.6,
@@ -7264,8 +5888,8 @@
     "Comment": "WY Carbon Rawlins, Elk Mountain N7GCR 147.24"
   },
   {
-    "Location": 454,
-    "Name": "UBJ Mancos, Caviness Mountain",
+    "Location": 368,
+    "Name": "UBJMancos, Caviness Mountain",
     "Frequency": 446.7375,
     "Duplex": "-",
     "Offset": 5,
@@ -7280,8 +5904,8 @@
     "Comment": "CO Montezuma Mancos, Caviness Mountain N5UBJ 446.7375"
   },
   {
-    "Location": 455,
-    "Name": "UBJ Aztec",
+    "Location": 369,
+    "Name": "UBJAztec",
     "Frequency": 442.25,
     "Duplex": "+",
     "Offset": 5,
@@ -7296,8 +5920,8 @@
     "Comment": "NM San Juan Aztec N5UBJ 442.25"
   },
   {
-    "Location": 456,
-    "Name": "UBJ Farmington",
+    "Location": 370,
+    "Name": "UBJFarmington",
     "Frequency": 442.325,
     "Duplex": "+",
     "Offset": 5,
@@ -7312,40 +5936,8 @@
     "Comment": "NM San Juan Farmington N5UBJ 442.325"
   },
   {
-    "Location": 457,
-    "Name": "VBD Bloomfield, Harris Mesa",
-    "Frequency": 1292.3,
-    "Duplex": "-",
-    "Offset": 20,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "NM San Juan Bloomfield, Harris Mesa KF5VBD 1292.3"
-  },
-  {
-    "Location": 458,
-    "Name": "VBE Aztec",
-    "Frequency": 1291.1,
-    "Duplex": "-",
-    "Offset": 20,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "NM Bernalillo Aztec KF5VBE 1291.1"
-  },
-  {
-    "Location": 459,
-    "Name": "VBE Farmington",
+    "Location": 371,
+    "Name": "VBEFarmington",
     "Frequency": 145.115,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7360,8 +5952,8 @@
     "Comment": "NM San Juan Farmington KF5VBE 145.115"
   },
   {
-    "Location": 460,
-    "Name": "WXI Bloomfield",
+    "Location": 372,
+    "Name": "WXIBloomfield",
     "Frequency": 146.92,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7376,8 +5968,8 @@
     "Comment": "NM San Juan Bloomfield K5WXI 146.92"
   },
   {
-    "Location": 461,
-    "Name": "WXI Farmington",
+    "Location": 373,
+    "Name": "WXIFarmington",
     "Frequency": 146.85,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7392,8 +5984,8 @@
     "Comment": "NM San Juan Farmington K5WXI 146.85"
   },
   {
-    "Location": 462,
-    "Name": "UGO Ogallala",
+    "Location": 374,
+    "Name": "UGOOgallala",
     "Frequency": 146.76,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7408,8 +6000,8 @@
     "Comment": "NE Keith Ogallala N0UGO 146.76"
   },
   {
-    "Location": 463,
-    "Name": "LWU Cortez, Downtown",
+    "Location": 375,
+    "Name": "LWUCortez, Downtown",
     "Frequency": 146.79,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7424,24 +6016,8 @@
     "Comment": "CO Montezuma Cortez, Downtown KD5LWU 146.79"
   },
   {
-    "Location": 464,
-    "Name": "LWU Cortez",
-    "Frequency": 449.175,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 127.3,
-    "cToneFreq": 127.3,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "CO Montezuma Cortez KD5LWU 449.175"
-  },
-  {
-    "Location": 465,
-    "Name": "DFQ Guymon",
+    "Location": 376,
+    "Name": "DFQGuymon",
     "Frequency": 444.975,
     "Duplex": "+",
     "Offset": 5,
@@ -7456,8 +6032,8 @@
     "Comment": "OK Texas Guymon N5DFQ 444.975"
   },
   {
-    "Location": 466,
-    "Name": "DFQ Guymon",
+    "Location": 377,
+    "Name": "DFQGuymon",
     "Frequency": 147.15,
     "Duplex": "+",
     "Offset": 0.6,
@@ -7472,56 +6048,8 @@
     "Comment": "OK Texas Guymon N5DFQ 147.15"
   },
   {
-    "Location": 467,
-    "Name": "DFQ Spearman",
-    "Frequency": 442,
-    "Duplex": "+",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "TX Hansford Spearman N5DFQ 442"
-  },
-  {
-    "Location": 468,
-    "Name": "DFQ Spearman",
-    "Frequency": 147.04,
-    "Duplex": "+",
-    "Offset": 0.6,
-    "Tone": "Tone",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "TX Hansford Spearman N5DFQ 147.04"
-  },
-  {
-    "Location": 469,
-    "Name": "5WY Farmington",
-    "Frequency": 449,
-    "Duplex": "-",
-    "Offset": 5,
-    "Tone": "Tone",
-    "rToneFreq": 100,
-    "cToneFreq": 100,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "FM",
-    "TStep": 5,
-    "Comment": "NM San Juan Farmington K5WY 449"
-  },
-  {
-    "Location": 470,
-    "Name": "VBF Farmington",
+    "Location": 378,
+    "Name": "VBFFarmington",
     "Frequency": 444.15,
     "Duplex": "+",
     "Offset": 5,
@@ -7536,24 +6064,8 @@
     "Comment": "NM San Juan Farmington KF5VBF 444.15"
   },
   {
-    "Location": 471,
-    "Name": "VBF Farmington, Farmington Bluffs",
-    "Frequency": 1291.7,
-    "Duplex": "-",
-    "Offset": 20,
-    "Tone": "",
-    "rToneFreq": 88.5,
-    "cToneFreq": 88.5,
-    "DtcsCode": 23,
-    "DtcsRxCode": 23,
-    "DtcsPolarity": "NN",
-    "Mode": "DIG",
-    "TStep": 5,
-    "Comment": "NM San Juan Farmington, Farmington Bluffs KF5VBF 1291.7"
-  },
-  {
-    "Location": 472,
-    "Name": "KKS Liberal",
+    "Location": 379,
+    "Name": "KKSLiberal",
     "Frequency": 146.805,
     "Duplex": "-",
     "Offset": 0.6,
@@ -7568,8 +6080,8 @@
     "Comment": "KS Seward Liberal W0KKS 146.805"
   },
   {
-    "Location": 473,
-    "Name": "WBK Spearman",
+    "Location": 380,
+    "Name": "WBKSpearman",
     "Frequency": 443.2,
     "Duplex": "+",
     "Offset": 5,

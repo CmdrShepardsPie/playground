@@ -47,7 +47,7 @@ async function doIt(file: string) {
   const repeaters = JSON.parse(fileData.toString()) as IRepeater[];
 
   const mapped = repeaters
-    // .filter((r) => r.Call && r.Use === "OPEN" && r["Op Status"] === "On-Air" &&
+    .filter((r) => r.Call && r.Use === "OPEN" && r["Op Status"] === "On-Air") // &&
     //   r.Frequency > 100 && r.Frequency < 500 &&
     //   !r["D-STAR Enabled"] && !r["DMR Enabled"] && !r["P25 Digital Enabled"] && !r["YSF Digital Enabled"] &&
     //   !/D\d/.test(r.Tone.toString()))
@@ -62,7 +62,7 @@ function makeRow(item: IRepeater) {
   const isDigital = Object.entries(item).filter((a) => /Enabled/.test(a[0])).length > 0;
   const isNarrow = Object.entries(item).filter((a) => /Narrow/i.test(a[1] as string)).length > 0;
 
-  const Name = item.Call.substr(-3) + " " +
+  const Name = item.Call.substr(-3) + "" +
     item.Location;
       // .split(/[ ,]/)
       // .filter((g) => g)

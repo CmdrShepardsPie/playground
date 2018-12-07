@@ -24,6 +24,7 @@ async function doIt(file) {
     const fileData = await fs_helpers_1.readFileAsync(`repeaters/${file}.json`);
     const repeaters = JSON.parse(fileData.toString());
     const mapped = repeaters
+        .filter((r) => r.Call && r.Use === "OPEN" && r["Op Status"] === "On-Air")
         .map((d, i) => ({ ...makeRow(d), Location: i }));
     return await fs_helpers_1.writeToJsonAndCsv(`repeaters/chirp/${file}`, mapped);
 }
@@ -31,7 +32,7 @@ function makeRow(item) {
     const DTCS = /D(\d+)/;
     const isDigital = Object.entries(item).filter((a) => /Enabled/.test(a[0])).length > 0;
     const isNarrow = Object.entries(item).filter((a) => /Narrow/i.test(a[1])).length > 0;
-    const Name = item.Call.substr(-3) + " " +
+    const Name = item.Call.substr(-3) + "" +
         item.Location;
     const Frequency = item.Frequency;
     const Duplex = item.Offset > 0 ? "+" : item.Offset < 0 ? "-" : "";
