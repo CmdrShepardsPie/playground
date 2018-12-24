@@ -24,7 +24,6 @@ async function doIt(file) {
     const fileData = await fs_helpers_1.readFileAsync(`repeaters/${file}.json`);
     const repeaters = JSON.parse(fileData.toString());
     const mapped = repeaters
-        .filter((r) => r.Call && r.Use === "OPEN" && r["Op Status"] === "On-Air")
         .map((d, i) => ({ ...makeRow(d), Location: i }));
     return await fs_helpers_1.writeToJsonAndCsv(`repeaters/chirp/${file}`, mapped);
 }
@@ -32,8 +31,14 @@ function makeRow(item) {
     const DTCS = /D(\d+)/;
     const isDigital = Object.entries(item).filter((a) => /Enabled/.test(a[0])).length > 0;
     const isNarrow = Object.entries(item).filter((a) => /Narrow/i.test(a[1])).length > 0;
-    const Name = item.Call.substr(-3) + "" +
-        item.Location;
+    const Name = item.Call
+        .toLocaleUpperCase()
+        .trim()
+        .substr(-3)
+        + "" +
+        item.Location
+            .toLocaleLowerCase()
+            .trim();
     const Frequency = item.Frequency;
     const Duplex = item.Offset > 0 ? "+" : item.Offset < 0 ? "-" : "";
     const Offset = Math.abs(item.Offset);
@@ -45,13 +50,13 @@ function makeRow(item) {
     let DtcsRxCode = "";
     let Tone = "";
     const Mode = isDigital ? "DIG" : isNarrow ? "NFM" : "FM";
-    const Comment = `${item["ST/PR"]} ${item.County} ${item.Location} ${item.Call} ${item.Frequency}`;
+    const Comment = `${item["ST/PR"]} ${item.County} ${item.Location} ${item.Call} ${item.Frequency} ${item.Use || ""} ${item["Op Status"] || ""}`;
     if (typeof UplinkTone === "number") {
         rToneFreq = UplinkTone;
         cToneFreq = UplinkTone;
         Tone = "Tone";
     }
-    else {
+    else if (UplinkTone !== undefined) {
         const d = DTCS.exec(UplinkTone);
         if (d && d[1]) {
             const n = parseInt(d[1], 10);
@@ -64,6 +69,7 @@ function makeRow(item) {
     }
     if (typeof DownlinkTone === "number") {
         cToneFreq = DownlinkTone;
+        Tone = "TSQL";
     }
     else if (DownlinkTone !== undefined) {
         const d = DTCS.exec(DownlinkTone);
@@ -71,20 +77,18 @@ function makeRow(item) {
             const n = parseInt(d[1], 10);
             if (!isNaN(n)) {
                 DtcsRxCode = n;
+                Tone = "DTCS";
             }
         }
     }
-    if (Tone === "TSQL" && rToneFreq !== cToneFreq) {
-        if (!rToneFreq) {
-        }
-        else {
-        }
+    if (rToneFreq !== cToneFreq) {
+        Tone = "Cross";
     }
     cToneFreq = cToneFreq || 88.5;
     rToneFreq = rToneFreq || 88.5;
     DtcsCode = DtcsCode || 23;
     DtcsRxCode = DtcsRxCode || 23;
-    const row = {
+    return {
         ...chirp,
         Name,
         Frequency,
@@ -98,7 +102,6 @@ function makeRow(item) {
         Mode,
         Comment,
     };
-    return row;
 }
 async function start() {
     await doIt("groups/CO/Colorado Springs - Call");

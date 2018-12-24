@@ -2,7 +2,6 @@ import "module-alias/register";
 
 import {readFileAsync, writeToJsonAndCsv} from "@helpers/fs-helpers";
 import {createLog} from "@helpers/node-logger";
-import chalk from "chalk";
 import {IRepeater} from "./modules/i.repeater";
 
 const log = createLog("Make Chirp");
@@ -47,10 +46,7 @@ async function doIt(file: string) {
   const repeaters = JSON.parse(fileData.toString()) as IRepeater[];
 
   const mapped = repeaters
-    .filter((r) => r.Call && r.Use === "OPEN" && r["Op Status"] === "On-Air") // &&
-    //   r.Frequency > 100 && r.Frequency < 500 &&
-    //   !r["D-STAR Enabled"] && !r["DMR Enabled"] && !r["P25 Digital Enabled"] && !r["YSF Digital Enabled"] &&
-    //   !/D\d/.test(r.Tone.toString()))
+  // .filter((r) => r.Call && r.Use === "OPEN" && r["Op Status"] === "On-Air")
     .map((d, i) => ({ ...makeRow(d), Location: i }));
 
   return await writeToJsonAndCsv(`repeaters/chirp/${file}`, mapped);
@@ -62,12 +58,14 @@ function makeRow(item: IRepeater) {
   const isDigital = Object.entries(item).filter((a) => /Enabled/.test(a[0])).length > 0;
   const isNarrow = Object.entries(item).filter((a) => /Narrow/i.test(a[1] as string)).length > 0;
 
-  const Name = item.Call.substr(-3) + "" +
-    item.Location;
-      // .split(/[ ,]/)
-      // .filter((g) => g)
-      // .map((g) => g[0].toUpperCase() + g.substr(1).toLowerCase())
-      // .join(" ");
+  const Name = item.Call
+      .toLocaleUpperCase()
+      .trim()
+      .substr(-3)
+    + "" +
+    item.Location
+      .toLocaleLowerCase()
+      .trim();
 
   const Frequency = item.Frequency;
   const Duplex = item.Offset > 0 ? "+" : item.Offset < 0 ? "-" : "";
@@ -80,13 +78,13 @@ function makeRow(item: IRepeater) {
   let DtcsRxCode: any = "";
   let Tone = "";
   const Mode = isDigital ? "DIG" : isNarrow ? "NFM" : "FM";
-  const Comment = `${item["ST/PR"]} ${item.County} ${item.Location} ${item.Call} ${item.Frequency}`;
+  const Comment = `${item["ST/PR"]} ${item.County} ${item.Location} ${item.Call} ${item.Frequency} ${item.Use || ""} ${item["Op Status"] || ""}`;
 
   if (typeof UplinkTone === "number") {
     rToneFreq = UplinkTone;
     cToneFreq = UplinkTone;
     Tone = "Tone";
-  } else {
+  } else if (UplinkTone !== undefined) {
     const d = DTCS.exec(UplinkTone);
     if (d && d[1]) {
       const n = parseInt(d[1], 10);
@@ -100,29 +98,20 @@ function makeRow(item: IRepeater) {
 
   if (typeof DownlinkTone === "number") {
     cToneFreq = DownlinkTone;
-    // TODO: Uncomment, temporarily disable tones to test over-filtering
-    // Tone = "TSQL";
+    Tone = "TSQL";
   } else if (DownlinkTone !== undefined) {
     const d = DTCS.exec(DownlinkTone);
     if (d && d[1]) {
       const n = parseInt(d[1], 10);
       if (!isNaN(n)) {
         DtcsRxCode = n;
-        // TODO: Uncomment, temporarily disable tones to test over-filtering
-        // Tone = "DTCS";
+        Tone = "DTCS";
       }
     }
   }
 
-  if (Tone === "TSQL" && rToneFreq !== cToneFreq) {
-    if (!rToneFreq) {
-      // console.log('No rToneFreq', Name, Frequency, rToneFreq, cToneFreq, Comment);
-      // Tone = '';
-    } else {
-      // console.log('Cross', Name, Frequency, rToneFreq, cToneFreq, Comment);
-      // TODO: Uncomment, temporarily disable tones to test over-filtering
-      // Tone = "Cross";
-    }
+  if (rToneFreq !== cToneFreq) {
+    Tone = "Cross";
   }
 
   cToneFreq = cToneFreq || 88.5;
@@ -130,7 +119,8 @@ function makeRow(item: IRepeater) {
   DtcsCode = DtcsCode || 23;
   DtcsRxCode = DtcsRxCode || 23;
 
-  const row: IChirp = {
+  // log(chalk.green("Made Row"), row);
+  return {
     ...chirp as any,
     // Location,
     Name,
@@ -145,8 +135,6 @@ function makeRow(item: IRepeater) {
     Mode,
     Comment,
   };
-  // log(chalk.green("Made Row"), row);
-  return row;
 }
 
 async function start() {
