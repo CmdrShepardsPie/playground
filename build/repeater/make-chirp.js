@@ -37,6 +37,7 @@ function makeRow(item) {
         .substr(-3)
         + "" +
         item.Location
+            .replace(" ", "")
             .toLocaleLowerCase()
             .trim();
     const Frequency = item.Frequency;
@@ -104,7 +105,15 @@ function makeRow(item) {
     };
 }
 async function start() {
-    await doIt("groups/CO/Colorado Springs - Call");
-    await doIt("data/CO/Colorado Springs");
+    const coFiles = (await fs_helpers_1.readdirAsync("./repeaters/data/CO/")).map((f) => `data/CO/${f}`);
+    const utFiles = (await fs_helpers_1.readdirAsync("./repeaters/data/UT/")).map((f) => `data/UT/${f}`);
+    const nmFiles = (await fs_helpers_1.readdirAsync("./repeaters/data/NM/")).map((f) => `data/NM/${f}`);
+    const coGroups = (await fs_helpers_1.readdirAsync("./repeaters/groups/CO/")).map((f) => `groups/CO/${f}`);
+    const utGroups = (await fs_helpers_1.readdirAsync("./repeaters/groups/UT/")).map((f) => `groups/UT/${f}`);
+    const nmGroups = (await fs_helpers_1.readdirAsync("./repeaters/groups/NM/")).map((f) => `groups/NM/${f}`);
+    const allFiles = [...coFiles, ...utFiles, ...nmFiles, ...coGroups, ...utGroups, ...nmGroups].filter((f) => /\.json$/.test(f)).map((f) => f.replace(".json", ""));
+    for (const file of allFiles) {
+        await doIt(file);
+    }
 }
 exports.default = start();

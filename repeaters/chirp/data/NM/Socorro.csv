@@ -1,0 +1,450 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsRxCode,DtcsPolarity,Mode,TStep,Comment
+0,"5EMsocorro,socorro peak",145.175,-,0.6,TSQL,141.3,141.3,23,23,NN,FM,5,"NM Socorro Socorro, Socorro Peak NM5EM 145.175 OPEN On-Air"
+1,"5MLsocorro,socorro peak",147.24,+,0.6,Cross,100,88.5,23,23,NN,FM,5,"NM Socorro Socorro, Socorro Peak NM5ML 147.24 OPEN On-Air"
+2,"AQAsocorro,m mountain",146.68,-,0.6,Cross,100,123,23,23,NN,FM,5,"NM Socorro Socorro, M Mountain W5AQA 146.68 OPEN On-Air"
+3,"AQAsocorro,m mountain",444.5,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Socorro Socorro, M Mountain W5AQA 444.5 OPEN On-Air"
+4,"QHSsocorro,west peak",444.75,+,5,Cross,100,88.5,23,23,NN,FM,5,"NM Socorro Socorro, West Peak WB5QHS 444.75 CLOSED On-Air"
+5,"OROsocorro,west peak",442.125,+,5,TSQL,123,123,23,23,NN,FM,5,"NM Socorro Socorro, West Peak KC5ORO 442.125 OPEN On-Air"
+6,"QHStor c, caballo pk",448.975,-,5,Tone,114.8,114.8,23,23,NN,FM,5,"NM Sierra T or C, Caballo Pk WB5QHS 448.975 PRIVATE On-Air"
+7,OURbelen,146.7,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Valencia Belen KC5OUR 146.7 OPEN On-Air
+8,NESmountainair,444.075,+,5,Tone,100,100,23,23,NN,FM,5,NM Torrance Mountainair W5NES 444.075 OPEN On-Air
+9,CULloslunas,442.225,+,5.1,,88.5,88.5,23,23,NN,FM,5,NM Valencia Los Lunas N5CUL 442.225 OPEN Off-Air
+10,TSVloslunas,444.125,+,5,Tone,100,100,23,23,NN,FM,5,NM Valencia Los Lunas WA5TSV 444.125 OPEN On-Air
+11,"URDbelen,capilla peak",444.525,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Torrance Belen, Capilla Peak K5URD 444.525 OPEN On-Air"
+12,"URRbelen,capilla peak",146.96,-,0.6,Cross,100,88.5,23,23,NN,FM,5,"NM Torrance Belen, Capilla Peak K5URR 146.96 OPEN On-Air"
+13,"5EMdatil,madre mtn.",147.32,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Catron Datil, Madre Mtn. NM5EM 147.32 OPEN On-Air"
+14,VJYalbuquerque,223.82,-,1.6,,88.5,88.5,23,23,NN,FM,5,NM Bernalillo Albuquerque WA5VJY 223.82 OPEN Off-Air
+15,"5MRwhitesands mountain range, salinas peak",29.68,-,0.1,Cross,100,88.5,23,23,NN,FM,5,"NM Sierra White Sands Mountain Range, Salinas Peak WS5MR 29.68 OPEN On-Air"
+16,"5MLdatil,luera peak",147.14,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Catron Datil, Luera Peak NM5ML 147.14 OPEN On-Air"
+17,B1Qisletapueblo,147.04,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Bernalillo Isleta Pueblo AB1Q 147.04 OPEN Off-Air
+18,"B1Qalbuquerque,isleta pueblo",442.15,+,5,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Isleta Pueblo AB1Q 442.15 OPEN Off-Air"
+19,"5MLdatil,davenport lookout",147.04,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Catron Datil, Davenport Lookout NM5ML 147.04 OPEN On-Air"
+20,"5EMcorona,gallinas peak",145.515,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Lincoln Corona, Gallinas Peak NM5EM 145.515 OPEN On-Air"
+21,"5MLcorona,gallinas peak",147.28,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Lincoln Corona, Gallinas Peak NM5ML 147.28 OPEN On-Air"
+22,"EARcaballo(truth or consequences), caballo lake",145.47,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Sierra Caballo (Truth Or Consequences), Caballo Lake K7EAR 145.47 OPEN On-Air"
+23,"5EMcaballo(truth or consequences), caballo peak",145.13,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Sierra Caballo (Truth Or Consequences), Caballo Peak NM5EM 145.13 OPEN On-Air"
+24,"QHStor c, caballo pk",448.175,-,5,Tone,100,100,23,23,NN,FM,5,"NM Sierra T or C, Caballo Pk WB5QHS 448.175 PRIVATE On-Air"
+25,"M5Ctor c, caballo lake",448.5,-,5,TSQL,100,100,23,23,NN,FM,5,"NM Sierra T or C, Caballo Lake NM5C 448.5 OPEN On-Air"
+26,"VPZmcintosh,mcintosh post office west",447.275,-,5,TSQL,71.9,71.9,23,23,NN,FM,5,"NM Torrance McIntosh, McIntosh Post office west KB5VPZ 447.275 OPEN On-Air"
+27,IHLalbuquerque,442.25,+,5,,88.5,88.5,23,23,NN,DIG,5,NM Bernalillo Albuquerque WA5IHL 442.25 OPEN On-Air
+28,"BIQalbuquerque,west mesa",442.05,+,5,TSQL,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, West Mesa K5BIQ 442.05 OPEN On-Air"
+29,"CQHtijeras,raven road",146.72,-,0.6,Cross,100,127.3,23,23,NN,FM,5,"NM Bernalillo Tijeras, Raven Road K5CQH 146.72 OPEN On-Air"
+30,"CQHtijeras,raven road",224,-,1.6,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Tijeras, Raven Road K5CQH 224 OPEN Off-Air"
+31,"FIQalbuquerque,op ctr",146.9,-,0.6,Tone,67,67,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Op Ctr K5FIQ 146.9 OPEN On-Air"
+32,"FIQalbuquerque, op ctr",449.55,-,5,Tone,71.9,71.9,23,23,NN,FM,5,"NM Bernalillo Albuquerque,  Op Ctr K5FIQ 449.55 OPEN On-Air"
+33,"FIQalbuquerque, op ctr",449.8,-,5,Tone,67,67,23,23,NN,FM,5,"NM Bernalillo Albuquerque,  Op Ctr K5FIQ 449.8 OPEN On-Air"
+34,"URRalbuquerque,op center",449.45,-,5,,88.5,88.5,23,23,NN,DIG,5,"NM Bernalillo Albuquerque, Op Center W5URR 449.45 OPEN On-Air"
+35,ERCalbuquerque,146.92,-,0.6,Tone,67,67,23,23,NN,FM,5,NM Bernalillo Albuquerque KF5ERC 146.92 OPEN Off-Air
+36,"FIQalbuquerque,northern sandia mountain top",442.45,+,5,TSQL,67,67,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Northern Sandia Mountain Top K5FIQ 442.45 OPEN On-Air"
+37,5XEalbuquerque,443.5,-,5,Tone,123,123,23,23,NN,FM,5,NM Bernalillo Albuquerque KE5XE 443.5 OPEN 
+38,"SCAalbuquerque,sandia crest",145.01,,0,,88.5,88.5,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Crest W5SCA 145.01 OPEN "
+39,"IHLalbuquerque,sandia mnts",145.29,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Mnts WA5IHL 145.29 OPEN On-Air"
+40,"ZXWalbuquerque,southeast",444.1,+,5,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Southeast KC5ZXW 444.1 OPEN On-Air"
+41,EZOalbuquerque,927.7,-,25,Tone,210.7,210.7,23,23,NN,FM,5,NM Bernalillo Albuquerque WB5EZO 927.7 OPEN Off-Air
+42,"PRNalbuquerque,unm campus",442.525,+,5,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, UNM Campus K5PRN 442.525 OPEN On-Air"
+43,ZXWalbuquerque,927.65,-,25,Tone,151.4,151.4,23,23,NN,FM,5,NM Bernalillo Albuquerque KC5ZXW 927.65 OPEN Off-Air
+44,5GUalbuquerque,147.38,+,0.6,,88.5,88.5,23,23,NN,FM,5,NM Bernalillo Albuquerque N5GU 147.38 OPEN On-Air
+45,"5GUalbuquerque,southeast",444.6,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Bernalillo Albuquerque, Southeast N5GU 444.6 OPEN On-Air"
+46,MHGalbuquerque,147.465,,0,Tone,88.5,88.5,23,23,NN,FM,5,NM Bernalillo Albuquerque W5MHG 147.465 OPEN On-Air
+47,"BIQtijeras,cedro peak",145.15,-,0.6,TSQL,100,100,23,23,NN,FM,5,"NM Bernalillo Tijeras, Cedro Peak K5BIQ 145.15 OPEN On-Air"
+48,MHQalbuquerque,146.74,-,0.6,Tone,146.2,146.2,23,23,NN,FM,5,NM Bernalillo Albuquerque KD5MHQ 146.74 OPEN On-Air
+49,"5MLtijeras,cedro peak",147.34,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Bernalillo Tijeras, Cedro Peak NM5ML 147.34 OPEN On-Air"
+50,5XEalbuquerque,147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Bernalillo Albuquerque KB5XE 147.36 OPEN Off-Air
+51,5SHalbuquerque,443.65,+,5,,88.5,88.5,23,23,NN,DIG,5,NM Bernalillo Albuquerque NM5SH 443.65 OPEN On-Air
+52,UGUalbuquerque,223.9,-,1.6,,88.5,88.5,23,23,NN,FM,5,NM Bernalillo Albuquerque KB5UGU 223.9 OPEN On-Air
+53,LXPalbuquerque,147.32,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Bernalillo Albuquerque K5LXP 147.32 OPEN On-Air
+54,"5MLtor c, caballo peak",147.26,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Sierra T Or C, Caballo Peak NM5ML 147.26 OPEN On-Air"
+55,JTMalbuquerque,224.58,-,1.6,Tone,100,100,23,23,NN,FM,5,NM Bernalillo Albuquerque KH6JTM 224.58 OPEN On-Air
+56,"RICruidoso,buck mtn",443.925,+,5,TSQL,100,100,23,23,NN,FM,5,"NM Lincoln Ruidoso, Buck Mtn K5RIC 443.925 OPEN On-Air"
+57,"5MLruidoso,buck mountain",444.375,+,5,Tone,67,67,23,23,NN,FM,5,"NM Lincoln Ruidoso, Buck Mountain NM5ML 444.375 OPEN On-Air"
+58,"RICnogal,nogal mesa",439.4,+,9,TSQL,100,100,23,23,NN,FM,5,"NM Lincoln Nogal, Nogal Mesa K5RIC 439.4 OPEN Off-Air"
+59,QIZalbuquerque,443.85,+,5,Tone,103.5,103.5,23,23,NN,FM,5,NM Bernalillo Albuquerque KC0QIZ 443.85 OPEN On-Air
+60,5HDriorancho,145.37,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,NM Sandoval Rio Rancho NM5HD 145.37 OPEN On-Air
+61,"BIQalbuquerque,bcfd fire station 35",145.13,-,0.6,TSQL,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, BCFD Fire Station 35 K5BIQ 145.13 OPEN On-Air"
+62,"LIEalbuquerque,northeast heights area",224.48,-,1.6,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Northeast Heights area K6LIE 224.48 OPEN On-Air"
+63,"CPUriorancho, intel corp",444.7,+,5,Tone,100,100,23,23,NN,FM,5,"NM Sandoval Rio Rancho, Intel Corp K5CPU 444.7 OPEN On-Air"
+64,"SLGriorancho, nm 528 and corrales rd",442.4,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Sandoval Rio Rancho, NM 528 and Corrales Rd KG5SLG 442.4 OPEN On-Air"
+65,AOXsandiapark,224.94,-,1.6,,88.5,88.5,23,23,NN,FM,5,NM Bernalillo Sandia Park W5AOX 224.94 OPEN Off-Air
+66,AOXsandiapark,444.15,+,5,Tone,100,100,23,23,NN,FM,5,NM Bernalillo Sandia park W5AOX 444.15 OPEN On-Air
+67,5QDcorrales,443.2,+,5,,88.5,88.5,23,23,NN,DIG,5,NM Sandoval Corrales N5QD 443.2 OPEN On-Air
+68,"FSBalbuquerque,sandia peak",442.6,+,5,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Peak K5FSB 442.6 OPEN On-Air"
+69,"GASalbuquerque,sandia crest",442.1,+,5,Tone,162.2,162.2,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Crest KB5GAS 442.1 OPEN On-Air"
+70,"IPKalbuquerque,sandia crest",442.75,+,5,Tone,162.2,162.2,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Crest KC5IPK 442.75 OPEN On-Air"
+71,"5MLalbuquerque,sandia crest",145.29,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Crest NM5ML 145.29 OPEN On-Air"
+72,"5MLalbuquerque,sandia crest",444.325,+,5,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Crest NM5ML 444.325 OPEN On-Air"
+73,"CSYalbuquerque,sandia crest",145.33,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Crest W5CSY 145.33 OPEN On-Air"
+74,"CSYalbuquerque,sandia crest",444,+,5,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Crest W5CSY 444 OPEN On-Air"
+75,"MPZalbuquerque,sandia crest",443.8,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Bernalillo Albuquerque, Sandia Crest W5MPZ 443.8 OPEN On-Air"
+76,QVNcapitan,146.61,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Lincoln Capitan KC5QVN 146.61 OPEN On-Air
+77,"JMWalbuquerque,sandia crest",442.9,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Bernalillo Albuquerque, Sandia Crest KA8JMW 442.9 OPEN On-Air"
+78,"5BLtor c, caballo pk",146.76,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Sierra T Or C, Caballo Pk N5BL 146.76 OPEN On-Air"
+79,"KREalbuquerque,sandia crest",443.3,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Bernalillo Albuquerque, Sandia Crest K5KRE 443.3 OPEN Testing"
+80,"IUZalbuquerque,sandia crest",51.7,-,1,Tone,156.7,156.7,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Crest WB5IUZ 51.7 OPEN Off-Air"
+81,"CCBalbuquerque,sandia peak",443.75,+,5,Tone,100,100,23,23,NN,FM,5,"NM Bernalillo Albuquerque, Sandia Peak WA6CCB 443.75 CLOSED Off-Air"
+82,"5NMruidoso,alto crest",146.92,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Lincoln Ruidoso, Alto Crest KR5NM 146.92 OPEN On-Air"
+83,IPKriorancho,442.75,+,5,Tone,162.2,162.2,23,23,NN,FM,5,NM Sandoval Rio Rancho KC5IPK 442.75 OPEN On-Air
+84,"5RRriorancho, rainbow",147.1,+,0.6,TSQL,100,100,23,23,NN,FM,5,"NM Sandoval Rio Rancho, Rainbow NM5RR 147.1 OPEN On-Air"
+85,"5RRriorancho, rainbow",443,+,5,Tone,100,100,23,23,NN,FM,5,"NM Sandoval Rio Rancho, Rainbow NM5RR 443 OPEN On-Air"
+86,TWYtularosa,147.08,+,0.6,Tone,123,123,23,23,NN,FM,5,NM Otero Tularosa W5TWY 147.08 OPEN On-Air
+87,TYWtularosa,443.9,+,5,Tone,100,100,23,23,NN,FM,5,NM Otero Tularosa W5TYW 443.9 OPEN 
+88,OLDriorancho,442.35,+,5,Tone,100,100,23,23,NN,FM,5,NM Sandoval Rio Rancho WA5OLD 442.35 OPEN On-Air
+89,"RICruidoso,buck mtn",146.98,-,0.6,TSQL,100,100,23,23,NN,FM,5,"NM Lincoln Ruidoso, Buck Mtn K5RIC 146.98 OPEN On-Air"
+90,5SNruidoso,443.6,+,5,Tone,85.4,85.4,23,23,NN,FM,5,NM Lincoln Ruidoso N5SN 443.6 OPEN On-Air
+91,"5NMruidoso,camelot",145.45,-,0.6,Tone,151.4,151.4,23,23,NN,FM,5,"NM Lincoln Ruidoso, Camelot KR5NM 145.45 OPEN Off-Air"
+92,"URRgrants,mw ridge",146.64,-,0.6,TSQL,67,67,23,23,NN,FM,5,"NM Bernalillo Grants, MW Ridge K5URR 146.64 OPEN On-Air"
+93,"5SCplacitas,la madera",147.08,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Sandoval Placitas, La Madera NM5SC 147.08 OPEN On-Air"
+94,"EKPgrants, mt taylor",146.94,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Cibola Grants,  Mt Taylor WB5EKP 146.94 OPEN On-Air"
+95,"5EMgrants,mt taylor",146.98,-,0.6,TSQL,141.3,141.3,23,23,NN,FM,5,"NM Cibola Grants, Mt Taylor NM5EM 146.98 OPEN On-Air"
+96,"AKWplacitas,sandia peak",443.4,+,5,Tone,100,100,23,23,NN,FM,5,"NM Sandoval Placitas, Sandia Peak K5AKW 443.4 OPEN On-Air"
+97,"FYLgrants,la mosca peak",444.95,+,5,Tone,100,100,23,23,NN,DIG,5,"NM Bernalillo Grants, La Mosca Peak KE5FYL 444.95 OPEN On-Air"
+98,"EMOgrants,515 west high street",444.975,+,5,TSQL,67,67,23,23,NN,FM,5,"NM Cibola Grants, 515 West High Street K5EMO 444.975 OPEN On-Air"
+99,FYLgrants,147.18,+,0.6,TSQL,100,100,23,23,NN,FM,5,NM Cibola Grants KE5FYL 147.18 OPEN On-Air
+100,"FYLgrants,rogers rock",444.65,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Bernalillo Grants, Rogers Rock KE5FYL 444.65 OPEN On-Air"
+101,"5MLgrants,microwave ridge",146.66,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Cibola Grants, Microwave Ridge NM5ML 146.66 OPEN On-Air"
+102,"5MLgrants,la mosca",444.8,+,5,Tone,67,67,23,23,NN,FM,5,"NM Cibola Grants, La Mosca NM5ML 444.8 OPEN On-Air"
+103,"EGFquemado,fox mtn",448.05,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"NM Catron Quemado, Fox Mtn WB7EGF 448.05 OPEN On-Air"
+104,LRWalamogordo,146.8,-,0.6,Tone,100,100,23,23,NN,DIG,5,NM Otero Alamogordo K5LRW 146.8 OPEN On-Air
+105,LRWalamogordo,444.825,+,5,Tone,67,67,23,23,NN,FM,5,NM Otero Alamogordo K5LRW 444.825 OPEN Off-Air
+106,BYLalamogordo,53.41,-,1,,88.5,88.5,23,23,NN,FM,5,NM Otero Alamogordo KA5BYL 53.41 OPEN On-Air
+107,BYLalamogordo,224.6,-,1.6,,88.5,88.5,23,23,NN,FM,5,NM Otero Alamogordo KA5BYL 224.6 OPEN 
+108,OWLalamogordo,146.9,-,0.6,Tone,77,77,23,23,NN,FM,5,NM Otero Alamogordo KC5OWL 146.9 OPEN On-Air
+109,OWLalamogordo,442.41,+,5,Tone,100,100,23,23,NN,FM,5,NM Otero Alamogordo KC5OWL 442.41 OPEN Off-Air
+110,CIDalamogordo,146.86,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Otero Alamogordo N6CID 146.86 OPEN 
+111,"DHSalamogordo,la luz",144.96,-,0.4,,88.5,88.5,23,23,NN,DIG,5,"NM Otero Alamogordo, La Luz W6DHS 144.96 OPEN On-Air"
+112,AKUhighrolls,442.8,-,5,Tone,100,100,23,23,NN,FM,5,NM Otero High Rolls W5AKU 442.8 OPEN On-Air
+113,"MQHhighrolls, cloudcroft/ alamogordo",147,+,0.6,TSQL,100,100,23,23,NN,DIG,5,"NM Otero High Rolls, Cloudcroft/ Alamogordo KF5MQH 147 OPEN On-Air"
+114,"IHLroswell,capitan peak",146.66,-,0.6,Tone,67,67,23,23,NN,FM,5,"NM Lincoln Roswell, Capitan Peak WA5IHL 146.66 OPEN On-Air"
+115,"FIQclinescorners, tapia mesa",147.06,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM San Miguel Clines Corners, Tapia Mesa K5FIQ 147.06 OPEN On-Air"
+116,"5EMcloudcroft,benson ridge",145.37,-,0.6,Tone,156.7,156.7,23,23,NN,FM,5,"NM Otero Cloudcroft, Benson Ridge NM5EM 145.37 OPEN On-Air"
+117,"IHLalamogordo,long ridge",145.35,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"NM Otero Alamogordo, Long Ridge WA5IHL 145.35 OPEN On-Air"
+118,"MIQalamogordo,alamo peak",147.22,+,0.6,TSQL,151.4,151.4,23,23,NN,FM,5,"NM Otero Alamogordo, Alamo Peak KE5MIQ 147.22 OPEN Off-Air"
+119,MIQjamesridge lookout,147.34,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Otero James Ridge Lookout KE5MIQ 147.34 OPEN On-Air
+120,"YEJsanluis, cabezon",443,+,5,Tone,100,100,23,23,NN,FM,5,"NM Sandoval San Luis, Cabezon K5YEJ 443 OPEN On-Air"
+121,"BENcloudcroft,benson ridge",145.23,-,0.6,Tone,123,123,23,23,NN,FM,5,"NM Otero Cloudcroft, Benson Ridge K5BEN 145.23 OPEN On-Air"
+122,LGOalamogordo,444.975,+,5,TSQL,100,100,23,23,NN,FM,5,NM Otero Alamogordo KF5LGO 444.975 OPEN On-Air
+123,CIDalamogordo,442.95,+,5,TSQL,85.4,85.4,23,23,NN,FM,5,NM Otero Alamogordo N6CID 442.95 OPEN On-Air
+124,GARreserve,147.38,+,0.6,Tone,103.5,103.5,23,23,NN,FM,5,NM Catron Reserve K5GAR 147.38 OPEN Off-Air
+125,"5EMreserve,frisco",147.34,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Catron Reserve, Frisco NM5EM 147.34 OPEN On-Air"
+126,QHSpinosaltos,448.3,-,5,Tone,100,100,23,23,NN,FM,5,NM Grant Pinos Altos WB5QHS 448.3 OPEN On-Air
+127,"5SCsanysidro, pajarito peak",443.1,+,5,Tone,100,100,23,23,NN,FM,5,"NM Sandoval San Ysidro, Pajarito Peak NM5SC 443.1 OPEN On-Air"
+128,SJQorgan,1293.9,-,20,Tone,127.3,127.3,23,23,NN,FM,5,NM Dona Ana Organ KC5SJQ 1293.9 OPEN On-Air
+129,5BLlascruces,146.64,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Dona Ana Las Cruces N5BL 146.64 OPEN On-Air
+130,"5BLlascruces, twin peaks",448.2,-,5,Tone,100,100,23,23,NN,FM,5,"NM Dona Ana Las Cruces, Twin Peaks N5BL 448.2 OPEN On-Air"
+131,SJQdonaana,224.34,-,1.6,,88.5,88.5,23,23,NN,FM,5,NM Dona Ana Dona Ana KC5SJQ 224.34 OPEN 
+132,"5MLreserve,frisco divide",147.36,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Catron Reserve, Frisco Divide NM5ML 147.36 OPEN On-Air"
+133,5MLpinosaltos,145.115,-,0.6,Tone,67,67,23,23,NN,FM,5,NM Grant Pinos Altos NM5ML 145.115 OPEN On-Air
+134,"MIQweed,weed lookout",146.96,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Otero Weed, Weed Lookout KE5MIQ 146.96 OPEN On-Air"
+135,"Y5Gglenwood,  brushy mountain",448.775,-,5,TSQL,103.5,103.5,23,23,NN,FM,5,"NM Catron Glenwood,   Brushy Mountain WY5G 448.775 OPEN On-Air"
+136,"GARsilvercity, black peak",146.98,-,0.6,Tone,103.5,103.5,23,23,NN,FM,5,"NM Grant Silver City, Black Peak K5GAR 146.98 OPEN On-Air"
+137,GARsilvercity,448.05,-,5,Tone,103.5,103.5,23,23,NN,FM,5,NM Grant Silver City K5GAR 448.05 OPEN On-Air
+138,ACAsilvercity,448.875,-,5,Tone,100,100,23,23,NN,FM,5,NM Grant Silver City WA7ACA 448.875 OPEN 
+139,Y5Gsilvercity,448.8,-,5,TSQL,100,100,23,23,NN,FM,5,NM Grant Silver City WY5G 448.8 OPEN On-Air
+140,ECSlascruces,146.94,-,0.6,,88.5,88.5,23,23,NN,FM,5,NM Dona Ana Las Cruces KA5ECS 146.94 OPEN 
+141,OTYlascruces,147.51,,0,TSQL,114.8,114.8,23,23,NN,FM,5,NM Dona Ana Las Cruces N5OTY 147.51 OPEN On-Air
+142,DXXlascruces,147.38,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Dona Ana Las Cruces W7DXX 147.38 OPEN 
+143,EVRlascruces,449.575,-,5,Tone,100,100,23,23,NN,FM,5,NM Dona Ana Las Cruces KC5EVR 449.575 OPEN 
+144,IEClascruces,449.8,-,5,Tone,100,100,23,23,NN,FM,5,NM Dona Ana Las Cruces KC5IEC 449.8 OPEN 
+145,IAClascruces,146.78,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Dona Ana Las Cruces N5IAC 146.78 OPEN 
+146,IAClascruces,223.94,-,1.6,,88.5,88.5,23,23,NN,FM,5,NM Dona Ana Las Cruces N5IAC 223.94 OPEN On-Air
+147,IAClascruces,447.5,-,5,,88.5,88.5,23,23,NN,FM,5,NM Dona Ana Las Cruces N5IAC 447.5 OPEN 
+148,5MLlascruces,147.18,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Dona Ana Las Cruces NM5ML 147.18 OPEN On-Air
+149,FBNlascruces,449.9,-,5,,88.5,88.5,23,23,NN,FM,5,NM Dona Ana Las Cruces WA8FBN 449.9 OPEN 
+150,GAJsantafe,449.275,-,5,Tone,146.2,146.2,23,23,NN,FM,5,NM Santa Fe Santa Fe K9GAJ 449.275 OPEN On-Air
+151,SGTsantafe,447.775,-,5,Tone,100,100,23,23,NN,FM,5,NM Santa Fe Santa Fe KF5SGT 447.775 OPEN On-Air
+152,5GBlascruces,146.84,-,0.6,,88.5,88.5,23,23,NN,DIG,5,NM Dona Ana Las Cruces W5GB 146.84 OPEN On-Air
+153,"5SFsantafe, st vincent hospital",147.2,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"NM Santa Fe Santa Fe, St Vincent Hospital W5SF 147.2 OPEN On-Air"
+154,PGQlacueva,53.2,-,1,Tone,107.2,107.2,23,23,NN,FM,5,NM Santa Fe La Cueva N9PGQ 53.2 OPEN Off-Air
+155,PGQlacueva,146.84,-,0.6,Tone,107.2,107.2,23,23,NN,FM,5,NM Santa Fe La Cueva N9PGQ 146.84 OPEN 
+156,PGQlacueva,442.125,+,5,Tone,107.2,107.2,23,23,NN,FM,5,NM Santa Fe La Cueva N9PGQ 442.125 OPEN 
+157,santafe,145.19,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,NM Bernalillo Santa Fe  145.19 OPEN On-Air
+158,5SFsantafe,145.21,-,0.6,,88.5,88.5,23,23,NN,DIG,5,NM Santa Fe Santa Fe W5SF 145.21 OPEN On-Air
+159,5SFsantafe,444.575,+,5,,88.5,88.5,23,23,NN,DIG,5,NM Santa Fe Santa Fe W5SF 444.575 OPEN On-Air
+160,5HOlacueva,145.41,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Santa Fe La Cueva W5HO 145.41 OPEN Off-Air
+161,"5RXlosalamos, pajarito mountain",223.94,-,1.6,,88.5,88.5,23,23,NN,FM,5,"NM Los Alamos Los Alamos, Pajarito Mountain KB5RX 223.94 OPEN On-Air"
+162,"5SFlosalamos, pajarito mountain",145.19,-,0.6,Tone,162.2,162.2,23,23,NN,DIG,5,"NM Los Alamos Los Alamos, Pajarito Mountain W5SF 145.19 OPEN On-Air"
+163,5BBlosalamos,442.25,+,5,,88.5,88.5,23,23,NN,DIG,5,NM Los Alamos Los Alamos NM5BB 442.25 OPEN Off-Air
+164,HSOlosalamos,144.265,,0,Tone,203.5,203.5,23,23,NN,FM,5,NM Los Alamos Los Alamos KC2HSO 144.265 OPEN On-Air
+165,AVNlosalamos,442.925,+,5,,88.5,88.5,23,23,NN,DIG,5,NM Los Alamos Los Alamos KE8AVN 442.925 OPEN On-Air
+166,CMSlosalamos,927.9,-,25,Tone,131.8,131.8,23,23,NN,DIG,5,NM Los Alamos Los Alamos WD9CMS 927.9 OPEN On-Air
+167,5WRlosalamos,442.425,+,5,,88.5,88.5,23,23,NN,DIG,5,NM Los Alamos Los Alamos NM5WR 442.425 OPEN On-Air
+168,CMSlosalamos,444.775,+,5,Tone,131.8,131.8,23,23,NN,DIG,5,NM Los Alamos Los Alamos WD9CMS 444.775 OPEN On-Air
+169,BIWlosalamos,224.04,-,1.6,TSQL,100,100,23,23,NN,FM,5,NM Los Alamos Los Alamos KA5BIW 224.04 OPEN On-Air
+170,BIWlosalamos,442,+,5,Tone,100,100,23,23,NN,FM,5,NM Los Alamos Los Alamos KA5BIW 442 OPEN On-Air
+171,"EARalpine, south mountain",145.27,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Apache Alpine,  South Mountain K7EAR 145.27 OPEN On-Air"
+172,SARzuni,145.43,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,NM McKinley Zuni KD5SAR 145.43 OPEN On-Air
+173,"5IAalpine, south mountain",448.725,-,5,,88.5,88.5,23,23,NN,FM,5,"AZ Apache Alpine,  South Mountain N5IA 448.725 CLOSED On-Air"
+174,"PDOlosalamos, barranca mesa",146.88,-,0.6,,88.5,88.5,23,23,NN,FM,5,"NM Los Alamos Los Alamos, Barranca Mesa W5PDO 146.88 OPEN On-Air"
+175,"5IAdeming,little florida mtn",147.04,+,0.6,,88.5,88.5,23,23,NN,FM,5,"NM Luna Deming, Little Florida Mtn N5IA 147.04 OPEN On-Air"
+176,WSBdeming,449.85,-,5,Tone,100,100,23,23,NN,FM,5,NM Luna Deming N5WSB 449.85 OPEN 
+177,M2Jdeming,147.12,+,0.6,Tone,88.5,88.5,23,23,NN,FM,5,NM Luna Deming NM2J 147.12 OPEN On-Air
+178,"5MLdeming,little florida mtn",147.02,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Luna Deming, Little Florida Mtn NM5ML 147.02 OPEN On-Air"
+179,5JXdeming,147.08,+,0.6,,88.5,88.5,23,23,NN,FM,5,NM Luna Deming W5JX 147.08 OPEN 
+180,6RTdeming,449.475,-,5,Tone,77,77,23,23,NN,FM,5,NM Luna Deming WA6RT 449.475 OPEN 
+181,"IHLlasvegas, mesa apache",444.375,+,5,Tone,100,100,23,23,NN,FM,5,"NM San Miguel Las Vegas, Mesa Apache WA5IHL 444.375 CLOSED On-Air"
+182,"ZQEsantafe, tesuque peak",442.825,+,5,Tone,131.8,131.8,23,23,NN,FM,5,"NM Santa Fe Santa Fe, Tesuque Peak KB5ZQE 442.825 OPEN On-Air"
+183,"5EMsantafe, tesuque peak",147.02,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Santa Fe Santa Fe, Tesuque Peak NM5EM 147.02 OPEN On-Air"
+184,"5SFsantafe,  tesuque peak",146.82,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"NM Santa Fe Santa Fe,  Tesuque Peak W5SF 146.82 OPEN On-Air"
+185,"5IAlordsburg,jacks peak",145.17,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Hidalgo Lordsburg, Jacks Peak N5IA 145.17 OPEN On-Air"
+186,"5IAlordsburg,jacks peak",145.17,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Grant Lordsburg, Jacks Peak N5IA 145.17 OPEN On-Air"
+187,"5IAlordsburg,jack's peak",440.825,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM Hidalgo Lordsburg, Jack's Peak N5IA 440.825 OPEN On-Air"
+188,"5MLcuba,eureka mesa",147.24,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Sandoval Cuba, Eureka Mesa NM5ML 147.24 OPEN On-Air"
+189,"EARdeming,little florida mtn",147.06,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Luna Deming, Little Florida Mtn K7EAR 147.06 OPEN On-Air"
+190,5CFlittleflorida,449.85,-,5,Tone,127.3,127.3,23,23,NN,FM,5,NM Luna Little Florida W5CF 449.85 OPEN On-Air
+191,"DARdeming,little florida mtn",146.82,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"NM Luna Deming, Little Florida Mtn W5DAR 146.82 OPEN On-Air"
+192,DARlittleflorida,449.475,-,5,Tone,77,77,23,23,NN,FM,5,NM Luna Little Florida W5DAR 449.475 OPEN On-Air
+193,QHSlittleflorida,448.725,-,5,Tone,100,100,23,23,NN,FM,5,NM Luna Little Florida WB5QHS 448.725 PRIVATE On-Air
+194,"5EMcuba,eureka mesa",145.175,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Sandoval Cuba, Eureka Mesa NM5EM 145.175 OPEN Off-Air"
+195,"5EMsantarosa, moon ranch",147.04,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Guadalupe Santa Rosa, Moon Ranch NM5EM 147.04 OPEN On-Air"
+196,"5MLpecos,elk mountain",147.26,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM San Miguel Pecos, Elk Mountain NM5ML 147.26 OPEN On-Air"
+197,"5SFlasvegas,  elk mountain",147.3,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"NM San Miguel Las Vegas,  Elk Mountain W5SF 147.3 OPEN On-Air"
+198,WEZlasvegas,145.45,-,0.6,,88.5,88.5,23,23,NN,FM,5,NM San Miguel Las Vegas KB5WEZ 145.45 OPEN Off-Air
+199,"MMIroswell,nmmi",146.64,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Chaves ROSWELL, NMMI N5MMI 146.64 OPEN On-Air"
+200,ZRFanthony,442.95,+,5,Tone,67,67,23,23,NN,FM,5,TX El Paso Anthony N5ZRF 442.95 OPEN 
+201,"IMJroswell,comanche hill",444,+,5,Tone,100,100,23,23,NN,FM,5,"NM Chaves Roswell, Comanche Hill N5IMJ 444 OPEN On-Air"
+202,5MLroswell,147.26,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Chaves Roswell NM5ML 147.26 OPEN On-Air
+203,BLOroswell,146.94,-,0.6,,88.5,88.5,23,23,NN,FM,5,NM Chaves Roswell W5BLO 146.94 OPEN Off-Air
+204,WDVgallup,449.75,-,5,Tone,100,100,23,23,NN,FM,5,NM McKinley Gallup KC5WDV 449.75 OPEN On-Air
+205,"WDVgallup,gibson peak",147.26,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM McKinley Gallup, Gibson Peak KC5WDV 147.26 OPEN On-Air"
+206,ELPelpaso,146.88,-,0.6,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso K5ELP 146.88 OPEN On-Air
+207,"JXYelpaso, franklin mountains",443.85,+,5,,88.5,88.5,23,23,NN,DIG,5,"TX El Paso El Paso, Franklin Mountains WA5JXY 443.85 OPEN Off-Air"
+208,"GNBroswell,comanche hill",52.94,-,0.5,Tone,100,100,23,23,NN,FM,5,"NM Chaves Roswell, Comanche Hill W5GNB 52.94 OPEN "
+209,"GNBroswell,comanche hill",444.95,+,5,Tone,179.9,179.9,23,23,NN,FM,5,"NM Chaves Roswell, Comanche Hill W5GNB 444.95 OPEN On-Air"
+210,CNMhope,147.38,+,0.6,Tone,123,123,23,23,NN,FM,5,NM Eddy Hope K5CNM 147.38 OPEN On-Air
+211,"GNBroswell,comanche hill",444.425,+,5,TSQL,179.9,179.9,23,23,NN,FM,5,"NM Chaves Roswell, Comanche Hill W5GNB 444.425 OPEN On-Air"
+212,"5EMabiquiu,cerro pelon",147.04,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Rio Arriba Abiquiu, Cerro Pelon NM5EM 147.04 OPEN Off-Air"
+213,GNBroswell,147.32,+,0.6,TSQL,146.2,146.2,23,23,NN,FM,5,NM Chaves Roswell W5GNB 147.32 OPEN On-Air
+214,"GNBroswell,comanche hill",444.55,+,5,TSQL,162.2,162.2,23,23,NN,FM,5,"NM Chaves Roswell, Comanche Hill W5GNB 444.55 OPEN On-Air"
+215,CUBelpaso,147.28,+,0.6,Tone,67,67,23,23,NN,FM,5,TX El Paso El Paso KD6CUB 147.28 OPEN On-Air
+216,"EAReagar,greens peak",146.7,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Apache Eagar, Greens Peak K7EAR 146.7 OPEN On-Air"
+217,"OEIeager, greens peak",448.85,-,5,,88.5,88.5,23,23,NN,DIG,5,"AZ Apache Eager,  Greens Peak N7OEI 448.85 OPEN On-Air"
+218,"QVUeagar,greens peak",146.62,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"AZ Apache Eagar, Greens Peak N7QVU 146.62 OPEN On-Air"
+219,"QVUeagar,greens peak",449.35,-,5,Tone,100,100,23,23,NN,FM,5,"AZ Apache Eagar, Greens Peak N7QVU 449.35 OPEN On-Air"
+220,"ARAeagar,greens peak",146.72,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"AZ Apache Eagar, Greens Peak W7ARA 146.72 OPEN On-Air"
+221,"ARAeagar,greens peak",448.375,-,5,Tone,100,100,23,23,NN,FM,5,"AZ Apache Eagar, Greens Peak W7ARA 448.375 OPEN On-Air"
+222,"7EHeagar, greens peak",145.31,-,0.6,Tone,110.9,110.9,23,23,NN,FM,5,"AZ Apache Eagar,  Greens Peak W7EH 145.31 OPEN On-Air"
+223,"ARAeagar,greens peak",927.1625,-,25,Tone,151.4,151.4,23,23,NN,FM,5,"AZ Apache Eagar, Greens Peak W7ARA 927.1625 OPEN On-Air"
+224,ZFAfortsumner,147.14,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Debaca Fort Sumner KB5ZFA 147.14 OPEN On-Air
+225,ZPXelpaso,440.65,+,5,,88.5,88.5,23,23,NN,DIG,5,TX El Paso El Paso KG5ZPX 440.65 OPEN On-Air
+226,5SJlybrook,145.49,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Rio Arriba Lybrook NM5SJ 145.49 OPEN On-Air
+227,"7GCpayson,mt ord",146.96,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Gila Payson, Mt Ord WR7GC 146.96 OPEN On-Air"
+228,WPHelpaso,145.33,-,0.6,Tone,67,67,23,23,NN,FM,5,TX El Paso El Paso K5WPH 145.33 OPEN On-Air
+229,WPHelpaso,147.24,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,TX El Paso El Paso K5WPH 147.24 OPEN On-Air
+230,WPHelpaso,443.4,+,5,Tone,100,100,23,23,NN,FM,5,TX El Paso El Paso K5WPH 443.4 OPEN On-Air
+231,ELPelpaso,145.41,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso WX5ELP 145.41 OPEN On-Air
+232,"X7Rconcho,volcano hill",449.625,-,5,DTCS,114.8,114.8,23,754,NN,DIG,5,"AZ Apache Concho, Volcano Hill NX7R 449.625 OPEN On-Air"
+233,ELPelpaso,147.2,+,0.6,Tone,67,67,23,23,NN,FM,5,TX El Paso El Paso K5ELP 147.2 OPEN On-Air
+234,CUBelpaso,224.82,-,1.6,Tone,100,100,23,23,NN,FM,5,TX El Paso El Paso KD6CUB 224.82 OPEN On-Air
+235,"EARlordsburg,jacks peak",145.21,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Hidalgo Lordsburg, Jacks Peak K7EAR 145.21 OPEN On-Air"
+236,"5IAlordsburg,jacks peak",449,-,5,Tone,100,100,23,23,NN,FM,5,"NM Hidalgo Lordsburg, Jacks Peak N5IA 449 PRIVATE On-Air"
+237,"5EMlordsburg,jacks peak",145.145,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Hidalgo Lordsburg, Jacks Peak NM5EM 145.145 OPEN On-Air"
+238,"QHSlordsburg,jacks peak",145.25,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,"NM Hidalgo Lordsburg, Jacks Peak WB5QHS 145.25 OPEN On-Air"
+239,"EZChurley,murray tank",147.06,+,0.6,,88.5,88.5,23,23,NN,FM,5,"NM Grant Hurley, Murray Tank WD5EZC 147.06 OPEN "
+240,"5PXdixon,cerro abajo",147.18,+,0.6,TSQL,100,100,23,23,NN,FM,5,"NM Rio Arriba Dixon, Cerro Abajo KD5PX 147.18 OPEN On-Air"
+241,ELPelpaso,146.7,-,0.6,Tone,114.8,114.8,23,23,NN,FM,5,TX El Paso El Paso K5ELP 146.7 OPEN On-Air
+242,ELPelpaso,444.2,+,5,Tone,100,100,23,23,NN,FM,5,TX El Paso El Paso K5ELP 444.2 OPEN On-Air
+243,"ELPelpaso, comanche peak",146.62,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"TX El Paso El Paso, Comanche Peak W5ELP 146.62 OPEN On-Air"
+244,"HFNelpaso, montana vista",444.325,+,5,Tone,103.5,103.5,23,23,NN,FM,5,"TX El Paso El Paso, Montana Vista W5HFN 444.325 OPEN On-Air"
+245,TOCelpaso,146.94,-,0.6,TSQL,123,123,23,23,NN,DIG,5,TX El Paso El Paso N6TOC 146.94 OPEN On-Air
+246,TOCelpaso,444.6,+,5,,88.5,88.5,23,23,NN,DIG,5,TX El Paso El Paso N6TOC 444.6 OPEN On-Air
+247,WINelpaso,443.125,+,5,,88.5,88.5,23,23,NN,DIG,5,TX El Paso El Paso W5WIN 443.125 OPEN On-Air
+248,WINelpaso,444.4,+,5,DTCS,88.5,88.5,23,23,NN,DIG,5,TX El Paso El Paso W5WIN 444.4 OPEN On-Air
+249,DARcolumbus,145.43,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,NM Luna Columbus W5DAR 145.43 OPEN 
+250,5JRelpaso,443.6,+,5,,88.5,88.5,23,23,NN,DIG,5,TX El Paso El Paso AE5JR 443.6 OPEN 
+251,ELPelpaso,442.825,+,5,Tone,100,100,23,23,NN,FM,5,TX El Paso El Paso K5ELP 442.825 OPEN 
+252,KKOelpaso,147.32,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,TX El Paso El Paso K5KKO 147.32 OPEN On-Air
+253,WPHelpaso,442.25,+,5,Tone,100,100,23,23,NN,FM,5,TX El Paso El Paso K5WPH 442.25 OPEN On-Air
+254,CDJelpaso,443.925,+,5,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso KA5CDJ 443.925 CLOSED 
+255,OIBelpaso,147.36,+,0.6,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso KE5OIB 147.36 CLOSED 
+256,5EOelpaso,147.06,+,0.6,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso KJ5EO 147.06 CLOSED 
+257,5EOelpaso,147.1,+,0.6,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso KJ5EO 147.1 CLOSED 
+258,5EOelpaso,442.6,+,5,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso KJ5EO 442.6 CLOSED 
+259,5EOelpaso,443,+,5,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso KJ5EO 443 CLOSED 
+260,ZFFelpaso,441.7,+,5,Tone,100,100,23,23,NN,FM,5,TX El Paso El Paso N5ZFF 441.7 OPEN 
+261,TOCelpaso,443.375,+,5,Tone,100,100,23,23,NN,FM,5,TX El Paso El Paso N6TOC 443.375 OPEN On-Air
+262,"5MLelpaso, north park",147.14,+,0.6,Tone,67,67,23,23,NN,FM,5,"TX El Paso El Paso, North Park NM5ML 147.14 OPEN On-Air"
+263,DPDelpaso,443.65,+,5,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso W5DPD 443.65 CLOSED 
+264,LJOelpaso,442.1,+,5,Tone,123,123,23,23,NN,FM,5,TX El Paso El Paso WB5LJO 442.1 CLOSED 
+265,LJOelpaso,442.55,+,5,Tone,100,100,23,23,NN,FM,5,TX El Paso El Paso WB5LJO 442.55 OPEN On-Air
+266,LJOelpaso,443.7,+,5,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso WB5LJO 443.7 CLOSED 
+267,WPHelpaso,53.55,-,1,,88.5,88.5,23,23,NN,FM,5,TX El Paso El Paso K5WPH 53.55 OPEN On-Air
+268,"GNBhagerman,comanche hill",147.32,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"NM Chaves Hagerman, Comanche Hill W5GNB 147.32 OPEN "
+269,"EARsafford,guthrie peak",147.28,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Greenlee Safford, Guthrie Peak K7EAR 147.28 OPEN On-Air"
+270,"5IAmorenci, guthrie peak",448.975,-,5,,88.5,88.5,23,23,NN,FM,5,"AZ Greenlee Morenci,  Guthrie Peak N5IA 448.975 CLOSED On-Air"
+271,"EARmorenci,guthrie peak",440.075,+,5,,88.5,88.5,23,23,NN,DIG,5,"AZ Greenlee Morenci, Guthrie Peak K7EAR 440.075 OPEN On-Air"
+272,FAZelpaso,442.125,+,5,Tone,103.5,103.5,23,23,NN,FM,5,TX El Paso El Paso N5FAZ 442.125 OPEN On-Air
+273,cd.juarez,145.285,+,1.6,TSQL,88.5,88.5,23,23,NN,FM,5,CH undefined Cd. Juarez  145.285 OPEN On-Air
+274,LENwindowrock,145.29,-,0.6,Tone,123,123,23,23,NN,FM,5,NM McKinley Window Rock K7LEN 145.29 OPEN Off-Air
+275,"WDVgallup,deza bluffs",448.2,-,5,Tone,100,100,23,23,NN,FM,5,"NM McKinley Gallup, Deza Bluffs KC5WDV 448.2 OPEN On-Air"
+276,"5MLgallup,deza bluffs",147.22,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM McKinley Gallup, Deza Bluffs NM5ML 147.22 OPEN On-Air"
+277,CNMartesia,442.45,+,5,Tone,162.2,162.2,23,23,NN,FM,5,NM Eddy Artesia K5CNM 442.45 OPEN On-Air
+278,U5Jartesia,442,+,5,,88.5,88.5,23,23,NN,FM,5,NM Eddy Artesia KU5J 442 OPEN 
+279,COWartesia,444.975,+,5,Tone,156.7,156.7,23,23,NN,FM,5,NM Eddy Artesia W5COW 444.975 OPEN On-Air
+280,"PFOtaos,picuris peak",449.875,-,5,Tone,123,123,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 449.875 OPEN Off-Air"
+281,"PFOtaos,picuris peak",51.5,,0,Tone,100,100,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 51.5 OPEN On-Air"
+282,"PFOtaos,picuris peak",147.12,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 147.12 OPEN On-Air"
+283,"PFOtaos,picuris peak",224.4,-,1.6,Tone,225.7,225.7,23,23,NN,FM,5,"NM Taos Taos, Picuris Peak KF5PFO 224.4 OPEN On-Air"
+284,WINsocorro,147.01,+,0.6,,88.5,88.5,23,23,NN,DIG,5,TX El Paso Socorro W5WIN 147.01 OPEN On-Air
+285,"5MLconchasdam, mesa rica",147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Miguel Conchas Dam, Mesa Rica NM5ML 147.36 OPEN On-Air"
+286,"5EMwagonmound, turkey mtn",145.37,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Mora Wagon Mound, Turkey Mtn NM5EM 145.37 OPEN Off-Air"
+287,"5MLwagonmound, turkey mountain",147.2,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Mora Wagon Mound, Turkey Mountain NM5ML 147.2 OPEN On-Air"
+288,"D7Wpinetop-lakeside,porter mountain",146.76,-,0.6,Tone,162.2,162.2,23,23,NN,DIG,5,"AZ Navajo Pinetop-Lakeside, Porter Mountain AD7W 146.76 OPEN On-Air"
+289,"D7Wpinetop-lakeside,porter mountain",449.05,-,5,,88.5,88.5,23,23,NN,DIG,5,"AZ Navajo Pinetop-Lakeside, Porter Mountain AD7W 449.05 OPEN On-Air"
+290,"CNMqueen,queen fire station",147.3,+,0.6,Tone,123,123,23,23,NN,FM,5,"NM Eddy Queen, Queen fire station K5CNM 147.3 OPEN On-Air"
+291,"5MLqueen,dark cyn",449.275,-,5,Tone,67,67,23,23,NN,FM,5,"NM Eddy Queen, Dark Cyn NM5ML 449.275 OPEN Off-Air"
+292,7EHshowlow,449.15,-,5,Tone,110.9,110.9,23,23,NN,FM,5,AZ Navajo Show Low W7EH 449.15 OPEN On-Air
+293,PDCfabens,147.98,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,TX Hudspeth Fabens W5PDC 147.98 OPEN 
+294,PDCfabens,442.45,+,5,Tone,203.5,203.5,23,23,NN,FM,5,TX Hudspeth Fabens W5PDC 442.45 OPEN 
+295,JNIwagonmound,444.4,+,5,Tone,100,100,23,23,NN,FM,5,NM Mora Wagon Mound N7JNI 444.4 OPEN Off-Air
+296,"EARsafford,heliograph peak",440.75,+,5,,88.5,88.5,23,23,NN,DIG,5,"AZ Graham Safford, Heliograph Peak K7EAR 440.75 OPEN On-Air"
+297,"5MLbloomfield,harris mesa",147.28,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM San Juan Bloomfield, Harris Mesa NM5ML 147.28 OPEN On-Air"
+298,"ITSbloomfield,harris mesa",147.1,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Bloomfield, Harris mesa KB5ITS 147.1 OPEN On-Air"
+299,"LEMangelfire, agua fria peak",147.34,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Colfax Angel Fire, Agua Fria Peak N5LEM 147.34 OPEN On-Air"
+300,"VBDbloomfield,harris mesa",1292.3,-,20,,88.5,88.5,23,23,NN,DIG,5,"NM San Juan Bloomfield, Harris Mesa KF5VBD 1292.3 CLOSED On-Air"
+301,"PFOtrespiedras, san antonio mountain",146.76,-,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Tres Piedras, San Antonio Mountain KF5PFO 146.76 OPEN On-Air"
+302,"5EMtrespiedras, san antonio mtn.",145.175,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Taos Tres Piedras, San Antonio Mtn. NM5EM 145.175 OPEN Off-Air"
+303,5MLmelrose,147.28,+,0.6,Tone,67,67,23,23,NN,FM,5,NM Curry Melrose NM5ML 147.28 OPEN On-Air
+304,ZFAcaprock,147.18,+,0.6,Tone,100,100,23,23,NN,FM,5,NM Lea Caprock KB5ZFA 147.18 OPEN Off-Air
+305,"5EMcaprock,caudill ranch",145.25,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Lea Caprock, Caudill Ranch NM5EM 145.25 OPEN On-Air"
+306,LEAmaljamar,444.35,+,5,TSQL,162.2,162.2,23,23,NN,FM,5,NM Lea Maljamar N5LEA 444.35 OPEN On-Air
+307,CNMcarlsbad,147.28,+,0.6,Tone,123,123,23,23,NN,FM,5,NM Eddy Carlsbad K5CNM 147.28 OPEN On-Air
+308,WJGcarlsbad,53.08,-,1,Tone,127.3,127.3,23,23,NN,FM,5,NM Eddy Carlsbad KD6WJG 53.08 OPEN 
+309,WJGcarlsbad,146.76,-,0.6,Tone,127.3,127.3,23,23,NN,FM,5,NM Eddy Carlsbad KD6WJG 146.76 OPEN 
+310,BOMcarlsbad,145.39,-,0.6,TSQL,100,100,23,23,NN,FM,5,NM Eddy Carlsbad KG5BOM 145.39 OPEN On-Air
+311,CNMcarlsbad,146.88,-,0.6,Tone,88.5,88.5,23,23,NN,FM,5,NM Eddy Carlsbad N5CNM 146.88 OPEN On-Air
+312,"TSVtaos,wheeler peak",444.975,+,5,Tone,123,123,23,23,NN,FM,5,"NM Taos Taos, Wheeler Peak N5TSV 444.975 OPEN On-Air"
+313,SORpinesprings,444.05,+,5,,88.5,88.5,23,23,NN,FM,5,TX Culberson Pine Springs N5SOR 444.05 CLOSED 
+314,ZIHpinedale,145.23,-,0.6,Tone,110.9,110.9,23,23,NN,FM,5,AZ Navajo Pinedale KB7ZIH 145.23 OPEN On-Air
+315,WXIbloomfield,146.92,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Bloomfield K5WXI 146.92 OPEN On-Air
+316,ITSbloomfield,448.65,-,5,Tone,127.3,127.3,23,23,NN,FM,5,NM San Juan Bloomfield KB5ITS 448.65 OPEN On-Air
+317,"5MLtaos,ski valley",147.14,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Taos Taos, Ski Valley NM5ML 147.14 OPEN On-Air"
+318,5MJcarlsbad,224.46,-,1.6,Tone,127.3,127.3,23,23,NN,FM,5,NM Eddy Carlsbad N5MJ 224.46 OPEN 
+319,5MJcarlsbad,444.45,+,5,TSQL,127.3,127.3,23,23,NN,FM,5,NM Eddy Carlsbad N5MJ 444.45 OPEN On-Air
+320,"ITSnavajodam, navajo lake",147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Navajo Dam, Navajo Lake KB5ITS 147.36 OPEN On-Air"
+321,RUEredlake,146.84,-,0.6,Tone,67,67,23,23,NN,FM,5,NM Roosevelt Redlake KE5RUE 146.84 OPEN On-Air
+322,RUEredlake,442.25,+,5,Tone,67,67,23,23,NN,FM,5,NM Roosevelt Redlake KE5RUE 442.25 OPEN On-Air
+323,ARZholbrook,146.68,-,0.6,,88.5,88.5,23,23,NN,FM,5,AZ Navajo Holbrook KA7ARZ 146.68 OPEN On-Air
+324,EMAtucumcari,146.88,-,0.6,,88.5,88.5,23,23,NN,FM,5,NM Quay Tucumcari WA5EMA 146.88 OPEN On-Air
+325,EMAtucumcari,224.98,-,1.6,,88.5,88.5,23,23,NN,FM,5,NM Quay Tucumcari WA5EMA 224.98 OPEN 
+326,EMAtucumcari,443.75,+,5,,88.5,88.5,23,23,NN,FM,5,NM Quay Tucumcari WA5EMA 443.75 OPEN On-Air
+327,"5MLtucumcari,tucumcari mountain",147.22,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Quay Tucumcari, Tucumcari Mountain NM5ML 147.22 OPEN On-Air"
+328,"EARsafford, heliograph peak",146.86,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Graham Safford,  Heliograph Peak K7EAR 146.86 OPEN On-Air"
+329,"EARsafford, heliograph peak",146.9,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Graham Safford,  Heliograph Peak K7EAR 146.9 OPEN On-Air"
+330,"EARsafford, heliograph peak",440.7,+,5,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Graham Safford,  Heliograph Peak K7EAR 440.7 OPEN On-Air"
+331,"EARsafford, heliograph peak",447.825,-,5,Tone,100,100,23,23,NN,FM,5,"AZ Graham Safford,  Heliograph Peak K7EAR 447.825 OPEN On-Air"
+332,"JEMsafford, heliograph peak",448.675,-,5,Tone,100,100,23,23,NN,FM,5,"AZ Graham Safford,  Heliograph Peak K7JEM 448.675 CLOSED On-Air"
+333,"EARsafford,heliograph peak",53.04,-,1,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Graham Safford, Heliograph Peak K7EAR 53.04 OPEN Off-Air"
+334,"5SFchama,overlook mtn",147.08,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"NM Rio Arriba Chama, Overlook Mtn W5SF 147.08 OPEN On-Air"
+335,"PFOredriver, molycorp",145.39,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM Taos Red River, Molycorp KF5PFO 145.39 OPEN On-Air"
+336,"VBFfarmington,farmington bluffs",1291.7,-,20,,88.5,88.5,23,23,NN,DIG,5,"NM San Juan Farmington, Farmington Bluffs KF5VBF 1291.7 CLOSED On-Air"
+337,VBEaztec,1291.1,-,20,,88.5,88.5,23,23,NN,DIG,5,NM Bernalillo Aztec KF5VBE 1291.1 CLOSED On-Air
+338,VBEfarmington,145.115,-,0.6,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington KF5VBE 145.115 OPEN On-Air
+339,"5EMeaglenest, touch me not",147.04,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Colfax Eagle Nest, Touch Me Not NM5EM 147.04 OPEN On-Air"
+340,"5MLeaglenest, iron mountain",444.35,+,5,Tone,100,100,23,23,NN,FM,5,"NM Colfax Eagle Nest, Iron Mountain NM5ML 444.35 OPEN On-Air"
+341,IMJmaljamar,442.075,+,5,Tone,162.2,162.2,23,23,NN,FM,5,NM Lea Maljamar N5IMJ 442.075 OPEN On-Air
+342,5MLmaljamar,147.14,+,0.6,Tone,67,67,23,23,NN,FM,5,NM Lea Maljamar NM5ML 147.14 OPEN On-Air
+343,5SJdulce,145.43,-,0.6,Tone,136.5,136.5,23,23,NN,FM,5,NM Rio Arriba Dulce NM5SJ 145.43 OPEN On-Air
+344,WXIfarmington,146.85,-,0.6,TSQL,100,100,23,23,NN,FM,5,NM San Juan Farmington K5WXI 146.85 OPEN On-Air
+345,5WYfarmington,449,-,5,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington K5WY 449 OPEN 
+346,ITSfarmington,53.01,-,1,Tone,131.8,131.8,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 53.01 OPEN On-Air
+347,ITSfarmington,146.76,-,0.6,TSQL,100,100,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 146.76 OPEN On-Air
+348,ITSfarmington,147,+,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Farmington KB5ITS 147 OPEN On-Air
+349,VBFfarmington,444.15,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington KF5VBF 444.15 OPEN On-Air
+350,UBJfarmington,442.325,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Farmington N5UBJ 442.325 OPEN On-Air
+351,"PFOtrespiedras,  san antonio mountain",146.76,-,0.6,Tone,67,67,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras,  San Antonio Mountain KF5PFO 146.76 OPEN On-Air"
+352,"5MLtrespiedras, san antonio mountain",147.22,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Rio Arriba Tres Piedras, San Antonio Mountain NM5ML 147.22 OPEN On-Air"
+353,"ITSaztec,tank mtn",146.88,-,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Aztec, Tank Mtn KB5ITS 146.88 OPEN On-Air"
+354,ITSaztec,447.45,-,5,Tone,107.2,107.2,23,23,NN,FM,5,NM San Juan Aztec KB5ITS 447.45 OPEN On-Air
+355,UBJaztec,442.25,+,5,,88.5,88.5,23,23,NN,DIG,5,NM San Juan Aztec N5UBJ 442.25 OPEN On-Air
+356,5SJaztec,146.74,-,0.6,Tone,100,100,23,23,NN,FM,5,NM San Juan Aztec NM5SJ 146.74 OPEN On-Air
+357,"OMUportales,enmu greyhound stadium",147,+,0.6,Tone,67,67,23,23,NN,FM,5,"NM Roosevelt Portales, ENMU Greyhound Stadium W5OMU 147 OPEN On-Air"
+358,CNMloving,147.36,+,0.6,Tone,123,123,23,23,NN,FM,5,NM Eddy Loving K5CNM 147.36 OPEN On-Air
+359,GDRcimarron,145.21,-,0.6,TSQL,110.9,110.9,23,23,NN,FM,5,NM Colfax Cimarron N5GDR 145.21 OPEN On-Air
+360,"EARwilcox,west peak",145.35,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Graham Wilcox, West Peak K7EAR 145.35 OPEN On-Air"
+361,RUEportales,146.82,-,0.6,Tone,67,67,23,23,NN,FM,5,NM Roosevelt Portales KE5RUE 146.82 OPEN On-Air
+362,"RUEportales,eastern new mexico university",443.8,+,5,,88.5,88.5,23,23,NN,DIG,5,"NM  PORTALES, EASTERN NEW MEXICO UNIVERSITY KE5RUE 443.8 OPEN "
+363,"PFOredriver, valle vidal",145.25,-,0.6,Tone,123,123,23,23,NN,FM,5,"NM Taos Red River, Valle Vidal KF5PFO 145.25 OPEN On-Air"
+364,"5SJnebo,cedar hill",147.06,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM San Juan Nebo, Cedar Hill NM5SJ 147.06 OPEN On-Air"
+365,"ITSlukachukai,roof butte",145.25,-,0.6,Tone,100,100,23,23,NN,FM,5,"AZ Apache Lukachukai, Roof Butte KB5ITS 145.25 OPEN On-Air"
+366,"5SJlukachukai,roof butte",146.82,-,0.6,Tone,100,100,23,23,NN,FM,5,"AZ Apache Lukachukai, Roof Butte NM5SJ 146.82 OPEN On-Air"
+367,RUEmidway(portales),147,+,0.6,Tone,67,67,23,23,NN,FM,5,NM Roosevelt Midway (Portales) KE5RUE 147 OPEN 
+368,RIMovergaard,146.8,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,AZ Navajo Overgaard W7RIM 146.8 OPEN On-Air
+369,QVUovergaard,446.6,-,5,TSQL,100,100,23,23,NN,DIG,5,AZ Navajo Overgaard N7QVU 446.6 OPEN On-Air
+370,A5Bclovis,147.24,+,0.6,Tone,67,67,23,23,NN,FM,5,NM Curry Clovis KA5B 147.24 OPEN On-Air
+371,A5Bclovis,443.45,+,5,Tone,131.8,131.8,23,23,NN,FM,5,NM Curry Clovis KA5B 443.45 OPEN On-Air
+372,EOJclovis,442.225,+,5,,88.5,88.5,23,23,NN,DIG,5,NM Curry Clovis N7EOJ 442.225 OPEN On-Air
+373,"5EMclovis,claud",145.37,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Curry Clovis, Claud NM5EM 145.37 OPEN On-Air"
+374,5MLclovis,442.525,+,5,Tone,67,67,23,23,NN,FM,5,NM Curry Clovis NM5ML 442.525 OPEN On-Air
+375,S5Dclovis,147.32,+,0.6,TSQL,71.9,71.9,23,23,NN,FM,5,NM Curry Clovis WS5D 147.32 OPEN On-Air
+376,S5Dclovis,444.45,+,5,TSQL,88.5,88.5,23,23,NN,FM,5,NM Curry Clovis WS5D 444.45 OPEN On-Air
+377,"DSTlogan,ute lake",147.34,+,0.6,Tone,131.8,131.8,23,23,NN,FM,5,"NM Quay Logan, Ute Lake K5DST 147.34 OPEN On-Air"
+378,"NAZpayson,forest lakes",447.475,-,5,Tone,88.5,88.5,23,23,NN,FM,5,"AZ Coconino Payson, Forest Lakes W7NAZ 447.475 OPEN "
+379,RDZwinslow,146.84,-,0.6,,88.5,88.5,23,23,NN,FM,5,AZ Navajo Winslow N7RDZ 146.84 OPEN On-Air
+380,RDZwinslow,147.38,+,0.6,Tone,91.5,91.5,23,23,NN,FM,5,AZ Navajo Winslow N7RDZ 147.38 OPEN On-Air
+381,"EARglobe,pinal peak",145.41,-,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Gila Globe, Pinal Peak K7EAR 145.41 OPEN On-Air"
+382,"7DRglobe,pinal peak",1283.65,-,20,Tone,100,100,23,23,NN,FM,5,"AZ Gila Globe, Pinal Peak KD7DR 1283.65 OPEN On-Air"
+383,"7DRglobe,pinal peak",448.425,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"AZ Gila Globe, Pinal Peak KD7DR 448.425 OPEN On-Air"
+384,"QWFglobe,pinal peak",445.8625,-,5,,88.5,88.5,23,23,NN,DIG,5,"AZ Gila Globe, Pinal Peak N2QWF 445.8625 CLOSED On-Air"
+385,"7MKglobe, pinal peak",224.1,-,1.6,Tone,156.7,156.7,23,23,NN,FM,5,"AZ Gila Globe,  Pinal Peak N7MK 224.1 OPEN On-Air"
+386,"TWWglobe,pinal peak",927.8375,-,25,Tone,151.4,151.4,23,23,NN,FM,5,"AZ Gila Globe, Pinal Peak N7TWW 927.8375 OPEN On-Air"
+387,"ARAglobe,pinal peak",147.2,+,0.6,TSQL,162.2,162.2,23,23,NN,FM,5,"AZ Gila Globe, Pinal Peak W7ARA 147.2 OPEN On-Air"
+388,"ARAglobe, pinal peak",448.475,-,5,Tone,100,100,23,23,NN,FM,5,"AZ Gila Globe,  Pinal Peak W7ARA 448.475 OPEN On-Air"
+389,"ARAglobe,pinal peak",927.4125,-,25,Tone,151.4,151.4,23,23,NN,FM,5,"AZ Gila Globe, Pinal Peak W7ARA 927.4125 OPEN On-Air"
+390,"KUMglobe, pinal peak",448.65,-,5,,88.5,88.5,23,23,NN,FM,5,"AZ Gila Globe,  Pinal Peak WA7KUM 448.65 CLOSED On-Air"
+391,"QHSglobe, pinal peak",448.175,-,5,,88.5,88.5,23,23,NN,FM,5,"AZ Gila Globe,  Pinal Peak WB5QHS 448.175 CLOSED On-Air"
+392,LEAjal,444.25,+,5,TSQL,100,100,23,23,NN,FM,5,NM Lea Jal N5LEA 444.25 OPEN On-Air
+393,"HUHglobe,signal peak",146.74,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"AZ Gila Globe, Signal Peak WA7HUH 146.74 OPEN On-Air"
+394,"7GCglobe,signal peak",449.65,-,5,Tone,100,100,23,23,NN,FM,5,"AZ Gila Globe, Signal Peak WR7GC 449.65 OPEN On-Air"
+395,INWhobbs,147.22,+,0.6,TSQL,127.3,127.3,23,23,NN,FM,5,NM Lea Hobbs K5INW 147.22 OPEN Off-Air
+396,LEAhobbs,444.15,+,5,TSQL,162.2,162.2,23,23,NN,FM,5,NM Lea Hobbs N5LEA 444.15 OPEN On-Air
+397,"2AZhobbs,professional communications tower",444.275,+,5,TSQL,162.2,162.2,23,23,NN,FM,5,"NM Lea Hobbs, Professional Communications Tower AH2AZ 444.275 OPEN "
+398,"5MLraton,sierra grande",147.28,+,0.6,Tone,100,100,23,23,NN,FM,5,"NM Colfax Raton, Sierra Grande NM5ML 147.28 OPEN On-Air"
+399,MWWeunice,442.9,+,7,Tone,91.5,91.5,23,23,NN,FM,5,NM Lea Eunice KB5MWW 442.9 OPEN Off-Air
+400,NBReunice,147.22,+,0.6,,88.5,88.5,23,23,NN,FM,5,NM Lea Eunice N5NBR 147.22 OPEN Off-Air
+401,7CQtombstone,146.92,-,0.6,TSQL,123,123,23,23,NN,DIG,5,AZ Cochise Tombstone AB7CQ 146.92 OPEN On-Air
+402,PIQbenson,448.825,-,5,Tone,107.2,107.2,23,23,NN,FM,5,AZ Cochise Benson WA7PIQ 448.825 OPEN On-Air
+403,ELNoracle,448.7,-,5,,88.5,88.5,23,23,NN,FM,5,AZ Pima Oracle WA7ELN 448.7 CLOSED On-Air
+404,7CQtombstone,444.6,+,5,TSQL,100,100,23,23,NN,DIG,5,AZ Cochise Tombstone AB7CQ 444.6 OPEN On-Air
+405,"RDGbisbee, mule mountains",146.76,-,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"AZ Cochise Bisbee,  Mule Mountains K7RDG 146.76 OPEN On-Air"
+406,"RDGbisbee, mule mountains",147.02,+,0.6,Tone,162.2,162.2,23,23,NN,FM,5,"AZ Cochise Bisbee,  Mule Mountains K7RDG 147.02 OPEN On-Air"
+407,"RDGbisbee,mule mountains",449.525,-,5,Tone,100,100,23,23,NN,FM,5,"AZ Cochise Bisbee, Mule Mountains K7RDG 449.525 OPEN On-Air"
+408,"RSTtucson,bank of america",145.115,-,0.6,,88.5,88.5,23,23,NN,DIG,5,"AZ Pima Tucson, Bank of America K7RST 145.115 OPEN On-Air"
+409,"RSTtucson,mt lemmon",145.25,-,0.6,Tone,156.7,156.7,23,23,NN,DIG,5,"AZ Pima Tucson, Mt Lemmon K7RST 145.25 OPEN On-Air"
+410,"SPVtucson,mt lemmon, radio ridge",1282.75,-,12,Tone,131.8,131.8,23,23,NN,FM,5,"AZ Pima Tucson, Mt Lemmon, Radio Ridge K7SPV 1282.75 OPEN On-Air"
+411,"PYPtucson, mt lemmon",224.5,-,1.6,Tone,156.7,156.7,23,23,NN,FM,5,"AZ Pima Tucson,  Mt Lemmon K6PYP 224.5 OPEN On-Air"
+412,"EARtucson,mt lemmon",147.16,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Pima Tucson, Mt Lemmon K7EAR 147.16 OPEN On-Air"
+413,"LFXtucson,mt lemmon",53.72,-,1,TSQL,136.5,136.5,23,23,NN,FM,5,"AZ Pima Tucson, Mt Lemmon KA7LFX 53.72 OPEN On-Air"
+414,"LFXtucson,mt lemmon",224.06,-,1.6,Tone,156.7,156.7,23,23,NN,FM,5,"AZ Pima Tucson, Mt Lemmon KA7LFX 224.06 OPEN On-Air"
+415,"ZZYtucson,mt lemmon",444.925,+,5,DTCS,88.5,88.5,23,23,NN,DIG,5,"AZ Pima Tucson, Mt Lemmon KB7ZZY 444.925 OPEN On-Air"
+416,"0LLtucson,mt lemmon",147.14,+,0.6,Tone,100,100,23,23,NN,FM,5,"AZ Pima Tucson, Mt Lemmon KC0LL 147.14 OPEN On-Air"
+417,"0LLtucson,mt lemmon",444.975,+,5,Tone,100,100,23,23,NN,FM,5,"AZ Pima Tucson, Mt Lemmon KC0LL 444.975 OPEN On-Air"
+418,"DHStucson,mt lemmon",448.35,-,5,Tone,107.2,107.2,23,23,NN,FM,5,"AZ Pima Tucson, Mt Lemmon N1DHS 448.35 OPEN On-Air"
+419,"HNDtucson,mount lemmon",147,+,0.6,Tone,110.9,110.9,23,23,NN,FM,5,"AZ Pima Tucson, Mount Lemmon N7HND 147 OPEN On-Air"
+420,"HNDtucson,mt lemmon",445.875,-,5,,88.5,88.5,23,23,NN,DIG,5,"AZ Pima Tucson, Mt Lemmon N7HND 445.875 OPEN On-Air"
+421,"HNDtucson,mt lemmon",927.05,-,25,DTCS,88.5,88.5,411,411,NN,FM,5,"AZ Pima Tucson, Mt Lemmon N7HND 927.05 OPEN On-Air"
+422,"OEMtucson,mt lemmon",146.88,-,0.6,Tone,110.9,110.9,23,23,NN,FM,5,"AZ Pima Tucson, Mt Lemmon N7OEM 146.88 OPEN On-Air"
+423,"OEMtucson, mt lemmon",448.55,-,5,Tone,110.9,110.9,23,23,NN,FM,5,"AZ Pima Tucson,  Mt Lemmon N7OEM 448.55 OPEN On-Air"
+424,"ATNtucson, mt lemmon",445.225,-,5,Tone,103.5,103.5,23,23,NN,FM,5,"AZ Pima Tucson,  Mt Lemmon W7ATN 445.225 OPEN On-Air"
+425,SVIjal,147.1,+,0.6,,88.5,88.5,23,23,NN,FM,5,NM Lea Jal N5SVI 147.1 OPEN 
+426,"EARbisbee,mule mountains",147.08,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"AZ Cochise Bisbee, Mule Mountains K7EAR 147.08 OPEN On-Air"
+427,BOPdesmoines,146.85,-,0.6,Tone,100,100,23,23,NN,FM,5,NM Union Des Moines N5BOP 146.85 OPEN Off-Air
+428,BOPdesmoines,444.8,+,5,Tone,77,77,23,23,NN,FM,5,NM Union Des Moines N5BOP 444.8 OPEN Off-Air
+429,"5EMdesmoines, sierra grande",147.175,+,0.6,Tone,141.3,141.3,23,23,NN,FM,5,"NM Union Des Moines, Sierra Grande NM5EM 147.175 OPEN On-Air"
+430,"SPVbenson,haystack mtn",145.37,-,0.6,Tone,131.8,131.8,23,23,NN,FM,5,"AZ Cochise Benson, Haystack Mtn K7SPV 145.37 OPEN On-Air"
+431,D7Ftucson,146.94,-,0.6,Tone,110.9,110.9,23,23,NN,FM,5,AZ Pima Tucson WD7F 146.94 OPEN On-Air
+432,"PYPtucson,mt lemmon, radio ridge",927.1375,-,25,DTCS,88.5,88.5,411,411,NN,FM,5,"AZ Pima Tucson, Mt Lemmon, Radio Ridge K6PYP 927.1375 OPEN On-Air"
+433,PYPtucson,927.1125,-,25,DTCS,88.5,88.5,432,432,NN,FM,5,AZ Pima Tucson K6PYP 927.1125 OPEN On-Air
+434,"LTNsierravista, mustang corners",442.45,+,5,TSQL,100,100,23,23,NN,FM,5,"AZ Cochise Sierra Vista, Mustang Corners K7LTN 442.45 OPEN On-Air"
+435,MUEhuachucacity,442,+,5,,88.5,88.5,23,23,NN,FM,5,AZ Cochise Huachuca City N7MUE 442 OPEN On-Air
+436,LHRvail,449.55,-,5,Tone,107.2,107.2,23,23,NN,FM,5,AZ Pima Vail K7LHR 449.55 OPEN On-Air
+437,"QWFsierravista, mule mountain",445.85,-,5,,88.5,88.5,23,23,NN,DIG,5,"AZ Cochise Sierra Vista, Mule Mountain N2QWF 445.85 OPEN On-Air"
+438,DIGsierravista,441.2,+,5,Tone,88.5,88.5,23,23,NN,DIG,5,AZ Cochise Sierra Vista W7DIG 441.2 OPEN Off-Air
+439,ULCvail,446.55,-,5,Tone,100,100,23,23,NN,FM,5,AZ Pima Vail KE7ULC 446.55 OPEN On-Air
+440,"RDGsierravista, green acres",447.95,-,5,Tone,100,100,23,23,NN,FM,5,"AZ Cochise Sierra Vista, Green Acres K7RDG 447.95 OPEN On-Air"
+441,NBHsierravista,1282.5,-,20,Tone,100,100,23,23,NN,FM,5,AZ Cochise Sierra Vista N0NBH 1282.5 OPEN On-Air
+442,NBHsierravista,147.36,+,0.6,Tone,100,100,23,23,NN,FM,5,AZ Cochise Sierra Vista N0NBH 147.36 OPEN On-Air
+443,NBHsierravista,224.96,-,1.6,Tone,100,100,23,23,NN,FM,5,AZ Cochise Sierra Vista N0NBH 224.96 OPEN On-Air
+444,NBHsierravista,449.825,-,5,Tone,100,100,23,23,NN,FM,5,AZ Cochise Sierra Vista N0NBH 449.825 OPEN On-Air
+445,NBHsierravista,927.9125,-,25,Tone,100,100,23,23,NN,FM,5,AZ Cochise Sierra Vista N0NBH 927.9125 OPEN On-Air
+446,RSTvail,448.325,-,5,TSQL,156.7,156.7,23,23,NN,FM,5,AZ Pima Vail K7RST 448.325 OPEN On-Air
+447,RCKelgin,448.5,-,5,Tone,91.5,91.5,23,23,NN,FM,5,AZ Santa Cruz Elgin K6RCK 448.5 OPEN 
+448,"JPIpatagonia,red mtn",146.64,-,0.6,Tone,127.3,127.3,23,23,NN,FM,5,"AZ Santa Cruz Patagonia, Red Mtn W7JPI 146.64 OPEN On-Air"

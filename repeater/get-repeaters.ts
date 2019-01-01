@@ -1,6 +1,8 @@
 import "module-alias/register";
 
-import {writeToJsonAndCsv} from "@helpers/fs-helpers";
+import {parseAsync} from "@helpers/csv-helpers";
+import {readFileAsync, writeToJsonAndCsv} from "@helpers/fs-helpers";
+import {numberToString} from "@helpers/helpers";
 import {createLog} from "@helpers/node-logger";
 import chalk from "chalk";
 import Scraper from "./modules/scraper";
@@ -39,9 +41,20 @@ async function save(place: string | number, distance: number) {
     });
   });
 
-  result.sort((a: any, b: any) => (a.Call > b.Call ? 1 : a.Call < b.Call ? -1 : 0));
-  result.sort((a: any, b: any) => (a.Frequency - b.Frequency));
-  result.sort((a: any, b: any) => (a.Mi - b.Mi));
+  result.sort((a, b) => {
+    const aMi = numberToString(a.Mi, 3, 3);
+    const bMi = numberToString(b.Mi, 3, 3);
+    const aName = a.Call;
+    const bName = b.Call;
+    const aFrequency = numberToString(a.Frequency, 3, 3);
+    const bFrequency = numberToString(b.Frequency, 3, 3);
+    const aStr = `${aMi} ${aName} ${aFrequency}`;
+    const bStr = `${bMi} ${bName} ${bFrequency}`;
+    return aStr > bStr ? 1 : aStr < bStr ? -1 : 0;
+  });
+  // result.sort((a: any, b: any) => {(a.Call > b.Call ? 1 : a.Call < b.Call ? -1 : 0));
+  // result.sort((a: any, b: any) => (a.Frequency - b.Frequency));
+  // result.sort((a: any, b: any) => (a.Mi - b.Mi));
 
   // console.log(place, distance, result.length);
 
@@ -54,20 +67,21 @@ async function save(place: string | number, distance: number) {
 }
 
 async function start() {
+}
+export default (async () => {
+  const countyFileData = await readFileAsync("./repeater/Colorado_County_Seats.csv");
+  const countyData = await parseAsync(countyFileData, { columns: true });
+  const cities: string[] = countyData.map((c: any) => `${c["County Seat"]}, CO`);
+  // cities.sort((a, b) => a > b ? 1 : a < b ? -1 : 0);
+  // return;
+  while (cities.length) {
+    const name = cities.shift();
+    if (name) {
+      await save(name, 200);
+    }
+  }
   await save("Socorro, NM", 200);
   await save("Moab, UT", 200);
-}
-// export default (async () => {
-//   const countyFileData = await readFileAsync("./repeater/Colorado_County_Seats.csv");
-//   const countyData = await parseAsync(countyFileData, { columns: true });
-//   const cities: string[] = countyData.map((c: any) => `${c["County Seat"]}, CO`);
-//   // return;
-//   while (cities.length) {
-//     const name = cities.shift();
-//     if (name) {
-//       await save(name, 200);
-//     }
-//   }
-// })();
+})();
 
-export default start();
+// export default start();

@@ -1,6 +1,6 @@
 import "module-alias/register";
 
-import {readFileAsync, writeToJsonAndCsv} from "@helpers/fs-helpers";
+import {readdirAsync, readFileAsync, writeToJsonAndCsv} from "@helpers/fs-helpers";
 import {createLog} from "@helpers/node-logger";
 import {IRepeater} from "./modules/i.repeater";
 
@@ -58,12 +58,16 @@ function makeRow(item: IRepeater) {
   const isDigital = Object.entries(item).filter((a) => /Enabled/.test(a[0])).length > 0;
   const isNarrow = Object.entries(item).filter((a) => /Narrow/i.test(a[1] as string)).length > 0;
 
-  const Name = item.Call
+  const Name =
+    // item.Frequency
+    //   .toString()
+    item.Call
       .toLocaleUpperCase()
       .trim()
       .substr(-3)
     + "" +
     item.Location
+      .replace(" ", "")
       .toLocaleLowerCase()
       .trim();
 
@@ -138,8 +142,19 @@ function makeRow(item: IRepeater) {
 }
 
 async function start() {
-  await doIt("groups/CO/Colorado Springs - Call");
-  await doIt("data/CO/Colorado Springs");
+  const coFiles = (await readdirAsync("./repeaters/data/CO/")).map((f) => `data/CO/${f}`);
+  const utFiles = (await readdirAsync("./repeaters/data/UT/")).map((f) => `data/UT/${f}`);
+  const nmFiles = (await readdirAsync("./repeaters/data/NM/")).map((f) => `data/NM/${f}`);
+  const coGroups = (await readdirAsync("./repeaters/groups/CO/")).map((f) => `groups/CO/${f}`);
+  const utGroups = (await readdirAsync("./repeaters/groups/UT/")).map((f) => `groups/UT/${f}`);
+  const nmGroups = (await readdirAsync("./repeaters/groups/NM/")).map((f) => `groups/NM/${f}`);
+  const allFiles = [...coFiles, ...utFiles, ...nmFiles, ...coGroups, ...utGroups, ...nmGroups].filter((f) => /\.json$/.test(f)).map((f) => f.replace(".json", ""));
+  for (const file of allFiles) {
+    await doIt(file);
+  }
+
+  // await doIt("groups/CO/Colorado Springs - Call");
+  // await doIt("data/CO/Colorado Springs");
 }
 
 export default start();
