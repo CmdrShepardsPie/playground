@@ -4,18 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsc",
-    "watch-scripts": "rm -rf build && tsc -w"
+    "build": "tsc",
+    "watch": "tsc -w"
   },
-  "author": "",
+  "author": "Christopher Simpson <github@nilk.net>",
   "license": "ISC",
   "_moduleAliases": {
-    "@config": "build/config",
-    "@enums": "build/enums",
-    "@helpers": "build/helpers",
-    "@interfaces": "build/interfaces",
-    "@scripts": "build/scripts",
-    "@services": "build/services"
+    "@config": "dist/config",
+    "@enums": "dist/enums",
+    "@helpers": "dist/helpers",
+    "@interfaces": "dist/interfaces",
+    "@scripts": "dist/scripts",
+    "@services": "dist/services"
+  },
+  "engines": {
+    "node": "~8",
+    "npm": "~6"
   },
   "dependencies": {
     "axios": "~0.18.0",

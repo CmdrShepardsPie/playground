@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "module": "commonjs",
+    "target": "es5",
+    "module": "umd",
     "moduleResolution": "Node",
     "downlevelIteration": true,
     "emitDecoratorMetadata": true,
@@ -9,11 +9,18 @@
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
     "preserveConstEnums": true,
-    "removeComments": true,
+    "declaration": true,
     "pretty": true,
     "strict": true,
-    "outDir": "./build",
-    "baseUrl": "./source",
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "lib": [
+      "esnext"
+    ],
+    "declarationMap": true,
+    "baseUrl": "src",
+    "outDir": "dist",
+    "declarationDir": "build",
     "paths": {
       "@config/*": ["config/*"],
       "@enums/*": ["enums/*"],
@@ -24,6 +31,7 @@
     }
   },
   "exclude": [
-    "./build"
+    "dist",
+    "build"
   ]
 }
