@@ -53,7 +53,7 @@ var __values = (this && this.__values) || function (o) {
     }
 })(function (require, exports) {
     "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.__esModule = true;
     var xlsx = require("xlsx");
     function readXLXS(filename) {
         return __awaiter(this, void 0, void 0, function () {
@@ -101,7 +101,7 @@ var __values = (this && this.__values) || function (o) {
                                 catch (e_2_1) { e_2 = { error: e_2_1 }; }
                                 finally {
                                     try {
-                                        if (cellNames_1_1 && !cellNames_1_1.done && (_b = cellNames_1.return)) _b.call(cellNames_1);
+                                        if (cellNames_1_1 && !cellNames_1_1.done && (_b = cellNames_1["return"])) _b.call(cellNames_1);
                                     }
                                     finally { if (e_2) throw e_2.error; }
                                 }
@@ -112,7 +112,7 @@ var __values = (this && this.__values) || function (o) {
                         catch (e_1_1) { e_1 = { error: e_1_1 }; }
                         finally {
                             try {
-                                if (_d && !_d.done && (_a = _c.return)) _a.call(_c);
+                                if (_d && !_d.done && (_a = _c["return"])) _a.call(_c);
                             }
                             finally { if (e_1) throw e_1.error; }
                         }

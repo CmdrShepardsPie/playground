@@ -18,7 +18,7 @@ var __values = (this && this.__values) || function (o) {
     }
 })(function (require, exports) {
     "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.__esModule = true;
     function parseHRL(text) {
         var e_1, _a;
         var data = {};
@@ -42,7 +42,7 @@ var __values = (this && this.__values) || function (o) {
                 catch (e_1_1) { e_1 = { error: e_1_1 }; }
                 finally {
                     try {
-                        if (sectionValues_1_1 && !sectionValues_1_1.done && (_a = sectionValues_1.return)) _a.call(sectionValues_1);
+                        if (sectionValues_1_1 && !sectionValues_1_1.done && (_a = sectionValues_1["return"])) _a.call(sectionValues_1);
                     }
                     finally { if (e_1) throw e_1.error; }
                 }

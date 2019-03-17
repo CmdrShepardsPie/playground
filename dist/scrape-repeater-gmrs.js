@@ -30,7 +30,7 @@ tables.forEach(function (table, tableIndex) {
         Mode: "FM",
         TStep: 5,
         // Skip: null,
-        Comment: null,
+        Comment: null
     };
     var rows = table.querySelectorAll("tbody > tr");
     rows.forEach(function (row, rowIndex) {

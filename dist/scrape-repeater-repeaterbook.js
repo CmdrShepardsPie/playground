@@ -29,7 +29,7 @@ tables.forEach(function (table, tableIndex) {
             Mode: "FM",
             TStep: 5,
             // Skip: null,
-            Comment: null,
+            Comment: null
         };
         var cells = row.querySelectorAll("td");
         cells.forEach(function (cell, cellIndex) {

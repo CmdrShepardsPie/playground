@@ -176,7 +176,7 @@ function unstar() {
                     return [3 /*break*/, 13];
                 case 12:
                     try {
-                        if (podcasts_1_1 && !podcasts_1_1.done && (_a = podcasts_1.return)) _a.call(podcasts_1);
+                        if (podcasts_1_1 && !podcasts_1_1.done && (_a = podcasts_1["return"])) _a.call(podcasts_1);
                     }
                     finally { if (e_1) throw e_1.error; }
                     return [7 /*endfinally*/];

@@ -44,7 +44,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 })(function (require, exports) {
     "use strict";
     var _this = this;
-    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.__esModule = true;
     console.log("start");
     // const fs = {
     //   writeFile: promisify(_fs.writeFile)
@@ -66,7 +66,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         secret: "keyboard cat",
         resave: false,
         saveUninitialized: false,
-        cookie: { secure: "auto" },
+        cookie: { secure: "auto" }
     }));
     app.use(passport.initialize());
     app.use(passport.session());
@@ -94,7 +94,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
                     params = {
                         "sign": true,
                         "key": "5d6735595632314794b567935615f74",
-                        "photo-host": "secure",
+                        "photo-host": "secure"
                     };
                     pars = Object.entries(params).map(function (param) { return param[0] + "=" + param[1]; }).join("&");
                     url = "https://api.meetup.com/members/self?" + pars;

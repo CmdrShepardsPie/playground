@@ -25,7 +25,7 @@ var base = {
     DtcsPolarity: "NN",
     Mode: "FM",
     TStep: 5,
-    Comment: "Colorado Council of Amateur Radio Clubs (CCARC)",
+    Comment: "Colorado Council of Amateur Radio Clubs (CCARC)"
 };
 function leadingZeroes(number, count) {
     var num = number.toString();

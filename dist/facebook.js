@@ -191,7 +191,7 @@ function processRows(rows) {
                     return [3 /*break*/, 15];
                 case 14:
                     try {
-                        if (_c && !_c.done && (_a = _b.return)) _a.call(_b);
+                        if (_c && !_c.done && (_a = _b["return"])) _a.call(_b);
                     }
                     finally { if (e_2) throw e_2.error; }
                     return [7 /*endfinally*/];
@@ -305,7 +305,7 @@ function changeTimeline(row) {
                     return [3 /*break*/, 25];
                 case 24:
                     try {
-                        if (allMenuItems_1_1 && !allMenuItems_1_1.done && (_a = allMenuItems_1.return)) _a.call(allMenuItems_1);
+                        if (allMenuItems_1_1 && !allMenuItems_1_1.done && (_a = allMenuItems_1["return"])) _a.call(allMenuItems_1);
                     }
                     finally { if (e_4) throw e_4.error; }
                     return [7 /*endfinally*/];
@@ -375,7 +375,7 @@ function untagFromTimeline() {
                     return [3 /*break*/, 12];
                 case 11:
                     try {
-                        if (stringsToTry_1_1 && !stringsToTry_1_1.done && (_a = stringsToTry_1.return)) _a.call(stringsToTry_1);
+                        if (stringsToTry_1_1 && !stringsToTry_1_1.done && (_a = stringsToTry_1["return"])) _a.call(stringsToTry_1);
                     }
                     finally { if (e_5) throw e_5.error; }
                     return [7 /*endfinally*/];
@@ -525,7 +525,7 @@ function clickItem(item) {
                     return [3 /*break*/, 8];
                 case 7:
                     try {
-                        if (item_1_1 && !item_1_1.done && (_a = item_1.return)) _a.call(item_1);
+                        if (item_1_1 && !item_1_1.done && (_a = item_1["return"])) _a.call(item_1);
                     }
                     finally { if (e_6) throw e_6.error; }
                     return [7 /*endfinally*/];
@@ -590,7 +590,7 @@ function cleanupElement(item) {
                     return [3 /*break*/, 8];
                 case 7:
                     try {
-                        if (item_2_1 && !item_2_1.done && (_a = item_2.return)) _a.call(item_2);
+                        if (item_2_1 && !item_2_1.done && (_a = item_2["return"])) _a.call(item_2);
                     }
                     finally { if (e_7) throw e_7.error; }
                     return [7 /*endfinally*/];

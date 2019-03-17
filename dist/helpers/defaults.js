@@ -8,7 +8,7 @@
     }
 })(function (require, exports) {
     "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.__esModule = true;
     var speech_response_type_1 = require("@enums/speech-response-type");
     // export function ResponseAccuracyDefaults(): IResponseAccuracy {
     //   return {
@@ -23,7 +23,7 @@
         return {
             transcript: "",
             type: speech_response_type_1.SpeechResponseTypes.ASR,
-            confidence: 0,
+            confidence: 0
         };
     }
     exports.SpeechASRDefaults = SpeechASRDefaults;
