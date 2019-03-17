@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
+    "target": "esnext",
     "module": "commonjs",
     "moduleResolution": "Node",
-    "sourceMap": false,
+    "downlevelIteration": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
@@ -12,10 +12,8 @@
     "removeComments": true,
     "pretty": true,
     "strict": true,
-    "declaration": false,
-    "declarationMap": false,
-    "outDir": "build",
-    "baseUrl": "./",
+    "outDir": "./build",
+    "baseUrl": "./source",
     "paths": {
       "@config/*": ["config/*"],
       "@enums/*": ["enums/*"],
@@ -25,5 +23,7 @@
       "@services/*": ["services/*"]
     }
   },
-  "exclude": ["build"]
+  "exclude": [
+    "./build"
+  ]
 }
