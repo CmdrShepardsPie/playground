@@ -1,37 +1,25 @@
 {
   "compilerOptions": {
-    "target": "es3",
+    "target": "es5",
     "module": "umd",
     "moduleResolution": "Node",
-    "downlevelIteration": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
     "preserveConstEnums": true,
-    "declaration": true,
     "pretty": true,
-    "strict": true,
-    "inlineSourceMap": true,
-    "inlineSources": true,
     "lib": [
-      "esnext"
+      "esnext",
+      "dom"
     ],
-    "declarationMap": true,
-    "baseUrl": "src",
-    "outDir": "dist",
-    "declarationDir": "build",
+    "baseUrl": "./",
     "paths": {
-      "@config/*": ["config/*"],
-      "@enums/*": ["enums/*"],
-      "@helpers/*": ["helpers/*"],
-      "@interfaces/*": ["interfaces/*"],
-      "@scripts/*": ["scripts/*"],
-      "@services/*": ["services/*"]
+      "@config/*": ["src/config/*"],
+      "@enums/*": ["src/enums/*"],
+      "@helpers/*": ["src/helpers/*"],
+      "@interfaces/*": ["src/interfaces/*"],
+      "@scripts/*": ["src/scripts/*"],
+      "@services/*": ["src/services/*"]
     }
-  },
-  "exclude": [
-    "dist",
-    "build"
-  ]
+  }
 }

@@ -32,7 +32,6 @@
     "d3v4": "~4.2.2",
     "domhandler": "~2.4.2",
     "domutils": "~1.7.0",
-    "eslint": "~5.11.1",
     "express": "~4.16.4",
     "express-session": "~1.15.6",
     "htmlparser": "~1.7.7",
@@ -46,13 +45,8 @@
     "passport-strategy": "~1.0.0",
     "rxjs": "~6.3.3",
     "serve-static": "~1.13.2",
-    "stylelint": "~9.9.0",
-    "stylelint-config-recommended": "~2.1.0",
     "ts-keycode-enum": "~1.0.6",
     "tslib": "~1.9.3",
-    "tslint": "~5.12.0",
-    "tslint-config-standard": "~8.0.1",
-    "tslint-eslint-rules": "~5.4.0",
     "typescript": "~3.2.2"
   },
   "devDependencies": {
