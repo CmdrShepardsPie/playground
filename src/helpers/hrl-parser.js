@@ -10,20 +10,19 @@
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     function parseHRL(text) {
-        var data = {};
-        var sectionHeaderRegex = /^(#(?:[a-z]|[A-Z]|[0-9]|[;.-])*#)(.*)?/gim;
-        var result = [];
+        const data = {};
+        const sectionHeaderRegex = /^(#(?:[a-z]|[A-Z]|[0-9]|[;.-])*#)(.*)?/gim;
+        let result = [];
         // tslint:disable:no-conditional-assignment
         while ((result = sectionHeaderRegex.exec(text)) !== null) {
             // create section in data
-            var sectionKey = result[1].split(";")[0].replace(/#/g, "");
-            var sectionTitles = result[2].split("#");
-            var sectionValues = getSectionValues(sectionKey, text);
+            const sectionKey = result[1].split(";")[0].replace(/#/g, "");
+            const sectionTitles = result[2].split("#");
+            const sectionValues = getSectionValues(sectionKey, text);
             if (sectionValues.length > 1) {
                 // it's an array of objects
                 data[sectionKey] = [];
-                for (var _i = 0, sectionValues_1 = sectionValues; _i < sectionValues_1.length; _i++) {
-                    var item = sectionValues_1[_i];
+                for (const item of sectionValues) {
                     data[sectionKey].push(pairTitleVal(item, sectionTitles));
                 }
             }
@@ -36,18 +35,18 @@
     }
     exports.parseHRL = parseHRL;
     function getSectionValues(key, text) {
-        var values = [];
-        var regexStr = "^(?:" + key + "#{1})(.*)?";
-        var valueRegex = new RegExp(regexStr, "gim");
-        var result = [];
+        const values = [];
+        const regexStr = "^(?:" + key + "#{1})(.*)?";
+        const valueRegex = new RegExp(regexStr, "gim");
+        let result = [];
         while ((result = valueRegex.exec(text)) !== null) {
             values.push(result[1].split("#"));
         }
         return values;
     }
     function pairTitleVal(itemVals, sectionTitles) {
-        var obj = {};
-        sectionTitles.forEach(function (title, index) {
+        const obj = {};
+        sectionTitles.forEach((title, index) => {
             obj[title] = itemVals[index];
         });
         return obj;

@@ -9,29 +9,28 @@
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    var CommandInput = /** @class */ (function () {
-        function CommandInput() {
+    class CommandInput {
+        constructor() {
             this.subscriptions = [];
         }
-        CommandInput.prototype.use = function (input) {
-            var subscriber = input.output.subscribe(this.listen && this.listen.bind(this));
+        use(input) {
+            const subscriber = input.output.subscribe(this.listen && this.listen.bind(this));
             this.subscriptions.push(subscriber);
             return subscriber;
-        };
-        CommandInput.prototype.clear = function () {
+        }
+        clear() {
             while (this.subscriptions.length) {
-                var sub = this.subscriptions.pop();
+                const sub = this.subscriptions.pop();
                 sub && sub.unsubscribe();
             }
-        };
-        CommandInput.prototype.remove = function (subscription) {
-            var index = this.subscriptions.indexOf(subscription);
+        }
+        remove(subscription) {
+            const index = this.subscriptions.indexOf(subscription);
             if (index > -1) {
                 subscription.unsubscribe();
                 this.subscriptions.splice(index, 1);
             }
-        };
-        return CommandInput;
-    }());
+        }
+    }
     exports.default = CommandInput;
 });

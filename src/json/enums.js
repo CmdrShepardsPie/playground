@@ -35,11 +35,11 @@
         Commands[Commands["Exit"] = 21] = "Exit";
         Commands[Commands["Reset"] = 22] = "Reset";
     })(Commands = exports.Commands || (exports.Commands = {}));
-    var Keys = require("./keycodes.json");
+    const Keys = require("./keycodes.json");
     // "Invert" the key/val pair so we can do a reverse lookup
-    Object.entries(Keys).forEach(function (entry) {
-        var key = entry[0].toString();
-        var val = entry[1].toString();
+    Object.entries(Keys).forEach((entry) => {
+        const key = entry[0].toString();
+        const val = entry[1].toString();
         if (!Keys[val] || (typeof Keys[val] === "string" && Keys[val].length > key.length)) {
             Keys[val] = key;
         }

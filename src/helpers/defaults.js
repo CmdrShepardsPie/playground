@@ -9,7 +9,7 @@
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    var speech_response_type_1 = require("@enums/speech-response-type");
+    const speech_response_type_1 = require("@enums/speech-response-type");
     // export function ResponseAccuracyDefaults(): IResponseAccuracy {
     //   return {
     //     matchingParts: 0,

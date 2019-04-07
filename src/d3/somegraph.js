@@ -9,17 +9,17 @@
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    var d3 = require("d3v4");
+    const d3 = require("d3v4");
     // Dimensions of sunburst.
-    var width = 750;
-    var height = 600;
-    var radius = Math.min(width, height) / 2;
+    const width = 750;
+    const height = 600;
+    const radius = Math.min(width, height) / 2;
     // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
-    var b = {
+    const b = {
         w: 75, h: 30, s: 3, t: 10,
     };
     // Mapping of step names to colors.
-    var colors = {
+    const colors = {
         home: "#5687d1",
         product: "#7b615c",
         search: "#de783b",
@@ -28,17 +28,17 @@
         end: "#bbbbbb",
     };
     // Total size of all segments; we set this later, after loading the data.
-    var totalSize = 0;
-    var vis = d3.select("#chart").append("svg:svg")
+    let totalSize = 0;
+    const vis = d3.select("#chart").append("svg:svg")
         .attr("width", width)
         .attr("height", height)
         .append("svg:g")
         .attr("id", "container")
         .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-    var partition = d3.layout.partition()
+    const partition = d3.layout.partition()
         .size([2 * Math.PI, radius * radius])
         .value(function (d) { return d.size; });
-    var arc = d3.svg.arc()
+    const arc = d3.svg.arc()
         .startAngle(function (d) { return d.x; })
         .endAngle(function (d) { return d.x + d.dx; })
         .innerRadius(function (d) { return Math.sqrt(d.y); })
@@ -46,8 +46,8 @@
     // Use d3.text and d3.csv.parseRows so that we do not need to have a header
     // row, and can receive the csv as an array of arrays.
     d3.text("visit-sequences.csv", function (text) {
-        var csv = d3.csv.parseRows(text);
-        var json = buildHierarchy(csv);
+        const csv = d3.csv.parseRows(text);
+        const json = buildHierarchy(csv);
         createVisualization(json);
     });
     // Main function to draw and set up the visualization, once we have the data.
@@ -62,11 +62,11 @@
             .attr("r", radius)
             .style("opacity", 0);
         // For efficiency, filter nodes to keep only those large enough to see.
-        var nodes = partition.nodes(json)
+        const nodes = partition.nodes(json)
             .filter(function (d) {
             return (d.dx > 0.005); // 0.005 radians = 0.29 degrees
         });
-        var path = vis.data([json]).selectAll("path")
+        const path = vis.data([json]).selectAll("path")
             .data(nodes)
             .enter().append("svg:path")
             .attr("display", function (d) { return d.depth ? null : "none"; })
@@ -82,8 +82,8 @@
     }
     // Fade all but the current sequence, and show it in the breadcrumb trail.
     function mouseover(d) {
-        var percentage = (100 * d.value / totalSize).toPrecision(3);
-        var percentageString = percentage + "%";
+        const percentage = (100 * d.value / totalSize).toPrecision(3);
+        let percentageString = percentage + "%";
         if (percentage < 0.1) {
             percentageString = "< 0.1%";
         }
@@ -91,7 +91,7 @@
             .text(percentageString);
         d3.select("#explanation")
             .style("visibility", "");
-        var sequenceArray = getAncestors(d);
+        const sequenceArray = getAncestors(d);
         updateBreadcrumbs(sequenceArray, percentageString);
         // Fade all the segments.
         d3.selectAll("path")
@@ -124,8 +124,8 @@
     // Given a node in a partition layout, return an array of all of its ancestor
     // nodes, highest first, but excluding the root.
     function getAncestors(node) {
-        var path = [];
-        var current = node;
+        const path = [];
+        let current = node;
         while (current.parent) {
             path.unshift(current);
             current = current.parent;
@@ -134,7 +134,7 @@
     }
     function initializeBreadcrumbTrail() {
         // Add the svg area.
-        var trail = d3.select("#sequence").append("svg:svg")
+        const trail = d3.select("#sequence").append("svg:svg")
             .attr("width", width)
             .attr("height", 50)
             .attr("id", "trail");
@@ -145,7 +145,7 @@
     }
     // Generate a string that describes the points of a breadcrumb polygon.
     function breadcrumbPoints(d, i) {
-        var points = [];
+        const points = [];
         points.push("0,0");
         points.push(b.w + ",0");
         points.push(b.w + b.t + "," + (b.h / 2));
@@ -159,11 +159,11 @@
     // Update the breadcrumb trail to show the current sequence and percentage.
     function updateBreadcrumbs(nodeArray, percentageString) {
         // Data join; key function combines name and depth (= position in sequence).
-        var g = d3.select("#trail")
+        const g = d3.select("#trail")
             .selectAll("g")
             .data(nodeArray, function (d) { return d.name + d.depth; });
         // Add breadcrumb and label for entering nodes.
-        var entering = g.enter().append("svg:g");
+        const entering = g.enter().append("svg:g");
         entering.append("svg:polygon")
             .attr("points", breadcrumbPoints)
             .style("fill", function (d) { return colors[d.name]; });
@@ -192,13 +192,13 @@
     }
     function drawLegend() {
         // Dimensions of legend item: width, height, spacing, radius of rounded rect.
-        var li = {
+        const li = {
             w: 75, h: 30, s: 3, r: 3,
         };
-        var legend = d3.select("#legend").append("svg:svg")
+        const legend = d3.select("#legend").append("svg:svg")
             .attr("width", li.w)
             .attr("height", d3.keys(colors).length * (li.h + li.s));
-        var g = legend.selectAll("g")
+        const g = legend.selectAll("g")
             .data(d3.entries(colors))
             .enter().append("svg:g")
             .attr("transform", function (d, i) {
@@ -218,7 +218,7 @@
             .text(function (d) { return d.key; });
     }
     function toggleLegend() {
-        var legend = d3.select("#legend");
+        const legend = d3.select("#legend");
         if (legend.style("visibility") == "hidden") {
             legend.style("visibility", "");
         }
@@ -231,23 +231,23 @@
     // root to leaf, separated by hyphens. The second column is a count of how
     // often that sequence occurred.
     function buildHierarchy(csv) {
-        var root = { name: "root", children: [] };
-        for (var i = 0; i < csv.length; i++) {
-            var sequence = csv[i][0];
-            var size = +csv[i][1];
+        const root = { name: "root", children: [] };
+        for (let i = 0; i < csv.length; i++) {
+            const sequence = csv[i][0];
+            const size = +csv[i][1];
             if (isNaN(size)) { // e.g. if this is a header row
                 continue;
             }
-            var parts = sequence.split("-");
-            var currentNode = root;
-            for (var j = 0; j < parts.length; j++) {
-                var children = currentNode.children;
-                var nodeName = parts[j];
-                var childNode = void 0;
+            const parts = sequence.split("-");
+            let currentNode = root;
+            for (let j = 0; j < parts.length; j++) {
+                const children = currentNode.children;
+                const nodeName = parts[j];
+                let childNode;
                 if (j + 1 < parts.length) {
                     // Not yet at the end of the sequence; move down the tree.
-                    var foundChild = false;
-                    for (var k = 0; k < children.length; k++) {
+                    let foundChild = false;
+                    for (let k = 0; k < children.length; k++) {
                         if (children[k].name == nodeName) {
                             childNode = children[k];
                             foundChild = true;
@@ -263,7 +263,7 @@
                 }
                 else {
                     // Reached the end of the sequence; create a leaf node.
-                    childNode = { name: nodeName, size: size };
+                    childNode = { name: nodeName, size };
                     children.push(childNode);
                 }
             }

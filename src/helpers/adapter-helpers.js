@@ -9,9 +9,9 @@
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    var node_logger_1 = require("node-logger");
-    var chalk_1 = require("chalk");
-    var log = node_logger_1.createLog("Adapter Helpers");
+    const node_logger_1 = require("node-logger");
+    const chalk_1 = require("chalk");
+    const log = node_logger_1.createLog("Adapter Helpers");
     var EventHandlers;
     (function (EventHandlers) {
         EventHandlers["Ready"] = "ready";
@@ -20,9 +20,9 @@
     })(EventHandlers = exports.EventHandlers || (exports.EventHandlers = {}));
     function setupAdapter(currentAdapter, eventHandlers) {
         log(chalk_1.default.cyan("Setup Adapter"));
-        Object.entries(eventHandlers).forEach(function (entry) {
-            var name = entry[0];
-            var handler = entry[1];
+        Object.entries(eventHandlers).forEach((entry) => {
+            const name = entry[0];
+            const handler = entry[1];
             currentAdapter.on(name, handler.bind(undefined, currentAdapter));
         });
         currentAdapter.open();

@@ -10,27 +10,20 @@
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     require("rxjs/add/operator/share");
-    var Subject_1 = require("rxjs/Subject");
-    var CommandOutput = /** @class */ (function () {
+    const Subject_1 = require("rxjs/Subject");
+    class CommandOutput {
         // protected subject: Subject<OutType>;
         // protected observable: Observable<OutType>;
-        function CommandOutput(subject, observable) {
-            if (subject === void 0) { subject = new Subject_1.Subject(); }
-            if (observable === void 0) { observable = subject.share(); }
+        constructor(subject = new Subject_1.Subject(), observable = subject.share()) {
             this.subject = subject;
             this.observable = observable;
         }
-        Object.defineProperty(CommandOutput.prototype, "output", {
-            get: function () {
-                return this.observable;
-            },
-            enumerable: true,
-            configurable: true
-        });
-        CommandOutput.prototype.emit = function (value) {
+        get output() {
+            return this.observable;
+        }
+        emit(value) {
             this.subject && this.subject.next(value);
-        };
-        return CommandOutput;
-    }());
+        }
+    }
     exports.default = CommandOutput;
 });

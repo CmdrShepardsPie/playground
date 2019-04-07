@@ -9,10 +9,10 @@
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    var chalk_1 = require("chalk");
-    var lastMessageInline = false;
-    var lastContext;
-    var bgColors = [
+    const chalk_1 = require("chalk");
+    let lastMessageInline = false;
+    let lastContext;
+    const bgColors = [
         // "bgBlack",
         "bgRed",
         "bgGreen",
@@ -21,7 +21,7 @@
         "bgMagenta",
         "bgCyan",
     ];
-    var lastColor = 0;
+    let lastColor = 0;
     function createOut(context, color) {
         if (!color) {
             color = bgColors[lastColor];
@@ -42,12 +42,8 @@
             }
         }
         // @ts-ignore
-        var chalkColorFn = chalk_1.default[color];
-        return function () {
-            var msg = [];
-            for (var _i = 0; _i < arguments.length; _i++) {
-                msg[_i] = arguments[_i];
-            }
+        const chalkColorFn = chalk_1.default[color];
+        return (...msg) => {
             msg = msg.map(prepIfJson);
             // if (lastContext !== context) {
             //   createEmptyLine();
@@ -55,8 +51,8 @@
             if (lastMessageInline) {
                 createEmptyLine();
             }
-            var args = [chalkColorFn(context + ":")].concat(msg);
-            console.log.apply(console, args);
+            const args = [chalkColorFn(`${context}:`), ...msg];
+            console.log(...args);
             lastMessageInline = false;
             lastContext = context;
         };
@@ -71,18 +67,14 @@
             }
         }
         // @ts-ignore
-        var chalkColorFn = chalk_1.default[color];
-        return function () {
-            var msg = [];
-            for (var _i = 0; _i < arguments.length; _i++) {
-                msg[_i] = arguments[_i];
-            }
+        const chalkColorFn = chalk_1.default[color];
+        return (...msg) => {
             if (!lastMessageInline) {
-                process.stdout.write(chalkColorFn(context + ":") + " ");
+                process.stdout.write(chalkColorFn(`${context}:`) + " ");
             }
             if (lastMessageInline && lastContext !== context) {
                 createEmptyLine();
-                process.stdout.write(chalkColorFn(context + ":") + " ");
+                process.stdout.write(chalkColorFn(`${context}:`) + " ");
             }
             process.stdout.write(msg.join(" "));
             lastMessageInline = true;
@@ -91,19 +83,15 @@
     }
     exports.createWrite = createWrite;
     function createThrowError(context) {
-        var color = bgColors[lastColor];
+        const color = bgColors[lastColor];
         lastColor += 1;
         if (lastColor >= bgColors.length) {
             lastColor = 0;
         }
         // @ts-ignore
-        var chalkColorFn = chalk_1.default[color];
-        return function (type) {
-            var msg = [];
-            for (var _i = 1; _i < arguments.length; _i++) {
-                msg[_i - 1] = arguments[_i];
-            }
-            console.log.apply(console, [chalkColorFn(context + ":"), chalk_1.default.red(type + " Error:")].concat(msg));
+        const chalkColorFn = chalk_1.default[color];
+        return (type, ...msg) => {
+            console.log(chalkColorFn(`${context}:`), chalk_1.default.red(`${type} Error:`), ...msg);
             process.exit(1);
         };
     }
@@ -133,11 +121,11 @@
     }
     function colorizeJsonString(json) {
         // Strings
-        json = json.replace(/(\s+)("[^"]*")(,?[\r\n])/gi, "$1" + chalk_1.default.yellow("$2") + "$3");
+        json = json.replace(/(\s+)("[^"]*")(,?[\r\n])/gi, `$1${chalk_1.default.yellow("$2")}$3`);
         // booleans, numbers, etc.
-        json = json.replace(/(\s+)([^"[{\]}][^[\]{}"\n\r,]*)(,?[\r\n])/gi, "$1" + chalk_1.default.cyan("$2") + "$3");
+        json = json.replace(/(\s+)([^"[{\]}][^[\]{}"\n\r,]*)(,?[\r\n])/gi, `$1${chalk_1.default.cyan("$2")}$3`);
         // Keys
-        json = json.replace(/("[^"]*"):/gi, chalk_1.default.magenta("$1") + ":");
+        json = json.replace(/("[^"]*"):/gi, `${chalk_1.default.magenta("$1")}:`);
         return json;
     }
     function createEmptyLine() {
