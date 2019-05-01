@@ -39,11 +39,10 @@ async function nextPage() {
     // console.log(`nextPage`);
     window.scrollTo(0, 0);
     try {
-        await clickItem(document.querySelectorAll(`[data-year] a`));
-        await clickItem(document.querySelectorAll(`.uiMorePager a`));
-        await clickItem(document.querySelectorAll(`[data-year] a`));
-        await clickItem(document.querySelectorAll(`.uiMorePager a`));
         await processRows(document.querySelectorAll(`.uiList .uiBoxWhite`));
+        await clickItem(document.querySelectorAll(`[data-year] a`));
+        await processRows(document.querySelectorAll(`.uiList .uiBoxWhite`));
+        await clickItem(document.querySelectorAll(`.uiMorePager a`));
     }
     catch (e) {
         console.log(`nextPage error`, e);
