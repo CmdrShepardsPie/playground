@@ -5,21 +5,32 @@
     "moduleResolution": "Node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
     "preserveConstEnums": true,
+    "declaration": false,
     "pretty": true,
+    "strict": true,
+    "inlineSourceMap": false,
+    "inlineSources": false,
+    "declarationMap": false,
+    "baseUrl": "src",
+    "outDir": "dist",
     "lib": [
       "esnext",
       "dom"
     ],
-    "baseUrl": "./",
     "paths": {
-      "@config/*": ["src/config/*"],
-      "@enums/*": ["src/enums/*"],
-      "@helpers/*": ["src/helpers/*"],
-      "@interfaces/*": ["src/interfaces/*"],
-      "@scripts/*": ["src/scripts/*"],
-      "@services/*": ["src/services/*"]
+      "@config/*": ["config/*"],
+      "@enums/*": ["enums/*"],
+      "@helpers/*": ["helpers/*"],
+      "@interfaces/*": ["interfaces/*"],
+      "@scripts/*": ["scripts/*"],
+      "@services/*": ["services/*"]
     }
-  }
+  },
+  "exclude": [
+    "dist",
+    "build"
+  ]
 }
