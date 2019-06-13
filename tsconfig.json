@@ -8,12 +8,8 @@
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
     "preserveConstEnums": true,
-    "declaration": false,
     "pretty": true,
     "strict": true,
-    "inlineSourceMap": false,
-    "inlineSources": false,
-    "declarationMap": false,
     "baseUrl": "src",
     "outDir": "dist",
     "lib": [
