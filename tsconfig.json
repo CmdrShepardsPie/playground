@@ -14,7 +14,8 @@
     "outDir": "dist",
     "lib": [
       "esnext",
-      "dom"
+      "dom",
+      "dom.iterable"
     ],
     "paths": {
       "@config/*": ["config/*"],

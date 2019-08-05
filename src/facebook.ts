@@ -35,43 +35,46 @@
 *
 * This comes with absolutely no warranty, guarantees, or support. You run this at your own risk!
 */
-const timeout = () => 500;
+const timeout = () => 100;
 
 // Main loop of the program, it will scroll up and down and
 // look for "Load more" style links to keep expanding the timeline
 async function nextPage() {
 // console.log(`nextPage`);
-  window.scrollTo(0, 0);
   try {
-    await processRows(document.querySelectorAll(`.uiList .uiBoxWhite`));
-    await clickItem(document.querySelectorAll(`[data-year] a`));
-    await processRows(document.querySelectorAll(`.uiList .uiBoxWhite`));
-    await clickItem(document.querySelectorAll(`.uiMorePager a`));
+    // window.scrollTo(0, 1000000);
+    // await clickItem(document.querySelectorAll<HTMLElement>(`[data-year] a`));
+    // await clickItem(document.querySelectorAll<HTMLElement>(`.uiMorePager a`));
+    // await clickItem(document.querySelectorAll<HTMLElement>(`[data-year] a`));
+    // await clickItem(document.querySelectorAll<HTMLElement>(`.uiMorePager a`));
+    // await clickItem(document.querySelectorAll<HTMLElement>(`[data-year] a`));
+    // await clickItem(document.querySelectorAll<HTMLElement>(`.uiMorePager a`));
+    await processRows([...document.querySelectorAll<HTMLElement>(`.uiList .uiBoxWhite`)]);
+    await clickItem([...document.querySelectorAll<HTMLElement>(`.uiMorePager a`)]);
   } catch (e) { console.log(`nextPage error`, e); }
-  window.scrollTo(0, 1000000);
+  // window.scrollTo(0, 0);
   setTimeout(nextPage, timeout());
 }
 
 // Go down each line of your timeline looking for action buttons
-async function processRows(rows: NodeListOf<Element>) {
+async function processRows(rows: HTMLElement[]) {
 // console.log("processRows");
-  for (const row of Array.prototype.slice.apply(rows)) {
-    // const row = rows[i];
-    try {
-      await changeSharing(row);
-      await cleanupMenu();
-      await changeTimeline(row);
-      await cleanupMenu();
-      await clickItem(await getDialogFor(`Close`));
-      await cleanupElement(row);
-    } catch (e) { console.log(`processRows error`, e); }
+  for (const row of rows) try {
+    await changeSharing(row);
+    await cleanupMenu();
+    await changeTimeline(row);
+    await cleanupMenu();
+    await clickItem(await getDialogFor(`Close`));
+    await cleanupElement(row);
+  } catch (e) {
+    console.log(`processRows error`, e);
   }
 }
 
 // If the privacy of the timeline item can be changed, set it to Only me
-async function changeSharing(row: Element) {
+async function changeSharing(row: HTMLElement) {
 // console.log("changeSharing", row);
-  const sharing = row.querySelector(`[aria-label~="Shared"]`);
+  const sharing = row.querySelector<HTMLElement>(`[aria-label~="Shared"]`);
   if (sharing) {
     await clickItem(sharing);
     await clickItem(await getMenuFor(`Only me (+)`));
@@ -81,13 +84,13 @@ async function changeSharing(row: Element) {
 }
 
 // Look for the edit item button
-async function changeTimeline(row: Element) {
-  const edit = row.querySelector(`[aria-label="Edit"]`);
+async function changeTimeline(row: HTMLElement) {
+  const edit = row.querySelector<HTMLElement>(`[aria-label="Edit"]`);
   if (edit) {
     await clickItem(edit);
-    const menu = document.querySelector(`[role="menu"]`);
+    const menu = document.querySelector<HTMLElement>(`[role="menu"]`);
     if (menu) {
-      const allMenuItems = Array.prototype.slice.apply(menu.querySelectorAll(`[role="menu"] [role="presentation"] a`)) as HTMLElement[];
+      const allMenuItems = [...menu.querySelectorAll<HTMLElement>(`[role="menu"] [role="presentation"] a`)];
       for (const menuItem of allMenuItems) {
         // const menuItem = allMenuItems[i];
         const text = menuItem.innerText.trim().toLowerCase();
@@ -173,10 +176,10 @@ async function getMenuFor(text: string) {
   return await new Promise((resolve) => {
     setTimeout(() => {
       try {
-        const menu = document.querySelector(`[role="menu"]`);
+        const menu = document.querySelector<HTMLElement>(`[role="menu"]`);
         if (menu) {
           // console.log("getMenuFor inner", text);
-          const allMenuItems = Array.prototype.slice.apply(menu.querySelectorAll(`*`)) as HTMLElement[];
+          const allMenuItems = [...menu.querySelectorAll<HTMLElement>(`*`)];
           const filteredMenuItems = allMenuItems.filter((item) => item.innerText.toLowerCase() === text.toLowerCase());
           if (filteredMenuItems.length > 0) {
             return resolve([...filteredMenuItems]);
@@ -197,11 +200,11 @@ async function getDialogFor(text: string) {
   return await new Promise((resolve) => {
     setTimeout(() => {
       try {
-        const dialogs = document.querySelectorAll(`[role="dialog"]`);
+        const dialogs = [...document.querySelectorAll<HTMLElement>(`[role="dialog"]`)];
         const dialog = dialogs[dialogs.length - 1];
         if (dialog) {
           // console.log("getDialogFor inner", text);
-          const allDialogItems = Array.prototype.slice.apply(dialog.querySelectorAll(`*`)) as HTMLElement[];
+          const allDialogItems = [...dialog.querySelectorAll<HTMLElement>(`*`)];
           const filteredDialogItems = allDialogItems.filter((item) => {
             return item.innerText.toLowerCase() === text.toLowerCase() &&
               // @ts-ignore
@@ -227,14 +230,14 @@ async function getDialogFor(text: string) {
 //   and the hidden HTML grows significantly if we don't.
 async function cleanupMenu() {
 // console.log("cleanupMenu");
-  const menu = document.querySelector(`[role="menu"]`);
+  const menu = document.querySelector<HTMLElement>(`[role="menu"]`);
   return await cleanupElement(menu);
 }
 
 // Simulate a user clicking an item.
-async function clickItem(item: any): Promise<any> {
+async function clickItem(item: HTMLElement | HTMLElement[]) {
 // console.log("clickItem outer", item);
-  if (!item || item.length === 0) {
+  if (!item) {
     return;
   }
   if (Array.isArray(item)) {
@@ -242,8 +245,6 @@ async function clickItem(item: any): Promise<any> {
       await clickItem(i);
     }
     return;
-  } else if (item.length) {
-    return await clickItem([...item]);
   }
   return await new Promise((resolve) => {
     setTimeout(async () => {
@@ -257,9 +258,9 @@ async function clickItem(item: any): Promise<any> {
 }
 
 // Remove elements from the page so the processing doesn"t slow down as much
-async function cleanupElement(item: any): Promise<any> {
+async function cleanupElement(item: HTMLElement) {
 // console.log("cleanupElement outer", item);
-  if (!item || item.length === 0) {
+  if (!item) {
     return;
   }
   if (Array.isArray(item)) {
@@ -267,14 +268,14 @@ async function cleanupElement(item: any): Promise<any> {
       await cleanupElement(i);
     }
     return;
-  } else if (item.length) {
-    return await cleanupElement([...item]);
   }
   return await new Promise((resolve) => {
     setTimeout(async () => {
       try {
         // console.log("cleanupElement inner", item);
-        item.parentNode.removeChild(item);
+        if (item.parentNode) {
+          item.parentNode.removeChild(item);
+        }
         return resolve();
       } catch (e) { console.log(`removeItemFromPage error`, e); return resolve(); }
     }, timeout());
@@ -282,4 +283,4 @@ async function cleanupElement(item: any): Promise<any> {
 }
 
 // Start by calling nextPage right away
-nextPage();
+nextPage().then(r => console.log("DONE?", r));

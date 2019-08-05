@@ -39,7 +39,7 @@
 // Main loop of the program, it will scroll up and down and
 // look for "Load more" style links to keep expanding the timeline
 async function nextPage() {
-  // console.log(`nextPage`);
+  console.log(`nextPage`);
   window.scrollTo(0, 0);
   try {
     await processRows(document.querySelectorAll(`.uiList .uiBoxWhite`));
@@ -53,7 +53,7 @@ async function nextPage() {
 
 // Go down each line of your timeline looking for action buttons
 async function processRows(rows: NodeListOf<Element>) {
-  // console.log("processRows");
+  console.log("processRows");
   for (const row of Array.prototype.slice.apply(rows)) {
     // const row = rows[i];
     try {
@@ -69,7 +69,7 @@ async function processRows(rows: NodeListOf<Element>) {
 
 // If the privacy of the timeline item can be changed, set it to Public
 async function changeSharing(row: Element) {
-  // console.log("changeSharing", row);
+  console.log("changeSharing", row);
   const sharing = row.querySelector(`[aria-label~="Shared"]`);
   if (sharing) {
     await clickItem(sharing);
@@ -81,6 +81,7 @@ async function changeSharing(row: Element) {
 
 // Look for the edit item button
 async function changeTimeline(row: Element) {
+  console.log("changeTimeline");
   const edit = row.querySelector(`[aria-label="Edit"]`);
   if (edit) {
     await clickItem(edit);
@@ -90,7 +91,7 @@ async function changeTimeline(row: Element) {
       for (const menuItem of allMenuItems) {
         // const menuItem = allMenuItems[i];
         const text = menuItem.innerText.trim().toLowerCase();
-        // console.log(`Text: "${text}"`);
+        console.log(`Text: "${text}"`);
         // Look for specific item in the drop down menu and click them
         switch (text) {
           // Allow on timeline
@@ -106,13 +107,13 @@ async function changeTimeline(row: Element) {
 
 // Helper to get clickable elements in drop down menus
 async function getMenuFor(text: string) {
-  // console.log("getMenuFor outer", text);
+  console.log("getMenuFor outer", text);
   return await new Promise((resolve) => {
     setTimeout(() => {
       try {
         const menu = document.querySelector(`[role="menu"]`);
         if (menu) {
-          // console.log("getMenuFor inner", text);
+          console.log("getMenuFor inner", text);
           const allMenuItems = Array.prototype.slice.apply(menu.querySelectorAll(`*`)) as HTMLElement[];
           const filteredMenuItems = allMenuItems.filter((item) => item.innerText.toLowerCase() === text.toLowerCase());
           if (filteredMenuItems.length > 0) {
@@ -130,14 +131,14 @@ async function getMenuFor(text: string) {
 
 // Helper to get clickable elements in pop up dialogs
 async function getDialogFor(text: string) {
-  // console.log("getDialogFor outer", text);
+  console.log("getDialogFor outer", text);
   return await new Promise((resolve) => {
     setTimeout(() => {
       try {
         const dialogs = document.querySelectorAll(`[role="dialog"]`);
         const dialog = dialogs[dialogs.length - 1];
         if (dialog) {
-          // console.log("getDialogFor inner", text);
+          console.log("getDialogFor inner", text);
           const allDialogItems = Array.prototype.slice.apply(dialog.querySelectorAll(`*`)) as HTMLElement[];
           const filteredDialogItems = allDialogItems.filter((item) => {
             return item.innerText.toLowerCase() === text.toLowerCase() &&
@@ -163,14 +164,14 @@ async function getDialogFor(text: string) {
 // Remove drop down menus when we"re down with them because Facebook doesn"t
 //   and the hidden HTML grows significantly if we don't.
 async function cleanupMenu() {
-  // console.log("cleanupMenu");
+  console.log("cleanupMenu");
   const menu = document.querySelector(`[role="menu"]`);
   return await cleanupElement(menu);
 }
 
 // Simulate a user clicking an item.
 async function clickItem(item: any): Promise<any> {
-  // console.log("clickItem outer", item);
+  console.log("clickItem outer", item);
   if (!item || item.length === 0) {
     return;
   }
@@ -185,7 +186,7 @@ async function clickItem(item: any): Promise<any> {
   return await new Promise((resolve) => {
     setTimeout(async () => {
       try {
-        // console.log("clickItem inner", item);
+        console.log("clickItem inner", item);
         item.click();
         resolve();
       } catch (e) { console.log(`clickItem error`, e); return resolve(); }
@@ -195,7 +196,7 @@ async function clickItem(item: any): Promise<any> {
 
 // Remove elements from the page so the processing doesn"t slow down as much
 async function cleanupElement(item: any): Promise<any> {
-  // console.log("cleanupElement outer", item);
+  console.log("cleanupElement outer", item);
   if (!item || item.length === 0) {
     return;
   }
@@ -210,7 +211,7 @@ async function cleanupElement(item: any): Promise<any> {
   return await new Promise((resolve) => {
     setTimeout(async () => {
       try {
-        // console.log("cleanupElement inner", item);
+        console.log("cleanupElement inner", item);
         item.parentNode.removeChild(item);
         return resolve();
       } catch (e) { console.log(`removeItemFromPage error`, e); return resolve(); }
