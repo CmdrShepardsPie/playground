@@ -35,7 +35,7 @@
 *
 * This comes with absolutely no warranty, guarantees, or support. You run this at your own risk!
 */
-const timeout = () => 100;
+const timeout = () => 500;
 
 // Main loop of the program, it will scroll up and down and
 // look for "Load more" style links to keep expanding the timeline
@@ -107,6 +107,11 @@ async function changeTimeline(row: HTMLElement) {
             await clickItem(menuItem);
             const confirm = await getDialogFor(`Close`);
             await clickItem(confirm);
+            break;
+          }
+          // Unvote (New: polls)
+          case "unvote": {
+            await clickItem(menuItem);
             break;
           }
           // Like unlike but for smiles, hearts, etc.
