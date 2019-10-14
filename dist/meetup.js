@@ -4,17 +4,12 @@
         if (v !== undefined) module.exports = v;
     }
     else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "passport-meetup", "body-parser", "cookie-parser", "express", "express-session", "passport"], factory);
+        define(["require", "exports", "body-parser", "cookie-parser", "express", "express-session", "passport", "passport-meetup"], factory);
     }
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    console.log("start");
-    // const fs = {
-    //   writeFile: promisify(_fs.writeFile)
-    // };
     // import axios from 'axios';
-    const passport_meetup_1 = require("passport-meetup");
     // import * as path from 'path';
     const bodyParser = require("body-parser");
     // import * as serveStatic from 'serve-static';
@@ -22,6 +17,11 @@
     const express = require("express");
     const expressSession = require("express-session");
     const passport = require("passport");
+    const passport_meetup_1 = require("passport-meetup");
+    console.log("start");
+    // const fs = {
+    //   writeFile: promisify(_fs.writeFile)
+    // };
     const app = express();
     // app.use(serveStatic(path.resolve(__dirname, 'static'));
     app.use(cookieParser());

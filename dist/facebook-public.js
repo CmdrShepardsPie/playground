@@ -59,7 +59,7 @@ async function nextPage() {
 // Go down each line of your timeline looking for action buttons
 async function processRows(rows) {
     // console.log("processRows");
-    for (const row of rows)
+    for (const row of rows) {
         try {
             await changeSharing(row);
             await cleanupMenu();
@@ -71,6 +71,7 @@ async function processRows(rows) {
         catch (e) {
             console.log(`processRows error`, e);
         }
+    }
 }
 // If the privacy of the timeline item can be changed, set it to Public
 async function changeSharing(row) {
@@ -235,5 +236,5 @@ async function cleanupElement(item) {
     });
 }
 // Start by calling nextPage right away
-nextPage().then(r => console.log("DONE?", r));
+nextPage().then((r) => console.log("DONE?", r));
 //# sourceMappingURL=facebook-public.js.map

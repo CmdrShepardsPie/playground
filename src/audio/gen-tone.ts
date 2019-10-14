@@ -40,7 +40,7 @@ async function generate(frequency: number, duration: number, tone: number, outBi
   const base = frequency / (Math.PI * 2);
 
   // generate
-  for (let i = 0; i < samples; i ++) {
+  for (let i = 0; i < samples; i++) {
     // tone = (i / duration) / 2;
     const val = Math.sin(i * ((tone) / base));
     arr.push(val);
@@ -59,23 +59,23 @@ async function generate(frequency: number, duration: number, tone: number, outBi
   const ditherLength = 4;
   const ditherPeak = 32 / outBits;
   console.log("Dither Length", ditherLength, "Dither Peak", ditherPeak);
-  for (let x = 0; x < ditherLength; x ++) {
+  for (let x = 0; x < ditherLength; x++) {
     const top = ditherPeak * ((x + 1) / ditherLength);
     const bottom = (ditherLength * 4);
-    dither.push( top / bottom );
+    dither.push(top / bottom);
     console.log(`${top} / ${bottom}`);
   }
   dither.sort((a, b) => b - a);
   console.log("Dithering", outBits, "bits to", dither);
   // mix
-  for (let i = 0; i < samples; i ++) {
+  for (let i = 0; i < samples; i++) {
     const oldVal = arr[i];
     const newVal = oldVal * outLevel;
     const rounded = Math.round(newVal);
     const error = newVal - rounded;
 
     arr[i] = rounded;
-    for (let x = 0; x < dither.length; x ++) {
+    for (let x = 0; x < dither.length; x++) {
       const index = i + x + 1;
       const dith = dither[x];
       if (arr[index] !== undefined) {

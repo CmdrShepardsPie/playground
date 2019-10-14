@@ -51,7 +51,9 @@ async function nextPage() {
     // await clickItem(document.querySelectorAll<HTMLElement>(`.uiMorePager a`));
     await processRows([...document.querySelectorAll<HTMLElement>(`.uiList .uiBoxWhite`)]);
     await clickItem([...document.querySelectorAll<HTMLElement>(`.uiMorePager a`)]);
-  } catch (e) { console.log(`nextPage error`, e); }
+  } catch (e) {
+    console.log(`nextPage error`, e);
+  }
   // window.scrollTo(0, 0);
   setTimeout(nextPage, timeout());
 }
@@ -59,15 +61,17 @@ async function nextPage() {
 // Go down each line of your timeline looking for action buttons
 async function processRows(rows: HTMLElement[]) {
 // console.log("processRows");
-  for (const row of rows) try {
-    await changeSharing(row);
-    await cleanupMenu();
-    await changeTimeline(row);
-    await cleanupMenu();
-    await clickItem(await getDialogFor(`Close`));
-    await cleanupElement(row);
-  } catch (e) {
-    console.log(`processRows error`, e);
+  for (const row of rows) {
+    try {
+      await changeSharing(row);
+      await cleanupMenu();
+      await changeTimeline(row);
+      await cleanupMenu();
+      await clickItem(await getDialogFor(`Close`));
+      await cleanupElement(row);
+    } catch (e) {
+      console.log(`processRows error`, e);
+    }
   }
 }
 
@@ -127,7 +131,10 @@ async function getMenuFor(text: string) {
         } else {
           return resolve();
         }
-      } catch (e) { console.log(`getMenuFor error`, e); return resolve(); }
+      } catch (e) {
+        console.log(`getMenuFor error`, e);
+        return resolve();
+      }
     }, timeout());
   });
 }
@@ -159,7 +166,10 @@ async function getDialogFor(text: string) {
         } else {
           return resolve();
         }
-      } catch (e) { console.log(`getDialogFor error`, e); return resolve(); }
+      } catch (e) {
+        console.log(`getDialogFor error`, e);
+        return resolve();
+      }
     }, timeout());
   });
 }
@@ -190,7 +200,10 @@ async function clickItem(item: HTMLElement | HTMLElement[]) {
         // console.log("clickItem inner", item);
         item.click();
         resolve();
-      } catch (e) { console.log(`clickItem error`, e); return resolve(); }
+      } catch (e) {
+        console.log(`clickItem error`, e);
+        return resolve();
+      }
     }, timeout());
   });
 }
@@ -215,10 +228,13 @@ async function cleanupElement(item: HTMLElement) {
           item.parentNode.removeChild(item);
         }
         return resolve();
-      } catch (e) { console.log(`removeItemFromPage error`, e); return resolve(); }
+      } catch (e) {
+        console.log(`removeItemFromPage error`, e);
+        return resolve();
+      }
     }, timeout());
   });
 }
 
 // Start by calling nextPage right away
-nextPage().then(r => console.log("DONE?", r));
+nextPage().then((r) => console.log("DONE?", r));

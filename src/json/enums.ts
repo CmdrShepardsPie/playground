@@ -34,4 +34,4 @@ Object.entries(Keys).forEach((entry) => {
     Keys[val] = key;
   }
 });
-export { Keys };
+export {Keys};

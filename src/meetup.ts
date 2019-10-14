@@ -1,15 +1,4 @@
-import { IMeetupUser } from "./models/meetup.user";
-
-console.log("start");
-import _fs from "fs";
-import { promisify } from "util";
-// const fs = {
-//   writeFile: promisify(_fs.writeFile)
-// };
-
 // import axios from 'axios';
-import { IUserProfile, Strategy as MeetupStrategy } from "passport-meetup";
-
 // import * as path from 'path';
 import * as bodyParser from "body-parser";
 // import * as serveStatic from 'serve-static';
@@ -17,17 +6,22 @@ import * as cookieParser from "cookie-parser";
 import * as express from "express";
 import * as expressSession from "express-session";
 import * as passport from "passport";
-import { IMeetupEvent } from "./models/meetup.events";
+import {IUserProfile, Strategy as MeetupStrategy} from "passport-meetup";
+
+console.log("start");
+// const fs = {
+//   writeFile: promisify(_fs.writeFile)
+// };
 
 const app = express();
 // app.use(serveStatic(path.resolve(__dirname, 'static'));
 app.use(cookieParser());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({extended: true}));
 app.use(expressSession({
   secret: "keyboard cat",
   resave: false,
   saveUninitialized: false,
-  cookie: { secure: "auto" },
+  cookie: {secure: "auto"},
 }));
 app.use(passport.initialize());
 app.use(passport.session());
@@ -44,8 +38,7 @@ app.listen(3000);
 
 let _profile: IUserProfile;
 
-passport.use(new MeetupStrategy({
-  },
+passport.use(new MeetupStrategy({},
   (token, tokenSecret, profile, done) => {
     console.log("verify", token, tokenSecret, profile, done);
     _profile = profile;

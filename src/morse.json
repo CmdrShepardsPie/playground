@@ -1,38 +1,146 @@
 [
-  { "Letter": "A", "Code": ".-" },
-  { "Letter": "B", "Code": "-..." },
-  { "Letter": "C", "Code": "-.-." },
-  { "Letter": "D", "Code": "-.." },
-  { "Letter": "E", "Code": "." },
-  { "Letter": "F", "Code": "..-." },
-  { "Letter": "G", "Code": "--." },
-  { "Letter": "H", "Code": "...." },
-  { "Letter": "I", "Code": ".." },
-  { "Letter": "J", "Code": ".---" },
-  { "Letter": "K", "Code": "-.-" },
-  { "Letter": "L", "Code": ".-.." },
-  { "Letter": "M", "Code": "--" },
-  { "Letter": "N", "Code": "-." },
-  { "Letter": "O", "Code": "---" },
-  { "Letter": "P", "Code": ".--." },
-  { "Letter": "Q", "Code": "--.-" },
-  { "Letter": "R", "Code": ".-." },
-  { "Letter": "S", "Code": "..." },
-  { "Letter": "T", "Code": "-" },
-  { "Letter": "U", "Code": "..-" },
-  { "Letter": "V", "Code": "...-" },
-  { "Letter": "W", "Code": ".--" },
-  { "Letter": "X", "Code": "-..-" },
-  { "Letter": "Y", "Code": "-.--" },
-  { "Letter": "Z", "Code": "--.." },
-  { "Letter": "1", "Code": ".----" },
-  { "Letter": "2", "Code": "..---" },
-  { "Letter": "3", "Code": "...--" },
-  { "Letter": "4", "Code": "....-" },
-  { "Letter": "5", "Code": "....." },
-  { "Letter": "6", "Code": "-...." },
-  { "Letter": "7", "Code": "--..." },
-  { "Letter": "8", "Code": "---.." },
-  { "Letter": "9", "Code": "----." },
-  { "Letter": "0", "Code": "-----" }
+  {
+    "Letter": "A",
+    "Code": ".-"
+  },
+  {
+    "Letter": "B",
+    "Code": "-..."
+  },
+  {
+    "Letter": "C",
+    "Code": "-.-."
+  },
+  {
+    "Letter": "D",
+    "Code": "-.."
+  },
+  {
+    "Letter": "E",
+    "Code": "."
+  },
+  {
+    "Letter": "F",
+    "Code": "..-."
+  },
+  {
+    "Letter": "G",
+    "Code": "--."
+  },
+  {
+    "Letter": "H",
+    "Code": "...."
+  },
+  {
+    "Letter": "I",
+    "Code": ".."
+  },
+  {
+    "Letter": "J",
+    "Code": ".---"
+  },
+  {
+    "Letter": "K",
+    "Code": "-.-"
+  },
+  {
+    "Letter": "L",
+    "Code": ".-.."
+  },
+  {
+    "Letter": "M",
+    "Code": "--"
+  },
+  {
+    "Letter": "N",
+    "Code": "-."
+  },
+  {
+    "Letter": "O",
+    "Code": "---"
+  },
+  {
+    "Letter": "P",
+    "Code": ".--."
+  },
+  {
+    "Letter": "Q",
+    "Code": "--.-"
+  },
+  {
+    "Letter": "R",
+    "Code": ".-."
+  },
+  {
+    "Letter": "S",
+    "Code": "..."
+  },
+  {
+    "Letter": "T",
+    "Code": "-"
+  },
+  {
+    "Letter": "U",
+    "Code": "..-"
+  },
+  {
+    "Letter": "V",
+    "Code": "...-"
+  },
+  {
+    "Letter": "W",
+    "Code": ".--"
+  },
+  {
+    "Letter": "X",
+    "Code": "-..-"
+  },
+  {
+    "Letter": "Y",
+    "Code": "-.--"
+  },
+  {
+    "Letter": "Z",
+    "Code": "--.."
+  },
+  {
+    "Letter": "1",
+    "Code": ".----"
+  },
+  {
+    "Letter": "2",
+    "Code": "..---"
+  },
+  {
+    "Letter": "3",
+    "Code": "...--"
+  },
+  {
+    "Letter": "4",
+    "Code": "....-"
+  },
+  {
+    "Letter": "5",
+    "Code": "....."
+  },
+  {
+    "Letter": "6",
+    "Code": "-...."
+  },
+  {
+    "Letter": "7",
+    "Code": "--..."
+  },
+  {
+    "Letter": "8",
+    "Code": "---.."
+  },
+  {
+    "Letter": "9",
+    "Code": "----."
+  },
+  {
+    "Letter": "0",
+    "Code": "-----"
+  }
 ]

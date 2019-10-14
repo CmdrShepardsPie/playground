@@ -33,8 +33,8 @@ function getSectionValues(key: string, text: string): string[][] {
   return values;
 }
 
-function pairTitleVal(itemVals: any[], sectionTitles: string[]): {[key: string]: string} {
-  const obj: {[key: string]: any} = {};
+function pairTitleVal(itemVals: any[], sectionTitles: string[]): { [key: string]: string } {
+  const obj: { [key: string]: any } = {};
   sectionTitles.forEach((title: string, index: number) => {
     obj[title] = itemVals[index];
   });

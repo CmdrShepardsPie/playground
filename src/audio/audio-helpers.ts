@@ -1,6 +1,6 @@
-import {createLog} from "../helpers/node-logger";
 import {IAudioMix} from "@interfaces/i.audio-mix";
 import chalk from "chalk";
+import {createLog} from "../helpers/node-logger";
 
 const log = createLog("Audio Helpers");
 
@@ -60,14 +60,14 @@ function normalize(inNumberArray: number[], id?: any) {
   const length = inNumberArray.length;
   const limit = (Math.pow(2, 16) / 2) - 1;
   let peak = 0;
-  for (let i = 0; i < length; i ++) {
+  for (let i = 0; i < length; i++) {
     const value = Math.abs(inNumberArray[i]);
     if (value > peak) {
       peak = value;
     }
   }
   const amp = limit / peak;
-  for (let i = 0; i < length; i ++) {
+  for (let i = 0; i < length; i++) {
     inNumberArray[i] = inNumberArray[i] * amp;
   }
   log(chalk.blue("Normalized"), id !== undefined ? id : "", "peak", peak, "amplification", amp.toFixed(2) + " x");
@@ -76,7 +76,7 @@ function normalize(inNumberArray: number[], id?: any) {
 function boost(inNumberArray: number[], gainDb: number, id?: any) {
   const ratio = Math.pow(10, gainDb / 10);
   const length = inNumberArray.length;
-  for (let i = 0; i < length; i ++) {
+  for (let i = 0; i < length; i++) {
     inNumberArray[i] = inNumberArray[i] * ratio;
   }
   log(chalk.yellow("Boosted"), id !== undefined ? id : "", "gain", gainDb + " db");

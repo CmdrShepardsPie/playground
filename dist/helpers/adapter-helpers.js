@@ -4,13 +4,13 @@
         if (v !== undefined) module.exports = v;
     }
     else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "node-logger", "chalk"], factory);
+        define(["require", "exports", "chalk", "node-logger"], factory);
     }
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    const node_logger_1 = require("node-logger");
     const chalk_1 = require("chalk");
+    const node_logger_1 = require("node-logger");
     const log = node_logger_1.createLog("Adapter Helpers");
     var EventHandlers;
     (function (EventHandlers) {

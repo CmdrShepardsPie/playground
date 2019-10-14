@@ -1,8 +1,8 @@
 // tslint:disable:max-classes-per-file
 
-import { Observable } from "rxjs/Observable";
-import { Subject } from "rxjs/Subject";
-import { Subscription } from "rxjs/Subscription";
+import {Observable} from "rxjs/Observable";
+import {Subject} from "rxjs/Subject";
+import {Subscription} from "rxjs/Subscription";
 import CommandInput from "./command-input";
 import CommandOutput from "./command-output";
 import ICommandLink from "./i.command-link";
@@ -41,10 +41,12 @@ class CommandInputed<InType> extends CommandInput<InType> {
   constructor(private listener: (value: InType) => void) {
     super();
   }
+
   protected listen(value: InType): void {
     this.listener && this.listener(value);
   }
 }
 
 // Make a concrete version of CommandOutput to be instantiated in CommandLink above
-class CommandOutputed<OutType> extends CommandOutput<OutType> {}
+class CommandOutputed<OutType> extends CommandOutput<OutType> {
+}

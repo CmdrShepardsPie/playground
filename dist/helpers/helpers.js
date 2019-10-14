@@ -5,13 +5,13 @@
         if (v !== undefined) module.exports = v;
     }
     else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "node-logger", "chalk", "stream"], factory);
+        define(["require", "exports", "chalk", "node-logger", "stream"], factory);
     }
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    const node_logger_1 = require("node-logger");
     const chalk_1 = require("chalk");
+    const node_logger_1 = require("node-logger");
     const stream = require("stream");
     const log = node_logger_1.createLog("Helpers");
     function wait(ms, fn) {
@@ -212,9 +212,18 @@
         }
         return new Promise((resolve, reject) => {
             const buffers = [];
-            inStream.on("error", (err) => { log(chalk_1.default.red("Error"), err); reject(err); });
-            inStream.on("data", (data) => { log(chalk_1.default.yellow("Data"), data.length); buffers.push(data); });
-            inStream.on("end", () => { log(chalk_1.default.green("End")); resolve(Buffer.concat(buffers)); });
+            inStream.on("error", (err) => {
+                log(chalk_1.default.red("Error"), err);
+                reject(err);
+            });
+            inStream.on("data", (data) => {
+                log(chalk_1.default.yellow("Data"), data.length);
+                buffers.push(data);
+            });
+            inStream.on("end", () => {
+                log(chalk_1.default.green("End"));
+                resolve(Buffer.concat(buffers));
+            });
         });
     }
     exports.streamToBuffer = streamToBuffer;

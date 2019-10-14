@@ -4,13 +4,13 @@
         if (v !== undefined) module.exports = v;
     }
     else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "../helpers/node-logger", "chalk"], factory);
+        define(["require", "exports", "chalk", "../helpers/node-logger"], factory);
     }
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    const node_logger_1 = require("../helpers/node-logger");
     const chalk_1 = require("chalk");
+    const node_logger_1 = require("../helpers/node-logger");
     const log = node_logger_1.createLog("Audio Helpers");
     function mixBuffers(mix) {
         // Convert buffer into number array so we have free reign to use any precision

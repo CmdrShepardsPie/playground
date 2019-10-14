@@ -1,6 +1,6 @@
 import * as _csv from "csv";
 import * as _fs from "fs";
-import { promisify } from "util";
+import {promisify} from "util";
 
 const fs = {
   exists: promisify(_fs.exists),
@@ -28,6 +28,7 @@ interface IChirp {
   Mode: string;
   TStep: number;
   Comment: string;
+
   [index: string]: any;
 }
 
@@ -57,7 +58,7 @@ export default fs.readdir("./")
   .then(async (files) => {
     const contents = await Promise.all(files.filter((b) => /\.json/.test(b)).map((f) => fs.readFile(`./${f}`)));
     const data: IStation[] = contents.reduce((prev, next) => {
-      return [ ...prev, ...JSON.parse(next.toString()) ];
+      return [...prev, ...JSON.parse(next.toString())];
     }, [] as IStation[]);
     data.sort((a, b) => a.Frequency - b.Frequency);
     let lastIndex = 0,

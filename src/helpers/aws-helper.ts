@@ -1,13 +1,13 @@
 // setup dependencies
 import awsConfig from "@config/aws.config";
-import {makeDirs, writeFileAsync} from "fs-helpers";
 import * as AWS from "aws-sdk";
 import {Body, GetObjectOutput, ListObjectsV2Output} from "aws-sdk/clients/s3";
 import {ManagedUpload} from "aws-sdk/lib/s3/managed_upload";
-import SendData = ManagedUpload.SendData;
 import chalk from "chalk";
+import {makeDirs, writeFileAsync} from "fs-helpers";
 import * as path from "path";
 import {createLog} from "./node-logger";
+import SendData = ManagedUpload.SendData;
 
 // set config for upload.
 AWS.config.update({
@@ -19,6 +19,7 @@ AWS.config.update({
 const s3 = new AWS.S3({apiVersion: "2006-03-01"});
 
 const log = createLog("AWS Service");
+
 /*  ======================
  //  UPLOAD FUNCTIONS
  //  ====================== */

@@ -195,6 +195,7 @@ async function untagFromTimeline(): Promise<void> {
     await clickItem(foundDone);
   }
 }
+
 // Helper to get clickable elements in drop down menus
 function getMenuFor(text: string): Promise<HTMLElement[] | undefined> {
   // console.log("getMenuFor outer", text);
@@ -214,7 +215,10 @@ function getMenuFor(text: string): Promise<HTMLElement[] | undefined> {
         } else {
           return resolve();
         }
-      } catch (e) { console.error(`getMenuFor error`, e); return resolve(); }
+      } catch (e) {
+        console.error(`getMenuFor error`, e);
+        return resolve();
+      }
     }, timeout());
   });
 }
@@ -246,7 +250,10 @@ function getDialogFor(text: string): Promise<HTMLElement[] | undefined> {
         } else {
           return resolve();
         }
-      } catch (e) { console.error(`getDialogFor error`, e); return resolve(); }
+      } catch (e) {
+        console.error(`getDialogFor error`, e);
+        return resolve();
+      }
     }, timeout());
   });
 }

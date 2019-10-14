@@ -1,12 +1,13 @@
-import {createLog} from "node-logger";
-import {IAdapterConfig, SpeechAdapter} from "@services/speech-adapters/speech.adapter";
+import {SpeechAdapter} from "@services/speech-adapters/speech.adapter";
 import chalk from "chalk";
+import {createLog} from "node-logger";
 
 const log = createLog("Adapter Helpers");
 
 export interface IEventHandlers<T extends SpeechAdapter> {
   [name: string]: (adapter: T, ...args: any[]) => any;
 }
+
 export enum EventHandlers {
   Ready = "ready",
   Close = "close",

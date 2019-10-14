@@ -31,6 +31,7 @@ function say(text, voice, pitch, rate) {
     // console.log('speak end');
   });
 }
+
 //
 // function wait(ms, fn) {
 //   console.log('wait', ms);

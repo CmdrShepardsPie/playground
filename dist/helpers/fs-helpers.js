@@ -4,16 +4,16 @@
         if (v !== undefined) module.exports = v;
     }
     else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "node-logger", "csv-helpers", "helpers", "chalk", "fs", "path", "util"], factory);
+        define(["require", "exports", "node-logger", "chalk", "csv-helpers", "fs", "helpers", "path", "util"], factory);
     }
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     const node_logger_1 = require("node-logger");
-    const csv_helpers_1 = require("csv-helpers");
-    const helpers_1 = require("helpers");
     const chalk_1 = require("chalk");
+    const csv_helpers_1 = require("csv-helpers");
     const _fs = require("fs");
+    const helpers_1 = require("helpers");
     const path = require("path");
     const util_1 = require("util");
     const log = node_logger_1.createLog("FS Helpers");

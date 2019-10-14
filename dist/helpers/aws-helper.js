@@ -4,16 +4,16 @@
         if (v !== undefined) module.exports = v;
     }
     else if (typeof define === "function" && define.amd) {
-        define(["require", "exports", "@config/aws.config", "fs-helpers", "aws-sdk", "chalk", "path", "./node-logger"], factory);
+        define(["require", "exports", "@config/aws.config", "aws-sdk", "chalk", "fs-helpers", "path", "./node-logger"], factory);
     }
 })(function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     // setup dependencies
     const aws_config_1 = require("@config/aws.config");
-    const fs_helpers_1 = require("fs-helpers");
     const AWS = require("aws-sdk");
     const chalk_1 = require("chalk");
+    const fs_helpers_1 = require("fs-helpers");
     const path = require("path");
     const node_logger_1 = require("./node-logger");
     // set config for upload.

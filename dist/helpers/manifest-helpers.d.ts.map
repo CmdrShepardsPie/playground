@@ -1,1 +1,1 @@
-{"version":3,"file":"manifest-helpers.d.ts","sourceRoot":"","sources":["../../src/helpers/manifest-helpers.ts"],"names":[],"mappings":"AAEA,OAAO,EAAC,SAAS,EAAC,MAAM,wBAAwB,CAAC;AAKjD,wBAAsB,WAAW,CAAC,IAAI,EAAE,MAAM,GAAG,OAAO,CAAC,SAAS,EAAE,CAAC,CAIpE"}
+{"version":3,"file":"manifest-helpers.d.ts","sourceRoot":"","sources":["../../src/helpers/manifest-helpers.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,SAAS,EAAC,MAAM,wBAAwB,CAAC;AAOjD,wBAAsB,WAAW,CAAC,IAAI,EAAE,MAAM,GAAG,OAAO,CAAC,SAAS,EAAE,CAAC,CAIpE"}
