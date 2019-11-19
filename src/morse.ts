@@ -16,7 +16,8 @@ function getValue(code) {
   });
   return value;
 }
-const m = morse.map((o) => ({ Letter: o.Letter, Code: o.Code, Value: getValue(o.Code) }));
+
+const m = morse.map((o) => ({Letter: o.Letter, Code: o.Code, Value: getValue(o.Code)}));
 
 m.sort((a, b) => a.Value - b.Value);
 

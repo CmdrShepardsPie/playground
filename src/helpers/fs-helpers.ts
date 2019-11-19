@@ -1,11 +1,11 @@
 import {createLog} from "node-logger";
 
-import {fillArrayObjects, stringifyAsync} from "csv-helpers";
-import {flattenObject} from "helpers";
 import chalk from "chalk";
+import {fillArrayObjects, stringifyAsync} from "csv-helpers";
 import * as _fs from "fs";
+import {flattenObject} from "helpers";
 import * as path from "path";
-import { promisify } from "util";
+import {promisify} from "util";
 
 const log = createLog("FS Helpers");
 
@@ -29,7 +29,9 @@ export async function makeDirs(filePath: string) {
       // log(chalk.blue("make"), tempPath);
       try {
         await mkdirAsync(tempPath);
-      } catch (e) { log(chalk.red(e)); }
+      } catch (e) {
+        log(chalk.red(e));
+      }
     }
   }
 }
@@ -70,7 +72,7 @@ export function splitExtension(filename: string) {
 
   const name = filename.substring(0, filename.lastIndexOf("."));
   const ext = filename.substring(filename.lastIndexOf(".") + 1);
-  return { name, ext };
+  return {name, ext};
 }
 
 export async function getAllFilesFromDirectory<T>(directory: string, extension?: string): Promise<T[]> {

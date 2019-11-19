@@ -1,5 +1,5 @@
 import * as _csv from "csv";
-import { promisify } from "util";
+import {promisify} from "util";
 
 export interface IStringKeys<P> {
   [index: string]: P;

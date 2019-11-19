@@ -1,4 +1,4 @@
-import { Commands, Keys } from "./json/enums";
+import {Commands, Keys} from "./json/enums";
 import CapsService from "./services/caps.service";
 import KeyService from "./services/key.service";
 import NumberService from "./services/number.service";

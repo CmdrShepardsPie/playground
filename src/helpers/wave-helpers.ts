@@ -1,9 +1,9 @@
-import {makeDirs, readFileAsync} from "fs-helpers";
-import {bufferToStream, streamToBuffer} from "helpers";
-import {createLog} from "node-logger";
 import {IWaveFormat} from "@interfaces/i.wave-format";
 import chalk from "chalk";
 import * as fs from "fs";
+import {makeDirs} from "fs-helpers";
+import {bufferToStream, streamToBuffer} from "helpers";
+import {createLog} from "node-logger";
 import * as path from "path";
 import * as wav from "wav";
 

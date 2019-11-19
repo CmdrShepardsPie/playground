@@ -1,7 +1,7 @@
 // tslint:disable:max-classes-per-file
 
-import {createLog} from "node-logger";
 import chalk from "chalk";
+import {createLog} from "node-logger";
 import * as stream from "stream";
 
 const log = createLog("Helpers");
@@ -53,6 +53,7 @@ export function numberToString(num: number, major?: number, minor?: number) {
   }
   return str;
 }
+
 // @AlwaysThis is kinda broken as it turns out
 // WARNING: AlwaysThis modifies the object prototype which can cause problems
 // tslint:disable-next-line:ban-types
@@ -125,7 +126,7 @@ export function stringKeys<T>(inValue: T) {
 
 // tslint:disable-next-line:ban-types
 export function getPrototypeStack<T extends Function>(constructor: T): T[];
-export function getPrototypeStack<T extends { new(...args: any[]): {} }>(
+export function getPrototypeStack<T extends new(...args: any[]) => {}>(
   constructor: T,
 ): T[] {
   const prototypes = [];
@@ -215,9 +216,18 @@ export function streamToBuffer(inStream: stream): Promise<Buffer> {
   }
   return new Promise((resolve, reject) => {
     const buffers: Uint8Array[] = [];
-    inStream.on("error", (err) => { log(chalk.red("Error"), err); reject(err); });
-    inStream.on("data", (data) => { log(chalk.yellow("Data"), data.length); buffers.push(data); });
-    inStream.on("end", () => { log(chalk.green("End")); resolve(Buffer.concat(buffers)); });
+    inStream.on("error", (err) => {
+      log(chalk.red("Error"), err);
+      reject(err);
+    });
+    inStream.on("data", (data) => {
+      log(chalk.yellow("Data"), data.length);
+      buffers.push(data);
+    });
+    inStream.on("end", () => {
+      log(chalk.green("End"));
+      resolve(Buffer.concat(buffers));
+    });
   });
 }
 

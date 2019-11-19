@@ -1,4 +1,4 @@
-import { Subscription } from "rxjs/Subscription";
+import {Subscription} from "rxjs/Subscription";
 import ICommandInput from "./i.command-input";
 import ICommandOutput from "./i.command-output";
 

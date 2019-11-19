@@ -5,9 +5,10 @@ function LockThat() {
 
   };
 }
+
 // tslint:disable-next-line:ban-types
 function LockThis<T extends Function>(constructor: T): T;
-function LockThis<T extends { new(...args: any[]): {} }>(constructor: T) {
+function LockThis<T extends new(...args: any[]) => {}>(constructor: T) {
   let self: any;
   const locker = class extends constructor {
     constructor(...args: any[]) {
@@ -61,9 +62,11 @@ class Something {
 abstract class Blah {
   protected something = "blah";
   protected other = "hello";
+
   public saySomething() {
     return this.something;
   }
+
   public otherThing() {
     return this.other;
   }
@@ -72,6 +75,7 @@ abstract class Blah {
 @LockThis
 class Spoon extends Blah {
   protected something = "cow";
+
   public saySomething() {
     return this.something + " " + this.otherThing.call({});
   }

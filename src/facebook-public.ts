@@ -54,9 +54,9 @@ async function changeSharing(row: HTMLElement) {
   const sharing = row.querySelector<HTMLElement>(`[aria-label~="Shared"]`);
   if (sharing) {
     await clickItem(sharing);
-    await clickItem(await getMenuFor(`Public (+)`));
+    await clickItem(await getMenuFor(`Public`));
     await clickItem(sharing);
-    return await clickItem(await getMenuFor(`Public`));
+    await clickItem(await getMenuFor(`Public (+)`));
   }
 }
 

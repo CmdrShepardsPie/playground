@@ -1,5 +1,3 @@
-import {IAccuracyObject} from "@interfaces/i.error";
-
 export function createSummaryTemplate(promptCount: number) {
   return {
     totalPrompts: promptCount,
@@ -18,10 +16,10 @@ export function createSummaryTemplate(promptCount: number) {
 
 export function createServiceTemplate() {
   return {
-    1: { count: 0, percent: 0, errors: [] },
-    2: { count: 0, percent: 0, errors: [] },
-    3: { count: 0, percent: 0, errors: [] },
-    total: { count: 0, percent: 0 },
+    1: {count: 0, percent: 0, errors: []},
+    2: {count: 0, percent: 0, errors: []},
+    3: {count: 0, percent: 0, errors: []},
+    total: {count: 0, percent: 0},
   };
 }
 

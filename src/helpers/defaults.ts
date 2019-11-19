@@ -1,5 +1,4 @@
 import {SpeechResponseTypes} from "@enums/speech-response-type";
-import {IResponseAccuracy, IResponseAggregation} from "@interfaces/i.response-accuracy";
 import {ISpeechASR} from "@interfaces/i.speech";
 
 // export function ResponseAccuracyDefaults(): IResponseAccuracy {

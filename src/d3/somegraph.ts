@@ -32,13 +32,23 @@ const vis = d3.select("#chart").append("svg:svg")
 
 const partition = d3.layout.partition()
   .size([2 * Math.PI, radius * radius])
-  .value(function(d) { return d.size; });
+  .value(function(d) {
+    return d.size;
+  });
 
 const arc = d3.svg.arc()
-  .startAngle(function(d) { return d.x; })
-  .endAngle(function(d) { return d.x + d.dx; })
-  .innerRadius(function(d) { return Math.sqrt(d.y); })
-  .outerRadius(function(d) { return Math.sqrt(d.y + d.dy); });
+  .startAngle(function(d) {
+    return d.x;
+  })
+  .endAngle(function(d) {
+    return d.x + d.dx;
+  })
+  .innerRadius(function(d) {
+    return Math.sqrt(d.y);
+  })
+  .outerRadius(function(d) {
+    return Math.sqrt(d.y + d.dy);
+  });
 
 // Use d3.text and d3.csv.parseRows so that we do not need to have a header
 // row, and can receive the csv as an array of arrays.
@@ -71,10 +81,14 @@ function createVisualization(json) {
   const path = vis.data([json]).selectAll("path")
     .data(nodes)
     .enter().append("svg:path")
-    .attr("display", function(d) { return d.depth ? null : "none"; })
+    .attr("display", function(d) {
+      return d.depth ? null : "none";
+    })
     .attr("d", arc)
     .attr("fill-rule", "evenodd")
-    .style("fill", function(d) { return colors[d.name]; })
+    .style("fill", function(d) {
+      return colors[d.name];
+    })
     .style("opacity", 1)
     .on("mouseover", mouseover);
 
@@ -182,21 +196,27 @@ function updateBreadcrumbs(nodeArray, percentageString) {
   // Data join; key function combines name and depth (= position in sequence).
   const g = d3.select("#trail")
     .selectAll("g")
-    .data(nodeArray, function(d) { return d.name + d.depth; });
+    .data(nodeArray, function(d) {
+      return d.name + d.depth;
+    });
 
   // Add breadcrumb and label for entering nodes.
   const entering = g.enter().append("svg:g");
 
   entering.append("svg:polygon")
     .attr("points", breadcrumbPoints)
-    .style("fill", function(d) { return colors[d.name]; });
+    .style("fill", function(d) {
+      return colors[d.name];
+    });
 
   entering.append("svg:text")
     .attr("x", (b.w + b.t) / 2)
     .attr("y", b.h / 2)
     .attr("dy", "0.35em")
     .attr("text-anchor", "middle")
-    .text(function(d) { return d.name; });
+    .text(function(d) {
+      return d.name;
+    });
 
   // Set position for entering and updating nodes.
   g.attr("transform", function(d, i) {
@@ -243,14 +263,18 @@ function drawLegend() {
     .attr("ry", li.r)
     .attr("width", li.w)
     .attr("height", li.h)
-    .style("fill", function(d) { return d.value; });
+    .style("fill", function(d) {
+      return d.value;
+    });
 
   g.append("svg:text")
     .attr("x", li.w / 2)
     .attr("y", li.h / 2)
     .attr("dy", "0.35em")
     .attr("text-anchor", "middle")
-    .text(function(d) { return d.key; });
+    .text(function(d) {
+      return d.key;
+    });
 }
 
 function toggleLegend() {
