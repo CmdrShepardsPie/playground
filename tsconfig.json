@@ -7,9 +7,14 @@
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
     "preserveConstEnums": true,
     "pretty": true,
     "strict": true,
+    "declaration": true,
+    "declarationMap": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
     "baseUrl": "src",
     "outDir": "dist",
     "lib": [
@@ -27,7 +32,6 @@
     }
   },
   "exclude": [
-    "dist",
-    "build"
+    "dist"
   ]
 }
