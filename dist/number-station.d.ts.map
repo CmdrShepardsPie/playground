@@ -1,1 +1,1 @@
-{"version":3,"file":"number-station.d.ts","sourceRoot":"","sources":["../src/number-station.ts"],"names":[],"mappings":"AAAA,QAAA,MAAM,KAAK,iBAAyB,CAAC;AACrC,QAAA,MAAM,SAAS,0BAAiC,CAAC;AAEjD,QAAA,MAAM,OAAO,+BAA+B,CAAC;AAE7C,iBAAS,GAAG,CAAC,IAAI,KAAA,EAAE,KAAK,KAAA,EAAE,KAAK,KAAA,EAAE,IAAI,KAAA,oBA2BpC;AAgBD,iBAAS,IAAI,CAAC,MAAM,KAAA,QA6CnB"}
+{"version":3,"file":"number-station.d.ts","sourceRoot":"","sources":["../src/number-station.ts"],"names":[],"mappings":"AAAA,QAAA,IAAI,gBAAgB,EAAE,MAAW,CAAC;AAClC,QAAA,IAAI,IAAI,EAAE,MAAU,CAAC;AACrB,iBAAS,UAAU,IAAI,IAAI,CA0D1B"}
