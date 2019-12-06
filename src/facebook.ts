@@ -35,22 +35,22 @@
 *
 * This comes with absolutely no warranty, guarantees, or support. You run this at your own risk!
 */
-// @ts-ignore
-const timeout: () => number = (): number => 1000;
+
+const getTimer: () => number = (): number => 300;
 
 // Main loop of the program, it will scroll up and down and
 // look for "Load more" style links to keep expanding the timeline
 async function nextPage(): Promise<void> {
   // console.log(`nextPage`);
-  window.scrollTo(0, 1000000);
+  window.scrollTo(0, document.body.scrollHeight);
   try {
     await processRows([...document.querySelectorAll<HTMLElement>(`.uiList .uiBoxWhite`)]);
     await clickItem([...document.querySelectorAll<HTMLElement>(`.uiMorePager a`)]);
   } catch (e) {
     console.error(`nextPage error`, e);
   }
-  window.scrollTo(0, 0);
-  setTimeout(nextPage, timeout());
+  // window.scrollTo(0, 0);
+  setTimeout(nextPage, getTimer());
 }
 
 // Go down each line of your timeline looking for action buttons
@@ -108,12 +108,12 @@ async function changeTimeline(row: HTMLElement): Promise<void> {
       // Look for specific item in the drop down menu and click them
       switch (text) {
         // Hide from timeline
-        case "hidden from timeline": {
+        case 'hidden from timeline': {
           await clickItem(menuItem);
           break;
         }
         // Unlike (usually just posts and comments, not pages)
-        case "unlike": {
+        case 'unlike': {
           await clickItem(menuItem);
           const confirm: HTMLElement[] | undefined = await getDialogFor(`Close`);
           if (confirm) {
@@ -122,12 +122,12 @@ async function changeTimeline(row: HTMLElement): Promise<void> {
           break;
         }
         // Unvote (New: polls)
-        case "unvote": {
+        case 'unvote': {
           await clickItem(menuItem);
           break;
         }
         // Like unlike but for smiles, hearts, etc.
-        case "remove reaction": {
+        case 'remove reaction': {
           await clickItem(menuItem);
           const confirm: HTMLElement[] | undefined = await getDialogFor(`Close`);
           if (confirm) {
@@ -136,13 +136,13 @@ async function changeTimeline(row: HTMLElement): Promise<void> {
           break;
         }
         // Untag yourself from posts and pictures
-        case "report/remove tag": {
+        case 'report/remove tag': {
           await clickItem(menuItem);
           await untagFromTimeline();
           break;
         }
         // Delete the post altogether
-        case "delete": {
+        case 'delete': {
           await clickItem(menuItem);
           const confirm: HTMLElement[] | undefined = await getDialogFor(`Delete`);
           if (confirm) {
@@ -219,7 +219,7 @@ function getMenuFor(text: string): Promise<HTMLElement[] | undefined> {
         console.error(`getMenuFor error`, e);
         return resolve();
       }
-    }, timeout());
+    }, getTimer());
   });
 }
 
@@ -238,9 +238,9 @@ function getDialogFor(text: string): Promise<HTMLElement[] | undefined> {
             return item.innerText.toLowerCase() === text.toLowerCase() &&
               // @ts-ignore
               !item.attributes.disabled &&
-              !item.classList.contains("hidden_elem") &&
+              !item.classList.contains('hidden_elem') &&
               // @ts-ignore
-              (!item.computedStyleMap || item.computedStyleMap().get("display").value !== "none");
+              (!item.computedStyleMap || item.computedStyleMap().get('display').value !== 'none');
           });
           if (filteredDialogItems.length > 0) {
             return resolve([...filteredDialogItems]);
@@ -254,7 +254,7 @@ function getDialogFor(text: string): Promise<HTMLElement[] | undefined> {
         console.error(`getDialogFor error`, e);
         return resolve();
       }
-    }, timeout());
+    }, getTimer());
   });
 }
 
@@ -287,7 +287,7 @@ async function clickItem(item: HTMLElement | HTMLElement[]): Promise<void> {
         console.error(`clickItem error`, e);
         return resolve();
       }
-    }, timeout());
+    }, getTimer());
   });
 }
 
