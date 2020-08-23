@@ -34,15 +34,31 @@
 *
 * This comes with absolutely no warranty, guarantees, or support. You run this at your own risk!
 */
-const getTimer = () => 300;
+const getTimer = () => Math.random() * 1000;
 // Main loop of the program, it will scroll up and down and
 // look for "Load more" style links to keep expanding the timeline
 async function nextPage() {
     // console.log(`nextPage`);
     window.scrollTo(0, document.body.scrollHeight);
     try {
-        await processRows([...document.querySelectorAll(`.uiList .uiBoxWhite`)]);
-        await clickItem([...document.querySelectorAll(`.uiMorePager a`)]);
+        if (Math.round(Math.random())) {
+            await clickItem([...document.querySelectorAll(`[data-year] a`)]);
+        }
+        if (Math.round(Math.random())) {
+            await clickItem([...document.querySelectorAll(`.uiMorePager a`)]);
+        }
+        if (Math.round(Math.random())) {
+            await processRows([...document.querySelectorAll(`.uiList .uiBoxWhite`)]);
+        }
+        if (Math.round(Math.random())) {
+            await clickItem([...document.querySelectorAll(`[data-year] a`)]);
+        }
+        if (Math.round(Math.random())) {
+            await clickItem([...document.querySelectorAll(`.uiMorePager a`)]);
+        }
+        if (Math.round(Math.random())) {
+            await processRows([...document.querySelectorAll(`.uiList .uiBoxWhite`)]);
+        }
     }
     catch (e) {
         console.error(`nextPage error`, e);
@@ -111,10 +127,6 @@ async function changeTimeline(row) {
                 // Unlike (usually just posts and comments, not pages)
                 case 'unlike': {
                     await clickItem(menuItem);
-                    const confirm = await getDialogFor(`Close`);
-                    if (confirm) {
-                        await clickItem(confirm);
-                    }
                     break;
                 }
                 // Unvote (New: polls)
@@ -125,10 +137,6 @@ async function changeTimeline(row) {
                 // Like unlike but for smiles, hearts, etc.
                 case 'remove reaction': {
                     await clickItem(menuItem);
-                    const confirm = await getDialogFor(`Close`);
-                    if (confirm) {
-                        await clickItem(confirm);
-                    }
                     break;
                 }
                 // Untag yourself from posts and pictures
@@ -140,12 +148,20 @@ async function changeTimeline(row) {
                 // Delete the post altogether
                 case 'delete': {
                     await clickItem(menuItem);
-                    const confirm = await getDialogFor(`Delete`);
-                    if (confirm) {
-                        await clickItem(confirm);
-                    }
                     break;
                 }
+            }
+            let confirm = await getDialogFor(`Delete`);
+            if (confirm) {
+                await clickItem(confirm);
+            }
+            confirm = await getDialogFor(`Confirm`);
+            if (confirm) {
+                await clickItem(confirm);
+            }
+            confirm = await getDialogFor(`Close`);
+            if (confirm) {
+                await clickItem(confirm);
             }
         }
     }

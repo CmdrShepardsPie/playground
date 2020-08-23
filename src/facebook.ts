@@ -3,12 +3,10 @@
 * https://www.facebook.com/[your username]/allactivity
 * You can also get to this by clicking your name to get to your own timeline, then clicking "View Activity Log"
 */
-
 /*
 * WARNING! This will start immediately, and delete *everything* it can!
 * Don't run if you don't want to lose anything and/or havent backed it up!
 */
-
 /*
 * This script will attempt to hide and/or delete everything from your Facebook timeline.
 *
@@ -35,26 +33,39 @@
 *
 * This comes with absolutely no warranty, guarantees, or support. You run this at your own risk!
 */
-
-const getTimer: () => number = (): number => 300;
-
+const getTimer = () => Math.random() * 1000;
 // Main loop of the program, it will scroll up and down and
 // look for "Load more" style links to keep expanding the timeline
-async function nextPage(): Promise<void> {
+async function nextPage() {
   // console.log(`nextPage`);
   window.scrollTo(0, document.body.scrollHeight);
   try {
-    await processRows([...document.querySelectorAll<HTMLElement>(`.uiList .uiBoxWhite`)]);
-    await clickItem([...document.querySelectorAll<HTMLElement>(`.uiMorePager a`)]);
+    if (Math.round(Math.random())) {
+      await clickItem([...document.querySelectorAll(`[data-year] a`)]);
+    }
+    if (Math.round(Math.random())) {
+      await clickItem([...document.querySelectorAll(`.uiMorePager a`)]);
+    }
+    if (Math.round(Math.random())) {
+      await processRows([...document.querySelectorAll(`.uiList .uiBoxWhite`)]);
+    }
+    if (Math.round(Math.random())) {
+      await clickItem([...document.querySelectorAll(`[data-year] a`)]);
+    }
+    if (Math.round(Math.random())) {
+      await clickItem([...document.querySelectorAll(`.uiMorePager a`)]);
+    }
+    if (Math.round(Math.random())) {
+      await processRows([...document.querySelectorAll(`.uiList .uiBoxWhite`)]);
+    }
   } catch (e) {
     console.error(`nextPage error`, e);
   }
   // window.scrollTo(0, 0);
   setTimeout(nextPage, getTimer());
 }
-
 // Go down each line of your timeline looking for action buttons
-async function processRows(rows: HTMLElement[]): Promise<void> {
+async function processRows(rows) {
   // console.log("processRows");
   for (const row of rows) {
     try {
@@ -62,7 +73,7 @@ async function processRows(rows: HTMLElement[]): Promise<void> {
       cleanupMenu();
       await changeTimeline(row);
       cleanupMenu();
-      const closeDialog: HTMLElement[] | undefined = await getDialogFor(`Close`);
+      const closeDialog = await getDialogFor(`Close`);
       if (closeDialog) {
         await clickItem(closeDialog);
       }
@@ -72,38 +83,36 @@ async function processRows(rows: HTMLElement[]): Promise<void> {
     }
   }
 }
-
 // If the privacy of the timeline item can be changed, set it to Only me
-async function changeSharing(row: HTMLElement): Promise<void> {
+async function changeSharing(row) {
   // console.log("changeSharing", row);
-  const sharing: HTMLElement | null = row.querySelector<HTMLElement>(`[aria-label~="Shared"]`);
+  const sharing = row.querySelector(`[aria-label~="Shared"]`);
   if (sharing) {
     await clickItem(sharing);
-    const onlyMePlus: HTMLElement[] | undefined = await getMenuFor(`Only me (+)`);
+    const onlyMePlus = await getMenuFor(`Only me (+)`);
     if (onlyMePlus) {
       await clickItem(onlyMePlus);
     }
     await clickItem(sharing);
-    const onlyMe: HTMLElement[] | undefined = await getMenuFor(`Only me`);
+    const onlyMe = await getMenuFor(`Only me`);
     if (onlyMe) {
       await clickItem(onlyMe);
     }
   }
 }
-
 // Look for the edit item button
-async function changeTimeline(row: HTMLElement): Promise<void> {
-  const edit: HTMLElement | null = row.querySelector<HTMLElement>(`[aria-label="Edit"]`);
+async function changeTimeline(row) {
+  const edit = row.querySelector(`[aria-label="Edit"]`);
   if (!edit) {
     return;
   }
   await clickItem(edit);
-  const menu: HTMLElement | null = document.querySelector<HTMLElement>(`[role="menu"]`);
+  const menu = document.querySelector(`[role="menu"]`);
   if (menu) {
-    const allMenuItems: HTMLElement[] = [...menu.querySelectorAll<HTMLElement>(`[role="menu"] [role="presentation"] a`)];
+    const allMenuItems = [...menu.querySelectorAll(`[role="menu"] [role="presentation"] a`)];
     for (const menuItem of allMenuItems) {
       // const menuItem = allMenuItems[i];
-      const text: string = menuItem.innerText.trim().toLowerCase();
+      const text = menuItem.innerText.trim().toLowerCase();
       // console.log(`Text: "${text}"`);
       // Look for specific item in the drop down menu and click them
       switch (text) {
@@ -115,10 +124,6 @@ async function changeTimeline(row: HTMLElement): Promise<void> {
         // Unlike (usually just posts and comments, not pages)
         case 'unlike': {
           await clickItem(menuItem);
-          const confirm: HTMLElement[] | undefined = await getDialogFor(`Close`);
-          if (confirm) {
-            await clickItem(confirm);
-          }
           break;
         }
         // Unvote (New: polls)
@@ -129,10 +134,6 @@ async function changeTimeline(row: HTMLElement): Promise<void> {
         // Like unlike but for smiles, hearts, etc.
         case 'remove reaction': {
           await clickItem(menuItem);
-          const confirm: HTMLElement[] | undefined = await getDialogFor(`Close`);
-          if (confirm) {
-            await clickItem(confirm);
-          }
           break;
         }
         // Untag yourself from posts and pictures
@@ -144,21 +145,28 @@ async function changeTimeline(row: HTMLElement): Promise<void> {
         // Delete the post altogether
         case 'delete': {
           await clickItem(menuItem);
-          const confirm: HTMLElement[] | undefined = await getDialogFor(`Delete`);
-          if (confirm) {
-            await clickItem(confirm);
-          }
           break;
         }
+      }
+      let confirm = await getDialogFor(`Delete`);
+      if (confirm) {
+        await clickItem(confirm);
+      }
+      confirm = await getDialogFor(`Confirm`);
+      if (confirm) {
+        await clickItem(confirm);
+      }
+      confirm = await getDialogFor(`Close`);
+      if (confirm) {
+        await clickItem(confirm);
       }
     }
   }
 }
-
 // The untag process has a multi-dialog process that must be navigated to remove yourself,
 //   so this should navigate it and click all the necessary things to remove the tag.
-async function untagFromTimeline(): Promise<void> {
-  const stringsToTry: string[] = [
+async function untagFromTimeline() {
+  const stringsToTry = [
     `I'm in this photo and I don't like it`,
     `This is a photo of me or my family that I don't want on Facebook`,
     `I think it's an unauthorized use of my intellectual property`,
@@ -173,15 +181,15 @@ async function untagFromTimeline(): Promise<void> {
     `See more options`,
     `Remove Tag`,
   ];
-  let loopCount: number;
+  let loopCount;
   for (loopCount = 0; loopCount < 5; loopCount++) {
     for (const tryString of stringsToTry) {
       // console.log(`Trying "${tryString}"`);
-      const report: HTMLElement[] | undefined = await getDialogFor(tryString);
+      const report = await getDialogFor(tryString);
       if (report) {
         // console.log(`Found "${tryString}"`);
         await clickItem(report);
-        const cont: HTMLElement[] | undefined = await getDialogFor(`Continue`);
+        const cont = await getDialogFor(`Continue`);
         if (cont) {
           await clickItem(cont);
         }
@@ -189,24 +197,22 @@ async function untagFromTimeline(): Promise<void> {
       }
     }
   }
-
-  const foundDone: HTMLElement[] | undefined = await getDialogFor(`Done`);
+  const foundDone = await getDialogFor(`Done`);
   if (foundDone) {
     await clickItem(foundDone);
   }
 }
-
 // Helper to get clickable elements in drop down menus
-function getMenuFor(text: string): Promise<HTMLElement[] | undefined> {
+function getMenuFor(text) {
   // console.log("getMenuFor outer", text);
-  return new Promise((resolve: (value?: HTMLElement[]) => void): void => {
+  return new Promise((resolve) => {
     setTimeout(() => {
       try {
-        const menu: HTMLElement | null = document.querySelector<HTMLElement>(`[role="menu"]`);
+        const menu = document.querySelector(`[role="menu"]`);
         if (menu) {
           // console.log("getMenuFor inner", text);
-          const allMenuItems: HTMLElement[] = [...menu.querySelectorAll<HTMLElement>(`*`)];
-          const filteredMenuItems: HTMLElement[] = allMenuItems.filter((item: HTMLElement) => item.innerText.toLowerCase() === text.toLowerCase());
+          const allMenuItems = [...menu.querySelectorAll(`*`)];
+          const filteredMenuItems = allMenuItems.filter((item) => item.innerText.toLowerCase() === text.toLowerCase());
           if (filteredMenuItems.length > 0) {
             return resolve([...filteredMenuItems]);
           } else {
@@ -222,19 +228,18 @@ function getMenuFor(text: string): Promise<HTMLElement[] | undefined> {
     }, getTimer());
   });
 }
-
 // Helper to get clickable elements in pop up dialogs
-function getDialogFor(text: string): Promise<HTMLElement[] | undefined> {
+function getDialogFor(text) {
   // console.log("getDialogFor outer", text);
-  return new Promise((resolve: (value?: HTMLElement[]) => void): void => {
+  return new Promise((resolve) => {
     setTimeout(() => {
       try {
-        const dialogs: HTMLElement[] = [...document.querySelectorAll<HTMLElement>(`[role="dialog"]`)];
-        const dialog: HTMLElement = dialogs[dialogs.length - 1];
+        const dialogs = [...document.querySelectorAll(`[role="dialog"]`)];
+        const dialog = dialogs[dialogs.length - 1];
         if (dialog) {
           // console.log("getDialogFor inner", text);
-          const allDialogItems: HTMLElement[] = [...dialog.querySelectorAll<HTMLElement>(`*`)];
-          const filteredDialogItems: HTMLElement[] = allDialogItems.filter((item: HTMLElement) => {
+          const allDialogItems = [...dialog.querySelectorAll(`*`)];
+          const filteredDialogItems = allDialogItems.filter((item) => {
             return item.innerText.toLowerCase() === text.toLowerCase() &&
               // @ts-ignore
               !item.attributes.disabled &&
@@ -257,19 +262,17 @@ function getDialogFor(text: string): Promise<HTMLElement[] | undefined> {
     }, getTimer());
   });
 }
-
 // Remove drop down menus when we"re down with them because Facebook doesn't
 //   and the hidden HTML grows significantly if we don't.
-function cleanupMenu(): undefined {
+function cleanupMenu() {
   // console.log("cleanupMenu");
-  const menu: HTMLElement | null = document.querySelector<HTMLElement>(`[role="menu"]`);
+  const menu = document.querySelector(`[role="menu"]`);
   if (menu) {
     return cleanupElement(menu);
   }
 }
-
 // Simulate a user clicking an item.
-async function clickItem(item: HTMLElement | HTMLElement[]): Promise<void> {
+async function clickItem(item) {
   // console.log("clickItem outer", item);
   if (Array.isArray(item)) {
     for (const i of item) {
@@ -277,7 +280,7 @@ async function clickItem(item: HTMLElement | HTMLElement[]): Promise<void> {
     }
     return;
   }
-  return new Promise((resolve: () => void): void => {
+  return new Promise((resolve) => {
     setTimeout(() => {
       try {
         // console.log("clickItem inner", item);
@@ -290,9 +293,8 @@ async function clickItem(item: HTMLElement | HTMLElement[]): Promise<void> {
     }, getTimer());
   });
 }
-
 // Remove elements from the page so the processing doesn't slow down as much
-function cleanupElement(item: HTMLElement): undefined {
+function cleanupElement(item) {
   // console.log("cleanupElement", item);
   if (Array.isArray(item)) {
     for (const i of item) {
@@ -308,6 +310,5 @@ function cleanupElement(item: HTMLElement): undefined {
     console.error(`cleanupElement error`, e);
   }
 }
-
 // Start by calling nextPage right away
-nextPage().then((r: void) => console.log(r));
+nextPage().then((r) => console.log(r));
