@@ -152,6 +152,10 @@ async function changeTimeline(row) {
       if (confirm) {
         await clickItem(confirm);
       }
+      confirm = await getDialogFor(`Remove Search`);
+      if (confirm) {
+        await clickItem(confirm);
+      }
       confirm = await getDialogFor(`Confirm`);
       if (confirm) {
         await clickItem(confirm);
