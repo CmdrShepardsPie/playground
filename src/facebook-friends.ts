@@ -17,7 +17,7 @@
 *   and they're absolutely right, be very careful about pasting things here,
 *   as it will have full access to your browser and anything you can do or see.
 *
-* This runs in multiple phases, setting privacy to "Public" or "Public" if it can,
+* This runs in multiple phases, setting privacy to "Friends" or "Friends" if it can,
 *   then setting post visibility to "Allowed on timeline",
 *   then attempts to unlike or untag, and finally delete it, if possible.
 *
@@ -83,18 +83,18 @@ async function processRows(rows) {
     }
   }
 }
-// If the privacy of the timeline item can be changed, set it to Public
+// If the privacy of the timeline item can be changed, set it to Friends
 async function changeSharing(row) {
   // console.log("changeSharing", row);
   const sharing = row.querySelector(`[aria-label~="Shared"]`);
   if (sharing) {
     await clickItem(sharing);
-    const everyonePlus = await getMenuFor(`Public (+)`);
+    const everyonePlus = await getMenuFor(`Friends (+)`);
     if (everyonePlus) {
       await clickItem(everyonePlus);
     }
     await clickItem(sharing);
-    const everyone = await getMenuFor(`Public`);
+    const everyone = await getMenuFor(`Friends`);
     if (everyone) {
       await clickItem(everyone);
     }
