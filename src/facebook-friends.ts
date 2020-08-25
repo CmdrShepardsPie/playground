@@ -17,8 +17,8 @@
 *   and they're absolutely right, be very careful about pasting things here,
 *   as it will have full access to your browser and anything you can do or see.
 *
-* This runs in multiple phases, setting privacy to "Only me" or "Only me" if it can,
-*   then setting post visibility to "Hidden from timeline",
+* This runs in multiple phases, setting privacy to "Friends" or "Friends" if it can,
+*   then setting post visibility to "Allowed on timeline",
 *   then attempts to unlike or untag, and finally delete it, if possible.
 *
 * It can take a very long time to run depending on how much it will delete.
@@ -83,20 +83,20 @@ async function processRows(rows) {
     }
   }
 }
-// If the privacy of the timeline item can be changed, set it to Only me
+// If the privacy of the timeline item can be changed, set it to Friends
 async function changeSharing(row) {
   // console.log("changeSharing", row);
   const sharing = row.querySelector(`[aria-label~="Shared"]`);
   if (sharing) {
     await clickItem(sharing);
-    const onlyMePlus = await getMenuFor(`Only me (+)`);
-    if (onlyMePlus) {
-      await clickItem(onlyMePlus);
+    const everyonePlus = await getMenuFor(`Friends (+)`);
+    if (everyonePlus) {
+      await clickItem(everyonePlus);
     }
     await clickItem(sharing);
-    const onlyMe = await getMenuFor(`Only me`);
-    if (onlyMe) {
-      await clickItem(onlyMe);
+    const everyone = await getMenuFor(`Friends`);
+    if (everyone) {
+      await clickItem(everyone);
     }
   }
 }
@@ -116,8 +116,8 @@ async function changeTimeline(row) {
       // console.log(`Text: "${text}"`);
       // Look for specific item in the drop down menu and click them
       switch (text) {
-        // Hide from timeline
-        case 'hidden from timeline': {
+        // Allow on timeline
+        case 'allowed on timeline': {
           await clickItem(menuItem);
           break;
         }
