@@ -1,0 +1,845 @@
+{
+  "data": [
+    {
+      "id": 1975,
+      "title": "NB Overland Rte, Part 1",
+      "technical_rating_low": 1,
+      "technical_rating_high": 5,
+      "length": 316,
+      "duration": "About 4 days",
+      "status": "Open",
+      "forest_service_road_number": "NA",
+      "forest_service_park_district": "Acadian Timber",
+      "route_description": "This overland route consists of a lot of different types of terrain. The majority of the route will be on dirt roads, some are maintained, others aren't, quite a few trail sections, ATV and snowmobile trails and unmaintained overgrown old roads. The trail sections range from easy to more advanced technical sections, rocks, mud, water, and dirt. Steep rocky climbs and narrow passages through deep and overgrown woods make up some of the most challenging sections. Pin striping is unavoidable, body damage may be possible depending on skill level and set-up of your vehicle. Tall vehicles with rooftop tents will have a difficult time and will be forced to cut down some of the trees that have fallen across the trails and are learning overhead but haven't come all the way down. I personally did this entire route with an off-road trailer and managed to get through everything, although some stretches traversed ditches and streams that pose extreme approach and departure angles. A hitch with significant articulation is strongly recommended. You will require at least 2x 20L (5gal) fuel cans to do this trip as the first gas station along the route will be in the riverside town of Bath, which we didn't reach until the end of day 2. \r\n\r\n<b> Note: The .gpx file has additional than of those that are depicted below.  We highly recommend you download the track for navigation on this route. </b>",
+      "highlights": "An overland expedition through the western half of New Brunswick, traveling through vast landscapes from the lowlands in the south to the highlands of the Appalachian Mountain range in the North. The journey ends at Mount Carleton Provincial Park, the maritime's highest peak, rising to 820m (2690ft) in elevation, here an extensive network of hiking trails is available and offers you the opportunity to see over a 100 different bird species, as well as over 30 different types of mammals. This route is not for the novice and can be technically challenging in spots and makes this a true adventure. ",
+      "camping_and_lodging": "Most of this route is located on Crown Land, on which dispersed camping is allowed. Ensure to check the Fire Index to see if an open fire is permitted and follow these simple, common-sense rules:\r\n<a href=\"http://www2.gnb.ca/content/dam/gnb/Departments/nr-rn/pdf/en/ForestsCrownLands/Camping-CrownLand.pdf\">NB Camping Rules</a>.\r\nThose stretches that are on privately owned woodlands notably controlled access Acadian Timberlands, they offer prepared campsites that are very clean and beautiful with facilities on site. See <a href=\"http://www.acadiantimber.nb.ca/files/LU_2009e.pdf\">this link</a> for more information.\r\nCamping at Mount Carleton Provincial Park is the best option at the end of the journey as the campsites are beautiful and well maintained, however, they cost $17 per site per night. More info <a href=\"http://www.tourismnewbrunswick.ca/Products/Parks/MountCarletonProvincialPark.aspx\">here.</a>",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/1975/highlights/resized_Highlight.JPG",
+      "category": "Altitude|Camping|Forest|Mud|Overland|Rock|Water",
+      "nearest_town_name": "Maugerville",
+      "updated_at": "01/02/2019",
+      "created_at": "2016-08-28T18:29:13.625Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "New Brunswick",
+      "state_code": "NB",
+      "rating_avg": null,
+      "rating_count": "0",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        },
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        }
+      ]
+    },
+    {
+      "id": 1043,
+      "title": "Mojave Road",
+      "technical_rating_low": 3,
+      "technical_rating_high": 3,
+      "length": 139,
+      "duration": "About 3 days",
+      "status": "Open",
+      "forest_service_road_number": "",
+      "forest_service_park_district": "Mojave National Preserve",
+      "route_description": "The entire 135 miles is made up of mostly a dirt and sand road, miles of whoop-de-doos, or sand moguls, with some rocky areas.  The only major obstacle is the Watson Wash drop-in which can be rutted and washed out.  In 2016 there was a washout south of Fort Piute, which currently requires you to use a <a href=\"https://www.trailsoffroad.com/trails/2160-mojave-road-2016-2017-washout-bypass\">bypass.</a>\r\n\r\n<b>Time on trail:</b>.  Allow a full three days to take in all the desert scenery, the side excursions and pick that perfect camp.  If you are short on time, you can drive some sections fairly quickly and make it in two days. \r\n\r\n<b>Caution:</b>  Wet weather could make this overland trail a real nightmare.  You cross several washes which pose issues in wet weather, but the true problem in wet weather is the <a href=\"https://en.wikipedia.org/wiki/Soda_Lake_(San_Bernardino_County\">Dry Soda Lake Bed.</a>\r\n\r\n<b>Staying on course:</b> Various roads intertwine through the entire route.  To ensure you are on the correct Mojave Road, always look for the stone <a href=\"https://en.wikipedia.org/wiki/Cairn\">cairns.</a>   If you are traveling from east to west, the most common route, the cairns will be on the right side of the road.  Typically, your base map of your GPS unit will show the Mojave Road as \"Government Road\".\r\n\r\n<b>Permits</b> Any groups with 7 or more vehicles (15 or more people) must obtain a special use permit which includes a $69 non-refundable processing fee (at the time of this writing). Permits can be found <a href=\"https://www.nps.gov/moja/planyourvisit/permits.htm\">here.</a>\r\n\r\n<b>Services:</b> Know your vehicle's range first and foremost.  Provisions and fuel purchased in Laughlin, Nevada will be much less expensive than in Needles. Right on the Needles Highway and not far from the trailhead is the: \r\nSouth Pointe Market\r\nAddress: 3675 Needles Hwy, Laughlin, NV 89029\r\n\r\n<a href=\"https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=laughlin%20Nv%20gas%20stations&tbs=lf_od:-1,lf_oh:-1,lf:1,lf_ui:3,lf_pqs:EAE&rflfq=1&rlha=0&rllag=35146065,-114600054,2892&tbm=lcl&rldimm=5652549965127568308\">Other pre-trip gas stations can be found here.</a>\r\n\r\nIf for whatever reason you find yourself needing fuel half-way through you can detour to Baker, California. \r\n\r\n<b>Guide Notes:</b> \r\nThere are volumes written on the Mojave Road.  The trailsoffroad.com guide is meant to be the cliff notes, and get you out on the trail so you can enjoy your overland adventure.   For a detailed history of the trail, we recommend the <a href=\"http://amzn.to/2hOmogM\">The Mojave Road Guide by Dennis Casebier.</a>  The Mojave Road track for download is complete with extra waypoints which may not be depicted here. \r\n\r\nMileage is approximated.  Total miles will vary depending on the side trips you take.   Some sources list the Mojave Road as different mileages.  Mileage shown here is directly from the GPS track. ",
+      "highlights": "Filled with oddities, scenic beauty, history, and a sense of adventure it is no wonder that the Mojave Road has such an iconic stature.  Formed as an early Native American trade route then an east-west passage for settlers, the road has a long history. Passing through the Mojave Desert Preserve and the Lanfair Valley you are remote and far from civilization.   Today it is one of the more famous overland routes in the southwest.   Although the road is not at all technical, the sense of adventure you get by being so deep in the desert is what makes it worth the trip. ",
+      "camping_and_lodging": "There are dispersed camping opportunities along this route for small groups.  In addition, there are several designated areas.  Camp Phallus at waypoint 37 and Mojave Camp at waypoint 50 are worthy designated locations to spend the night. \r\n\r\n<b>General Rules: </b>\r\n\r\n<i>Camping in the area:</i>\r\n\r\nReuse of existing campsites is required for four-wheel drive trips. \r\nDo not make camp in a dry wash—flash floods develop quickly in the desert.\r\nCamping is limited to a maximum of 14 consecutive days per visit/stay and 30 total days per year.\r\nCampsites must be more than 200 yards from any water source.\r\nCamping is not permitted: within 1/4 mile of any paved road or the Zzyzx Road; within 1/2 mile of Fort Piute or Kelso Depot; within 1 mile north (i.e., the crest of the dunes) or 1/4 mile south of the Kelso Dunes access road.\r\n\r\n<i>Dispose of Waste Properly:</i>\r\n\r\nStore all food and garbage in a manner that will prevent access by wildlife. Carry plastic bags and pack out all trash.\r\nBury human waste in catholes 6-8 inches deep, at least 200 feet from water, camp, and trails. Don't bury toilet paper or hygiene products - carry a plastic bag and pack it out.\r\nPet excrement must be collected and disposed of in garbage receptacles.\r\n\r\n<i>Minimize Campfire Impacts:</i>\r\n\r\nCampfires are allowed in established fire rings only, or with use of a portable firepan (be sure to pack out ashes). Do not leave fires smoldering or unattended.\r\nCutting or collecting any wood, including downed wood, is prohibited. All firewood must be brought into the preserve.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/1043/highlights/resized_DSC00653.JPG",
+      "category": "Camping|Desert|Iconic|Mine|Overland|Sand|Wash",
+      "nearest_town_name": "Baker",
+      "updated_at": "03/21/2019",
+      "created_at": "2015-07-07T20:39:32.145Z",
+      "is_featured": true,
+      "is_member_only": null,
+      "state_title": "California",
+      "state_code": "CA",
+      "rating_avg": "5.0",
+      "rating_count": "11",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "title": "Imperial Sand Dunes Recreation Area - Glamis",
+      "technical_rating_low": 1,
+      "technical_rating_high": 10,
+      "length": 120,
+      "duration": "About 2 days 2 hours",
+      "status": "Open",
+      "forest_service_road_number": "",
+      "forest_service_park_district": "BLM",
+      "route_description": "Glamis is a wonderland of sand dunes for every type of off-road enthusiast.  This area is popular for Razors, sand buggies, sand rails, Jeeps, and other OHVs.  It's easy to get lost in this area; therefore, a GPS is highly recommended.  \n\nNever jump or take speed over a blind dune.  Always take the dunes at an angle when traversing the razorbacks and be safe.\n\nThe area is full of famous hill climbs such as Competition Hill, Oldsmobile Hill, The Wall, among others.  These are popular places for people to gather and watch the show.  \n\nCellphone service works great on the north end of the area.  As you work your way south, the service depletes quickly.\n\nDon't forget to obtain your pass prior to arriving.  You can find passes at <a href=\"https://www.blm.gov/ca/isdra\">Click Here</a> or at the Ranger Station and store.\n\nVehicle Requirements and Laws:\n-Safety Flags\n-Recreation Permit\n-Safety Helmets are required for operators and passengers of ROVs (Recreational Off-Highway Vehicle)\n-Seat belt and shoulder belt or safety harness are required to be worn when an ROV is in motion\n-Passengers in ROVs must be able to grasp the handholds with their back against the back of the seat.\n-If someone is within 100 feet of you, you are not allowed to pass them over 15mph\n-Follow Speed Laws\n-OHV's not allowed on asphalt roads ever\n-OHV's only allowed to cross dirt roads, never drive along them\n-ATV's may not carry passengers \n-Noise Restriction to 96dbA\n-No Person under 14 years of age shall operate an ATV unless accompanied by an adult \n-Any alcohol is an instant DUI\n-ATV and vehicles must be registered in its state or have a permit for it\n-No one shall ride in the back of a pickup at anytime\n\n**Laws of the Area**\n-Fires - Items such as pallets, or other hazardous materials including magnesium are not permitted at any time.\n-No Glass anywhere\n-Alcoholic Beverages shall not be consumed by anyone under 21\n-Quiet Hours are from 10pm to 6am\n-Organized Group Activities and Events require a permit\n-Aircraft are prohibited from taking off and landing within 1 mile of Gecko Road\n-Camping limit is 14 days\n-Public Nudity is prohibited\n-Firearms/Fireworks are prohibited from being discharged on developed recreation sites and areas.\n-Parking and camping is Prohibited within 10 feet of Gecko Road\n-Pets on developed recreation sites and areas must be kept on a leash at all time\n-Dumping of Sewage is prohibited...\n\nOther Information:\nA permit is required to access the area. Permits are sold at the Ranger Station and the local store. Permits are $50 for a week pass when purchased at the Ranger Station.  You can also get them online at <a href=\"https://www.blm.gov/ca/isdra\">Click Here</a>\n\nAlso, second vehicles / tow vehicles require a permit. \n\nContact information for the local office is\nCahuilla Ranger Station 760-344-3919\nButtercup Ranger Station 760-572-2220\nEl Centro Field Office 760-337-4400",
+      "highlights": "The original \"Where's It At\" for off-road enthusiast, Imperial Sand Dunes, also known as Glamis Sand Dunes, is the mecca of everything sand in the United States.  Nestled in the southeastern corner of California against the Mexico border is an area with over 200 square miles of endless sand dunes, deep bowls, sand mountains, and astonishing valleys.  Glamis attracts millions of people per year from all over the world to see and play in its glory.  This area isn't only famous for the endless dunes, sand drags, or races.  The area also hosted popular films like Star Wars, Star Gate, Knights of Arabia, and many more.  If vehicles are not your thing, the area offers a tranquil alternative to the fast-paced action with activities like hiking, horse back riding, photography, and wildlife viewing. \r\n\r\nMany people would say this is a top-5 Off-Road Bucket List adventure destination.  ",
+      "camping_and_lodging": "There are many popular areas for camping in Glamis.  Most find themselves camping at the north end of the park, either on Wash Road or Gecko Road next to the aquifer.  There is also additional camping on the south end of the park off Highway 8.  All locations are suitable for camping styles from RVs to tents.\r\n\r\nFor camping on Wash Road, you are allowed to camp all the way up to Wash 33.  Even though the area is open to OHVs, Washes 33 to 70 is closed for camping. \r\n\r\n<a href=\"https://www.blm.gov/style/medialib/blm/ca/pdf/elcentro/maps.Par.96652.File.dat/2014_imperialdunesmap.pdf\">Click Here for a map of the area</a>\r\n\r\n\r\n***They will be closing Gecko Road for repaving from April 15 to Sept 30 2017.  Please plan on not using this area during that time.***\r\n",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/146/highlights/20161231_142639.jpg",
+      "category": "Camping|Desert|Iconic|Overland|Sand|Wash",
+      "nearest_town_name": "Brawley",
+      "updated_at": "12/03/2017",
+      "created_at": "2013-10-03T15:07:37.456Z",
+      "is_featured": true,
+      "is_member_only": null,
+      "state_title": "California",
+      "state_code": "CA",
+      "rating_avg": null,
+      "rating_count": "0",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        },
+        {
+          "label": "EXTREME",
+          "color": "#5C0099"
+        }
+      ]
+    },
+    {
+      "id": 4138,
+      "title": "El Camino del Diablo",
+      "technical_rating_low": 1,
+      "technical_rating_high": 2,
+      "length": 127.04,
+      "duration": "About 2 days",
+      "status": "Open",
+      "forest_service_road_number": "El Camino Del Diablo",
+      "forest_service_park_district": "Organ Pipe National Monument, Bureau of Land Management, Cabeza Prieta National Wildlife Refuge, United States Marine Corps",
+      "route_description": "El Camino Del Diablo is a long remote route best accomplished over 2-3 days.   It is possible to traverse the entire 129 miles in one day, however, it would not be advised.  The road is a straight through and can be started from the east (as outlined here) or from the west in reverse order.   The views seem typically better from east to west but not remarkably so.    \n\nThere are relatively few obstacles to consider other than the \"Playa\" (which is a usually dry lakebed) at the Pinta Sands.   When you encounter these, you will be in deep mud grooves that will prove impassable if there has been recent rain.    This area comprises the distance between Waypoints 25 and 28 and should not be taken lightly.   There is virtually no tree capable of supporting a winch recovery should you get stuck.  \n\nThis entire trail, from one end to the other can be accomplished with a high clearance SUV with at least All Wheel Drive as you will encounter frequent deep sand sections.  There are some washed out sections in the Tijinas Altas Pass that will require picking a line, but nothing serious.",
+      "highlights": "Serving as the southern route to California for hundreds of years, the El Camino Del Diablo (or sometimes called Camino Muerte - Road of Death and also as the Devil's Highway) has carried travelers from the days of the Spanish conquistadors across the sweltering desert from water source to water source until they reached Yuma.\n\nThe road saw heavy use by the gold rush pioneers in 1849 as it was the only route that even the Apache's wouldn't travel in the summer, which drastically reduced the number of ambushes the pioneers suffered.   \n\nToday, the original route (which started in Caborca Mexico) has been modified to pass through the Organ Pipe Cactus National Monument, the Cabeza Prieta Wildlife Refuge and finally the Barry Goldwater Gunnery Range to exit on the Yuma side of the Tijinas Altas Mountains.   \n\nThis road is iconic and should provide some of the finest views of the Sonoran Desert you can find.    The scenery is only surpassed by the sense of self-reliance you will experience as you must carry everything you will need with you.   There's no gas, phones, electricity to rely on here.   However, there is a sprinkling of watering holes, wells and rock water tanks that you could rely on just like the pioneers did.   \n\nMany of these unfortunate travelers did not make it across the El Camino Del Diablo alive, You may encounter some of the hundreds of graves that are rumored to line the road during your trip. (About 50 are marked).\n\nFor more interesting detail about El Camino Del Diablo - <a href=\"https://www.sierraclub.org/sites/www.sierraclub.org/files/program/documents/FINAL%20TEXT%20Camino%20Guide%20Oct%2011%202016.pdf\" target=\"_blank\"><strong>CLICK HERE</strong></a>\n\nYou can read about <a target=\"_blank\" href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015008544622&view=1up&seq=31\"><strong>Raphael Pumpelly's trek across Arizona</strong> Here.</a>  (pp. 31-98 in particular)",
+      "camping_and_lodging": "Camping is plentiful here.  On the Eastern side of the trail, you can camp in Organ Pipe Cactus National Monument or in Alamo Canyon for a fee.  There are dozens of dispersed campsites near Waypoint 4 all the way out to Waypoint 8.   \nOnce you enter the Cabeza Prieta National Wildlife refuge, your camping options are limited to the following: \n<ul>\nPapago Well Campground\nTule Well Campground\nor 7 miles north of Tule Well, Christmas Pass Primitive camping area.  </ul>\n\nSome of the finest camping areas can be found in the Tinajas Altas Mountains (particularly at the \"High Tanks\") shown below.   Be warned though, there are over 40 pioneer graves scattered around out there.\n\nFor a campfire, there are plentiful fire rings established.  There is not very much firewood out here, and you must bring your own.   Cutting of wood is not permitted, but you can pick up anything that is dead and down on the Barry Goldwater Gunnery range.   (but ordinance, that you should not pick up).",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/4138/highlights/1583363816720_resized_ElCaminoDelDiablo_2020-8381-March_01_1023.jpg",
+      "category": "Camping|Desert|Ghost Town|Iconic|Overland|Sand|Scenic|Wash",
+      "nearest_town_name": "Ajo",
+      "updated_at": "03/06/2020",
+      "created_at": "2020-03-02T17:47:43.805Z",
+      "is_featured": true,
+      "is_member_only": null,
+      "state_title": "Arizona",
+      "state_code": "AZ",
+      "rating_avg": "4.5",
+      "rating_count": "2",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "The Bradshaw Trail",
+      "technical_rating_low": 2,
+      "technical_rating_high": 2,
+      "length": 75,
+      "duration": "About 2 days",
+      "status": "Open",
+      "forest_service_road_number": "Bradshaw Trail",
+      "forest_service_park_district": "Bureau of Land Management",
+      "route_description": "The Bradshaw Trail is a popular overland route that takes you from the Colorado River to the Salton Sea.  Along the route, you follow many unique features from abandon train tracks to old mining areas.  The trail is a lightly maintained road meaning it could be in good condition or poor condition based on if there was any weather recently. 4wd is recommended since the soft sands could easily cause problems for 2wd vehicles.   The trail on the east end is usually maintained while the trail on the west end is a wash-boarded wash.",
+      "highlights": "The Bradshaw Trail or the Gold Road to La Paz is a popular overland trail in the southeast corner of California in Riverside County.  This once-popular overland stage route used to haul miners and other people looking for the wealth of California.  Along the route, you will see many unique features to the area including old mining encampments, abandon train tracks, abandon train tussle, and many unique natural wonders.  Because of all these amazing scenic stops, this route has become very popular with the overland community and off-roaders that are looking for a great way to escape the hassles of work.  One of the amazing opportunities of this scenic trip is you can make it a day trip or multiple days to get to enjoy all the unique locations along the route.    Thus, if you are looking for a unique offroad adventure near Palm Springs and Blythe, California, that could be done in 1 to 3 days and is easy enough for a new driver, look no further than the enjoyable 4x4 adventure of the Bradshaw Trail.",
+      "camping_and_lodging": "There are many areas to camp along the trail including Wiley Well Campground (Picnic Tables, Shade, Restrooms, & Grills), Coon Hollow Campground (Picnic Tables, Shade, Restrooms, & Grills), Corn Springs Campground, Chuckwalla Mountains, Salt Creek, Mule Mountains, and many areas along the trail.\n\nSome of our favorite camping spots along the route are some of the dispersed camping which are near the Roosevelt Mine, and around Red Canyon.   If you are up for venturing off the trail and have a lightly modified 4x4, check out <a target=\"_blank\" href=\"https://www.trailsoffroad.com/trails/3006-red-cloud-mine\">Red Cloud Mine Trail</a>.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/104/highlights/1580010174239_resized_The%20Bradshaw%20Trail-03989.jpg",
+      "category": "Camping|Desert|Ghost Town|Iconic|Mine|Overland|Rock|Sand|Scenic|Wash",
+      "nearest_town_name": "Blythe",
+      "updated_at": "02/20/2020",
+      "created_at": "2013-10-03T15:07:36.131Z",
+      "is_featured": true,
+      "is_member_only": null,
+      "state_title": "California",
+      "state_code": "CA",
+      "rating_avg": "4.7",
+      "rating_count": "3",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        }
+      ]
+    },
+    {
+      "id": 1843,
+      "title": "Rimrocker",
+      "technical_rating_low": 1,
+      "technical_rating_high": 5,
+      "length": 160,
+      "duration": "About 9 hours",
+      "status": "Partially Open",
+      "forest_service_road_number": "Rimrocker",
+      "forest_service_park_district": "Uncompahgre BLM",
+      "route_description": "The Rimrocker Trail is a 160 mile trail that is an organization of mostly existing roads to form an off-pavement path which connects Montrose, Colorado to Moab, Utah.  In the writeup, I used the most common names for the roads, some roads had up to four different names for the same section of road/trail.\n\nBetween Montrose and Nucla, the roads that you travel are mainly graded dirt and gravel roads two vehicles wide that would be suitable for most vehicles.  Rain and snow could make the roads slick or impassable at times. Along this segment there are countless trail spurs on each side of the road. Logging trucks are active in this area so be alert for the trucks and machinery on the trail.  The terrain is a forest with a variety of trees and many options for camping.\n\nAs you approach Nucla, Colorado, you will move from dirt to pavement as you pass through the town and revert back to dirt.  \n\nDirectly west of Nucla, you will travel on rougher dirt roads where higher vehicle clearance and 4wd would be recommended.  These trails are mostly single vehicle width but there is almost always an area to easily pull over for faster moving traffic behind you or oncoming vehicles.  This is a desert terrain and you will find very few shade trees but many open ranges and cattle sharing the trail.  About halfway between Nucla and the Manti-La Sal National Forest you will come to the water crossing at Tabeguache Creek; this crossing is 12-20\" deep and is moving swiftly.  The trail continues to be rocky until the National Forest. \n\nIn the Manti-La Sal National Forest, the road is well graded and only has gravel, small rocks and some ruts and potholes after rain.  \n\nWhen you turn west off of the La Sal Pass (Waypoint 59), the trail becomes a double track through rocky and technical areas.  There are areas to pull over for oncoming traffic.  In some areas the trees close in on the trails and will brush along one or both sides of the vehicle.  There are tight corners, climbs and descents and larger rocks along the trail to navigate through.  As you get closer to the Moab area, the trail will become dirt with ruts and holes, eventually turning to pavement for the last section.\n\nFor more information on the Rimrocker Trail: [Montrose County Website](http://www.co.montrose.co.us/701/Rimrocker-Trail)",
+      "highlights": "The Rimrocker Trail is a newly connected trail that allows you to enjoy 160 miles of off-pavement travel while experiencing the many different stunning landscapes that connect Montrose, Colorado to Moab, Utah.  The roads on the eastern half are graded gravel roads that are two vehicles wide and would easily be traveled in a family sedan.  It would be a fantastic destination to travel through the aspens during their fall color changes as well as stopping for the fantastic views at the overlooks.  Towards the west end of the trail, the Manti-La Sal National Forest provides beautiful scenery and wildlife as well as gorgeous views of the La Sal Mountains.  As you approach Moab, the landscape quickly turns from forest into desert as it transitions to some shelf roads built of the signature Moab red sand.",
+      "camping_and_lodging": "While camping, please clean up after your party.  Pick up any garbage even if it is not yours to leave the campsite/trail in a better condition than you found it.\r\n \r\nOn the stretch of road between Montrose and Nucla there are trail offshoots all along the trail.  Many have dispersed camping areas and there are a few campgrounds along the way with picnic benches and pit toilets.  \r\n\r\nIron Springs Campground is located on the trail (Waypoint 04)\r\n\r\n[Iron Springs Campground](http://www.fs.usda.gov/recarea/gmug/recarea/?recid=32684)\r\n\r\n\r\nColumbine Campground is located slightly north of the trail at the intersection of Nucla-Delta Rd and Divide Rd (Waypoint 06)\r\n\r\n[Columbine Campground](http://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5300191.pdf)\r\n\r\n\r\nAfter passing through Nucla, you will be traveling along private property with limited places to camp until you enter the Manti-La Sal National Forest where there are dispersed sites along the roads.  \r\n\r\nBuckeye Campground (Waypoints 50, 51, 52)  The camping picture is taken from the Buckeye Campground.\r\n\r\n[Buckeye Campground](http://www.fs.usda.gov/recarea/mantilasal/recarea?recid=72932)\r\n\r\n\r\nAfter leaving Manti-La Sal National Forest you will be back among private property with little if any dispersed camping while on the trail until you get closer to the areas surrounding Moab.\r\n\r\n\r\n\r\nInformation about dispersed camping restrictions and practices:\r\n\r\n[Colorado BLM Information](http://www.blm.gov/style/medialib/blm/co/field_offices/uncompahgre_field/documents/recreation.Par.24157.File.dat/2012-0815%20Uncompahgre%20Valley%20Camping%20Guide.pdf)\r\n\r\n[Uncompahgre Information](http://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5190638.pdf)\r\n\r\n[Manti-La Sal information](http://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5300191.pdf)\r\n\r\n[Where else can I camp?](http://www.blm.gov/ut/st/en/fo/moab/recreation/campgrounds/where_else_can_i_camp.html)\r\n\r\n\r\n\r\nWhen you are in the desert, the leave no trace practices are more strict due to the different ecosystem.\r\n\r\n[BLM Guidlines](http://www.blm.gov/ut/st/en/fo/moab/recreation/canyon_country_minimum.html)",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/1843/highlights/159-DSC04468.JPG",
+      "category": "Altitude|Desert|Forest|Ghost Town|Iconic|Mine|Mud|Overland|Rock|Snow Wheeling|Water",
+      "nearest_town_name": "Montrose",
+      "updated_at": "01/27/2019",
+      "created_at": "2016-06-08T00:50:04.273Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Colorado",
+      "state_code": "CO",
+      "rating_avg": "4.6",
+      "rating_count": "5",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        },
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        }
+      ]
+    },
+    {
+      "id": 1411,
+      "title": "Backway to Crown King, Arizona",
+      "technical_rating_low": 4,
+      "technical_rating_high": 6,
+      "length": 34.3,
+      "duration": "About 8 hours",
+      "status": "Open",
+      "forest_service_road_number": "74, 711, 192, 259",
+      "forest_service_park_district": "Prescott National Forest",
+      "route_description": "The Backway to Crown King is one of Phoenix's most popular trails. Situated in parts of the Prescott National Forest travelers will definitely get a taste of what this state has to offer for scenery. The beautiful part of this trail is that it can be as easy or as difficult as needed but 4x4 is still required. If you plan on trying any of the optional and more difficult lines your vehicle and your 4x4 prowess must be adequate. The trail begins as an easy dirt road following along the northern borders of the Lake Pleasant Regional Park and through some secluded residential areas. After turning onto the Crown King Trail at Waypoint 6, the adventure has started. Gradually climbing to an elevation of 6441 ft before dropping into the town of Crown King, this trail offers tight shelf roads, steep rocky climbs with shelves, seasonal water crossings, and blind corners so please be careful. It is also very important to note that there is private property along this trail. Please respect all private property signs. At Waypoint 18, the road was recently routed down into the creek to serve as an alternate route around a private mining claim. The creek bottom is rocky but depending on weather and the time of year, this creek may have water in it. As such, obstacles under the water are not easily seen so please take care through this section of the trail. Also, please respect the miners’ wishes and do not enter into his property. It is also important to mention that in the winter months, depending on snow fall, the trail may not be passable. The snow can also create very dangerous situations on the narrow shelf roads. This is especially important after passing Waypoint 25. The descent past this point is on the north face of the mountain where ice and snow are the most treacherous. Please be prepared with the proper equipment, food, and water. Temperatures can also be very low so if you have to spend the night on the trail, please be prepared. If an overland adventure is what you are looking for, the Backway to Crown King can easily be connected to the [Senator Highway (FR 52)](https://www.trailsoffroad.com/trails/76-senator-highway-arizona) for a scenic trip to Prescott, Arizona. This trail is shared with all kinds of OHV users including: motorcycles, side by sides, quads, and 4x4's so please respect the rules of the road.  ",
+      "highlights": "The highlight of the Backway to Crown King is the town itself and serves as a welcomed destination after a long day on the trail. Whether stopping for lunch or staying the night, it is well worth the time to check out the general store, saloon, and prospector mall. If you need supplies or a souvenir t-shirt, the general store is the place to go. It is also the place to go for Crown King's famous fudge. If you are looking for a cold adult beverage or a meal, check out the Crown King Saloon. Local musicians also frequent the saloon for good music. The Prospector Mall is also a great place to stop for supplies and a meal. Their breakfast is fantastic. There are also several cabins in the area that are available for travelers to spend the night. You can find any and all information about the services available in Crown King on their [website](http://www.crownkingaz.com).",
+      "camping_and_lodging": "There are primitive camping spots within the [BLM land area](http://www.blm.gov/az/st/en/fo/hassayampa_field_office.html), as well as around [Lake Pleasant] (https://www.maricopa.gov/parks/lake_pleasant/Camping.aspx). There are camping spots along FR 192, the Senator Highway, and Crown King Road. Please only use spots with existing fire rings. They are on a first come, first served basis. And please remember to [Tread Lightly](https://www.treadlightly.org).",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/1411/highlights/IMG_3996.JPG",
+      "category": "Altitude|Camping|Forest|Mine|Overland|Rock|Wash",
+      "nearest_town_name": "Crown King",
+      "updated_at": "06/17/2018",
+      "created_at": "2015-10-02T18:05:17.724Z",
+      "is_featured": true,
+      "is_member_only": null,
+      "state_title": "Arizona",
+      "state_code": "AZ",
+      "rating_avg": "4.8",
+      "rating_count": "4",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        },
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        }
+      ]
+    },
+    {
+      "id": 2649,
+      "title": "Magruder Corridor",
+      "technical_rating_low": 2,
+      "technical_rating_high": 3,
+      "length": 93,
+      "duration": "About 8 hours",
+      "status": "Open",
+      "forest_service_road_number": "468",
+      "forest_service_park_district": "Nez Perce-Clearwater National Forest",
+      "route_description": "The Magruder Corridor is a relatively simple trail that follows the historic paths of people like the Nez Perce Indians.  The dirt road bisects the largest wilderness area in the lower 48 (over 5 million acres).  The road offers access to many hiking and recreational trails as well as being a very popular hunting corridor during season.  \n\nThe trail as mapped is 93 miles, with a gas station in Elk City on the west side and Darby on the east.  Total mileage without gas is closer to 120 miles and that is without taking any of the side trails and spurs.  During the winter months, it is used my snowmobiles, and due to the location and elevation, the trail usually opens around the middle of July and ends in October due to snow.  The trail itself is completely accessible by 2wd high clearance vehicles as long as the weather permits.  It is a 1-2 vehicle wide trail with plenty of room to pass.  There are many areas of the trail that are shelf roads.  If you continue on some of the spurs such as the Burnt Knob Lookout, they are more difficult and require a 4wd high clearance vehicle.",
+      "highlights": "The Magruder Corridor Trail is a very accessible trail for most vehicles that takes you into the scenic and remote wilderness.  It is on many people’s bucket list due to the fact that this is the only place in the lower 48 where you can be in the middle of 5 million acres of wilderness.  There is history at every corner with plenty of information along the way and available from the ranger districts at each end.  You can see first hand how a forest regrows after a burn, there have been many big forest fires over the past few decades that have swept through the area, and you get the chance to drive directly through that area.  Most of the areas have a healthy regrowth already and the burnt trees offer a beautiful contrast to the greenery and wildflowers when they are blooming.",
+      "camping_and_lodging": "While camping, please clean up after your party. Pick up any garbage even if it is not yours to leave the campsite/trail in a better condition than you found it.\r\n\r\nThere is dispersed camping available along the trail as per the MVUM for the area.  There are many existing sites with fire rings along the trail.\r\n\r\nThere are also multiple designated forest service campgrounds along the trail.  \r\n\r\n[Nez Perce-Clearwater Campground Information](https://www.fs.usda.gov/recarea/nezperceclearwater/recarea/?recid=16482) \r\nScroll to the bottom and open the camping tab for further information.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/2649/highlights/resized_DSC044192_%282%29.jpg",
+      "category": "Altitude|Desert|Forest|Iconic|Overland|Rock|Sand|Snow Wheeling",
+      "nearest_town_name": "Grangeville",
+      "updated_at": "01/13/2019",
+      "created_at": "2017-07-26T14:24:25.854Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Idaho",
+      "state_code": "ID",
+      "rating_avg": null,
+      "rating_count": "0",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        },
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 2356,
+      "title": "The Pony Express (Fairfield to Ibapah)",
+      "technical_rating_low": 1,
+      "technical_rating_high": 1,
+      "length": 132.9,
+      "duration": "About 8 hours",
+      "status": "Open",
+      "forest_service_road_number": "The Pony Express Auto Tour Route",
+      "forest_service_park_district": "Bureau of Land Management",
+      "route_description": "This mild road is suitable for most vehicles as long as the weather is dry. It is well maintained throughout with the exception of miles 141.9 through 144.9 and also well marked throughout this entire portion. Washboards will be present so airing down will help out the ride quality. The majority of the road is flat or mildly hilly, with only 1 big climb and 2 moderate descents. With this trail, you also get the added side trails such as the Simpson Springs area and the Dugway Geode Beds.  Cow pies are scattered so watch out if the windows are down! ",
+      "highlights": "Almost 2000 miles of dirt road stretching across the United States from St. Joseph to San Francisco sounds like an overlanders dream come true. Dating back to 1860, The Pony Express was one of the most historic routes in the country. The trail was originally laid out to provide a way for mail to be delivered. Over the course of eight to ten days, riders would traverse mountains and deserts across 8 states (Only two states back then) to deliver mail to Sacramento, where it was placed onto a steamer to continue its journey to San Francisco. At its peak, there were believed to be around 190 stations spanning across this historic route. Sadly after only 18 months, the telegraph was brought about and lead to the termination of The Pony Express in October of 1861. Today, much of the track is still available and maintained by the Bureau of Land Management. What took riders eight to ten days to cover at an average speed of seven miles per hour now can be achieved by vehicle in as little as 5 hours depending on speed of travel. Billboards and postings give plenty of information along this trail. Although it may be a maintained route, be sure to pack for desert travel bringing plenty of food, water, and clothing in the colder months. ",
+      "camping_and_lodging": "There is only one developed campground, <a href=\"https://www.recreation.gov/recreationalAreaDetails.do?contractCode=NRSO&facilityId=202202\">Simpson Springs Campground</a>, with a fee of $15 but providing water and pit restrooms. \r\n\r\nOptionally, the majority of the Pony Express (other than Simpson Springs Area and Fish Springs National Wildlife Refuge) runs through BLM land so camping is permitted. Please try to stay somewhere that has evidence of other campers and be sure to take out all trash and leave no trace. ",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/2356/highlights/P4010028.JPG",
+      "category": "Desert|Iconic|Overland",
+      "nearest_town_name": "Fairfield",
+      "updated_at": "04/26/2017",
+      "created_at": "2017-04-04T22:06:57.100Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Utah",
+      "state_code": "UT",
+      "rating_avg": "5.0",
+      "rating_count": "1",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        }
+      ]
+    },
+    {
+      "id": 3812,
+      "title": "Gravelly Range",
+      "technical_rating_low": 1,
+      "technical_rating_high": 3,
+      "length": 47.21,
+      "duration": "About 7 hours",
+      "status": "Open",
+      "forest_service_road_number": "290",
+      "forest_service_park_district": "Beaverhead-Deerlodge National Forest",
+      "route_description": "This is hard-packed dirt with occasional ruts and, from Waypoints 1 through 60 is very easy to travel in the dry season.  Also, from Waypoints 1 through 60, there are no major obstacles.  Those wanting to avoid the rougher section of road should turn right at Waypoint 57 and follow <a target=\"_blank\" href=\"https://www.trailsoffroad.com/trails/3813-call-road\">Call Road</a> down the mountain. Waypoint 63 is a stream crossing with very slick boulders. The road gets very rocky and rutted at Waypoint 65 and remains rough through Waypoint 68.  This trail runs straight through from Waypoint 1 to 57, traveling past Waypoint 57 will require backtracking as the road is unpassable one mile beyond Waypoint 68.  Gravelly Range Road is 47 miles long and travels at elevations ranging from 6,670 feet to a max elevation of 9,564 feet.",
+      "highlights": "From Red Rock Lakes National Wildlife Refuge, over the Gravelly Range and ending in the Axolotl Wilderness Study Area, Gravelly Range Road is all about the views and hunting access.  This trail starts just north of the Red Rock Lakes 28 miles west of Interstate 15 near Monida Idaho, and 30 miles west of Henrys Lake and Highway 287.  Beginning at 6670 feet, this trail gradually climbs for the next 30 miles to nearly 9600 feet elevation. This trail is mostly well above tree line offering spectacular views for hundreds of miles in all directions as you travel along the ridge of the Gravelly Range.  Gravelly Range Road travels through the Beaverhead-Deerlodge National Forest, the largest of the national forests in Montana covering 3.35 million acres.  This area is widely known for its hunting, but also offers views of the surrounding mountains and valleys and grassy fields covered in wildflowers for nearly 40 miles.  If you have the day to spend on the trail, this is a fantastic route through the mountains with options in all directions for new destinations to explore.  Bring the family, bring the pets, there are sights and smells for all to enjoy!",
+      "camping_and_lodging": "Camping along the Gravelly Range is in designated sites only.  Campsites are available between Waypoints 19 and 58 of this trail quite often, some with stunning views while others provide shelter from the wind in the trees, and off the road.  Clover Meadow Campground is a dispersed camping area located at Waypoint 46 offering picnic tables and a vault toilet.  Toward the north end of the trail, Johhny Ridge Road offers a couple of campsites with incredible views. <a target=\"_blank\" href=\"https://www.recreation.gov/camping/campgrounds/234364\">Black Butte Cabin</a> at Waypoint 25 of <a target=\"_blank\" href=\"https://www.trailsoffroad.com/trails/3661-standard-creek\">Standard Creek Road</a> is available for rent as well. The nearest full hookups are located the <a target=\"_blank\" href=\"http://www.wfork.com\">West Fork Cabin Camp</a> along the Madison River in Cameron Montana, along with a couple more locations in Ennis Montana.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/3812/highlights/1569889700350_resized_IMG_6977-503.jpg",
+      "category": "Altitude|Camping|Mine|Overland|Scenic",
+      "nearest_town_name": "Cameron",
+      "updated_at": "09/30/2019",
+      "created_at": "2019-09-08T03:48:29.273Z",
+      "is_featured": null,
+      "is_member_only": true,
+      "state_title": "Montana",
+      "state_code": "MT",
+      "rating_avg": "5.0",
+      "rating_count": "1",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        },
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "title": "Lockhart Basin",
+      "technical_rating_low": 5,
+      "technical_rating_high": 5,
+      "length": 38.1,
+      "duration": "About 6 hours 40 minutes",
+      "status": "Open",
+      "forest_service_road_number": "Lockhart Basin Road ",
+      "forest_service_park_district": "Bureau of Land Management",
+      "route_description": "The first mile is notorious for unsuspecting drivers.  Although the majority of the trail is relatively easy, the first portion contains ever-changing obstacles that are unavoidable and require a high clearance vehicle. The moderate rating is strictly due to this first mile, where the remainder of the trail is far less technical.  The route recommended and described here starts from the north, just off of <a href=\" https://www.trailsoffroad.com/trails/523-chicken-corners\">Chicken Corners</a> and travels south, all the way to the Canyonlands Needles District. The trail comprised primarily of rock and dirt, mixed with a few spots of slickrock.   After the first mile, the trail subdues into a nice comfortable ride with just a few intermittent obstacles along the way.  Towards the southern half, the trail turns into a graded maintained road.  \r\n\r\nFor more information: \r\nBureau of Land Management\r\nMonticello Field Office\r\n365 North Main\r\nMonticello, Utah 84535\r\nPhone: (435) 587-1500 \r\n\r\nOpen seasonally, from March 1st through November 1st, is the <a href=\"http://www.needlesoutpost.com/\">Needles Outpost</a>, where you can get fuel and supplies without having to go Moab or Monticello. ",
+      "highlights": "Traveling over a great distance and deep into the heart of desert and canyon country, a sense of freedom is the feeling you get when on the Lockhart Basin offroad trail just outside of Moab, Utah.  It is remote and far from the traffic jam you experience on many of the other popular trails in the area. This route is often used to avoid pavement when going from the Moab area to the Canyonlands Needles District.  Along the way, you witness the fortress-like walls of Hatch Point to one side of you, and the intricate and humbling canyon benches that were formed over time by the mighty Colorado River to the other.   The trail is great for a long day or can be combined with other trails for a multi-day overland trip for capable rigs. \r\n\r\n  ",
+      "camping_and_lodging": "There are plenty of free and dispersed camping locations along this route with the majority of the sites between waypoint 19 through waypoint 37.  This is what makes Lockhart Basin an attractive portion of a larger overland route that you could plan.   For those looking for more improved camping, the trail lets out at several  <a href=\"\r\nhttps://www.blm.gov/ut/st/en/fo/monticello/recreation/activities/camping/Indian_Creek_Camping.html\">BLM area locations</a>, including the popular Hamburger Rock.  If you plan to spend a night or two in the Canyonlands Needles District and are with a group, it is highly recommended to reserve the <a href=\"https://www.recreation.gov/camping/canyonlands-national-park-needles-district-group-campsites/r/campgroundDetails.do?contractCode=NRSO&parkId=72489\">Split Top site.</a> Reserve way in advance. \r\n\r\n<b>Minimum Impact Practices</b>\r\n\r\nTread lightly when traveling and leave no trace of your camping. Drive and ride only on roads and trails where such travel is allowed; hike only on established trails, on rock, or in washes. Camp at designated sites or, where allowed, at previously used sites. Avoid placing tents on top of vegetation and use a camp stove instead of making a campfire. Unless signs indicate otherwise, leave gates open or closed as you find them.\r\n\r\nHelp keep Canyon Country clean. <b>Pack out your trash</b> and recycle it, clean up after less thoughtful visitors, and dispose of human waste properly.\r\n\r\nProtect and conserve scarce desert water sources. Camp at least 300 feet from isolated water sources to allow for wildlife access. Where possible, carry your own drinking water. Leave potholes undisturbed and wash well away from pools and springs.\r\n\r\nAllow space for wildlife. When encountering wildlife, maintain your distance and remain quiet. Teach children not to chase or pick up animals. Keep pets under control.\r\n\r\nLeave historic sites, Native American rock art ruins and artifacts untouched for the future. Admire rock art from a distance and never touch it. Stay out of ruins, leave artifacts in place, and report violations.\r\n",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/567/highlights/resized_highlight.jpg",
+      "category": "Camping|Desert|Iconic|Overland|Rock|Scenic",
+      "nearest_town_name": "Moab",
+      "updated_at": "02/10/2018",
+      "created_at": "2013-10-03T15:07:49.533Z",
+      "is_featured": null,
+      "is_member_only": true,
+      "state_title": "Utah",
+      "state_code": "UT",
+      "rating_avg": "5.0",
+      "rating_count": "2",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        }
+      ]
+    },
+    {
+      "id": 920,
+      "title": "Pleasant Canyon Loop Trail",
+      "technical_rating_low": 5,
+      "technical_rating_high": 7,
+      "length": 26.8,
+      "duration": "About 6 hours 40 minutes",
+      "status": "Open",
+      "forest_service_road_number": "Pleasant Canyon Trail",
+      "forest_service_park_district": "Death Valley National Park ",
+      "route_description": "The Pleasant Canyon Loop Trail begins and ends in the Panamint Valley.  It can be driven in either direction but this report is written with the starting point at Ballarat, CA.  The trail travels eastward from the Ballarat ghost town through Pleasant Canyon, swings south through Middle Park, and then back west through South Park Canyon.  The west sides of the trail are in the BLM and the east sides are in Death Valley National Park.  There are no sign posts along the trail stating where the borders lie.  The trail is rated easy to moderate with a few sections requiring 4WD (Roger's Pass, Chicken Rock, South Park Canyon).  There is a 3-ton limit wooden bridge in South Park Canyon that is sometimes closed.  If so, signs may be posted on both ends of the bridge and travelers are required to turn around and head back the way they came.  ",
+      "highlights": "For the overlander who truly wants to explore the best of Death Valley, the Pleasant Canyon loop trail offers a little bit of everything.  Mines, cabins, steep mountain ascents and descents, epic views, rocks, cliffs, wood bridges, and more.  The loop begins and ends in the Panamint Valley and explores Pleasant Canyon, Middle Park, and South Park.  Some of the many sites to visit are Claire Camp, World Beater Mine Cabin, Cooper Mine, Mormon Gulch, Rita's Cabin, Roger's Pass, Chicken Rock (see photo), Chicken Bridge, and Briggs Cabin.  Chicken Rock is a downward-tilting, narrow section of the trail which tips your vehicle precariously towards a 200' vertical drop.  Once past this obstacle, you face the famous 3-ton limit wooden bridge before descending back into the Panamint Valley to complete the loop.  ",
+      "camping_and_lodging": "There are no established campgrounds along this trail.  There are free cabins available on a first-come, first-served basis.  As with all cabins in the area, if a flag is up, the cabin is considered to be non-vacant.  Visitors should not enter the cabin, even if vehicles are not present.  Some of best cabins along this route include the World Beater Mine Cabin (shown here) and Briggs Cabin.  Both of these cabins are noted in the GPS track and photos are shown.  Within the BLM, dispersed backcountry camping is allowed as long as (1) the campsite is at least one mile away from any paved road or \"day use only\" dirt road and (2) the campsite is only in previously disturbed areas.  You must park your vehicle immediately adjacent to the roadway to minimize impact. The wilderness boundary is 50 feet from the center of most dirt roads.  Campfires are prohibited, except in fire pits in developed campgrounds. Gathering wood is unlawful and burning of wood is not allowed in the backcountry.  Camp stoves and propane grills are allowed in all areas.  ",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/920/highlights/resized_IMG_7036.JPG",
+      "category": "Altitude|Camping|Forest|Ghost Town|Iconic|Mine|Rock|Wash|Water",
+      "nearest_town_name": "Ballarat",
+      "updated_at": "05/01/2019",
+      "created_at": "2013-11-04T02:47:29.678Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "California",
+      "state_code": "CA",
+      "rating_avg": "4.8",
+      "rating_count": "5",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        },
+        {
+          "label": "SEVERE",
+          "color": "#000"
+        }
+      ]
+    },
+    {
+      "id": 1465,
+      "title": "Jackson Cabin/Muleshoe Ranch Road",
+      "technical_rating_low": 4,
+      "technical_rating_high": 4,
+      "length": 45,
+      "duration": "About 6 hours 30 minutes",
+      "status": "Open",
+      "forest_service_road_number": "691",
+      "forest_service_park_district": "Coronado National Forest",
+      "route_description": "The road starts out wide and smooth for the first 14 miles. (1-2)  You will travel over mostly flat prairie land through a sprinkling of historic ranches until you finally drop down into Hooker Hot Springs Canyon and the Muleshoe Ranch.    From the sign-in entry kiosk, the road ahead becomes rougher and requires at least a high clearance vehicle.    There are seven year-round running streams in these canyons, and you will cross one in the bottom of Bass Canyon.   \r\n\r\nFor the first portions of the climbs up out of the canyon,  some enterprising rancher used concrete to fortify the road.   These come in handy for several hill climbs/descents as the concrete is scored to aid with traction.  \r\n\r\nThe road continues up and over hills, and across broad open flat areas as you skirt the foothills of the Galiuro Mountains.  \r\n\r\nOnce you reach the Redfield Wilderness area, the road condition degrades considerably and there will be portions requiring 4 wheel drive low to traverse comfortably. You will encounter steps, off camber hill climbs and descents, and a few rocky sections that will require good traction.  The last half mile is the most challenging of all,(5) requiring the navigation of a shelf road that descends sharply into Jackson Canyon at the end of the trail.  This part of the trail  has big rocky sections to climb over, off camber sections and long drop-offs on the north side of the road.   Once at the bottom of this seemingly endless hill, you will cross the rocky creek and be at the cabin.  ",
+      "highlights": "Jackson Cabin / Muleshoe Road is one of those iconic trails for which the reward of the journey rivals that of the destination.   The Nature Conservancy maintains the riparian areas at the beginning of the trail and has graciously allowed access to these wonders.   You will see amazing views of rock cliff faces, mountain vistas, desert springs, seeps and abundant plant life where springs have pushed up from below nourishing abundant wildlife such as coatimundi, deer, javelina, and a wide variety of watchable bird life.   \r\n\r\nThe views of the rhyolite rock formations along the western face of the Galiuro Mountains could very well challenge the scenery experienced in the canyon country of southern Utah.   The start of this trail is about 110 miles from Tucson.  It's a long day to get to the end but it's certainly worth it for the payoff is a 100-plus-year-old cabin, teeming with history.    Bring your tent, bring your camp stove,  bring your ice chest because this is a fabulous place to turn into an overnight adventure.    In fact,  the position of the sun on the way in (afternoon setting reds) and the way out (morning freshness) completely changes the views and makes this almost two different trips.\r\n",
+      "camping_and_lodging": "There are several camp spots along the trail after you pass by the private land portions.   Two very nice spots can be found at Waypoints 13 and 17 or at the Jackson Cabin trail end. There are also hotels in <strong><a href=\"https://www.expedia.com/Benson-Hotels.d6863.Travel-Guide-Hotels?regionId=6863&langid=1033&kword=benson_arizona_hotels.ZzZz.4800000089231.0.117557178550.benson%20arizona%20hotels.benson_arizona_hotels&semcid=US.UB.GOOGLE.SEARCH.HOTEL&gclid=CjwKEAjw8OLGBRCklJalqKHzjQ0SJACP4BHrXP6bFItdLpMjSS-IOELXNwdSsUcp3HAZkWFK0WFQdBoCWWXw_wcB\" target=\"_blank\">Benson </a></strong>and <strong><a href=\"https://www.expedia.com/Willcox-Hotels.d7641.Travel-Guide-Hotels?regionId=7641&langid=1033&kword=willcox_arizona_hotels.ZzZz.4800000089186.0.183232947778.willcox%20arizona%20hotels.willcox_arizona_hotels&semcid=US.UB.GOOGLE.SEARCH.HOTEL&gclid=CjwKEAjw8OLGBRCklJalqKHzjQ0SJACP4BHrgd2SWO6lfdkCyXbzxeABGZrtLL0Q0WVIqeQWdhGY_RoClgvw_wcB\" target=\"_blank\"> Willcox</a></strong> that are 50 miles away.     \r\n\r\n<strong><a href=\"https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/arizona/explore/muleshoe-ranch-lodging.xml\" target=\"_blank\">Lodging at the Muleshoe Ranch </a></strong>is available for members of The Nature Conservancy during 11 select weekends from October through April, Thursday through Mondays. Casita rentals are not offered during Thanksgiving, Christmas and New Year holidays.  A three-night minimum stay is required. \r\n",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/1465/highlights/resized_JacksonCabinDSC_0288222.jpg",
+      "category": "Altitude|Camping|Desert|Forest|Ghost Town|Iconic|Mine|Overland|Scenic|Wash|Water",
+      "nearest_town_name": "Willcox",
+      "updated_at": "05/13/2019",
+      "created_at": "2015-10-23T00:00:18.468Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Arizona",
+      "state_code": "AZ",
+      "rating_avg": null,
+      "rating_count": "0",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 1470,
+      "title": "Gold Butte Backcountry Byway",
+      "technical_rating_low": 3,
+      "technical_rating_high": 3,
+      "length": 65.4,
+      "duration": "About 6 hours",
+      "status": "Open",
+      "forest_service_road_number": "Gold Butte Byway",
+      "forest_service_park_district": "Bureau of Land Management",
+      "route_description": "Gold Butte Backcountry Byway is a 65-mile scenic drive that starts near the town of Mesquite and heads south into the wild and rugged Gold Butte region. There are four segments of the byway: (1) paved Gold Butte Road - any vehicle could do, (2) unpaved Gold Butte Road - any vehicle can do, and (3) Red Bluff Springs and Mud Wash Roads which follows a rough and rocky grade before heading into a wash - a high clearance 4 wheel drive SUV can do. You can return the way you came to the north back on Gold Butte Road.    Many parts of the trail after segment 2 can be prone to flash floods and would not be safe during wet and threatening conditions. \n\nMileage listed is pulled directly from the GPX file.  We strongly recommend following the GPX track. \n\nTo explore this area in its entirety allow for a full day.",
+      "highlights": "The Gold Butte Backcountry Byway offers a glimpse into Southern Nevada’s most beautiful landscapes and the history of the Anasazi and Paiute Indians, as well as early American Miners.  The Gold Butte Backcountry Byway is built from historic mining roads and cattle trails that wind its way through the hills and washes of the Gold Butte country. You'll enjoy some great views and plenty of opportunities to see desert wildlife, ancient petroglyphs, sinkholes and red and white sandstone formations with Lake Mead and the Muddy Mountains off to the west. ",
+      "camping_and_lodging": "The entire route is on BLM land and primitive campsites are all along the byway. The best places are at Whitney Pockets and around Gold Butte. Use proper camping etiquette by packing out all your trash, using established sites, and camping at least 600 feet from a water source.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/1470/highlights/resized_PA220546.JPG",
+      "category": "Camping|Desert|Ghost Town|Iconic|Overland|Scenic",
+      "nearest_town_name": "Mesquite",
+      "updated_at": "11/23/2019",
+      "created_at": "2015-11-01T00:18:49.144Z",
+      "is_featured": false,
+      "is_member_only": null,
+      "state_title": "Nevada",
+      "state_code": "NV",
+      "rating_avg": "5.0",
+      "rating_count": "2",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 4027,
+      "title": "Palomas Harquahala Road",
+      "technical_rating_low": 3,
+      "technical_rating_high": 3,
+      "length": 44.05,
+      "duration": "About 6 hours",
+      "status": "Open",
+      "forest_service_road_number": "YE025",
+      "forest_service_park_district": "Bureau of Land Management",
+      "route_description": "Palomas Harquahala Road, annotated as YE025 on BLM signage and maps, runs 44 miles north/south between Hyder Road in the south and Pipeline Road in the north.  The entire trail is on BLM land.  The road is mostly packed dirt with some rocky sections and numerous wash crossings.  The difficulty of the wash crossings varies with erosion occurring between infrequent maintenance by BLM and local ranchers.  The road climbs gently from 400 feet to just over 1500 feet at the scenic pass at Waypoint 20.",
+      "highlights": "The sun woke me.  In compensation for interrupting my dreams, it offered the quintessential western skyline for my consideration.  Backlit in hues of burned orange, melted copper and baby blue, jagged peaks of the Eagletail Mountains sawtoothed the eastern sky.  Silhouetted on closer hills, saguaros stood as silent sentinels of the dawn.  The lower Sonoran Desert is at its best at sunrise, all peace and stillness, and beauty.\n\nThe Palomas Harquahala Road crosses the expansive Palomas Plain to the Clanton Hills, traces the western edge of the Eagletail  Mountains Wilderness, parallels sandy Deadman Wash up into Nottbusch Valley, and skirts the western edge of Cemetary Ridge before passing in the shadow of Deadman Mountain.  The names alone bespeak adventure.   The trail cuts through a flat desert sea of creosote bush, bursage, and brittlebush.  The sameness is broken here and there by saguaro and ocotillo.   Like green ribbons, the washes snake through the desert with their overgrown banks of palo verde, mesquite, and ironwood.  Corrals and windmills, many still in use, evoke an earlier time when rugged men came here to eke out a living in this arid landscape.  In that pursuit they cut the trails we drive today.  \n\nDownload the track.  Pack your gear.  Gas up the rig.  Take a ride on a long trail.",
+      "camping_and_lodging": "The Palomas Harquahala Road traverses BLM land and offers abundant dispersed camping opportunities.  Flat gravel desert playas make for easy camps and they are plentiful along the route.  The playa at Waypoint 6  has some lush grass areas for tent campers.\n\nFrom Waypoint 13 to Waypoint 19 the road is also the western boundary of the Eagletail Mountains Wilderness.  Camp only on the west side of the trail between these points.  Keep all vehicles out of the wilderness area.\n\nCommercial campgrounds are available in Dateland, Yuma, and Quartzsite for those desiring additional amenities.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/4027/highlights/1580237991717_resized_IMG_5835.JPG",
+      "category": "Camping|Desert|Overland|Sand|Scenic|Wash",
+      "nearest_town_name": "Quartzsite",
+      "updated_at": "01/28/2020",
+      "created_at": "2020-01-19T17:00:28.146Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Arizona",
+      "state_code": "AZ",
+      "rating_avg": "4.0",
+      "rating_count": "2",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "title": "Steel Bender",
+      "technical_rating_low": 5,
+      "technical_rating_high": 9,
+      "length": 12.4,
+      "duration": "About 6 hours",
+      "status": "Open",
+      "forest_service_road_number": "Steel Bender",
+      "forest_service_park_district": "BLM",
+      "route_description": "Steel Bender is one of the more popular, harder trails in Moab.  The trail is comprised of slick rock, sand, water crossings, and dirt with plenty of waterfalls and hill climbs.  Even though most obstacles have a bypass, there are still several obstacles that you have to do.  Expect 6 foot+ waterfalls, steeper than 50-degree inclines, and plenty of drops that you drag off.  It is recommended that you have a lift and lockers before trying this trail.\r\n\r\nWhile on the trail, you will be offered some amazing overlooks and creek crossings.\r\n\r\n\r\n<b>Note:  The .gpx track available here is of the hardest lines possible on the trail.  Stop at each obstacle and pick your route.  When in doubt, follow the white tracks painted on the road surface.</b> \r\n",
+      "highlights": "Moab, Utah is one of the premier off-road and four-wheel drive destinations.  Comprised of some of the most well-known trails in all of the United States, it has trail types that suit all drivers' wheeling desires.  Some would call it an \"off-roader's paradise\".  Amongst these trails, Steel Bender is one of the more popular \"hard\" trails in the entire area.  Comprised of sand, dirt, loose rocks, and some slick rock, this trail offers drivers everything they are looking for and more.   \r\n",
+      "camping_and_lodging": "There is no dispersed camping in the immediate area. \r\n\r\n\r\nRemember, when using free designated sites, you are required to remove all solid human waste from the area.  Campers are required to possess, set up, and use portable toilets.  Campers may not bury or leave exposed, solid human body waste or soiled toilet paper.  The disposal of solid human waste off public land is required.  You must camp only in marked sites, and no wood cutting is allowed.  Following these simple rules will ensure that the sites are attractive to future campers.  Enjoy your stay!  The Moab Field Office maintains 26 campgrounds.  Many of the campgrounds are located close to Arches National Park along the Colorado River.  These campgrounds offer views of spectacular red rock cliffs amidst a green ribbon of vegetation.\r\n\r\n\r\nhttp://www.blm.gov/ut/st/en/fo/moab/recreation/campgrounds.html\r\n",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/600/highlights/20160324_121644.jpg",
+      "category": "Altitude|Desert|Mud|Overland|Rock|Sand|Scenic|Snow Wheeling|Water",
+      "nearest_town_name": "Moab",
+      "updated_at": "04/15/2019",
+      "created_at": "2013-10-03T15:07:50.408Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Utah",
+      "state_code": "UT",
+      "rating_avg": "4.0",
+      "rating_count": "2",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        },
+        {
+          "label": "EXTREME",
+          "color": "#5C0099"
+        }
+      ]
+    },
+    {
+      "id": 2706,
+      "title": "The Barracks Trail",
+      "technical_rating_low": 4,
+      "technical_rating_high": 4,
+      "length": 23.3,
+      "duration": "About 5 hours 30 minutes",
+      "status": "Open",
+      "forest_service_road_number": "",
+      "forest_service_park_district": "Bureau of Land Management",
+      "route_description": "This is a very diverse offroad trail in which you encounter many types of terrain throughout its entirety. From the start, it will be a sandy/hard pack dirt road while you cross the East Fork of the Virgin River near two dozen times. Each of the crossings varies in drop height, softness of sand, and water depth. The majority of the year, the crossing will be passible although always measure the depth of the water and check the current before crossing. Much of the trail is shaded so snow may be present at times, and the river does freeze in spots so breaking ice may be necessary in the colder months. After your final water crossing, you are faced with the difficult sand hill. This hill is incredibly steep and has a hill off of your driver's side. **Do not attempt if you do not feel comfortable.** Airing down your tires and maintaining momentum are the only way you will have a chance of making it up this hill. After you have made it to the top, you will continue on a sandy road with occasional sections of solid rock. Once you reach the end of the Parunuweap Canyon Wilderness Study Area at Waypoint 27, the trail becomes a little more hard pack and less difficult. After Waypoint 34, there will be sections of very soft sand, but it will be on level ground or just a slight hill. The upper portion of this trail beyond Waypoint 34 has a completely different feel to it. The dirt turns white, the trees grow larger, and there is likely a breeze present. The higher elevations and shaded spots will likely keep snow longer than the lower parts of the trail. If you do want to run this trail, consider running it in reverse of this guide, as the hardest part you will then be running downhill. Still attempt with extreme caution. In wet conditions, only two spots on the trail will become slick: Waypoint 20 and Waypoint 23.  \n\nPlease remember, this guide was written during low water levels. Higher water will make The Barracks Trail significantly more difficult, if not impossible. Please practice caution when attempting any water crossing. \n\nFor current river flows, please check out <a target=\"_blank\" href=\"https://waterdata.usgs.gov/ut/nwis/uv/?site_no=09404450&PARAmeter_cd=00065,00060,62614,00010,00095,00400,00300,00045\">USGS River Flows</a>.",
+      "highlights": "Southern Utah holds some of the most iconic scenery in the entire state. The red cliffs spotted with deep green juniper trees seem to just roll on forever. Just outside of Zion National Park lies this gem of an offroad trail that gives you incredible viewpoints of such scenery. As you begin this trail, you wind your way through the canyon carved by the East Fork of the Virgin River, crossing it nearly half a dozen times. Many people believe that this is the highlight of the trail. While it is fun, this is only the beginning. After you ascend from the canyon onto the plateau above, you really get to see the sights that The Barracks Trail has to offer. Changing scenery is accompanied by different vantage points to view the southern valley that borders the Coral Pink Sand Dunes, while to the northwest you can get a glimpse of Zion. This 4wd road is not for the faint of heart through, as you have to climb steep sandy hills to complete this 23-mile-long trek. Luckily, this trail is easily accessible off of Highway 89 from both ends and can be enjoyed by all; even if you decide to avoid the hill and turn back the way you came in. If you are passing through on your way to Kanab or just looking for a new trail to explore, make sure this one is on your list!",
+      "camping_and_lodging": "Camping is available at the very beginning of the trail before the private property, and along the second portion of the trail after you have left the Parunuweap Canyon Wilderness Study Area. All of the sites along this trail are dispersed camping with no water or toilets available. \r\n\r\nFor a campground with access to toilets, try <a href=\"https://www.recreation.gov/recreationalAreaDetails.do?contractCode=NRSO&facilityId=257187\">Ponderosa Grove Campground</a>. There is no water available. \r\n\r\nThe nearest lodging is the Best Western East Zion Thunderbird Lodge in Mount Carmel Junction. ",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/2706/highlights/resized_PA110600.jpg",
+      "category": "Altitude|Camping|Desert|Sand|Scenic|Wash|Water",
+      "nearest_town_name": "Orderville",
+      "updated_at": "05/24/2018",
+      "created_at": "2017-08-16T21:09:57.084Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Utah",
+      "state_code": "UT",
+      "rating_avg": "4.8",
+      "rating_count": "4",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "title": "Dome Plateau to Dome Wash (Route)",
+      "technical_rating_low": 3,
+      "technical_rating_high": 5,
+      "length": 35.1,
+      "duration": "About 5 hours 20 minutes",
+      "status": "Open",
+      "forest_service_road_number": "",
+      "forest_service_park_district": "Bureau of Land Management",
+      "route_description": "Dome Plateau, as typically referred to, is really an area rather than a specific trail.  It is an area with a network of trails.   The route described here is comprised of several roads offering the most expansive loop available in the area.  The route consists of dirt, slick rock, and a few steep and ledgy obstacles.  Some of the dirt is silt, making it impassable when wet.  The hardest obstacles are in the very beginning and towards the end at Dome Wash. There is an alternate route out can be taken in order to avoid the Wash.",
+      "highlights": "An off-road adventure is just outside of Moab, Utah.  This four-wheel drive route is a diverse adventure packed full of several types of scenery and mixed with enough wheeling obstacles to make for a really fun and full day on the trail.  Starting from the Colorado River, you are greeted with towering <a href=\"https://en.wikipedia.org/wiki/Entrada_Sandstone\">Entrada Sandstone</a> just before you get to test your suspension on the slick rock ledges.  Following high along the plateau and deep into canyons: the overlooks, arches, caves, and pinyons all await you.  This is a great trail for scenery and those wishing to test their skills on minor obstacles. \r\n\r\n",
+      "camping_and_lodging": "Dispersed camping is permitted.  There were very few spots which were pre-disturbed along the way.  \r\n\r\nRemember,  you are required to remove all solid human waste from the area when dispersed camping.  Campers are required to possess, set up and use portable toilets. Campers may not bury, or leave exposed, solid human body waste and soiled toilet paper. The disposal of solid human waste off public land is required. You must camp only in marked sites, and no wood cutting is allowed. Following these simple rules will ensure that the sites are attractive to future campers. Enjoy your stay! The Moab Field Office maintains 26 campgrounds. Many of the campgrounds are located close to Arches National Park along the Colorado River. These campgrounds offer views of spectacular red rock cliffs amidst a green ribbon of vegetation.\r\n\r\n<a href=\"http://www.blm.gov/ut/st/en/fo/moab/recreation/campgrounds.html\">Improved Camping Locations</a>\r\n\r\n",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/535/highlights/resized_dp9.JPG",
+      "category": "Desert|Overland|Wash",
+      "nearest_town_name": "Moab",
+      "updated_at": "05/20/2019",
+      "created_at": "2013-10-03T15:07:48.640Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Utah",
+      "state_code": "UT",
+      "rating_avg": "4.0",
+      "rating_count": "3",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        },
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "2N47 - Cleghorn Ridge",
+      "technical_rating_low": 2,
+      "technical_rating_high": 6,
+      "length": 15.5,
+      "duration": "About 5 hours",
+      "status": "Open",
+      "forest_service_road_number": "2N47",
+      "forest_service_park_district": "San Bernardino National Forest",
+      "route_description": "Cleghorn Ridge (2N47) is located near Lake Silverwood. It offers thrills and challenges for all skill levels and off road vehicle types. The main trail is just a graded fire road that is passable by even a high clearance 2WD truck or SUV, however there are multiple optional routes about every .5miles along the way that range from medium to most difficult trail ratings.  None of these optional routes are very long and all lead back to the main fire road. While none of these routes are \"extreme\" they are definitely difficult. Due to a recent Wildlife Rehabilitation most of the optional trails on the west end of the trail are now closed. So, for this reason we recommend traveling East to West for a more entertaining day. \r\n\r\nCleghorn is very popular for the Dirtbike, ATV, and UTV crowd so, please, keep an eye out for them on the trail as there are lots of blind switch back turns. Passing areas are not an issue however and most of the trail is wide enough for two way traffic. ",
+      "highlights": "Cleghorn Ridge is located near beautiful Lake Silverwood, offering spectacular views overseeing the lake and the San Bernardino National Forest. This trail is great for those looking for a day of adventure. Mostly a graded fire road that any vehicle can pass through, it also offers optional difficult routes for those looking for a more challenging trail. Nearby food, gas, and camping make this an ideal trip for a family weekend. This trail has a rating of \"6\" which is based off the optional routes, the main trail is easily rated at a \"2\" and passable by a 2WD SUV or truck.\r\n\r\n",
+      "camping_and_lodging": "Lake Silverwood SRA offers great camping near Cleghorn Ridge, for more info visit their website at:\r\nhttp://www.parks.ca.gov/?page_id=650 ",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/111/highlights/IMG_5509.JPG",
+      "category": "Altitude|Camping|Desert|Rock|Sand",
+      "nearest_town_name": "Hesperia",
+      "updated_at": "08/11/2019",
+      "created_at": "2013-10-03T15:07:36.356Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "California",
+      "state_code": "CA",
+      "rating_avg": "4.9",
+      "rating_count": "20",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        },
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        }
+      ]
+    },
+    {
+      "id": 3718,
+      "title": "Anderson Mesa South",
+      "technical_rating_low": 3,
+      "technical_rating_high": 4,
+      "length": 28.09,
+      "duration": "About 5 hours",
+      "status": "Open",
+      "forest_service_road_number": "82",
+      "forest_service_park_district": "Coconino National Forest",
+      "route_description": "Anderson Mesa South scampers between Lost Eden in the south to Kinnikinnick Road in the north.  The southernmost seven miles are a smooth graded road in a pine forest.  The next six miles cross the grasslands of Anderson Mesa and the road remains well maintained until reaching Long Lake.  The next 12 miles, to near the turn to Kinnikinnick Lake, is a two-track through a juniper forest with mostly bare rock and embedded boulders.  The last four miles return to the forest and again become a smooth graded dirt road.   The road is fairly flat only gaining 600 feet along its entire 28 miles.  The rough part of this trail will test your suspension, your tires, and your kidneys.  Some of the rockier areas require a bit of a lift.  4WD is definitely helpful.",
+      "highlights": "Anderson Mesa exists between the vast Ponderosa pine forests at the edge of the Mogollon Rim and the barren badlands and painted deserts of northeastern Arizona.  The topography of vast grasslands with a few scattered trees evokes​ Africa's Serengeti more than most people's ideas of Arizona.  There are no major roads that cross the Anderson Mesa.  You have to work to get here.   It is one of Arizona's most remote and unvisited landscapes.\n\nForest Road 82 is called Anderson Mesa Road by the locals.  Anglers and weekend ATV riders use the ends of this southern stretch to reach Long Lake and Kinnikinnick Lake.  The lakes, even modest Cow Lake, are wonders in their own right.  Elk, pronghorn and sometimes eagles are drawn to their reliable water sources.  \n\nThe rough, rocky, suspension crunching middle section seldom sees anyone save a few lonesome ranch hands or extremely dedicated hunters.  The tan savannah grasslands periodically give way to thick juniper forests forcing the trail to twist, split, merge and meander its way through before opening again to another broad vista.  A sudden outcropping of rough boulders forces you to choose a line.  It is more likely that you see a dozen elk racing across the two-track in front of you than running across another human.\n\nBut adventure begins where easy ends.  Go see for yourself.",
+      "camping_and_lodging": "There is abundant dispersed camping on both ends of Anderson Mesa South.  Camping is allowed at Long Lake but not Kinnikinnick Lake.  Both lakes have pit toilets.  Kinnikinnick, day use only, has picnic tables.\n\nCommercial campgrounds are available near Mormon Lake.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/3718/highlights/1567813817391_resized_IMG_2776.JPG",
+      "category": "Camping|Forest|Overland|Scenic",
+      "nearest_town_name": "Mormon Lake",
+      "updated_at": "09/06/2019",
+      "created_at": "2019-08-24T18:47:29.474Z",
+      "is_featured": null,
+      "is_member_only": true,
+      "state_title": "Arizona",
+      "state_code": "AZ",
+      "rating_avg": "4.0",
+      "rating_count": "1",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 1090,
+      "title": "Bloody Basin Road",
+      "technical_rating_low": 1,
+      "technical_rating_high": 1,
+      "length": 38,
+      "duration": "About 5 hours",
+      "status": "Open",
+      "forest_service_road_number": "BLM 9269, FR269",
+      "forest_service_park_district": "Agua Fria National Monument/ Tonto National Forest",
+      "route_description": "The trail is accessible by all high clearance vehicles including most two wheel drive trucks. You will even see cars on the early sections of the route. The early sections before FR24, Waypoint 25, are primarily well groomed dirt roads. However, once past FR24 the road becomes much rougher requiring a high clearance vehicle. The difficultly on the entire route increases dramatically in rainy weather. You cross numerous washes over the very long route and all can be dangerous when flooded. The trail is long and remote but pretty popular on most weekends, so be cautious of traffic on blind corners. ",
+      "highlights": "Arizona has it's share of historic monuments but few have as such a checkered past as the Aqua Fria National Monument. Bloody Basin Road offers visitors a chance to access this very unique region where Native American ruins are found right next to old stone cabins of the early settlers. With a name like Bloody Basin you would expect it to have a past littered with conflict. One of the most familiar conflicts occurred in 1873 when it was suspected that a group of Apache's killed 3 men. Army Captain George Randall tracked them to Turret Peak where  the army stormed the camp at night and in the panic, some Indians jumped from the cliffs to their deaths. When the battle was over, 26 Apaches were dead. \r\nBloody Basin is also home to the Horseshoe Ranch, which was founded in 1882 by William Mitchell. It would eventually become one of the largest cattle ranches in Arizona. At one time, the ranch’s cattle ranged over an area of 30 square miles. Cattle grazing still takes place in the area, but most of the original property is now part of Aqua Fria National Monument. The area is large, give yourself the entire day to explore this unique part of the southwest. The numerous side trails offer countless points to walk among the ruins and search the nearby rocks for petroglyphs. There are hundreds of examples of this ancient art work littering the monument region. Look along cliffs or even on stray rocks in the meadows. Please do not disturb or alter these precious artifacts to ensure they remain for generations to come.  ",
+      "camping_and_lodging": "Campgrounds are dispersed throughout the entirety of the Bloody Basin Road. With the best being found later along the route where there are shade trees. At the end near the Verde River and Sheep's Bridge are the best camping spots but are very remote. The camping throughout the entire region is primitive and there are no services. There are very few trees in the region, so it is highly recommended that you bring firewood to help preserve what little tree coverage that's left.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/1090/highlights/resized_DSC_0355.JPG",
+      "category": "Desert|Ghost Town|Iconic|Rock|Sand",
+      "nearest_town_name": "Black Canyon City",
+      "updated_at": "03/25/2018",
+      "created_at": "2015-08-09T17:24:05.543Z",
+      "is_featured": true,
+      "is_member_only": null,
+      "state_title": "Arizona",
+      "state_code": "AZ",
+      "rating_avg": "4.5",
+      "rating_count": "4",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        }
+      ]
+    },
+    {
+      "id": 1201,
+      "title": "Cathedral Valley Loop",
+      "technical_rating_low": 1,
+      "technical_rating_high": 1,
+      "length": 64.6,
+      "duration": "About 5 hours",
+      "status": "Open",
+      "forest_service_road_number": "Hartnet Road/Cathedral Road/0082",
+      "forest_service_park_district": "National Parks Service/Bureau of Land Management",
+      "route_description": "The road crisscrosses in and out of National Park Service and BLM controlled land.  It is a somewhat maintained dirt road for almost the entire time and is well marked with signage. It is important to start this road from its western trailhead simply for the fact that you must cross the Fremont River.  You will know in the first half-mile if the river is passable or not.  Otherwise, if starting from the eastern trailhead, you will have to backtrack the entire trail to exit the area if the river is flooded.  This is a simple dirt and rocky road that is impassable when wet.  Always check the weather prior to heading out.  Mileage shown includes all the out and backs to the overlooks.  This route is suitable for all high clearance SUV vehicles. ",
+      "highlights": "Cathedral Valley Scenic Backway takes you into the heart of the \"Cathedral District\", a land filled with natural wonder. A title like that is something you think you should be hearing in Paris, but instead, you are right next to Capitol Reef National Park, a wonder in its own right.  With prominent natural landmarks named Temple of the Sun, Temple of the Moon, and Jericho Wall you always question if the beauty is overhyped.  It is not.  For the off-road crowd, this trail is a must do simply for the visual stimulation factor. Cathedral Valley Loop presents no challenging obstacles, but mile after mile of a colossal panorama is the journey's reward.\r\n\r\n",
+      "camping_and_lodging": "There is camping with a vault toilet at waypoint 12, Cathedral Valley Campground.  Staying at one of the six sites here is free and available on a first come, first served basis.  There is a vault toilet and all of the spaces were of good size with picnic table and fire ring.  On the east side of the camping area are excellent viewing areas of the valley below to the east.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/1201/highlights/resized_DSC00371.JPG",
+      "category": "Altitude|Camping|Desert|Iconic|Overland|Sand|Wash|Water",
+      "nearest_town_name": "Torrey",
+      "updated_at": "04/17/2019",
+      "created_at": "2015-09-20T22:53:42.776Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Utah",
+      "state_code": "UT",
+      "rating_avg": "5.0",
+      "rating_count": "7",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "EASY",
+          "color": "#317B22"
+        }
+      ]
+    },
+    {
+      "id": 2098,
+      "title": "China Dam/Tule Homestead",
+      "technical_rating_low": 4,
+      "technical_rating_high": 4,
+      "length": 21.4,
+      "duration": "About 5 hours",
+      "status": "Open",
+      "forest_service_road_number": "Cow Creek Road",
+      "forest_service_park_district": "Bureau of Land Management",
+      "route_description": "This off-road trail branches off of the back way to Crown King trail, taking you to China Dam. The beginning of the trail can be very busy with folks heading north to Crown King but once you get a few miles in you are unlikely to see many other people. Although most of the route is not very difficult the trail is not maintained and some sections have been washed out and have increased the difficulty of the route. Many of the creek crossings can become flooded so this area is best avoided during rainy conditions. Although most of the trail is very easy there are 2-3 sections require experience, an aggressive SUV with decent clearance. The difficult sections are within a 1/2 mile of the end of the trail, you can always park and walk a short distance to the dam & homestead.",
+      "highlights": "This is a very fun day trip close to Phoenix that explores the historical mining areas north of Lake Pleasant in the foothills of the Bradshaw Mountains. The trail is an offshoot of the main back way to Crown King trail, where there are many other side trails that can be explored. This trail takes you to the China Dam that was built in the late 1880's for hydraulic mining operations on Humbug Creek and then continues on to an old mining homestead deep in the mountains on Tule Creek. Be sure to know your route since it is very easy to get lost and road conditions can change frequently due to weather.",
+      "camping_and_lodging": "Bring your own firewood, there is none to be found in the desert.\nCamping is primitive along this route. There are no services or facilities in the area for campers. There is no running water in the area for campers. You can camp along many of the trails in the area. There are no established campgrounds with facilities or services in the area.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/2098/highlights/IMG_7880.jpg",
+      "category": "Desert|Ghost Town|Mine|Rock|Sand|Wash",
+      "nearest_town_name": "Anthem",
+      "updated_at": "12/04/2016",
+      "created_at": "2016-11-27T15:58:08.743Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Arizona",
+      "state_code": "AZ",
+      "rating_avg": "4.0",
+      "rating_count": "2",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    },
+    {
+      "id": 2581,
+      "title": "Crescent Lake",
+      "technical_rating_low": 5,
+      "technical_rating_high": 6,
+      "length": 11,
+      "duration": "About 5 hours",
+      "status": "Seasonal Closure",
+      "forest_service_road_number": "613",
+      "forest_service_park_district": "White River National Forest",
+      "route_description": "Crescent Lake Trail is a long, bumpy 11 mile trail that passes by 4 lakes: Emerald Lake, Still Waters, the highlight of the trail Crescent Lake and ending just beyond there at Mackinaw Lake. There are several medium to large water crossings year round, some of which are not listed in the waypoints. This trail also has continuous rock fields that seldom smooth out. Where there aren't as many rocks there is deeply rutted areas that can become impassable when wet. The first 8 miles of this trail is the least technical while the last 3 miles beyond Emerald Lake becomes tighter with more technical obstacles without room for bypasses. It can also be extremely difficult to pass oncoming traffic the closer you get to the end of the trail.",
+      "highlights": "While this trail seems to linger and take the better portion of a day, it is a very rewarding ending with beautiful clear lakes and gorgeous views of the surrounding mountains. This area is also far enough from the front range and out of the way that you do not see many people. At the far end of Mackinaw Lake, there is a hiking trail that takes you up onto the mountain ridge just to the west.",
+      "camping_and_lodging": "Dispersed camping is allowed along the entire route, and there are plenty of primitive camping spots throughout this trail, many of which are mainly used during elk hunting season. The best camp spots are at Emerald, Crescent and Mackinaw Lakes that can get kind of busy during peak summer. However, there are almost always lake side spots available all summer long after the snow melt.",
+      "photo_file_name": "https://s3.us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/2581/highlights/DJI_0090.jpg",
+      "category": "Altitude|Camping|Forest|Mud|Rock|Water",
+      "nearest_town_name": "McCoy",
+      "updated_at": "09/16/2017",
+      "created_at": "2017-06-25T18:55:20.257Z",
+      "is_featured": null,
+      "is_member_only": null,
+      "state_title": "Colorado",
+      "state_code": "CO",
+      "rating_avg": "3.7",
+      "rating_count": "3",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "DIFFICULT",
+          "color": "#DD0426"
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "title": "Engineer Pass",
+      "technical_rating_low": 4,
+      "technical_rating_high": 4,
+      "length": 28.6,
+      "duration": "About 5 hours",
+      "status": "Seasonal Closure",
+      "forest_service_road_number": "FS 879 & CR 18, 17, 2, 20",
+      "forest_service_park_district": "Bureau Land Management / Lake County",
+      "route_description": "This nearly 30-mile trail starts off on the rougher side and eases up as you get through it. It connects straight through from Ouray, ending in Lake City. While there are no major obstacles to be worried about on this trail, it is long and some of it is rough and worth airing down to make the day a little less bumpy.\n\nAt the start of the trail, you will run into lots of rocky sections, boulders and some rocks to climb up. The intersection at Poughkeepsie Gulch is completely rock and can be VERY slick if it’s wet for any reason and snow can be downright treacherous.  There are multiple areas of shelf road on both sides of the vehicle. Be prepared for these drop offs and always remember that uphill traffic traditionally has the right of way.\n\nThis trail travels well above the timberline and much if it is fragile alpine tundra. It’s extremely important that travelers follow the trail and do not deviate from it. The damage one vehicle can do by going off-trail can take years for the area to recover.\n\nSince this trail falls into the iconic category, it’s traveled by lots of people every year. Because it is one of the easier trails in the San Juans, it is a popular trail for both experienced drivers and people out for the weekend with rented Jeeps and ATV’s.\n\nLarge SUV’s are going to have trouble maneuvering on a trail like this in places, but just about any vehicle with clearance can make this trail if they take their time. \n\n<b>To run the Alpine Loop in it’s traditional route, start in the town of Lake City. Go south and begin the loop at <a href=\"https://www.trailsoffroad.com/trails/258-cinnamon-pass\">Cinnamon Pass</a>. When you get to <a href=\"https://www.trailsoffroad.com/trails/258-cinnamon-pass#waypoint_28179\">waypoint 20 on Cinnamon Pass</a>, turn right (north) and head uphill towards <a href=\"https://www.trailsoffroad.com/trails/290-engineer-pass\">Engineer Pass</a>. After 2.1 Miles the <a href=\"https://www.trailsoffroad.com/trails/2739-engineer-pass-alpine-loop-connector\">Engineer Pass - Alpine Loop Connector</a> ends, turn right (east) to pick up <a href=\"https://www.trailsoffroad.com/trails/290-engineer-pass#waypoint_27916\">Engineer Pass at waypoint 11</a> back towards Lake City.</b>",
+      "highlights": "In the late 1800’s, miners started digging for gold, silver, lead and other ore in the San Juan Mountains. They needed a way to get people and the ore out to the nearby towns. Those roads left by the long-abandoned mines are now some of the most famous off-road trails in the books. Engineer Pass is one of them and is part of a trail now known as the Alpine Loop.\n\nThis part of the Alpine Loop starts in two places actually. This trail as written here starts near the city of Ouray, CO and goes almost 30 miles to Lake City, CO. If you are running Engineer Pass as <b>part</b> of the Alpine Loop, then read up on <a href=\"https://www.trailsoffroad.com/trails/258-cinnamon-pass\">Cinnamon Pass</a>, and the Engineer Pass/Alpine Loop Connector and you will start Engineer Pass at waypoint 11 on this guide. Regardless of where you start this trail you get a chance to test your skills, explore the backcountry and old mining towns of Colorado, and even touch the skies along the way.\n\nThere are multiple mine ruins to view and explore the grounds of along the way including the Hard Tack Mine and the Michael Breen Mine. Some are marked clearly and some are not. You should not enter structures or disturb the area in any way, but what you can see from afar is well worth the stop at these historic places.\n\nIf you’re looking for scenery, then you'll find spots all along the trail worth stopping for. Mile after mile provides new and more amazing views of Colorado and the San Juan mountains. Oh Point and the official summit have breath-taking panoramas of the mountains. Each stop gives you another sweeping vista and you can spend a whole day just taking in the views.\n\nThose looking for altitude will find that this trail goes well above the timberline at just over 12,900’. With the altitude comes stunning views of the mountains to the north including the Uncompahgre, Coxcomb, Wetterhorn and Wildhorse mountain peaks. The view is so expansive at Oh Point that on a very clear day, you might be able to see all the way to Utah if you turn your eyes to the west.\n\nThis trail is relatively easy and for everyone from the beginner to the experienced. It offers something for the whole family along the way. While this trail isn’t rough, it is a true off-road trail and will test your fortitude with shelf roads and some of the early rocks and obstacles.\n\nFor Jeep owners, there’s a special note here. Jeep has designated some trails as <a href=\"https://www.jeep.com/en/badge-of-honor/#home\">Badge of Honor</a> trails and this is one of the few in Colorado. Its fame means that Jeep will recognize if you ran it and provide you with a badge to put on your rig showing you completed the trail.",
+      "camping_and_lodging": "Dispersed camping is allowed, though trailsoffroad did not observe that many camp-rings since camping above the timberline can be rough. Mind fire notices and a 14 day limit on camping in one spot if you decide to stay along trail.\r\n\r\nThere are campgrounds near the trailhead including <a href=\"https://www.recreation.gov/recreationalAreaDetails.do?contractCode=NRSO&parkId=262244&facilityId=262244&agencyCode=70903\">Angel Creek Campground</a> and <a href=\"https://www.recreation.gov/camping/amphitheater-co/r/campgroundDetails.do?contractCode=NRSO&parkId=70572\">Ampitheater Campground</a>. One of the largest and busiest campgrounds in the area is the first come, first serve <a href=\"https://www.fs.usda.gov/recarea/sanjuan/recarea/?recid=43238\">Mill Creek Campground</a>. You have to make reservations or get there early if you want to camp this near to the trail. The peak of the season means that the campsites fill up <b>fast</b>.",
+      "photo_file_name": "https://s3-us-west-2.amazonaws.com/images-prod.trailsoffroad.com/trails/290/highlights/Engineer.jpg",
+      "category": "Altitude|Forest|Ghost Town|Iconic|Mine|Overland|Rock|Scenic",
+      "nearest_town_name": "Ouray",
+      "updated_at": "10/28/2019",
+      "created_at": "2013-10-03T15:07:41.775Z",
+      "is_featured": true,
+      "is_member_only": null,
+      "state_title": "Colorado",
+      "state_code": "CO",
+      "rating_avg": "5.0",
+      "rating_count": "16",
+      "total_count": "392",
+      "difficulty": [
+        {
+          "label": "MODERATE",
+          "color": "#f7941d"
+        }
+      ]
+    }
+  ],
+  "totalCount": "392"
+}

@@ -6,7 +6,7 @@
 
 /*
 * WARNING! This will start immediately, and delete *everything* it can!
-* Don't run if you don't want to lose anything and/or havent backed it up!
+* Don't run if you don't want to lose anything and/or haven't backed it up!
 */
 
 /*
@@ -19,7 +19,7 @@
 *   and they're absolutely right, be very careful about pasting things here,
 *   as it will have full access to your browser and anything you can do or see.
 *
-* This runs in multiple phases, setting privacy to "Only me" or "Only me" if it can,
+* This runs in multiple phases, setting privacy to "Only me" if it can,
 *   then setting post visibility to "Hidden from timeline",
 *   then attempts to unlike or untag, and finally delete it, if possible.
 *
@@ -44,6 +44,8 @@ async function nextPage(): Promise<void> {
   // console.log(`nextPage`);
   window.scrollTo(0, document.body.scrollHeight);
   try {
+    await clickItem([...document.querySelectorAll<HTMLElement>(`.uiMorePager a`)]);
+    await clickItem([...document.querySelectorAll<HTMLElement>(`[data-year] a`)]);
     await processRows([...document.querySelectorAll<HTMLElement>(`.uiList .uiBoxWhite`)]);
     await clickItem([...document.querySelectorAll<HTMLElement>(`.uiMorePager a`)]);
   } catch (e) {
