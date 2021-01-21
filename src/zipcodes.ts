@@ -77,10 +77,10 @@ async function parseFile(raw: string | Buffer): Promise<SourceZipcode[]> {
 function convertZipcode(source: SourceZipcode): TargetZipcode {
   // write('C');
   return {
-    zip: source.Postcode,
-    primary_city: source.District.replace(/'/g, `\\'`),
-    state: source.County.replace(/'/g, `\\'`),
-    county: source.Ward.replace(/'/g, `\\'`),
+    zip: source.Postcode.replace(/\s/g, '').trim(),
+    primary_city: source.District.replace(/'/g, `\\'`).trim(),
+    state: source.County.replace(/'/g, `\\'`).trim(),
+    county: source.Ward.replace(/'/g, `\\'`).trim(),
     timezone: null,
     area_codes: null,
     latitude: source.Latitude.toString(),
