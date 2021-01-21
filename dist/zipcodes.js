@@ -19,11 +19,12 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     const log_helpers_1 = require("@helpers/log-helpers");
     const csv_helpers_1 = require("@helpers/csv-helpers");
     const { log, write } = log_helpers_1.createOut('zipcodes');
-    const dataRoot = './data/zipcodes';
+    const sourceZipFolder = './data/sourcezips';
+    const targetZipFolder = './data/targetzips';
     const sqlStart = 'INSERT INTO `zip_codes` (`zip`, `primary_city`, `state`, `county`, `timezone`, `area_codes`, `latitude`, `longitude`, `country`, `estimated_population`)\nVALUES';
     const sqlEnd = '';
     async function start() {
-        const dirFiles = await fs_1.default.promises.readdir(path_1.default.resolve(`${dataRoot}`));
+        const dirFiles = await fs_1.default.promises.readdir(path_1.default.resolve(`${sourceZipFolder}`));
         log('start', 'dirFiles', dirFiles);
         let sqlBody = [];
         let fileNumber = 1;
@@ -31,11 +32,11 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
             const rows = await load(fileName);
             for (const row of rows) {
                 sqlBody.push(`\t(${buildSqlRow(row)})`);
-                if (sqlBody.length >= 2000) {
+                if (sqlBody.length >= 10000) {
                     const fileNumberPad = `00${fileNumber}`.substr(-3);
                     const body = [sqlStart, sqlBody.join(',\n') + ';', sqlEnd].join('\n');
-                    log('write', 'rows', sqlBody.length, `./data/zipout/zip_codes_UK_${fileNumberPad}.sql`);
-                    await fs_1.default.promises.writeFile(path_1.default.resolve(`./data/zipout/zip_codes_UK_${fileNumberPad}.sql`), body);
+                    log('write', 'rows', sqlBody.length, `${targetZipFolder}/zip_codes_UK_${fileNumberPad}.sql`);
+                    await fs_1.default.promises.writeFile(path_1.default.resolve(`${targetZipFolder}/zip_codes_UK_${fileNumberPad}.sql`), body);
                     sqlBody = [];
                     fileNumber++;
                 }
@@ -44,14 +45,14 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
         if (sqlBody.length > 0) {
             const fileNumberPad = `00${fileNumber}`.substr(-3);
             const body = [sqlStart, sqlBody.join(',\n') + ';', sqlEnd].join('\n');
-            log('write', 'rows', sqlBody.length, `./data/zipout/zip_codes_UK_${fileNumberPad}.sql`);
-            await fs_1.default.promises.writeFile(path_1.default.resolve(`./data/zipout/zip_codes_UK_${fileNumberPad}.sql`), body);
+            log('write', 'rows', sqlBody.length, `${targetZipFolder}/zip_codes_UK_${fileNumberPad}.sql`);
+            await fs_1.default.promises.writeFile(path_1.default.resolve(`${targetZipFolder}/zip_codes_UK_${fileNumberPad}.sql`), body);
             sqlBody = [];
             fileNumber++;
         }
     }
     async function load(fileName) {
-        const fullPath = path_1.default.resolve(`${dataRoot}/${fileName}`);
+        const fullPath = path_1.default.resolve(`${sourceZipFolder}/${fileName}`);
         log('load', 'fullPath', fullPath);
         const raw = await readFile(fullPath);
         const sourceZips = await parseFile(raw);
@@ -69,9 +70,9 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
         // write('C');
         return {
             zip: source.Postcode,
-            primary_city: source.District.replace(`'`, `\\'`),
-            state: source.County.replace(`'`, `\\'`),
-            county: source.Ward.replace(`'`, `\\'`),
+            primary_city: source.District.replace(/'/g, `\\'`),
+            state: source.County.replace(/'/g, `\\'`),
+            county: source.Ward.replace(/'/g, `\\'`),
             timezone: null,
             area_codes: null,
             latitude: source.Latitude.toString(),

@@ -8,14 +8,15 @@ import {URL} from 'url';
 
 const {log, write } = createOut('zipcodes');
 
-const dataRoot = './data/sourcezips';
+const sourceZipFolder = './data/sourcezips';
+const targetZipFolder = './data/targetzips';
 
 const sqlStart = 'INSERT INTO `zip_codes` (`zip`, `primary_city`, `state`, `county`, `timezone`, `area_codes`, `latitude`, `longitude`, `country`, `estimated_population`)\nVALUES';
 
 const sqlEnd = '';
 
 async function start() {
-  const dirFiles = await fs.promises.readdir(path.resolve(`${dataRoot}`));
+  const dirFiles = await fs.promises.readdir(path.resolve(`${sourceZipFolder}`));
   log('start', 'dirFiles', dirFiles);
 
   let sqlBody: string[] = [];
@@ -27,13 +28,13 @@ async function start() {
 
       sqlBody.push(`\t(${buildSqlRow(row)})`);
 
-      if (sqlBody.length >= 2000) {
+      if (sqlBody.length >= 10000) {
         const fileNumberPad = `00${fileNumber}`.substr(-3);
         const body = [sqlStart, sqlBody.join(',\n') + ';', sqlEnd].join('\n');
 
-        log('write', 'rows', sqlBody.length, `./data/zipout/zip_codes_UK_${fileNumberPad}.sql`);
+        log('write', 'rows', sqlBody.length, `${targetZipFolder}/zip_codes_UK_${fileNumberPad}.sql`);
 
-        await fs.promises.writeFile(path.resolve(`./data/zipout/zip_codes_UK_${fileNumberPad}.sql`), body);
+        await fs.promises.writeFile(path.resolve(`${targetZipFolder}/zip_codes_UK_${fileNumberPad}.sql`), body);
 
         sqlBody = [];
         fileNumber++;
@@ -46,18 +47,17 @@ async function start() {
     const fileNumberPad = `00${fileNumber}`.substr(-3);
     const body = [sqlStart, sqlBody.join(',\n') + ';', sqlEnd].join('\n');
 
-    log('write', 'rows', sqlBody.length, `./data/zipout/zip_codes_UK_${fileNumberPad}.sql`);
+    log('write', 'rows', sqlBody.length, `${targetZipFolder}/zip_codes_UK_${fileNumberPad}.sql`);
 
-    await fs.promises.writeFile(path.resolve(`./data/targetzips/zip_codes_UK_${fileNumberPad}.sql`), body);
+    await fs.promises.writeFile(path.resolve(`${targetZipFolder}/zip_codes_UK_${fileNumberPad}.sql`), body);
 
     sqlBody = [];
     fileNumber++;
   }
-
 }
 
 async function load(fileName: string): Promise<TargetZipcode[]> {
-  const fullPath = path.resolve(`${dataRoot}/${fileName}`);
+  const fullPath = path.resolve(`${sourceZipFolder}/${fileName}`);
   log('load', 'fullPath', fullPath);
   const raw = await readFile(fullPath);
   const sourceZips = await parseFile(raw);
@@ -78,9 +78,9 @@ function convertZipcode(source: SourceZipcode): TargetZipcode {
   // write('C');
   return {
     zip: source.Postcode,
-    primary_city: source.District.replace(`'`, `\\'`),
-    state: source.County.replace(`'`, `\\'`),
-    county: source.Ward.replace(`'`, `\\'`),
+    primary_city: source.District.replace(/'/g, `\\'`),
+    state: source.County.replace(/'/g, `\\'`),
+    county: source.Ward.replace(/'/g, `\\'`),
     timezone: null,
     area_codes: null,
     latitude: source.Latitude.toString(),
