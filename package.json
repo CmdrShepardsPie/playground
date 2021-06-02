@@ -10,12 +10,12 @@
   "author": "Christopher Simpson <github@nilk.net>",
   "license": "ISC",
   "_moduleAliases": {
-    "@config": "dist/config",
-    "@enums": "dist/enums",
-    "@helpers": "dist/helpers",
-    "@interfaces": "dist/interfaces",
-    "@scripts": "dist/scripts",
-    "@services": "dist/services"
+    "@config": "code/config",
+    "@enums": "code/enums",
+    "@helpers": "code/helpers",
+    "@interfaces": "code/interfaces",
+    "@scripts": "code/scripts",
+    "@services": "code/services"
   },
   "dependencies": {
     "axios": "^0.21.1",
