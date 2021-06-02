@@ -30,8 +30,5 @@
       "@scripts/*": ["scripts/*"],
       "@services/*": ["services/*"]
     }
-  },
-  "exclude": [
-    "dist"
-  ]
+  }
 }
