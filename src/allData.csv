@@ -1,6 +1,0 @@
-Location,Name  ,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtscRxCode,DtcsPolarity,Mode,TStep,Comment                                                                              ,Distance
-0       ,KB0UDD,145.4    ,-     ,0.8   ,Tone,100      ,88.5     ,23      ,23        ,NN          ,FM  ,5    ,Arapahoe | OPEN | On-Air | Castle Rock Repeater Group | CCARC | 2015-07-30           ,44.9
-1       ,AB0PC ,146.895  ,-     ,0.6   ,TSQL,100      ,100      ,23      ,23        ,NN          ,FM  ,5    ,Park | OPEN | On-Air | AB0RR | CCARC | 2017-07-05                                    ,48.2
-2       ,W0DK  ,448.9    ,-     ,5     ,Tone,100      ,88.5     ,23      ,23        ,NN          ,FM  ,5    ,Boulder | OPEN | On-Air | Boulder ARC | CCARC | Please help us confirm this repeater!,75.2
-3       ,W0CRA ,145.46   ,-     ,0.6   ,TSQL,107.2    ,107.2    ,23      ,23        ,NN          ,FM  ,5    ,Boulder | OPEN | On-Air | Colorado Repeater Association (CRA) | CCARC | 2017-11-13   ,82.8
-4       ,KB0VJJ,145.4    ,-     ,0.8   ,TSQL,88.5     ,123      ,23      ,23        ,NN          ,FM  ,5    ,Washington | OPEN | On-Air | Colorado Connection | CCARC | 2015-11-19                ,117.8
