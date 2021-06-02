@@ -33,9 +33,7 @@ function LockThis(constructor) {
     return locker;
 }
 let Something = class Something {
-    constructor() {
-        this.foo = "bar";
-    }
+    foo = "bar";
     doIt(someVar) {
         return this.foo + " " + someVar;
     }
@@ -61,10 +59,8 @@ Something = __decorate([
 // console.log('p.doIt.call({}, \'poop2\')');
 // console.log(p.doIt.call({}, 'poop2'));
 let Blah = class Blah {
-    constructor() {
-        this.something = "blah";
-        this.other = "hello";
-    }
+    something = "blah";
+    other = "hello";
     saySomething() {
         return this.something;
     }
@@ -76,10 +72,7 @@ Blah = __decorate([
     LockThis
 ], Blah);
 let Spoon = class Spoon extends Blah {
-    constructor() {
-        super(...arguments);
-        this.something = "cow";
-    }
+    something = "cow";
     saySomething() {
         return this.something + " " + this.otherThing.call({});
     }

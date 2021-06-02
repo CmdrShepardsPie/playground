@@ -10,9 +10,7 @@
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     class CommandInput {
-        constructor() {
-            this.subscriptions = [];
-        }
+        subscriptions = [];
         use(input) {
             const subscriber = input.output.subscribe(this.listen && this.listen.bind(this));
             this.subscriptions.push(subscriber);

@@ -12,6 +12,8 @@
     require("rxjs/add/operator/share");
     const Subject_1 = require("rxjs/Subject");
     class CommandOutput {
+        subject;
+        observable;
         // protected subject: Subject<OutType>;
         // protected observable: Observable<OutType>;
         constructor(subject = new Subject_1.Subject(), observable = subject.share()) {

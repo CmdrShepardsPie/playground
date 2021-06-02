@@ -17,11 +17,9 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     const command_input_1 = __importDefault(require("./command-input"));
     const command_output_1 = __importDefault(require("./command-output"));
     class CommandLink {
-        constructor() {
-            this.subject = new Subject_1.Subject();
-            this.commandInput = new CommandInputed(this.listen.bind(this));
-            this.commandOutput = new CommandOutputed(this.subject);
-        }
+        subject = new Subject_1.Subject();
+        commandInput = new CommandInputed(this.listen.bind(this));
+        commandOutput = new CommandOutputed(this.subject);
         get output() {
             return this.commandOutput.output;
         }
@@ -41,6 +39,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     exports.default = CommandLink;
     // Make a concrete version of CommandInput to be instantiated in CommandLink above
     class CommandInputed extends command_input_1.default {
+        listener;
         constructor(listener) {
             super();
             this.listener = listener;
