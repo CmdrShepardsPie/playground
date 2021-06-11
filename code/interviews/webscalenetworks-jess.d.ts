@@ -23,4 +23,4 @@
  */
 declare function printPyramid(pieces: number): void;
 declare function buildRow(maxWidth: number, fillWidth: number): string;
-//# sourceMappingURL=webscalenetworks.d.ts.map
+//# sourceMappingURL=webscalenetworks-jess.d.ts.map
